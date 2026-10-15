@@ -16,12 +16,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "bright late-morning mountain sun",
    "beat": "alpine flowers",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.23,
    "lowSat": 31.3,
@@ -31,18 +31,20 @@
    "quality": "max",
    "take": "s11-01_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a carpet of alpine flowers: blue gentians, yellow buttercups and pink clover",
+   "scale": "close"
   },
-  "bytes": 144620
+  "bytes": 236120
  },
  {
   "id": "panel-s11-high-meadow-02",
@@ -61,12 +63,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "golden-hour light, long shadows",
    "beat": "a cairn on a ridge",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.249,
    "lowSat": 32.0,
@@ -76,18 +78,20 @@
    "quality": "max",
    "take": "s11-02_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a stone cairn on a grassy ridge against a vast sky",
+   "scale": "wide"
   },
-  "bytes": 136256
+  "bytes": 173448
  },
  {
   "id": "panel-s11-high-meadow-03",
@@ -106,12 +110,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "clear noon light, saturated sky",
    "beat": "a mountain tarn",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.193,
    "lowSat": 33.4,
@@ -121,18 +125,20 @@
    "quality": "max",
    "take": "s11-03_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a small deep-blue mountain tarn ringed by rock and snow patches",
+   "scale": "wide"
   },
-  "bytes": 176110
+  "bytes": 242304
  },
  {
   "id": "panel-s11-high-meadow-04",
@@ -151,12 +157,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "crisp morning light",
    "beat": "grass bending in wind",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.198,
    "lowSat": 32.6,
@@ -166,18 +172,20 @@
    "quality": "max",
    "take": "s11-04_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/04-5.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 04 take 5)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a clear mountain stream tumbling over mossy boulders",
+   "scale": "close"
   },
-  "bytes": 144670
+  "bytes": 271826
  },
  {
   "id": "panel-s11-high-meadow-05",
@@ -196,12 +204,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "clear high-altitude night, deep blue and violet",
    "beat": "a flock of birds",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.199,
    "lowSat": 33.3,
@@ -211,18 +219,20 @@
    "quality": "max",
    "take": "s11-05_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/05-5.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 05 take 5)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "the Milky Way arching over dark jagged peaks",
+   "scale": "wide"
   },
-  "bytes": 103520
+  "bytes": 179490
  },
  {
   "id": "panel-s11-high-meadow-06",
@@ -241,12 +251,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "warm evening sun",
    "beat": "a shepherd's hut (empty)",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.17,
    "lowSat": 32.8,
@@ -256,18 +266,20 @@
    "quality": "max",
    "take": "s11-06_00",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "an empty old stone shepherd's hut with a slate roof in the meadow",
+   "scale": "mid"
   },
-  "bytes": 196118
+  "bytes": 196854
  },
  {
   "id": "panel-s11-high-meadow-07",
@@ -286,12 +298,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "warm afternoon light",
    "beat": "a waterfall far off",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.209,
    "lowSat": 33.3,
@@ -301,18 +313,20 @@
    "quality": "max",
    "take": "s11-07_00",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/07-5.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 07 take 5)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a cluster of pink alpine rose flowers on a rocky ledge with a blue butterfly on them",
+   "scale": "close"
   },
-  "bytes": 116800
+  "bytes": 179212
  },
  {
   "id": "panel-s11-high-meadow-08",
@@ -331,12 +345,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "soft bright overcast light",
    "beat": "wildflowers close",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.165,
    "lowSat": 31.9,
@@ -346,18 +360,20 @@
    "quality": "max",
    "take": "s11-08_00",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a single edelweiss and blue harebells close in the grass",
+   "scale": "close"
   },
-  "bytes": 157060
+  "bytes": 194854
  },
  {
   "id": "panel-s11-high-meadow-09",
@@ -376,12 +392,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "pink alpenglow at sunset",
    "beat": "clouds over peaks",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.213,
    "lowSat": 32.4,
@@ -391,18 +407,20 @@
    "quality": "max",
    "take": "s11-09_00",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "rolling clouds pouring over jagged peaks",
+   "scale": "wide"
   },
-  "bytes": 68842
+  "bytes": 180272
  },
  {
   "id": "panel-s11-high-meadow-10",
@@ -421,12 +439,12 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright wind",
+   "light": "soft warm light",
    "beat": "a sunny boulder (pika perch)",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.198,
    "lowSat": 32.8,
@@ -442,20 +460,22 @@
     "x": 0.5,
     "y": 0.3,
     "rockTop": 0.4,
-    "note": "DL r2: the resident is painted in, centred in the upper third"
+    "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s11/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s11 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s11/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s11 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "pika resting on a sunny lichen-covered boulder in the meadow",
+   "scale": "mid"
   },
-  "bytes": 242602
+  "bytes": 188802
  },
  {
   "id": "panel-s12-sea-sunrise-01",
@@ -474,12 +494,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "early sunrise, peach and coral glow",
    "beat": "the river mouth",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.311,
    "lowSat": 28.1,
@@ -491,18 +511,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/01-5.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 01 take 5)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a scatter of seashells and a sand dollar on glassy wet sand",
+   "scale": "close"
   },
-  "bytes": 97106
+  "bytes": 134630
  },
  {
   "id": "panel-s12-sea-sunrise-02",
@@ -521,12 +543,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "bright breezy morning, blue sky",
    "beat": "dunes with grass",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.385,
    "lowSat": 26.8,
@@ -538,18 +560,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/02-5.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 02 take 5)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a weathered pale-blue wooden beach hut among dune grass",
+   "scale": "mid"
   },
-  "bytes": 98790
+  "bytes": 202688
  },
  {
   "id": "panel-s12-sea-sunrise-03",
@@ -568,12 +592,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "clear late-morning sun",
    "beat": "a fishing pier",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.345,
    "lowSat": 27.5,
@@ -585,18 +609,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "an old wooden fishing pier running out over turquoise water",
+   "scale": "mid"
   },
-  "bytes": 93084
+  "bytes": 229312
  },
  {
   "id": "panel-s12-sea-sunrise-04",
@@ -615,12 +641,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "bright midday light, sparkling sea",
    "beat": "gulls over water",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.355,
    "lowSat": 27.9,
@@ -632,18 +658,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "three white gulls gliding over a cresting wave",
+   "scale": "mid"
   },
-  "bytes": 102306
+  "bytes": 163774
  },
  {
   "id": "panel-s12-sea-sunrise-05",
@@ -662,12 +690,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "clear bright noon light, crystal water",
    "beat": "a tide pool",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.307,
    "lowSat": 28.0,
@@ -679,18 +707,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a rock pool with a red starfish, anemones and limpets",
+   "scale": "close"
   },
-  "bytes": 163514
+  "bytes": 242398
  },
  {
   "id": "panel-s12-sea-sunrise-06",
@@ -709,12 +739,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "soft golden afternoon",
    "beat": "a lighthouse far away",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.425,
    "lowSat": 27.7,
@@ -726,18 +756,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/06-5.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 06 take 5)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a small sailboat with a white sail on a calm turquoise sea",
+   "scale": "mid"
   },
-  "bytes": 65940
+  "bytes": 146460
  },
  {
   "id": "panel-s12-sea-sunrise-07",
@@ -756,12 +788,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "sunrise light streaming through the arch",
    "beat": "sun breaking the horizon",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.405,
    "lowSat": 28.0,
@@ -773,18 +805,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/07-5.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 07 take 5)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a rocky sea arch framing the rising sun",
+   "scale": "mid"
   },
-  "bytes": 87896
+  "bytes": 158580
  },
  {
   "id": "panel-s12-sea-sunrise-08",
@@ -803,12 +837,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "low morning sun behind the wave",
    "beat": "long light on waves",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.374,
    "lowSat": 28.1,
@@ -820,18 +854,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a translucent green wave curling with light shining through it",
+   "scale": "close"
   },
-  "bytes": 141494
+  "bytes": 161848
  },
  {
   "id": "panel-s12-sea-sunrise-09",
@@ -850,12 +886,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "high noon from above, clear water",
    "beat": "a sandbar",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.392,
    "lowSat": 28.0,
@@ -867,18 +903,20 @@
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a long pale sandbar curving into a turquoise lagoon",
+   "scale": "wide"
   },
-  "bytes": 104180
+  "bytes": 163578
  },
  {
   "id": "panel-s12-sea-sunrise-10",
@@ -897,12 +935,12 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise",
+   "light": "soft warm light",
    "beat": "open sea with a whale's spout (whale surfaces here)",
-   "horizon": 0.58,
+   "horizon": 0.55,
    "quietZone": {
-    "top": 0.6,
-    "bottom": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.444,
    "lowSat": 27.2,
@@ -924,19 +962,21 @@
      "yTop": 0.28,
      "yBase": 0.5
     },
-    "note": "DL r2: the resident is painted in, centred in the upper third"
+    "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s12/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s12 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/s12/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s12 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "humpback whale resting on the open calm sea; the whale's back and spout breaking the surface",
+   "scale": "mid"
   },
-  "bytes": 108938
+  "bytes": 152052
  }
 ]

@@ -16,26 +16,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.458,
    "quietAbs": 3.01,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a branch of ripe orange persimmons against a clear blue sky",
+   "light": "bright crisp midday sun",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 90968
+  "bytes": 118728
  },
  {
   "id": "daily-2026-10-02",
@@ -54,26 +58,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.625,
    "quietAbs": 2.43,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a steaming celadon teacup on a wooden windowsill, autumn leaves outside",
+   "light": "soft warm morning window light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 81422
+  "bytes": 98504
  },
  {
   "id": "daily-2026-10-03",
@@ -92,26 +100,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.472,
    "quietAbs": 3.31,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "one red maple leaf floating on a dark forest puddle",
+   "light": "dappled light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 48580
+  "bytes": 104260
  },
  {
   "id": "daily-2026-10-04",
@@ -130,26 +142,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.394,
    "quietAbs": 4.67,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a pumpkin beside a weathered blue wooden door",
+   "light": "warm late-afternoon sun",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 185360
+  "bytes": 213590
  },
  {
   "id": "daily-2026-10-05",
@@ -168,26 +184,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.357,
    "quietAbs": 2.7,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "three glossy acorns on green moss",
+   "light": "a sunbeam in a shady wood",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 101392
+  "bytes": 122716
  },
  {
   "id": "daily-2026-10-06",
@@ -206,26 +226,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.316,
    "quietAbs": 2.41,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a golden stubble field with round hay bales",
+   "light": "low golden-hour sun",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 170368
+  "bytes": 139662
  },
  {
   "id": "daily-2026-10-07",
@@ -244,26 +268,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.62,
    "quietAbs": 3.15,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a glowing paper lantern hanging from a maple branch",
+   "light": "blue dusk",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 105076
+  "bytes": 108422
  },
  {
   "id": "daily-2026-10-08",
@@ -282,26 +310,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.313,
    "quietAbs": 2.53,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a wicker basket of red apples on an old wooden table in an orchard",
+   "light": "dappled afternoon sun",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 121106
+  "bytes": 169362
  },
  {
   "id": "daily-2026-10-09",
@@ -320,26 +352,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.473,
    "quietAbs": 3.68,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a grey heron standing in a stream",
+   "light": "dramatic sunset sky, orange and violet",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 82594
+  "bytes": 133264
  },
  {
   "id": "daily-2026-10-10",
@@ -358,26 +394,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.325,
    "quietAbs": 2.2,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a V of wild geese over golden fields",
+   "light": "bright clear autumn sky",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 67694
+  "bytes": 119510
  },
  {
   "id": "daily-2026-10-11",
@@ -396,26 +436,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.242,
    "quietAbs": 2.62,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/11-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 11)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/11-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 11 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a cluster of brown wild mushrooms on a forest floor of leaves",
+   "light": "soft green-gold forest light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 103628
+  "bytes": 126112
  },
  {
   "id": "daily-2026-10-12",
@@ -434,26 +478,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.301,
    "quietAbs": 3.59,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/12-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 12)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/12-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 12 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "an old wooden footbridge over a forest stream under yellow trees",
+   "light": "soft overcast light",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 161318
+  "bytes": 277430
  },
  {
   "id": "daily-2026-10-13",
@@ -472,26 +520,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.226,
    "quietAbs": 1.99,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/13-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 13)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/13-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 13 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "roasted chestnuts in a cast-iron pan on a wooden table",
+   "light": "warm firelight",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 106352
+  "bytes": 135422
  },
  {
   "id": "daily-2026-10-14",
@@ -510,26 +562,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.218,
    "quietAbs": 2.28,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/14-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 14)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/14-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 14 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "fox paw tracks across early frost on a meadow",
+   "light": "pale cold morning light",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 158850
+  "bytes": 190812
  },
  {
   "id": "daily-2026-10-15",
@@ -548,26 +604,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.382,
    "quietAbs": 2.63,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/15-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 15)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/15-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 15 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a bright full moon above bare branches",
+   "light": "deep blue night",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 118922
+  "bytes": 171628
  },
  {
   "id": "daily-2026-10-16",
@@ -586,26 +646,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.526,
    "quietAbs": 5.04,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/16-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 16)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/16-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 16 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "raindrops running down a window, a blurred red tree outside",
+   "light": "grey rainy afternoon",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 174250
+  "bytes": 148350
  },
  {
   "id": "daily-2026-10-17",
@@ -624,26 +688,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.287,
    "quietAbs": 3.13,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/17-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 17)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/17-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 17 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "wheat sheaves standing in a field",
+   "light": "warm evening light",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 127536
+  "bytes": 173960
  },
  {
   "id": "daily-2026-10-18",
@@ -662,26 +730,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.556,
    "quietAbs": 5.17,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/18-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 18)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/18-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 18 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a golden ginkgo tree shedding fan-shaped leaves onto a stone path",
+   "light": "bright afternoon",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 135906
+  "bytes": 261924
  },
  {
   "id": "daily-2026-10-19",
@@ -700,26 +772,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.621,
    "quietAbs": 3.26,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/19-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 19)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/19-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 19 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a copper kettle on an old wood stove",
+   "light": "warm kitchen lamplight",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 106182
+  "bytes": 99190
  },
  {
   "id": "daily-2026-10-20",
@@ -738,26 +814,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.328,
    "quietAbs": 4.18,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/20-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 20)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/20-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 20 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a quiet wooden porch with a rocking chair and a wool blanket",
+   "light": "golden-hour sun",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 165154
+  "bytes": 193142
  },
  {
   "id": "daily-2026-10-21",
@@ -776,26 +856,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.379,
    "quietAbs": 4.3,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/21-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 21)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/21-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 21 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a moss-covered stone lantern among fallen red leaves",
+   "light": "soft rain light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 136680
+  "bytes": 177522
  },
  {
   "id": "daily-2026-10-22",
@@ -814,26 +898,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.434,
    "quietAbs": 4.31,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/22-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 22)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/22-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 22 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a river bending through hills of autumn forest",
+   "light": "late afternoon light, seen from high above",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 121708
+  "bytes": 197184
  },
  {
   "id": "daily-2026-10-23",
@@ -852,26 +940,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.301,
    "quietAbs": 2.78,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/23-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 23)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/23-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 23 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a single pine cone on a bed of pine needles",
+   "light": "warm sunbeam",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 120198
+  "bytes": 130248
  },
  {
   "id": "daily-2026-10-24",
@@ -890,26 +982,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.71,
    "quietAbs": 2.68,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/24-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 24)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/24-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 24 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "one lit candle in a glass jar on a windowsill at night",
+   "light": "night, candlelight",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 83214
+  "bytes": 76252
  },
  {
   "id": "daily-2026-10-25",
@@ -928,26 +1024,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.51,
    "quietAbs": 3.02,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/25-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 25)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/25-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 25 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a knitted rust-red wool scarf hanging on a wooden peg by a door",
+   "light": "soft window light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 137978
+  "bytes": 116114
  },
  {
   "id": "daily-2026-10-26",
@@ -966,26 +1066,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.289,
    "quietAbs": 2.39,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/26-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 26)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/26-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 26 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a branch of dusky purple plums with dew on them",
+   "light": "early morning light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 79482
+  "bytes": 129012
  },
  {
   "id": "daily-2026-10-27",
@@ -1004,26 +1108,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.38,
    "quietAbs": 2.25,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/27-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 27)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/27-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 27 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a long grey heron feather lying on golden leaves",
+   "light": "soft overcast light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 49622
+  "bytes": 134202
  },
  {
   "id": "daily-2026-10-28",
@@ -1042,26 +1150,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.231,
    "quietAbs": 2.47,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/28-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 28)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/28-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 28 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a mossy boulder in a beech wood with gold leaves",
+   "light": "misty forest light with sunbeams",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 80584
+  "bytes": 251252
  },
  {
   "id": "daily-2026-10-29",
@@ -1080,26 +1192,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.331,
    "quietAbs": 2.97,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/29-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 29)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/29-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 29 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "an old oak with a hollow, a tawny owl peering out",
+   "light": "blue dusk",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 168746
+  "bytes": 161488
  },
  {
   "id": "daily-2026-10-30",
@@ -1118,26 +1234,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.491,
    "quietAbs": 3.94,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/30-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 30)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/30-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 30 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a still mountain lake ringed with gold larches and snowy peaks",
+   "light": "crisp clear noon",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 76848
+  "bytes": 153666
  },
  {
   "id": "daily-2026-10-31",
@@ -1156,26 +1276,30 @@
     "indigo"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.507,
    "quietAbs": 4.26,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/daily10/31-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily10 31)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily10/31-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily10 31 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a huge orange harvest moon rising over a field",
+   "light": "dusk",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 97132
+  "bytes": 96756
  },
  {
   "id": "letter-thinking-of-you",
@@ -1185,7 +1309,7 @@
   "h": 1350,
   "meta": {
    "use": "default",
-   "scene": "a single tulip in a clear glass of water on a sill by a window with a soft curtain",
+   "scene": "a single pink tulip in a clear glass of water on a sunny windowsill, a soft linen curtain",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1194,26 +1318,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.581,
    "quietAbs": 2.56,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/thinking-of-you-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters thinking-of-you)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/thinking-of-you-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters thinking-of-you take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a single pink tulip in a clear glass of water on a sunny windowsill, a soft linen curtain",
+   "light": "warm morning window light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 72162
+  "bytes": 104642
  },
  {
   "id": "letter-thank-you",
@@ -1223,7 +1351,7 @@
   "h": 1350,
   "meta": {
    "use": "thanks",
-   "scene": "a simple plain teacup in an aqua glaze with a soft curl of steam, on a plain saucer",
+   "scene": "a handmade aqua-glazed teacup with a soft curl of steam on a linen cloth, a sprig of mint beside it",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1232,26 +1360,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.706,
    "quietAbs": 2.32,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/thank-you-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters thank-you)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/thank-you-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters thank-you take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a handmade aqua-glazed teacup with a soft curl of steam on a linen cloth, a sprig of mint beside it",
+   "light": "soft warm morning light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 95690
+  "bytes": 104962
  },
  {
   "id": "letter-celebrate",
@@ -1261,7 +1393,7 @@
   "h": 1350,
   "meta": {
    "use": "birthdays, news",
-   "scene": "a few round paper lanterns (plain, with no writing) on a string and drifting petals",
+   "scene": "a string of glowing paper lanterns with confetti-like petals drifting in a garden",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1270,26 +1402,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.217,
    "quietAbs": 1.48,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/celebrate-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters celebrate)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/celebrate-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters celebrate take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a string of glowing paper lanterns with confetti-like petals drifting in a garden",
+   "light": "festive warm evening light",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 95818
+  "bytes": 220310
  },
  {
   "id": "letter-good-morning",
@@ -1299,7 +1435,7 @@
   "h": 1350,
   "meta": {
    "use": "everyday",
-   "scene": "the sun rising over a lotus pond with two lotus blossoms and pads",
+   "scene": "a breakfast tray by an open window: a pot of coffee, a cup and a croissant, sunshine on the sill",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1308,26 +1444,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.489,
    "quietAbs": 3.09,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/good-morning-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters good-morning)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/good-morning-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters good-morning take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a breakfast tray by an open window: a pot of coffee, a cup and a croissant, sunshine on the sill",
+   "light": "bright golden morning sun",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 92132
+  "bytes": 158960
  },
  {
   "id": "letter-good-night",
@@ -1337,7 +1477,7 @@
   "h": 1350,
   "meta": {
    "use": "everyday",
-   "scene": "a round full moon over a calm sea with a soft moon path on the water",
+   "scene": "a crescent moon over a sleepy village of rooftops with a few lit windows",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1346,26 +1486,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.413,
    "quietAbs": 3.12,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/good-night-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters good-night)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/good-night-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters good-night take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a crescent moon over a sleepy village of rooftops with a few lit windows",
+   "light": "deep blue night",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 112822
+  "bytes": 94752
  },
  {
   "id": "letter-missing-you",
@@ -1375,7 +1519,7 @@
   "h": 1350,
   "meta": {
    "use": "distance",
-   "scene": "two cranes flying far apart over open water, one near the left, one near the right",
+   "scene": "two red-crowned cranes flying apart across a rose-gold sky",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1384,26 +1528,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.462,
    "quietAbs": 1.86,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/missing-you-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters missing-you)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/missing-you-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters missing-you take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "two red-crowned cranes flying apart across a rose-gold sky",
+   "light": "sunset",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 51582
+  "bytes": 80688
  },
  {
   "id": "letter-together",
@@ -1413,7 +1561,7 @@
   "h": 1350,
   "meta": {
    "use": "love",
-   "scene": "two koi circling each other in a round pond, seen from above",
+   "scene": "two orange and white koi circling each other in a round green pond, seen from above",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1422,26 +1570,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.553,
    "quietAbs": 3.69,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/together-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters together)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/together-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters together take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "two orange and white koi circling each other in a round green pond, seen from above",
+   "light": "dappled noon light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 99296
+  "bytes": 142422
  },
  {
   "id": "letter-well-done",
@@ -1451,7 +1603,7 @@
   "h": 1350,
   "meta": {
    "use": "congratulations",
-   "scene": "the sun rising behind a mountain summit above soft clouds",
+   "scene": "a mountain summit rising above a sea of clouds, golden light on the peak",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1460,26 +1612,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.384,
    "quietAbs": 1.87,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/well-done-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters well-done)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/well-done-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters well-done take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a mountain summit rising above a sea of clouds, golden light on the peak",
+   "light": "golden sunrise",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 50082
+  "bytes": 91984
  },
  {
   "id": "letter-spring-hello",
@@ -1489,7 +1645,7 @@
   "h": 1350,
   "meta": {
    "use": "season",
-   "scene": "a blossoming cherry branch against open sky",
+   "scene": "a branch of pink cherry blossom against a bright blue sky",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1498,26 +1654,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.213,
    "quietAbs": 1.38,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/spring-hello-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters spring-hello)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/spring-hello-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters spring-hello take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a branch of pink cherry blossom against a bright blue sky",
+   "light": "bright spring sun",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 67006
+  "bytes": 127186
  },
  {
   "id": "letter-winter-hello",
@@ -1527,7 +1687,7 @@
   "h": 1350,
   "meta": {
    "use": "season",
-   "scene": "a warm lamp glowing in a small snowy window",
+   "scene": "a warm lamp glowing in a small snowy cottage window with a wreath",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1536,26 +1696,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.392,
    "quietAbs": 3.35,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/winter-hello-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters winter-hello)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/winter-hello-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters winter-hello take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a warm lamp glowing in a small snowy cottage window with a wreath",
+   "light": "blue snowy dusk",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 163350
+  "bytes": 159122
  },
  {
   "id": "letter-just-because",
@@ -1565,7 +1729,7 @@
   "h": 1350,
   "meta": {
    "use": "everyday",
-   "scene": "a butterfly over a few meadow flowers",
+   "scene": "a blue butterfly on a bunch of wildflowers in a meadow",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1574,26 +1738,30 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.411,
    "quietAbs": 2.54,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/just-because-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters just-because)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/just-because-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters just-because take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a blue butterfly on a bunch of wildflowers in a meadow",
+   "light": "bright summer sun",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 68470
+  "bytes": 166018
  },
  {
   "id": "letter-for-mom",
@@ -1603,7 +1771,7 @@
   "h": 1350,
   "meta": {
    "use": "Mother's Day",
-   "scene": "a bouquet of wildflowers in a simple ceramic jug",
+   "scene": "a bouquet of peonies, roses and wildflowers in a cream ceramic jug on a kitchen table",
    "inks": [
     "fluorescent pink",
     "aqua",
@@ -1612,25 +1780,29 @@
    ],
    "noteMaxChars": 90,
    "quietZone": {
-    "fromY": 0.5,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.136,
    "quietAbs": 1.45,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/letters/for-mom-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (letters for-mom)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/letters/for-mom-1.png",
+    "prompt": "docs/art/dl3/prompts.json (letters for-mom take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a bouquet of peonies, roses and wildflowers in a cream ceramic jug on a kitchen table",
+   "light": "soft golden afternoon window light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 138796
+  "bytes": 170320
  }
 ]

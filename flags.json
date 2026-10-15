@@ -1,4 +1,7 @@
 {
-  "flags_version": "2026-10-14-c13",
-  "flags": {}
+  "flags_version": "2026-10-15-c14",
+  "flags": {
+    "web_doorway": true,
+    "web_free_boards": 1
+  }
 }

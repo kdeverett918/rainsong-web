@@ -17,12 +17,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "low golden afternoon sun, strong shadows",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.33,
    "lowBandBusyness": 6.48,
@@ -36,17 +36,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "sweeping sand dunes with sharp sunlit ridges",
+   "scale": "wide"
   },
-  "bytes": 45028
+  "bytes": 148566
  },
  {
   "id": "wander.w03-oasis.02",
@@ -66,12 +68,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "hot bright midday light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.314,
    "lowBandBusyness": 7.23,
@@ -85,17 +87,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a grove of tall palms around the oasis",
+   "scale": "mid"
   },
-  "bytes": 125080
+  "bytes": 235460
  },
  {
   "id": "wander.w03-oasis.03",
@@ -115,12 +119,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.579,
+   "light": "soft rose dusk",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.377,
    "lowBandBusyness": 6.89,
@@ -134,17 +138,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a still turquoise pool reflecting palms",
+   "scale": "mid"
   },
-  "bytes": 141562
+  "bytes": 187772
  },
  {
   "id": "wander.w03-oasis.04",
@@ -164,12 +170,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "warm late sun on the clay",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.333,
    "lowBandBusyness": 7.18,
@@ -183,17 +189,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a clay wall with a small arched blue-shuttered window",
+   "scale": "close"
   },
-  "bytes": 197222
+  "bytes": 182396
  },
  {
   "id": "wander.w03-oasis.05",
@@ -213,12 +221,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "violet dusk",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.324,
    "lowBandBusyness": 7.15,
@@ -232,17 +240,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "brass lanterns with pierced patterns glowing on a clay step",
+   "scale": "close"
   },
-  "bytes": 117134
+  "bytes": 140644
  },
  {
   "id": "wander.w03-oasis.06",
@@ -262,12 +272,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "early morning rose light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.362,
    "lowBandBusyness": 7.34,
@@ -281,17 +291,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a line of animal tracks crossing a dune",
+   "scale": "wide"
   },
-  "bytes": 153852
+  "bytes": 120552
  },
  {
   "id": "wander.w03-oasis.07",
@@ -311,12 +323,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "bright afternoon sun",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.274,
    "lowBandBusyness": 6.93,
@@ -330,17 +342,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "heavy golden clusters of dates hanging from a palm",
+   "scale": "close"
   },
-  "bytes": 172610
+  "bytes": 193466
  },
  {
   "id": "wander.w03-oasis.08",
@@ -360,12 +374,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "deep violet twilight",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.306,
    "lowBandBusyness": 7.25,
@@ -379,17 +393,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "the first stars over the dunes",
+   "scale": "wide"
   },
-  "bytes": 71546
+  "bytes": 102074
  },
  {
   "id": "wander.w03-oasis.09",
@@ -409,12 +425,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "warm evening light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.307,
    "lowBandBusyness": 6.42,
@@ -428,17 +444,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a small wooden boat resting at the edge of the pool",
+   "scale": "mid"
   },
-  "bytes": 84354
+  "bytes": 176610
  },
  {
   "id": "wander.w03-oasis.10",
@@ -458,12 +476,12 @@
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "dusk glow",
-   "horizon": 0.58,
+   "light": "night",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.362,
    "lowBandBusyness": 7.72,
@@ -477,17 +495,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w03-oasis/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w03/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w03 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a huge orange moon rising over the dunes",
+   "scale": "wide"
   },
-  "bytes": 134486
+  "bytes": 92272
  },
  {
   "id": "wander.w04-aurora.01",
@@ -507,12 +527,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "night, aurora glow",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.345,
    "lowBandBusyness": 5.58,
@@ -539,17 +559,19 @@
      "panels/s10-snow-temple/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a dark shore of snowy spruce trees under green aurora",
+   "scale": "wide"
   },
-  "bytes": 122002
+  "bytes": 100526
  },
  {
   "id": "wander.w04-aurora.02",
@@ -569,12 +591,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "blue night, warm window",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.288,
    "lowBandBusyness": 6.09,
@@ -601,17 +623,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a small log cabin with a warm glowing window in deep snow",
+   "scale": "mid"
   },
-  "bytes": 102674
+  "bytes": 134656
  },
  {
   "id": "wander.w04-aurora.03",
@@ -631,12 +655,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "night",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.266,
    "lowBandBusyness": 5.65,
@@ -663,17 +687,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "wide ribbons of green and violet aurora across a starry sky",
+   "scale": "wide"
   },
-  "bytes": 46188
+  "bytes": 91226
  },
  {
   "id": "wander.w04-aurora.04",
@@ -693,12 +719,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "dim blue twilight",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.413,
    "lowBandBusyness": 5.64,
@@ -725,17 +751,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a red canoe resting upside down on snow",
+   "scale": "close"
   },
-  "bytes": 66706
+  "bytes": 108802
  },
  {
   "id": "wander.w04-aurora.05",
@@ -755,12 +783,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "soft blue dawn",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.309,
    "lowBandBusyness": 5.84,
@@ -787,17 +815,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a loon floating on a dark open lead of water",
+   "scale": "mid"
   },
-  "bytes": 49030
+  "bytes": 101936
  },
  {
   "id": "wander.w04-aurora.06",
@@ -817,12 +847,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "pale pink dawn light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.308,
    "lowBandBusyness": 5.9,
@@ -849,17 +879,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "snow-capped rocks along an icy shore",
+   "scale": "mid"
   },
-  "bytes": 75510
+  "bytes": 159100
  },
  {
   "id": "wander.w04-aurora.07",
@@ -879,12 +911,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "night",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.326,
    "lowBandBusyness": 5.67,
@@ -911,17 +943,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "the aurora reflected in a dark calm lake between snowy banks",
+   "scale": "wide"
   },
-  "bytes": 50010
+  "bytes": 101780
  },
  {
   "id": "wander.w04-aurora.08",
@@ -941,12 +975,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "cold clear morning light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.356,
    "lowBandBusyness": 5.3,
@@ -973,17 +1007,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a frozen inlet with cracks of blue ice",
+   "scale": "wide"
   },
-  "bytes": 92840
+  "bytes": 133944
  },
  {
   "id": "wander.w04-aurora.09",
@@ -1003,12 +1039,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "night, faint aurora",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.294,
    "lowBandBusyness": 5.85,
@@ -1035,17 +1071,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a far snowy mountain under a starry sky",
+   "scale": "wide"
   },
-  "bytes": 51316
+  "bytes": 98252
  },
  {
   "id": "wander.w04-aurora.10",
@@ -1065,12 +1103,12 @@
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "aurora light at the blue hour",
-   "horizon": 0.58,
+   "light": "night",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.3,
    "lowBandBusyness": 5.49,
@@ -1097,17 +1135,19 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/w04-aurora/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w04/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w04 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a spiralling crown of aurora directly overhead",
+   "scale": "wide"
   },
-  "bytes": 51268
+  "bytes": 94886
  },
  {
   "id": "seasonal.harvest-moon.01",
@@ -1127,12 +1167,12 @@
     "deep blue"
    ],
    "ground": "harvested fields and a still river",
-   "light": "a huge low moon at dusk",
-   "horizon": 0.58,
+   "light": "early night, moonlight",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.231,
    "lowBandBusyness": 6.46,
@@ -1146,17 +1186,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/harvest-moon/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/harvest/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (harvest 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "silver pampas grass plumes against a huge rising moon",
+   "scale": "close"
   },
-  "bytes": 121342
+  "bytes": 183498
  },
  {
   "id": "seasonal.harvest-moon.02",
@@ -1176,12 +1218,12 @@
     "deep blue"
    ],
    "ground": "harvested fields and a still river",
-   "light": "a huge low moon at dusk",
-   "horizon": 0.579,
+   "light": "warm last sunset light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.329,
    "lowBandBusyness": 7.12,
@@ -1195,17 +1237,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/harvest-moon/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/harvest/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (harvest 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "golden rice sheaves hung to dry on wooden racks",
+   "scale": "mid"
   },
-  "bytes": 87616
+  "bytes": 233664
  },
  {
   "id": "seasonal.harvest-moon.03",
@@ -1225,12 +1269,12 @@
     "deep blue"
    ],
    "ground": "harvested fields and a still river",
-   "light": "a huge low moon at dusk",
-   "horizon": 0.58,
+   "light": "night",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.31,
    "lowBandBusyness": 7.04,
@@ -1244,17 +1288,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/harvest-moon/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/harvest/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (harvest 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a soft cloud drifting past a bright full moon",
+   "scale": "wide"
   },
-  "bytes": 58548
+  "bytes": 86770
  },
  {
   "id": "seasonal.harvest-moon.04",
@@ -1274,12 +1320,12 @@
     "deep blue"
    ],
    "ground": "harvested fields and a still river",
-   "light": "a huge low moon at dusk",
-   "horizon": 0.579,
+   "light": "warm lamplight and moonlight",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.277,
    "lowBandBusyness": 6.66,
@@ -1293,17 +1339,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/harvest-moon/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/harvest/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (harvest 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a tray of round white rice dumplings on a wooden veranda with a vase of pampas",
+   "scale": "close"
   },
-  "bytes": 105428
+  "bytes": 129380
  },
  {
   "id": "seasonal.harvest-moon.05",
@@ -1323,17 +1371,17 @@
     "deep blue"
    ],
    "ground": "harvested fields and a still river",
-   "light": "a huge low moon at dusk",
-   "horizon": 0.58,
+   "light": "dusk, deep blue sky with the rising moon",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.257,
    "lowBandBusyness": 7.25,
    "lowBandSaturation": 44.4,
-   "cropTop": 26,
+   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/05.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 26..1306 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -1341,8 +1389,20 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL3 variety",
+   "noPeople": true,
+   "noText": true,
+   "subject": "a persimmon tree heavy with glowing orange fruit, leaves fallen",
+   "scale": "mid",
+   "source": {
+    "take": "docs/art/masters/dl3-takes/harvest/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (harvest 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   }
+  },
+  "bytes": 215750
  },
  {
   "id": "seasonal.harvest-moon.06",
@@ -1362,12 +1422,12 @@
     "deep blue"
    ],
    "ground": "harvested fields and a still river",
-   "light": "a huge low moon at dusk",
-   "horizon": 0.58,
+   "light": "night",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.344,
    "lowBandBusyness": 7.46,
@@ -1381,17 +1441,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/harvest-moon/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/harvest/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (harvest 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "the full moon reflected in a slow river between dark fields",
+   "scale": "wide"
   },
-  "bytes": 101848
+  "bytes": 122052
  },
  {
   "id": "seasonal.harvest-moon.07",
@@ -1411,12 +1473,12 @@
     "deep blue"
    ],
    "ground": "harvested fields and a still river",
-   "light": "a huge low moon at dusk",
-   "horizon": 0.579,
+   "light": "blue dusk",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.237,
    "lowBandBusyness": 6.79,
@@ -1430,17 +1492,19 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/harvest-moon/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/harvest/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (harvest 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "small lanterns lighting a path through a harvested field",
+   "scale": "wide"
   },
-  "bytes": 124094
+  "bytes": 161098
  },
  {
   "id": "seasonal.harvest-moon.08",
@@ -1460,12 +1524,12 @@
     "deep blue"
    ],
    "ground": "harvested fields and a still river",
-   "light": "a huge low moon at dusk",
-   "horizon": 0.58,
+   "light": "night",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.268,
    "lowBandBusyness": 6.38,
@@ -1479,16 +1543,18 @@
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
    ],
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/harvest-moon/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/harvest/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (harvest 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "an enormous golden full moon over rolling hills",
+   "scale": "wide"
   },
-  "bytes": 74556
+  "bytes": 93154
  }
 ]

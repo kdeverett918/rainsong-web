@@ -17,13 +17,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden late afternoon into dusk (panels 9-10)",
-   "horizon": 0.58,
+   "light": "bright morning sun",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.42,
    "quietAbs": 6.08,
@@ -31,19 +31,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w05-01_02.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "tall chalk-white sea cliffs topped with green grass",
+   "scale": "wide"
   },
-  "bytes": 170916
+  "bytes": 228306
  },
  {
   "id": "wander.w05-lighthouse.02",
@@ -63,13 +65,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden late afternoon into dusk (panels 9-10)",
-   "horizon": 0.58,
+   "light": "warm afternoon sun",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.473,
    "quietAbs": 7.39,
@@ -77,19 +79,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w05-02_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a winding footpath along the clifftop",
+   "scale": "wide"
   },
-  "bytes": 265352
+  "bytes": 206032
  },
  {
   "id": "wander.w05-lighthouse.03",
@@ -109,13 +113,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden late afternoon into dusk (panels 9-10)",
-   "horizon": 0.58,
+   "light": "clear midday light, deep blue sky",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.427,
    "quietAbs": 6.3,
@@ -123,19 +127,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w05-03_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a red-and-white striped lighthouse on the headland",
+   "scale": "mid"
   },
-  "bytes": 201544
+  "bytes": 194686
  },
  {
   "id": "wander.w05-lighthouse.04",
@@ -155,13 +161,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden late afternoon into dusk (panels 9-10)",
-   "horizon": 0.58,
+   "light": "bright breezy light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.525,
    "quietAbs": 6.84,
@@ -169,19 +175,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w05-04_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "two gulls hanging in the wind beside the cliff",
+   "scale": "close"
   },
-  "bytes": 91824
+  "bytes": 143596
  },
  {
   "id": "wander.w05-lighthouse.05",
@@ -201,13 +209,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden late afternoon into dusk (panels 9-10)",
-   "horizon": 0.58,
+   "light": "high noon",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.5,
    "quietAbs": 7.67,
@@ -215,19 +223,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w05-05_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a small sheltered cove of turquoise water and pebbles",
+   "scale": "wide"
   },
-  "bytes": 201584
+  "bytes": 224302
  },
  {
   "id": "wander.w05-lighthouse.06",
@@ -247,13 +257,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden late afternoon into dusk (panels 9-10)",
-   "horizon": 0.58,
+   "light": "golden-hour light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.437,
    "quietAbs": 5.76,
@@ -261,19 +271,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w05-06_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a blue wooden rowboat pulled up on pebbles",
+   "scale": "close"
   },
-  "bytes": 114854
+  "bytes": 219686
  },
  {
   "id": "wander.w05-lighthouse.07",
@@ -293,13 +305,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden late afternoon into dusk (panels 9-10)",
-   "horizon": 0.58,
+   "light": "dramatic stormy light with sun breaking through",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.524,
    "quietAbs": 5.94,
@@ -307,19 +319,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w05-07_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "waves bursting white against dark rocks",
+   "scale": "mid"
   },
-  "bytes": 179762
+  "bytes": 214544
  },
  {
   "id": "wander.w05-lighthouse.08",
@@ -339,13 +353,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden late afternoon into dusk (panels 9-10)",
-   "horizon": 0.58,
+   "light": "soft bright light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.313,
    "quietAbs": 5.23,
@@ -353,19 +367,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w05-08_02.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "sea pinks and yellow wildflowers on the cliff edge",
+   "scale": "close"
   },
-  "bytes": 164626
+  "bytes": 214744
  },
  {
   "id": "wander.w05-lighthouse.09",
@@ -385,13 +401,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "dusk",
-   "horizon": 0.58,
+   "light": "deep blue dusk",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.362,
    "quietAbs": 5.66,
@@ -399,10 +415,10 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "lh09_01",
@@ -419,11 +435,13 @@
      "old 09 for composition"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "the lighthouse beam sweeping across a dusky sky",
+   "scale": "mid"
   },
-  "bytes": 168282
+  "bytes": 180436
  },
  {
   "id": "wander.w05-lighthouse.10",
@@ -443,13 +461,13 @@
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "dusk",
-   "horizon": 0.58,
+   "light": "late-afternoon silver light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.372,
    "quietAbs": 3.9,
@@ -457,10 +475,10 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w05-lighthouse/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w05-lighthouse 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w05/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w05 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "lh10_00",
@@ -476,11 +494,13 @@
      "wander/w05-lighthouse/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "open sea under towering clouds",
+   "scale": "wide"
   },
-  "bytes": 132634
+  "bytes": 202586
  },
  {
   "id": "wander.w06-cloud-garden.01",
@@ -500,13 +520,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "bright morning light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.285,
    "quietAbs": 4.17,
@@ -514,19 +534,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-01_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "small floating islands with trees above a sea of clouds",
+   "scale": "wide"
   },
-  "bytes": 86168
+  "bytes": 141642
  },
  {
   "id": "wander.w06-cloud-garden.02",
@@ -546,13 +568,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "golden afternoon light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.285,
    "quietAbs": 4.33,
@@ -560,19 +582,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-02_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a waterfall pouring off a floating island into the clouds",
+   "scale": "mid"
   },
-  "bytes": 104458
+  "bytes": 193016
  },
  {
   "id": "wander.w06-cloud-garden.03",
@@ -592,13 +616,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "soft noon light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.289,
    "quietAbs": 5.05,
@@ -606,19 +630,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-03_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a wooden rope bridge between two floating islands",
+   "scale": "mid"
   },
-  "bytes": 143642
+  "bytes": 186108
  },
  {
   "id": "wander.w06-cloud-garden.04",
@@ -638,13 +664,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "bright breezy light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.363,
    "quietAbs": 4.14,
@@ -652,19 +678,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-04_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "three colourful kites flying high in the clear air",
+   "scale": "mid"
   },
-  "bytes": 82366
+  "bytes": 146542
  },
  {
   "id": "wander.w06-cloud-garden.05",
@@ -684,13 +712,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "soft pastel morning",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.247,
    "quietAbs": 3.99,
@@ -698,19 +726,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-05_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a small pond on a cloud island reflecting the sky",
+   "scale": "close"
   },
-  "bytes": 93362
+  "bytes": 229256
  },
  {
   "id": "wander.w06-cloud-garden.06",
@@ -730,13 +760,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "golden-hour light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.308,
    "quietAbs": 4.01,
@@ -744,19 +774,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-06_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a flock of white birds gliding over the clouds",
+   "scale": "wide"
   },
-  "bytes": 132706
+  "bytes": 134792
  },
  {
   "id": "wander.w06-cloud-garden.07",
@@ -776,13 +808,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "warm sunset light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.356,
    "quietAbs": 5.07,
@@ -790,19 +822,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-07_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a tiny wooden tea house on a cloud island",
+   "scale": "mid"
   },
-  "bytes": 103870
+  "bytes": 156566
  },
  {
   "id": "wander.w06-cloud-garden.08",
@@ -822,13 +856,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "sunset",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.343,
    "quietAbs": 4.77,
@@ -836,19 +870,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-08_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a glowing sky of pink and gold cloud towers",
+   "scale": "wide"
   },
-  "bytes": 67276
+  "bytes": 137856
  },
  {
   "id": "wander.w06-cloud-garden.09",
@@ -868,13 +904,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "bright luminous light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.307,
    "quietAbs": 4.12,
@@ -882,19 +918,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-09_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a stair of stepping stones rising through the clouds",
+   "scale": "mid"
   },
-  "bytes": 66622
+  "bytes": 149860
  },
  {
   "id": "wander.w06-cloud-garden.10",
@@ -914,13 +952,13 @@
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft luminous morning",
-   "horizon": 0.58,
+   "light": "clear high noon",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.331,
    "quietAbs": 4.57,
@@ -928,19 +966,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl-takes/w06-cloud-garden/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w06-cloud-garden 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/w06/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w06 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "cropTop": 0,
    "take": "w06-10_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a sunlit summit island above everything",
+   "scale": "wide"
   },
-  "bytes": 78240
+  "bytes": 153874
  },
  {
   "id": "daily-2026-11-01",
@@ -959,8 +999,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.123,
    "quietAbs": 1.34,
@@ -968,10 +1008,10 @@
    "cropTop": 0,
    "take": "nov01_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/01.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -988,11 +1028,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "red and brown leaves edged with white frost crystals",
+   "light": "pale cold morning sun",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 84822
+  "bytes": 184880
  },
  {
   "id": "daily-2026-11-02",
@@ -1011,8 +1055,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.086,
    "quietAbs": 1.24,
@@ -1020,10 +1064,10 @@
    "cropTop": 0,
    "take": "nov02_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/02.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1040,11 +1084,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a cottage window glowing warm amber in a dark stone wall",
+   "light": "blue dusk",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 112042
+  "bytes": 171440
  },
  {
   "id": "daily-2026-11-03",
@@ -1063,8 +1111,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.195,
    "quietAbs": 1.51,
@@ -1072,10 +1120,10 @@
    "cropTop": 0,
    "take": "nov03_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/03.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1092,11 +1140,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a round cast-iron teapot and two small cups on a low wooden table",
+   "light": "soft warm lamplight",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 119886
+  "bytes": 112814
  },
  {
   "id": "daily-2026-11-04",
@@ -1115,8 +1167,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.189,
    "quietAbs": 1.1,
@@ -1124,10 +1176,10 @@
    "cropTop": 0,
    "take": "nov04b_00",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/04.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1144,11 +1196,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a lone white birch tree, bare, on a frosty hill",
+   "light": "pale pink dawn",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 84580
+  "bytes": 157510
  },
  {
   "id": "daily-2026-11-05",
@@ -1167,8 +1223,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.137,
    "quietAbs": 1.17,
@@ -1176,10 +1232,10 @@
    "cropTop": 0,
    "take": "nov05_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/05.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1196,11 +1252,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a sprig of white snowberries on bare twigs",
+   "light": "soft grey light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 83012
+  "bytes": 91882
  },
  {
   "id": "daily-2026-11-06",
@@ -1219,8 +1279,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.084,
    "quietAbs": 1.14,
@@ -1228,10 +1288,10 @@
    "cropTop": 0,
    "take": "nov06_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/06.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1248,11 +1308,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a neat stack of split firewood under a wooden shelter",
+   "light": "cold clear afternoon sun",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 142452
+  "bytes": 203214
  },
  {
   "id": "daily-2026-11-07",
@@ -1271,8 +1335,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.181,
    "quietAbs": 1.34,
@@ -1280,10 +1344,10 @@
    "cropTop": 0,
    "take": "nov07_00",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/07.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1300,11 +1364,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "an iron lantern glowing on a foggy country lane",
+   "light": "foggy night",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 75344
+  "bytes": 148630
  },
  {
   "id": "daily-2026-11-08",
@@ -1323,8 +1391,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.149,
    "quietAbs": 1.09,
@@ -1332,10 +1400,10 @@
    "cropTop": 0,
    "take": "nov08_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/08.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1352,11 +1420,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a robin with a red breast on a frosty fence post",
+   "light": "low winter sun",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 88708
+  "bytes": 189340
  },
  {
   "id": "daily-2026-11-09",
@@ -1375,8 +1447,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.09,
    "quietAbs": 1.38,
@@ -1384,10 +1456,10 @@
    "cropTop": 0,
    "take": "nov09_00",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/09.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1404,11 +1476,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a frozen puddle with feathery ice patterns and a fallen leaf trapped in it",
+   "light": "bright cold light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 116354
+  "bytes": 225972
  },
  {
   "id": "daily-2026-11-10",
@@ -1427,8 +1503,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.12,
    "quietAbs": 1.47,
@@ -1436,10 +1512,10 @@
    "cropTop": 0,
    "take": "nov10_00",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/10.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1456,11 +1532,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "the corner of a patchwork quilt on a wooden bed by a frosted window",
+   "light": "soft morning light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 144378
+  "bytes": 158628
  },
  {
   "id": "daily-2026-11-11",
@@ -1479,8 +1559,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.105,
    "quietAbs": 1.2,
@@ -1488,10 +1568,10 @@
    "cropTop": 0,
    "take": "nov11_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/11-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 11)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/11-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 11 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/11.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1508,11 +1588,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "snow-dusted pine branches",
+   "light": "soft grey snowy light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 152032
+  "bytes": 186946
  },
  {
   "id": "daily-2026-11-12",
@@ -1531,8 +1615,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.19,
    "quietAbs": 1.11,
@@ -1540,10 +1624,10 @@
    "cropTop": 0,
    "take": "nov12_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/12-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 12)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/12-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 12 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/12.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1560,11 +1644,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "three white candles burning on a wooden mantel",
+   "light": "warm candlelight in a dark room",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 83690
+  "bytes": 92216
  },
  {
   "id": "daily-2026-11-13",
@@ -1583,8 +1671,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.123,
    "quietAbs": 1.22,
@@ -1592,10 +1680,10 @@
    "cropTop": 0,
    "take": "nov13_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/13-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 13)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/13-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 13 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/13.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1612,11 +1700,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "steam rising from a rocky hot spring pool in snow",
+   "light": "blue twilight",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 90890
+  "bytes": 145794
  },
  {
   "id": "daily-2026-11-14",
@@ -1635,8 +1727,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.172,
    "quietAbs": 1.27,
@@ -1644,10 +1736,10 @@
    "cropTop": 0,
    "take": "nov14_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/14-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 14)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/14-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 14 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/14.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1664,11 +1756,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "two red-crowned cranes flying over a snowy field",
+   "light": "bright winter morning",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 62402
+  "bytes": 109780
  },
  {
   "id": "daily-2026-11-15",
@@ -1687,8 +1783,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.12,
    "quietAbs": 1.13,
@@ -1696,10 +1792,10 @@
    "cropTop": 0,
    "take": "nov15b_03",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/15-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 15)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/15-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 15 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/15.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1716,11 +1812,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a small log cabin in a snowy clearing with smoke from the chimney",
+   "light": "golden late sun",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 114272
+  "bytes": 144596
  },
  {
   "id": "daily-2026-11-16",
@@ -1739,8 +1839,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.221,
    "quietAbs": 2.21,
@@ -1748,10 +1848,10 @@
    "cropTop": 0,
    "take": "nov16_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/16-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 16)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/16-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 16 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/16.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1768,11 +1868,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a steaming mug of tea held on a window ledge, snow outside",
+   "light": "soft daylight",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 95408
+  "bytes": 132180
  },
  {
   "id": "daily-2026-11-17",
@@ -1791,8 +1895,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.118,
    "quietAbs": 1.21,
@@ -1800,10 +1904,10 @@
    "cropTop": 0,
    "take": "nov17_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/17-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 17)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/17-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 17 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/17.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1820,11 +1924,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a sprig of holly with red berries",
+   "light": "bright crisp light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 82632
+  "bytes": 156246
  },
  {
   "id": "daily-2026-11-18",
@@ -1843,8 +1951,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.076,
    "quietAbs": 1.16,
@@ -1852,10 +1960,10 @@
    "cropTop": 0,
    "take": "nov18_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/18-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 18)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/18-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 18 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/18.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1872,11 +1980,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "fern-like frost patterns on a window pane, warm light behind",
+   "light": "morning",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 197226
+  "bytes": 252684
  },
  {
   "id": "daily-2026-11-19",
@@ -1895,8 +2007,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.11,
    "quietAbs": 1.2,
@@ -1904,10 +2016,10 @@
    "cropTop": 0,
    "take": "nov19_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/19-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 19)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/19-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 19 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/19.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1924,11 +2036,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a small brass bell hanging from a frosted branch",
+   "light": "cold blue morning",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 64594
+  "bytes": 133308
  },
  {
   "id": "daily-2026-11-20",
@@ -1947,8 +2063,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.133,
    "quietAbs": 1.1,
@@ -1956,10 +2072,10 @@
    "cropTop": 0,
    "take": "nov20_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/20-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 20)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/20-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 20 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/20.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1976,11 +2092,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a snowy mountain peak lit pink by the first sun",
+   "light": "dawn alpenglow",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 76108
+  "bytes": 123576
  },
  {
   "id": "daily-2026-11-21",
@@ -1999,8 +2119,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.112,
    "quietAbs": 1.24,
@@ -2008,10 +2128,10 @@
    "cropTop": 0,
    "take": "nov21_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/21-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 21)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/21-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 21 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/21.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2028,11 +2148,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a red fox standing in a frosty meadow",
+   "light": "low golden winter sun",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 139588
+  "bytes": 180530
  },
  {
   "id": "daily-2026-11-22",
@@ -2051,8 +2175,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.115,
    "quietAbs": 0.96,
@@ -2060,10 +2184,10 @@
    "cropTop": 0,
    "take": "nov22_00",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/22-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 22)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/22-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 22 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/22.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2080,11 +2204,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a single large snowflake crystal against a dark blue background",
+   "light": "soft light",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 73186
+  "bytes": 158400
  },
  {
   "id": "daily-2026-11-23",
@@ -2103,8 +2231,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.199,
    "quietAbs": 1.38,
@@ -2112,10 +2240,10 @@
    "cropTop": 0,
    "take": "nov23_00",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/23-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 23)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/23-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 23 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/23.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2132,11 +2260,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a heron standing in a frosty grey river",
+   "light": "pale silver morning",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 61942
+  "bytes": 162600
  },
  {
   "id": "daily-2026-11-24",
@@ -2155,8 +2287,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.183,
    "quietAbs": 1.14,
@@ -2164,10 +2296,10 @@
    "cropTop": 0,
    "take": "nov24b_00",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/24-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 24)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/24-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 24 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/24.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2184,11 +2316,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "an old iron street lamp lit in falling snow",
+   "light": "night",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 170786
+  "bytes": 159014
  },
  {
   "id": "daily-2026-11-25",
@@ -2207,8 +2343,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.102,
    "quietAbs": 1.34,
@@ -2216,10 +2352,10 @@
    "cropTop": 0,
    "take": "nov25_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/25-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 25)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/25-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 25 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/25.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2236,11 +2372,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "knitted red and grey mittens pegged on a line in the snow",
+   "light": "bright winter sun",
+   "scale": "close",
+   "horizon": 0.55
   },
-  "bytes": 115684
+  "bytes": 199650
  },
  {
   "id": "daily-2026-11-26",
@@ -2259,8 +2399,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.092,
    "quietAbs": 1.36,
@@ -2268,10 +2408,10 @@
    "cropTop": 0,
    "take": "nov26_01",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/26-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 26)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/26-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 26 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/26.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2288,11 +2428,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a winding river through snowy fields",
+   "light": "violet dusk",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 123464
+  "bytes": 134724
  },
  {
   "id": "daily-2026-11-27",
@@ -2311,8 +2455,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.19,
    "quietAbs": 1.98,
@@ -2320,10 +2464,10 @@
    "cropTop": 0,
    "take": "nov27_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/27-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 27)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/27-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 27 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/27.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2340,11 +2484,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a lone pine on a ridge under moonlight",
+   "light": "clear night, bright moon",
+   "scale": "wide",
+   "horizon": 0.55
   },
-  "bytes": 137790
+  "bytes": 113468
  },
  {
   "id": "daily-2026-11-28",
@@ -2363,8 +2511,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.082,
    "quietAbs": 1.21,
@@ -2372,10 +2520,10 @@
    "cropTop": 0,
    "take": "nov28_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/28-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 28)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/28-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 28 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/28.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2392,11 +2540,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a stone fireplace with a crackling fire and a wool rug",
+   "light": "warm firelight",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 101152
+  "bytes": 173708
  },
  {
   "id": "daily-2026-11-29",
@@ -2415,8 +2567,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.236,
    "quietAbs": 2.05,
@@ -2424,10 +2576,10 @@
    "cropTop": 0,
    "take": "nov29_02",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/29-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 29)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/29-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 29 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/29.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2444,11 +2596,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a deer standing in falling snow at a forest edge",
+   "light": "soft snowy afternoon",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 82714
+  "bytes": 169036
  },
  {
   "id": "daily-2026-11-30",
@@ -2467,8 +2623,8 @@
     "amber"
    ],
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.105,
    "quietAbs": 1.2,
@@ -2476,10 +2632,10 @@
    "cropTop": 0,
    "take": "nov30_00",
    "source": {
-    "take": "docs/art/masters/dl-takes/daily11/30-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (daily11 30)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/daily11/30-1.png",
+    "prompt": "docs/art/dl3/prompts.json (daily11 30 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/30.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2496,10 +2652,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a small garden under the first snow, a stone lantern and red berries",
+   "light": "quiet grey morning",
+   "scale": "mid",
+   "horizon": 0.55
   },
-  "bytes": 154872
+  "bytes": 184760
  }
 ]

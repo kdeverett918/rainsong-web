@@ -16,29 +16,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "low warm morning sun raking across the ripples",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.278,
    "master": "docs/art/masters/tray/stone-garden/01.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "perfect concentric raked ripples around a single dark stone",
+   "scale": "close"
   },
-  "bytes": 122924
+  "bytes": 171264
  },
  {
   "id": "tray.stone-garden.02",
@@ -57,29 +59,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "bright soft noon light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.29,
    "master": "docs/art/masters/tray/stone-garden/02.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a mossy rock island in a sea of raked gravel",
+   "scale": "mid"
   },
-  "bytes": 96488
+  "bytes": 188134
  },
  {
   "id": "tray.stone-garden.03",
@@ -98,29 +102,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "warm afternoon sun casting the leaf shadows on the wall",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.2,
    "master": "docs/art/masters/tray/stone-garden/03.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "one red maple branch leaning over a white plaster garden wall",
+   "scale": "mid"
   },
-  "bytes": 246806
+  "bytes": 226948
  },
  {
   "id": "tray.stone-garden.04",
@@ -139,29 +145,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "early dusk, soft lilac and apricot sky, the lantern lit warm",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.233,
    "master": "docs/art/masters/tray/stone-garden/04.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/04-5.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 04 take 5)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "one small red maple and a stone lantern standing beside a mossy rock in a wide raked-gravel garden; the maple and lantern sit in the upper third of the frame",
+   "scale": "wide"
   },
-  "bytes": 196726
+  "bytes": 150204
  },
  {
   "id": "tray.stone-garden.05",
@@ -180,29 +188,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "soft shade with one shaft of sun",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.284,
    "master": "docs/art/masters/tray/stone-garden/05.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a round stone water basin with a bamboo ladle, water brimming",
+   "scale": "close"
   },
-  "bytes": 226556
+  "bytes": 199584
  },
  {
   "id": "tray.stone-garden.06",
@@ -221,29 +231,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "overcast silver light, the moss glowing green",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.259,
    "master": "docs/art/masters/tray/stone-garden/06.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a gravel path of stepping stones through moss",
+   "scale": "mid"
   },
-  "bytes": 308878
+  "bytes": 223152
  },
  {
   "id": "tray.stone-garden.07",
@@ -262,29 +274,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "golden late-afternoon sun",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.216,
    "master": "docs/art/masters/tray/stone-garden/07.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a low cloud-pruned pine spreading over the gravel",
+   "scale": "mid"
   },
-  "bytes": 107332
+  "bytes": 201126
  },
  {
   "id": "tray.stone-garden.08",
@@ -303,29 +317,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "blue dusk with the lantern lit warm",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.285,
    "master": "docs/art/masters/tray/stone-garden/08.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a small stone lantern standing on a bed of moss",
+   "scale": "close"
   },
-  "bytes": 125314
+  "bytes": 156476
  },
  {
   "id": "tray.stone-garden.09",
@@ -344,29 +360,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "soft rain-washed light, dark wet stones",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.371,
    "master": "docs/art/masters/tray/stone-garden/09.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a dry stream bed of smooth river stones winding through the garden",
+   "scale": "wide"
   },
-  "bytes": 210870
+  "bytes": 224758
  },
  {
   "id": "tray.stone-garden.10",
@@ -385,29 +403,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "warm afternoon light, long shadows",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.293,
    "master": "docs/art/masters/tray/stone-garden/10.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "the polished edge of a wooden veranda looking onto the garden",
+   "scale": "mid"
   },
-  "bytes": 130206
+  "bytes": 194992
  },
  {
   "id": "tray.stone-garden.11",
@@ -426,29 +446,31 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "bright dappled noon light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.406,
    "master": "docs/art/masters/tray/stone-garden/11.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/11-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 11)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/11-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 11 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "the corner of a koi pond with two orange and white koi under a maple leaf",
+   "scale": "close"
   },
-  "bytes": 158508
+  "bytes": 185876
  },
  {
   "id": "tray.stone-garden.12",
@@ -467,12 +489,12 @@
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft afternoon",
-   "horizon": 0.58,
+   "light": "soft warm light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.322,
    "master": "docs/art/masters/tray/stone-garden/12.webp",
@@ -482,20 +504,22 @@
     "resident": "tortoise",
     "x": 0.5,
     "y": 0.3,
-    "note": "DL r2: the resident is painted in, centred in the upper third"
+    "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/stone/12-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (stone 12)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/stone/12-1.png",
+    "prompt": "docs/art/dl3/prompts.json (stone 12 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "tortoise resting on a sunlit velvet moss mound in the raked gravel",
+   "scale": "mid"
   },
-  "bytes": 102110
+  "bytes": 162992
  },
  {
   "id": "wander.w01-wisteria.01",
@@ -514,29 +538,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "bright dappled sun shining through the blooms",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.305,
    "master": "docs/art/masters/wander/w01-wisteria/01.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "long cascading racemes of lilac wisteria",
+   "scale": "close"
   },
-  "bytes": 159176
+  "bytes": 201512
  },
  {
   "id": "wander.w01-wisteria.02",
@@ -555,29 +581,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "warm late-afternoon sun",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.319,
    "master": "docs/art/masters/wander/w01-wisteria/02.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a wooden pergola tunnel heavy with wisteria",
+   "scale": "wide"
   },
-  "bytes": 269954
+  "bytes": 256416
  },
  {
   "id": "wander.w01-wisteria.03",
@@ -596,29 +624,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "soft morning light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.275,
    "master": "docs/art/masters/wander/w01-wisteria/03.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "an old stone well with wisteria trailing over its rim",
+   "scale": "mid"
   },
-  "bytes": 247086
+  "bytes": 279524
  },
  {
   "id": "wander.w01-wisteria.04",
@@ -637,29 +667,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "bright midday sun, crisp shadows",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.328,
    "master": "docs/art/masters/wander/w01-wisteria/04.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a sunny sandstone courtyard with a lone potted lemon tree",
+   "scale": "mid"
   },
-  "bytes": 256688
+  "bytes": 233654
  },
  {
   "id": "wander.w01-wisteria.05",
@@ -678,29 +710,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "warm reflected noon light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.246,
    "master": "docs/art/masters/wander/w01-wisteria/05.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "lilac petals floating on a small stone pool",
+   "scale": "close"
   },
-  "bytes": 119460
+  "bytes": 188368
  },
  {
   "id": "wander.w01-wisteria.06",
@@ -719,29 +753,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "golden-hour light through the window",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.3,
    "master": "docs/art/masters/wander/w01-wisteria/06.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a round moon window in a plaster wall framing wisteria beyond",
+   "scale": "mid"
   },
-  "bytes": 211860
+  "bytes": 236222
  },
  {
   "id": "wander.w01-wisteria.07",
@@ -760,29 +796,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "soft overcast light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.281,
    "master": "docs/art/masters/wander/w01-wisteria/07.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "an iron garden bench beneath hanging wisteria",
+   "scale": "mid"
   },
-  "bytes": 251848
+  "bytes": 257404
  },
  {
   "id": "wander.w01-wisteria.08",
@@ -801,29 +839,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "violet dusk",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.296,
    "master": "docs/art/masters/wander/w01-wisteria/08.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a brass lantern hanging among wisteria, softly lit",
+   "scale": "close"
   },
-  "bytes": 198152
+  "bytes": 194494
  },
  {
   "id": "wander.w01-wisteria.09",
@@ -842,29 +882,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "dappled afternoon light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.264,
    "master": "docs/art/masters/wander/w01-wisteria/09.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a basin with a single orange koi under wisteria reflections",
+   "scale": "close"
   },
-  "bytes": 217830
+  "bytes": 221678
  },
  {
   "id": "wander.w01-wisteria.10",
@@ -883,29 +925,31 @@
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-spring",
-   "horizon": 0.58,
+   "light": "warm evening light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.275,
    "master": "docs/art/masters/wander/w01-wisteria/10.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w01-wisteria/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w01/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w01 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "an old green wooden garden gate wrapped in wisteria",
+   "scale": "mid"
   },
-  "bytes": 227096
+  "bytes": 262520
  },
  {
   "id": "wander.w02-kelp.01",
@@ -924,29 +968,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "sunlight from the surface above",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.424,
    "master": "docs/art/masters/wander/w02-kelp/01.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "golden shafts of sunlight slanting down through tall kelp",
+   "scale": "wide"
   },
-  "bytes": 100824
+  "bytes": 173982
  },
  {
   "id": "wander.w02-kelp.02",
@@ -965,29 +1011,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "bright blue-green light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.438,
    "master": "docs/art/masters/wander/w02-kelp/02.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a green sea turtle gliding past the kelp",
+   "scale": "mid"
   },
-  "bytes": 79374
+  "bytes": 173914
  },
  {
   "id": "wander.w02-kelp.03",
@@ -1006,29 +1054,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "dancing caustic light patterns",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.397,
    "master": "docs/art/masters/wander/w02-kelp/03.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "spiral and scallop shells on rippled sand",
+   "scale": "close"
   },
-  "bytes": 106020
+  "bytes": 166144
  },
  {
   "id": "wander.w02-kelp.04",
@@ -1047,29 +1097,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "soft blue light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.362,
    "master": "docs/art/masters/wander/w02-kelp/04.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "a natural rock arch covered in soft coral and sponges",
+   "scale": "mid"
   },
-  "bytes": 147336
+  "bytes": 210186
  },
  {
   "id": "wander.w02-kelp.05",
@@ -1088,29 +1140,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "deep blue water with light from above",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.424,
    "master": "docs/art/masters/wander/w02-kelp/05.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "translucent moon jellyfish drifting, glowing softly",
+   "scale": "mid"
   },
-  "bytes": 55154
+  "bytes": 131012
  },
  {
   "id": "wander.w02-kelp.06",
@@ -1129,29 +1183,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "shafts of light",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.369,
    "master": "docs/art/masters/wander/w02-kelp/06.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "an old bronze ship's bell lying in the sand, green with age",
+   "scale": "close"
   },
-  "bytes": 116864
+  "bytes": 168648
  },
  {
   "id": "wander.w02-kelp.07",
@@ -1170,29 +1226,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "bright shallow water",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.407,
    "master": "docs/art/masters/wander/w02-kelp/07.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "the shadow of a large ray gliding over the sand",
+   "scale": "wide"
   },
-  "bytes": 66380
+  "bytes": 160890
  },
  {
   "id": "wander.w02-kelp.08",
@@ -1211,29 +1269,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "warm afternoon light filtering down",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.385,
    "master": "docs/art/masters/wander/w02-kelp/08.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "sea grass swaying in a meadow with tiny silver fish",
+   "scale": "mid"
   },
-  "bytes": 115860
+  "bytes": 204886
  },
  {
   "id": "wander.w02-kelp.09",
@@ -1252,29 +1312,31 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "light from directly above",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.37,
    "master": "docs/art/masters/wander/w02-kelp/09.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "silver bubbles rising toward a bright surface",
+   "scale": "close"
   },
-  "bytes": 71222
+  "bytes": 142144
  },
  {
   "id": "wander.w02-kelp.10",
@@ -1293,28 +1355,30 @@
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "filtered sunlight from above",
-   "horizon": 0.584,
+   "light": "noon sun as a bright blur",
+   "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
-    "fromY": 0.6,
-    "toY": 1.0
+    "from": 0.6,
+    "to": 1.0
    },
    "quietRatio": 0.427,
    "master": "docs/art/masters/wander/w02-kelp/10.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/w02-kelp/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
-   }
+    "take": "docs/art/masters/dl3-takes/w02/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (w02 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "subject": "the shimmering underside of the sea surface seen from below",
+   "scale": "wide"
   },
-  "bytes": 89930
+  "bytes": 204302
  }
 ]

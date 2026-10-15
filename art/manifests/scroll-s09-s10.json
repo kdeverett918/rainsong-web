@@ -22,8 +22,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "low golden-hour sun behind it, the leaves backlit",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -36,17 +36,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/01.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "one magnificent crimson maple tree glowing in a clearing",
+   "scale": "mid"
   },
-  "bytes": 100118
+  "bytes": 316030
  },
  {
   "id": "panel-s09-autumn-maples-02",
@@ -71,8 +73,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "dappled bright noon light through the canopy",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -85,17 +87,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/02.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a small creek running over rocks, carrying floating red leaves",
+   "scale": "close"
   },
-  "bytes": 190502
+  "bytes": 255698
  },
  {
   "id": "panel-s09-autumn-maples-03",
@@ -120,8 +124,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "soft warm afternoon light",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -134,17 +138,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/03.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "mossy stone steps climbing into a tunnel of red maples",
+   "scale": "mid"
   },
-  "bytes": 167676
+  "bytes": 297698
  },
  {
   "id": "panel-s09-autumn-maples-04",
@@ -169,8 +175,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "light autumn drizzle, saturated colour",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -183,17 +189,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/04.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a small moss-covered shrine roof under scarlet maples, plain with no symbols",
+   "scale": "mid"
   },
-  "bytes": 178518
+  "bytes": 276244
  },
  {
   "id": "panel-s09-autumn-maples-05",
@@ -218,8 +226,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "warm late-afternoon sun",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -232,17 +240,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/05.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "an old wooden water wheel turning beside a mill pond, maples behind",
+   "scale": "mid"
   },
-  "bytes": 176134
+  "bytes": 299610
  },
  {
   "id": "panel-s09-autumn-maples-06",
@@ -267,8 +277,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "soft overcast light",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -281,17 +291,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/06.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "maple branches arching over a dark forest pool full of red reflections",
+   "scale": "close"
   },
-  "bytes": 201638
+  "bytes": 242934
  },
  {
   "id": "panel-s09-autumn-maples-07",
@@ -316,8 +328,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "a sunbeam on the log in shadowy woods",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -330,17 +342,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/07.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "acorns and red-capped mushrooms on a mossy fallen log",
+   "scale": "close"
   },
-  "bytes": 118888
+  "bytes": 200378
  },
  {
   "id": "panel-s09-autumn-maples-08",
@@ -365,8 +379,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "bright clear midday sun, blue sky",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -379,17 +393,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/08.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a towering golden ginkgo tree among red maples",
+   "scale": "wide"
   },
-  "bytes": 57700
+  "bytes": 310916
  },
  {
   "id": "panel-s09-autumn-maples-09",
@@ -414,8 +430,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "dramatic sunset, clouds lit pink and orange",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -428,17 +444,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/09.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a whole hillside of red, orange and gold forest",
+   "scale": "wide"
   },
-  "bytes": 118712
+  "bytes": 257680
  },
  {
   "id": "panel-s09-autumn-maples-10",
@@ -463,8 +481,8 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low autumn sun",
-   "horizon": 0.58,
+   "light": "soft warm light",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -477,10 +495,10 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/10.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s09/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s09 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s09/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s09 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
    "perch": {
@@ -493,14 +511,16 @@
      0.63,
      0.88
     ],
-    "note": "DL r2: the resident is painted in, centred in the upper third"
+    "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "showpiece": true,
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "red squirrel resting on a hollow moss-covered tree stump",
+   "scale": "mid"
   },
-  "bytes": 231296
+  "bytes": 211588
  },
  {
   "id": "panel-s10-snow-temple-01",
@@ -525,8 +545,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "soft pearl-grey overcast light, snow falling",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -539,17 +559,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/01.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/01-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 01)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "snow-laden pine trees bowing under heavy snow",
+   "scale": "mid"
   },
-  "bytes": 142322
+  "bytes": 186200
  },
  {
   "id": "panel-s10-snow-temple-02",
@@ -574,8 +596,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "clear blue morning after snowfall, sparkling snow",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -588,17 +610,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/02.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/02-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 02)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a simple wooden gate half buried in snow",
+   "scale": "mid"
   },
-  "bytes": 139254
+  "bytes": 229130
  },
  {
   "id": "panel-s10-snow-temple-03",
@@ -623,8 +647,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "warm low winter sun from the left",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -637,17 +661,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/03.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/03-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 03)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a large bronze temple bell hanging under a snowy roof",
+   "scale": "close"
   },
-  "bytes": 83746
+  "bytes": 153576
  },
  {
   "id": "panel-s10-snow-temple-04",
@@ -672,8 +698,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "cold blue twilight",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -686,17 +712,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/04.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/04-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 04)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a frozen pond with snow drifts and a single frozen reed",
+   "scale": "wide"
   },
-  "bytes": 211528
+  "bytes": 149204
  },
  {
   "id": "panel-s10-snow-temple-05",
@@ -721,8 +749,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "blue hour, warm glow from the lit lantern",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -735,17 +763,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/05.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/05-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 05)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "three small stone lanterns wearing caps of snow, one lit warm",
+   "scale": "mid"
   },
-  "bytes": 104426
+  "bytes": 148864
  },
  {
   "id": "panel-s10-snow-temple-06",
@@ -770,8 +800,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "soft diffuse winter light",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -784,17 +814,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/06.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/06-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 06)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "one red camellia flower on a dark green branch dusted with snow",
+   "scale": "close"
   },
-  "bytes": 78952
+  "bytes": 109684
  },
  {
   "id": "panel-s10-snow-temple-07",
@@ -819,8 +851,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "bright clear noon sun, crisp shadows",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -833,17 +865,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/07.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/07-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 07)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "a swept stone path between high banks of snow leading to a temple door",
+   "scale": "mid"
   },
-  "bytes": 149084
+  "bytes": 226424
  },
  {
   "id": "panel-s10-snow-temple-08",
@@ -868,8 +902,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "low golden winter sunset light through the icicles",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -882,17 +916,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/08.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/08-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 08)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "icicles hanging from curved temple eaves, glittering",
+   "scale": "close"
   },
-  "bytes": 97568
+  "bytes": 141712
  },
  {
   "id": "panel-s10-snow-temple-09",
@@ -917,8 +953,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "dim snowy dusk",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -931,17 +967,19 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/09.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/09-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 09)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "heavy snow falling over quiet white hills and dark forest",
+   "scale": "wide"
   },
-  "bytes": 82144
+  "bytes": 166914
  },
  {
   "id": "panel-s10-snow-temple-10",
@@ -966,8 +1004,8 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "hushed light",
-   "horizon": 0.58,
+   "light": "soft warm light",
+   "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
@@ -980,10 +1018,10 @@
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/10.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl-takes/s10/10-1.png",
-    "prompt": "docs/art/dl/prompts-r2.json (s10 10)",
-    "script": "docs/art/dl/_scripts/gen_dl2.py",
-    "size": "1728x2160"
+    "take": "docs/art/masters/dl3-takes/s10/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (s10 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen3.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s10-snow-temple panel 1 (style)",
    "perch": {
@@ -996,13 +1034,15 @@
      0.5,
      0.95
     ],
-    "note": "DL r2: the resident is painted in, centred in the upper third"
+    "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "showpiece": true,
-   "look": "v3 DL single-subject",
+   "look": "v3 DL3 variety",
    "noPeople": true,
-   "noText": true
+   "noText": true,
+   "subject": "white snow hare resting on a snow-covered rounded rock",
+   "scale": "mid"
   },
-  "bytes": 98888
+  "bytes": 147244
  }
 ]
