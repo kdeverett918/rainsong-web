@@ -10,32 +10,50 @@
    "scrollName": "First Light Pond",
    "panel": 1,
    "panels": 8,
-   "beat": "reeds at the bank",
+   "beat": "a moored punt and the wren's post",
    "ink": [
-    "fluorescent pink",
-    "aqua",
-    "sunflower"
+    "moss green",
+    "wet slate",
+    "pale gold",
+    "vermilion"
    ],
    "inkHex": [
-    "#FF4FA3",
-    "#2BB3C0",
-    "#FFC83D"
+    "#56603F",
+    "#4B5A5F",
+    "#D6B46E",
+    "#C8432B"
    ],
    "ground": "still pond",
-   "light": "first light",
+   "light": "dawn mist after rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.515,
+   "quietRatio": 1.771,
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s01-first-light/01.webp",
-   "cropTop": 16,
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 46.1,
+    "br": 5.8,
+    "dk": 29.9,
+    "C": 8.4,
+    "fL": 52.6,
+    "fS": 52.1,
+    "qL": 27.1,
+    "qS": 41.1,
+    "dock": 87.0
+   },
    "source": {
-    "job": "img-20261012-173414-762a9a67",
-    "take": 0
+    "take": "docs/art/masters/v3-takes/s01/01-3.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 1, take 3)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -50,32 +68,50 @@
    "scrollName": "First Light Pond",
    "panel": 2,
    "panels": 8,
-   "beat": "a lotus cluster",
+   "beat": "a lotus stand in rain",
    "ink": [
-    "fluorescent pink",
-    "aqua",
-    "sunflower"
+    "moss green",
+    "wet slate",
+    "pale gold",
+    "vermilion"
    ],
    "inkHex": [
-    "#FF4FA3",
-    "#2BB3C0",
-    "#FFC83D"
+    "#56603F",
+    "#4B5A5F",
+    "#D6B46E",
+    "#C8432B"
    ],
    "ground": "still pond",
-   "light": "first light",
+   "light": "dawn mist after rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.551,
+   "quietRatio": 2.006,
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s01-first-light/02.webp",
-   "cropTop": 16,
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 51.7,
+    "br": 7.6,
+    "dk": 20.4,
+    "C": 8.0,
+    "fL": 59.8,
+    "fS": 35.5,
+    "qL": 30.7,
+    "qS": 31.8,
+    "dock": 89.0
+   },
    "source": {
-    "job": "img-20261012-174603-71dd63ab",
-    "take": 1
+    "take": "docs/art/masters/v3-takes/s01/02-2.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 2, take 2)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -90,32 +126,50 @@
    "scrollName": "First Light Pond",
    "panel": 3,
    "panels": 8,
-   "beat": "stepping stones",
+   "beat": "stepping stones past a pine boulder",
    "ink": [
-    "fluorescent pink",
-    "aqua",
-    "sunflower"
+    "moss green",
+    "wet slate",
+    "pale gold",
+    "vermilion"
    ],
    "inkHex": [
-    "#FF4FA3",
-    "#2BB3C0",
-    "#FFC83D"
+    "#56603F",
+    "#4B5A5F",
+    "#D6B46E",
+    "#C8432B"
    ],
    "ground": "still pond",
-   "light": "first light",
+   "light": "dawn mist after rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.515,
+   "quietRatio": 1.73,
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s01-first-light/03.webp",
-   "cropTop": 16,
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 47.5,
+    "br": 4.5,
+    "dk": 26.0,
+    "C": 9.6,
+    "fL": 53.5,
+    "fS": 47.9,
+    "qL": 29.6,
+    "qS": 40.0,
+    "dock": 83.0
+   },
    "source": {
-    "job": "img-20261012-175756-b48b41a2",
-    "take": 1
+    "take": "docs/art/masters/v3-takes/s01/03-2.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 3, take 2)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -130,32 +184,50 @@
    "scrollName": "First Light Pond",
    "panel": 4,
    "panels": 8,
-   "beat": "a frog on a lily pad",
+   "beat": "a frog on a lily pad below the cattails",
    "ink": [
-    "fluorescent pink",
-    "aqua",
-    "sunflower"
+    "moss green",
+    "wet slate",
+    "pale gold",
+    "vermilion"
    ],
    "inkHex": [
-    "#FF4FA3",
-    "#2BB3C0",
-    "#FFC83D"
+    "#56603F",
+    "#4B5A5F",
+    "#D6B46E",
+    "#C8432B"
    ],
    "ground": "still pond",
-   "light": "first light",
+   "light": "dawn mist after rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.574,
+   "quietRatio": 1.469,
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s01-first-light/04.webp",
-   "cropTop": 16,
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 45.6,
+    "br": 3.7,
+    "dk": 23.4,
+    "C": 9.0,
+    "fL": 50.9,
+    "fS": 36.8,
+    "qL": 32.7,
+    "qS": 38.8,
+    "dock": 78.4
+   },
    "source": {
-    "job": "img-20261012-175849-73894979",
-    "take": 1
+    "take": "docs/art/masters/v3-takes/s01/04-4.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 4, take 4)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -172,30 +244,48 @@
    "panels": 8,
    "beat": "a dragonfly over open water",
    "ink": [
-    "fluorescent pink",
-    "aqua",
-    "sunflower"
+    "moss green",
+    "wet slate",
+    "pale gold",
+    "vermilion"
    ],
    "inkHex": [
-    "#FF4FA3",
-    "#2BB3C0",
-    "#FFC83D"
+    "#56603F",
+    "#4B5A5F",
+    "#D6B46E",
+    "#C8432B"
    ],
    "ground": "still pond",
-   "light": "first light",
+   "light": "dawn mist after rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.644,
+   "quietRatio": 1.581,
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s01-first-light/05.webp",
-   "cropTop": 16,
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 43.3,
+    "br": 4.2,
+    "dk": 27.9,
+    "C": 9.8,
+    "fL": 50.1,
+    "fS": 36.0,
+    "qL": 25.5,
+    "qS": 36.7,
+    "dock": 75.3
+   },
    "source": {
-    "job": "img-20261012-180001-671e3bc2",
-    "take": 0
+    "take": "docs/art/masters/v3-takes/s01/05-7.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 5, take 7)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -210,32 +300,50 @@
    "scrollName": "First Light Pond",
    "panel": 6,
    "panels": 8,
-   "beat": "a willow branch dipping",
+   "beat": "the willow dipping at sunrise",
    "ink": [
-    "fluorescent pink",
-    "aqua",
-    "sunflower"
+    "moss green",
+    "wet slate",
+    "pale gold",
+    "vermilion"
    ],
    "inkHex": [
-    "#FF4FA3",
-    "#2BB3C0",
-    "#FFC83D"
+    "#56603F",
+    "#4B5A5F",
+    "#D6B46E",
+    "#C8432B"
    ],
    "ground": "still pond",
-   "light": "first light",
+   "light": "dawn mist after rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.469,
+   "quietRatio": 1.102,
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s01-first-light/06.webp",
-   "cropTop": 16,
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 52.7,
+    "br": 5.0,
+    "dk": 17.4,
+    "C": 11.8,
+    "fL": 61.6,
+    "fS": 33.4,
+    "qL": 34.8,
+    "qS": 42.8,
+    "dock": 89.4
+   },
    "source": {
-    "job": "img-20261012-180107-969cf167",
-    "take": 0
+    "take": "docs/art/masters/v3-takes/s01/06-6.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 6, take 6)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -250,32 +358,50 @@
    "scrollName": "First Light Pond",
    "panel": 7,
    "panels": 8,
-   "beat": "a low plank bridge",
+   "beat": "a low plank bridge into the mist",
    "ink": [
-    "fluorescent pink",
-    "aqua",
-    "sunflower"
+    "moss green",
+    "wet slate",
+    "pale gold",
+    "vermilion"
    ],
    "inkHex": [
-    "#FF4FA3",
-    "#2BB3C0",
-    "#FFC83D"
+    "#56603F",
+    "#4B5A5F",
+    "#D6B46E",
+    "#C8432B"
    ],
    "ground": "still pond",
-   "light": "first light",
+   "light": "dawn mist after rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.392,
+   "quietRatio": 1.78,
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s01-first-light/07.webp",
-   "cropTop": 16,
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 47.8,
+    "br": 4.7,
+    "dk": 27.1,
+    "C": 8.7,
+    "fL": 54.9,
+    "fS": 49.7,
+    "qL": 30.6,
+    "qS": 41.8,
+    "dock": 82.6
+   },
    "source": {
-    "job": "img-20261012-180205-1e8af3be",
-    "take": 0
+    "take": "docs/art/masters/v3-takes/s01/07-2.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 7, take 2)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -290,38 +416,57 @@
    "scrollName": "First Light Pond",
    "panel": 8,
    "panels": 8,
-   "beat": "the far bank with a reed nest",
+   "beat": "the wren's reed nest on the far bank",
    "ink": [
-    "fluorescent pink",
-    "aqua",
-    "sunflower"
+    "moss green",
+    "wet slate",
+    "pale gold",
+    "vermilion"
    ],
    "inkHex": [
-    "#FF4FA3",
-    "#2BB3C0",
-    "#FFC83D"
+    "#56603F",
+    "#4B5A5F",
+    "#D6B46E",
+    "#C8432B"
    ],
    "ground": "still pond",
-   "light": "first light",
-   "horizon": 0.572,
+   "light": "dawn mist after rain",
+   "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.377,
+   "quietRatio": 1.473,
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s01-first-light/08.webp",
-   "cropTop": 16,
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 46.3,
+    "br": 5.4,
+    "dk": 26.3,
+    "C": 11.0,
+    "fL": 54.0,
+    "fS": 38.5,
+    "qL": 26.4,
+    "qS": 29.5,
+    "dock": 89.2
+   },
    "source": {
-    "job": "img-20261012-180317-6d6c908f",
-    "take": 1
+    "take": "docs/art/masters/v3-takes/s01/08-1.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 8, take 1)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    },
    "perch": {
     "resident": "wren",
     "kind": "reed nest",
-    "x": 0.8,
-    "y": 0.44
+    "x": 0.79,
+    "y": 0.4,
+    "note": "v3 repaint: nest in the reeds right of centre, measured on the pick"
    },
    "showpiece": true
   }
@@ -337,35 +482,52 @@
    "scrollName": "Bamboo Path",
    "panel": 1,
    "panels": 10,
-   "beat": "grove edge",
+   "beat": "the grove's edge",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.184,
+   "quietRatio": 1.148,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/01.webp",
-   "cropTop": 124,
-   "quietAbs": 3.79,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-p1",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 41.7,
+    "br": 3.7,
+    "dk": 33.0,
+    "C": 11.2,
+    "fL": 46.4,
+    "fS": 50.6,
+    "qL": 28.4,
+    "qS": 37.5,
+    "dock": 85.6
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/01-5.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 1, take 5)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -380,35 +542,52 @@
    "scrollName": "Bamboo Path",
    "panel": 2,
    "panels": 10,
-   "beat": "a stone lantern among stalks",
+   "beat": "a stone lantern among the stalks",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.166,
+   "quietRatio": 1.324,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/02.webp",
-   "cropTop": 88,
-   "quietAbs": 4.17,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-02_01",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 39.0,
+    "br": 4.7,
+    "dk": 44.0,
+    "C": 10.9,
+    "fL": 44.3,
+    "fS": 57.9,
+    "qL": 22.9,
+    "qS": 35.4,
+    "dock": 86.7
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/02-1.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 2, take 1)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -423,35 +602,52 @@
    "scrollName": "Bamboo Path",
    "panel": 3,
    "panels": 10,
-   "beat": "light shafts",
+   "beat": "light breaking through the canopy",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.184,
+   "quietRatio": 1.579,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/03.webp",
-   "cropTop": 96,
-   "quietAbs": 4.46,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-03_00",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 46.2,
+    "br": 3.8,
+    "dk": 24.1,
+    "C": 13.4,
+    "fL": 53.3,
+    "fS": 40.1,
+    "qL": 30.9,
+    "qS": 42.3,
+    "dock": 81.2
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/03-5.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 3, take 5)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -466,35 +662,52 @@
    "scrollName": "Bamboo Path",
    "panel": 4,
    "panels": 10,
-   "beat": "a narrow path bending",
+   "beat": "the path bending past a mossy wall",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.156,
+   "quietRatio": 1.504,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/04.webp",
-   "cropTop": 124,
-   "quietAbs": 3.04,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-04_00",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 45.8,
+    "br": 3.7,
+    "dk": 27.9,
+    "C": 10.9,
+    "fL": 51.1,
+    "fS": 53.2,
+    "qL": 33.9,
+    "qS": 41.7,
+    "dock": 82.7
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/04-2.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 4, take 2)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -509,35 +722,52 @@
    "scrollName": "Bamboo Path",
    "panel": 5,
    "panels": 10,
-   "beat": "a water pipe dripping into a basin",
+   "beat": "a bamboo spout dripping into a stone basin",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.145,
+   "quietRatio": 1.493,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/05.webp",
-   "cropTop": 104,
-   "quietAbs": 4.06,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-05_02",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 42.1,
+    "br": 4.3,
+    "dk": 32.8,
+    "C": 10.1,
+    "fL": 47.0,
+    "fS": 46.4,
+    "qL": 29.7,
+    "qS": 42.4,
+    "dock": 87.8
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/05-2.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 5, take 2)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -552,35 +782,52 @@
    "scrollName": "Bamboo Path",
    "panel": 6,
    "panels": 10,
-   "beat": "a moss-covered gate",
+   "beat": "a moss-roofed gate",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.133,
+   "quietRatio": 1.34,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/06.webp",
-   "cropTop": 124,
-   "quietAbs": 3.2,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-06_00",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 41.8,
+    "br": 4.4,
+    "dk": 36.6,
+    "C": 11.4,
+    "fL": 45.4,
+    "fS": 56.9,
+    "qL": 29.5,
+    "qS": 47.1,
+    "dock": 86.2
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/06-1.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 6, take 1)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -595,35 +842,52 @@
    "scrollName": "Bamboo Path",
    "panel": 7,
    "panels": 10,
-   "beat": "thick old stalks",
+   "beat": "the old giant culms",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.172,
+   "quietRatio": 1.299,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/07.webp",
-   "cropTop": 92,
-   "quietAbs": 4.4,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-07_01",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 42.2,
+    "br": 3.4,
+    "dk": 34.9,
+    "C": 11.6,
+    "fL": 47.3,
+    "fS": 52.1,
+    "qL": 29.2,
+    "qS": 40.6,
+    "dock": 83.5
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/07-5.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 7, take 5)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -638,35 +902,52 @@
    "scrollName": "Bamboo Path",
    "panel": 8,
    "panels": 10,
-   "beat": "a clearing with ferns",
+   "beat": "a fern clearing",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.136,
+   "quietRatio": 1.403,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/08.webp",
-   "cropTop": 116,
-   "quietAbs": 3.49,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-08_00",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 43.1,
+    "br": 4.1,
+    "dk": 32.2,
+    "C": 11.9,
+    "fL": 48.8,
+    "fS": 46.3,
+    "qL": 29.0,
+    "qS": 43.3,
+    "dock": 86.2
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/08-2.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 8, take 2)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -683,33 +964,50 @@
    "panels": 10,
    "beat": "a stream crossing",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.161,
+   "quietRatio": 1.613,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/09.webp",
-   "cropTop": 120,
-   "quietAbs": 4.5,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-09_02",
-    "refs": "panel 1 (style) + previous take (beat)"
+   "cropTop": 0,
+   "heroSide": "left",
+   "lab": {
+    "L": 43.8,
+    "br": 3.6,
+    "dk": 29.7,
+    "C": 10.2,
+    "fL": 48.1,
+    "fS": 44.6,
+    "qL": 33.3,
+    "qS": 52.6,
+    "dock": 85.4
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/09-2.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 9, take 2)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
    }
   }
  },
@@ -724,45 +1022,62 @@
    "scrollName": "Bamboo Path",
    "panel": 10,
    "panels": 10,
-   "beat": "a fallen log",
+   "beat": "a fallen log with the red panda",
    "ink": [
-    "leaf green",
-    "teal",
-    "sunflower"
+    "bamboo green",
+    "deep pine",
+    "wet slate",
+    "amber",
+    "vermilion"
    ],
    "inkHex": [
-    "#5DAA3C",
-    "#1F8A8A",
-    "#FFC83D"
+    "#5E7A3E",
+    "#24382C",
+    "#4B5A5F",
+    "#D99A45",
+    "#C8432B"
    ],
-   "ground": "mossy path",
-   "light": "dappled light",
+   "ground": "wet stone path",
+   "light": "amber break in summer rain",
    "horizon": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.152,
+   "quietRatio": 1.49,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
+   "look": "v3 Weatherlight",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/10.webp",
-   "cropTop": 116,
+   "cropTop": 0,
+   "heroSide": "right",
+   "lab": {
+    "L": 41.8,
+    "br": 3.9,
+    "dk": 34.7,
+    "C": 9.5,
+    "fL": 49.0,
+    "fS": 42.9,
+    "qL": 26.2,
+    "qS": 46.4,
+    "dock": 82.8
+   },
+   "source": {
+    "take": "docs/art/masters/v3-takes/s02/10-2.png",
+    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 10, take 2)",
+    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "size": "1728x2160",
+    "seed": null
+   },
    "perch": {
     "resident": "red-panda",
     "kind": "fallen mossy log",
-    "x": 0.78,
-    "y": 0.46,
-    "logTop": 0.44,
-    "note": "log spans x 0.45-0.98; re-measured after gate regen"
+    "x": 0.8,
+    "y": 0.5,
+    "logTop": 0.55,
+    "note": "v3 repaint: log spans x 0.6-1.0, measured on the pick"
    },
-   "showpiece": true,
-   "quietAbs": 4.22,
-   "regen": {
-    "by": "launch gate 2026-10-12",
-    "why": "lower 40% busy/saturated and off house style",
-    "take": "s02-10_01",
-    "refs": "panel 1 (style) + previous take (beat)"
-   }
+   "showpiece": true
   }
  }
 ]

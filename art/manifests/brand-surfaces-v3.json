@@ -1,0 +1,549 @@
+[
+ {
+  "id": "share-morning",
+  "kind": "share-card-art",
+  "file": "/art/share/morning.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "morning",
+   "subject": "sunrise through valley fog; old wind-bent pine on granite",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "Count your blessings. I count you twice.",
+   "pairLineStatus": "shipped line (src/content)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/morning.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-morning-ridge-7",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 50.6,
+    "top62L": 44.7,
+    "lowerBandL": 60.8
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 9,
+    "min": 9
+   }
+  }
+ },
+ {
+  "id": "share-night",
+  "kind": "share-card-art",
+  "file": "/art/share/night.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "night",
+   "subject": "snowed timber boathouse, lit window, red canoe, frozen lake",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "For the friend I can call at midnight.",
+   "pairLineStatus": "proposed (not in corpus yet; STUNNING_BRIEF 9)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/night.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-night-boathouse-7",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 22.3,
+    "top62L": 27.9,
+    "lowerBandL": 12.7
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 9,
+    "min": 9
+   }
+  }
+ },
+ {
+  "id": "share-rain",
+  "kind": "share-card-art",
+  "file": "/art/share/rain.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "rain",
+   "subject": "lamplit Victorian glasshouse in rain, red watering can",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "Thanks for being my umbrella on rainy days.",
+   "pairLineStatus": "shipped line (src/content)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/rain.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-rain-glasshouse-2",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 34.4,
+    "top62L": 39.4,
+    "lowerBandL": 26.6
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 8.5,
+    "min": 9
+   }
+  }
+ },
+ {
+  "id": "share-spring",
+  "kind": "share-card-art",
+  "file": "/art/share/spring.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "spring",
+   "subject": "old apple tree in blossom after a shower, red tulip",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "Late bloomers bloom the brightest.",
+   "pairLineStatus": "shipped line (src/content)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/spring.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-spring-orchard-3",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 44.3,
+    "top62L": 47.6,
+    "lowerBandL": 38.9
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 9,
+    "min": 9
+   }
+  }
+ },
+ {
+  "id": "share-summer",
+  "kind": "share-card-art",
+  "file": "/art/share/summer.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "summer",
+   "subject": "empty wooden sailboat moored in a cove at golden evening",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "For the friend I'd pick all over again.",
+   "pairLineStatus": "proposed (not in corpus yet)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/summer.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-summer-cove-5",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 40.6,
+    "top62L": 45.8,
+    "lowerBandL": 31.8
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 9,
+    "min": 9
+   }
+  }
+ },
+ {
+  "id": "share-autumn",
+  "kind": "share-card-art",
+  "file": "/art/share/autumn.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "autumn",
+   "subject": "waterfall gorge under red maples in drizzle",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "For my walking buddy. Same time tomorrow?",
+   "pairLineStatus": "proposed (not in corpus yet; STUNNING_BRIEF 9)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/autumn.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-autumn-gorge-4",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 38.8,
+    "top62L": 41.8,
+    "lowerBandL": 33.5
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 9,
+    "min": 9
+   }
+  }
+ },
+ {
+  "id": "share-winter",
+  "kind": "share-card-art",
+  "file": "/art/share/winter.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "winter",
+   "subject": "robin on a snowy holly twig at dawn",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "You bring the color to my winter.",
+   "pairLineStatus": "shipped line (src/content)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/winter.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-winter-robin-8",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 63.8,
+    "top62L": 61.5,
+    "lowerBandL": 68.4
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 8.5,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 9,
+    "min": 8.5
+   }
+  }
+ },
+ {
+  "id": "share-thinking-of-you",
+  "kind": "share-card-art",
+  "file": "/art/share/thinking-of-you.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "thinking-of-you",
+   "subject": "cream porcelain teapot and two cups on a rainy windowsill",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "The kettle's on. Come sit with me.",
+   "pairLineStatus": "shipped line (src/content)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/thinking-of-you.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-thinking-teapot-4",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 38.8,
+    "top62L": 46.2,
+    "lowerBandL": 26.5
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 8.5,
+    "min": 9
+   }
+  }
+ },
+ {
+  "id": "share-gratitude",
+  "kind": "share-card-art",
+  "file": "/art/share/gratitude.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "gratitude",
+   "subject": "basket of apples under an orchard tree at golden hour",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "Grateful for a roof, a meal, and you.",
+   "pairLineStatus": "shipped line (src/content)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/gratitude.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-gratitude-harvest-9",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 36.0,
+    "top62L": 39.7,
+    "lowerBandL": 29.7
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 8.5,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 9,
+    "min": 8.5
+   }
+  }
+ },
+ {
+  "id": "share-friendship",
+  "kind": "share-card-art",
+  "file": "/art/share/friendship.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "occasion": "friendship",
+   "subject": "two old oaks arching over a misty lane, red gate",
+   "visible": "top 62% under feedCard() paper panel (from y 850); full-bleed for story/wallpaper bleed",
+   "pairLine": "For the friend who knows all my stories.",
+   "pairLineStatus": "shipped line (src/content)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1728x2160",
+   "master": "docs/art/masters/public/art/share/friendship.webp",
+   "masterSize": "2160x2700",
+   "masterNote": "1.25x Lanczos + light unsharp",
+   "source": {
+    "take": "c-friendship-oaks-4",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 39.6,
+    "top62L": 41.4,
+    "lowerBandL": 36.5
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "line": 9,
+    "min": 9
+   }
+  }
+ },
+ {
+  "id": "home-backdrop-day",
+  "kind": "home-backdrop",
+  "file": "/art/home/day.webp",
+  "w": 1290,
+  "h": 2796,
+  "meta": {
+   "grade": [
+    "dawn",
+    "day",
+    "dusk"
+   ],
+   "subject": "red stilt boathouse in a clearing-storm fjord",
+   "heroBox": "y 54-69%, x 50-97%",
+   "titleZone": "calm even cloud top 12%",
+   "needs": "night ink on HUD (B3); wiring G4 (.home-screen > .sky)",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1296x2800",
+   "master": "docs/art/masters/public/art/home/day.webp",
+   "masterSize": "1296x2800",
+   "masterNote": "generator original",
+   "source": {
+    "take": "h1-day-fjord-6",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 46.4,
+    "top62L": 59.4,
+    "lowerBandL": 25.1
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 8,
+    "min": 8
+   }
+  }
+ },
+ {
+  "id": "home-backdrop-night",
+  "kind": "home-backdrop",
+  "file": "/art/home/night.webp",
+  "w": 1290,
+  "h": 2796,
+  "meta": {
+   "grade": [
+    "night"
+   ],
+   "subject": "same fjord at blue hour, lit boathouse",
+   "heroBox": "y 54-68%, x 50-97%",
+   "needs": "wiring G4",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1296x2800",
+   "master": "docs/art/masters/public/art/home/night.webp",
+   "masterSize": "1296x2800",
+   "masterNote": "generator original",
+   "source": {
+    "take": "h1-night-fjord-5",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 24.5,
+    "top62L": 27.2,
+    "lowerBandL": 19.9
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 8,
+    "min": 8
+   }
+  }
+ },
+ {
+  "id": "splash-backdrop",
+  "kind": "splash-backdrop",
+  "file": "/art/brand/splash-backdrop.webp",
+  "w": 1290,
+  "h": 2796,
+  "meta": {
+   "subject": "dusk rain over a forest lake, amber break above centre",
+   "glowAt": "~33% height of the 9:19.5 frame; the drop-in square is cropped so the enso rings the glow",
+   "squareSafe": "drop-in square = rows 270-1566 of the source (centred on the glow), pine boughs in both top corners, lake below",
+   "dropIn": "docs/art/v3/brand-surfaces/drop-in/ (2732x2732 with cream enso) for resources/splash.png and the iOS Splash.imageset",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "route": "OpenAI direct /v1/images/generations",
+   "generated": "1296x2800",
+   "master": "docs/art/masters/public/art/brand/splash-backdrop.webp",
+   "masterSize": "1296x2800",
+   "masterNote": "generator original",
+   "source": {
+    "take": "h2-splash-rainglow-1",
+    "promptLog": "docs/art/v3/brand-surfaces/takes/prompts.json",
+    "promptSource": "docs/art/v3/brand-surfaces/_scripts/subjects.py"
+   },
+   "lab": {
+    "meanL": 24.7,
+    "top62L": 29.2,
+    "lowerBandL": 16.7
+   },
+   "noPeople": true,
+   "noText": true,
+   "look": "v3 Weatherlight",
+   "judge": {
+    "by": "independent Opus judge 2026-10-14",
+    "captivating": 9,
+    "craft": 9,
+    "inGameFit": 9,
+    "min": 9
+   }
+  }
+ }
+]
