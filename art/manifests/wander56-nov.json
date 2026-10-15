@@ -1,0 +1,2055 @@
+[
+ {
+  "id": "wander.w05-lighthouse.01",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 1,
+   "panels": 10,
+   "beat": "cliffs",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "golden late afternoon into dusk (panels 9-10)",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.42,
+   "quietAbs": 6.08,
+   "master": "docs/art/masters/wander/w05-lighthouse/01.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 33,
+   "take": "w05-01_02.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.02",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a winding path",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "golden late afternoon into dusk (panels 9-10)",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.473,
+   "quietAbs": 7.39,
+   "master": "docs/art/masters/wander/w05-lighthouse/02.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 31,
+   "take": "w05-02_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.03",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 3,
+   "panels": 10,
+   "beat": "the lighthouse",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "golden late afternoon into dusk (panels 9-10)",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.427,
+   "quietAbs": 6.3,
+   "master": "docs/art/masters/wander/w05-lighthouse/03.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 22,
+   "take": "w05-03_01.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.04",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 4,
+   "panels": 10,
+   "beat": "gulls",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "golden late afternoon into dusk (panels 9-10)",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.525,
+   "quietAbs": 6.84,
+   "master": "docs/art/masters/wander/w05-lighthouse/04.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 34,
+   "take": "w05-04_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.05",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 5,
+   "panels": 10,
+   "beat": "a cove",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "golden late afternoon into dusk (panels 9-10)",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.5,
+   "quietAbs": 7.67,
+   "master": "docs/art/masters/wander/w05-lighthouse/05.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 8,
+   "take": "w05-05_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.06",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 6,
+   "panels": 10,
+   "beat": "a rowboat",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "golden late afternoon into dusk (panels 9-10)",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.437,
+   "quietAbs": 5.76,
+   "master": "docs/art/masters/wander/w05-lighthouse/06.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 0,
+   "take": "w05-06_01.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.07",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 7,
+   "panels": 10,
+   "beat": "rocks with foam",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "golden late afternoon into dusk (panels 9-10)",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.524,
+   "quietAbs": 5.94,
+   "master": "docs/art/masters/wander/w05-lighthouse/07.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 31,
+   "take": "w05-07_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.08",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 8,
+   "panels": 10,
+   "beat": "wildflowers",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "golden late afternoon into dusk (panels 9-10)",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.313,
+   "quietAbs": 5.23,
+   "master": "docs/art/masters/wander/w05-lighthouse/08.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 0,
+   "take": "w05-08_02.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.09",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 9,
+   "panels": 10,
+   "beat": "the beam at dusk",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "dusk",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.362,
+   "quietAbs": 5.66,
+   "master": "docs/art/masters/wander/w05-lighthouse/09.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "source": "1024x1536",
+   "cropTop": 144,
+   "take": "lh09_01",
+   "group": "wander56-nov",
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "solid saturated navy night sky with no paper showing: tonal step at the 08|09 seam and off the house style; repainted as a paper-light dusk",
+    "refs": [
+     "wander/w05-lighthouse/08",
+     "wander/w05-lighthouse/01",
+     "old 09 for composition"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w05-lighthouse.10",
+  "kind": "painting",
+  "file": "/art/wander/w05-lighthouse/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w05-lighthouse",
+   "suite": "Island Lighthouse",
+   "panel": 10,
+   "panels": 10,
+   "beat": "open water",
+   "ink": [
+    "navy",
+    "sunflower",
+    "coral"
+   ],
+   "ground": "calm pale sea",
+   "light": "dusk",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "far sea horizon",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.372,
+   "quietAbs": 3.9,
+   "master": "docs/art/masters/wander/w05-lighthouse/10.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "source": "1024x1536",
+   "cropTop": 102,
+   "take": "lh10_00",
+   "group": "wander56-nov",
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "solid saturated navy night sky with no paper showing: tonal step at the 08|09 seam and off the house style; repainted as a paper-light dusk",
+    "refs": [
+     "wander/w05-lighthouse/08",
+     "wander/w05-lighthouse/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.01",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 1,
+   "panels": 10,
+   "beat": "floating islands with trees",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.285,
+   "quietAbs": 4.17,
+   "master": "docs/art/masters/wander/w06-cloud-garden/01.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 18,
+   "take": "w06-01_01.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.02",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a waterfall into cloud",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.285,
+   "quietAbs": 4.33,
+   "master": "docs/art/masters/wander/w06-cloud-garden/02.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-02_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.03",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 3,
+   "panels": 10,
+   "beat": "a bridge between islands",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.289,
+   "quietAbs": 5.05,
+   "master": "docs/art/masters/wander/w06-cloud-garden/03.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-03_01.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.04",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 4,
+   "panels": 10,
+   "beat": "kites",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.363,
+   "quietAbs": 4.14,
+   "master": "docs/art/masters/wander/w06-cloud-garden/04.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-04_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.05",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 5,
+   "panels": 10,
+   "beat": "a cloud pond",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.247,
+   "quietAbs": 3.99,
+   "master": "docs/art/masters/wander/w06-cloud-garden/05.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-05_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.06",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 6,
+   "panels": 10,
+   "beat": "birds",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.308,
+   "quietAbs": 4.01,
+   "master": "docs/art/masters/wander/w06-cloud-garden/06.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-06_01.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.07",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 7,
+   "panels": 10,
+   "beat": "a tea house on a cloud",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.356,
+   "quietAbs": 5.07,
+   "master": "docs/art/masters/wander/w06-cloud-garden/07.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-07_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.08",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 8,
+   "panels": 10,
+   "beat": "a glowing sky",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.343,
+   "quietAbs": 4.77,
+   "master": "docs/art/masters/wander/w06-cloud-garden/08.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-08_01.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.09",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 9,
+   "panels": 10,
+   "beat": "steps of cloud",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.307,
+   "quietAbs": 4.12,
+   "master": "docs/art/masters/wander/w06-cloud-garden/09.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-09_01.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "wander.w06-cloud-garden.10",
+  "kind": "painting",
+  "file": "/art/wander/w06-cloud-garden/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w06-cloud-garden",
+   "suite": "Cloud Garden",
+   "panel": 10,
+   "panels": 10,
+   "beat": "a sunlit summit",
+   "ink": [
+    "sky blue",
+    "pink",
+    "gold"
+   ],
+   "ground": "a calm sea of soft cloud",
+   "light": "soft luminous morning",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "horizonDef": "top of the cloud sea",
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.331,
+   "quietAbs": 4.57,
+   "master": "docs/art/masters/wander/w06-cloud-garden/10.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "source": "1024x1536",
+   "cropTop": 50,
+   "take": "w06-10_00.png",
+   "group": "wander56-nov"
+  }
+ },
+ {
+  "id": "daily-2026-11-01",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 1,
+   "book": "Frost and Lamps",
+   "motif": "frosted leaves",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.123,
+   "quietAbs": 1.34,
+   "group": "wander56-nov",
+   "cropTop": 189,
+   "take": "nov01_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/01.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.585,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-02",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 2,
+   "book": "Frost and Lamps",
+   "motif": "a lit window",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.086,
+   "quietAbs": 1.24,
+   "group": "wander56-nov",
+   "cropTop": 171,
+   "take": "nov02_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/02.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.598,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-03",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 3,
+   "book": "Frost and Lamps",
+   "motif": "a teapot",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.195,
+   "quietAbs": 1.51,
+   "group": "wander56-nov",
+   "cropTop": 82,
+   "take": "nov03_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/03.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.627,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-04",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 4,
+   "book": "Frost and Lamps",
+   "motif": "a bare birch",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.189,
+   "quietAbs": 1.1,
+   "group": "wander56-nov",
+   "cropTop": 128,
+   "take": "nov04b_00",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/04.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.56,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-05",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 5,
+   "book": "Frost and Lamps",
+   "motif": "a snowberry",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.137,
+   "quietAbs": 1.17,
+   "group": "wander56-nov",
+   "cropTop": 143,
+   "take": "nov05_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/05.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.57,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-06",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 6,
+   "book": "Frost and Lamps",
+   "motif": "a woodpile",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.084,
+   "quietAbs": 1.14,
+   "group": "wander56-nov",
+   "cropTop": 134,
+   "take": "nov06_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/06.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.57,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-07",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 7,
+   "book": "Frost and Lamps",
+   "motif": "a lantern in mist",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.181,
+   "quietAbs": 1.34,
+   "group": "wander56-nov",
+   "cropTop": 179,
+   "take": "nov07_00",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/07.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.644,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-08",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 8,
+   "book": "Frost and Lamps",
+   "motif": "a robin",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.149,
+   "quietAbs": 1.09,
+   "group": "wander56-nov",
+   "cropTop": 128,
+   "take": "nov08_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/08.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.537,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-09",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 9,
+   "book": "Frost and Lamps",
+   "motif": "a frozen puddle",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.09,
+   "quietAbs": 1.38,
+   "group": "wander56-nov",
+   "cropTop": 132,
+   "take": "nov09_00",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/09.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.57,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-10",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 10,
+   "book": "Frost and Lamps",
+   "motif": "a quilt corner",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.12,
+   "quietAbs": 1.47,
+   "group": "wander56-nov",
+   "cropTop": 189,
+   "take": "nov10_00",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/10.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.569,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-11",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/11.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 11,
+   "book": "Frost and Lamps",
+   "motif": "pine branches",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.105,
+   "quietAbs": 1.2,
+   "group": "wander56-nov",
+   "cropTop": 128,
+   "take": "nov11_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/11.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.57,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-12",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/12.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 12,
+   "book": "Frost and Lamps",
+   "motif": "a candle",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.19,
+   "quietAbs": 1.11,
+   "group": "wander56-nov",
+   "cropTop": 109,
+   "take": "nov12_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/12.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.598,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-13",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/13.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 13,
+   "book": "Frost and Lamps",
+   "motif": "a hot spring's steam",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.123,
+   "quietAbs": 1.22,
+   "group": "wander56-nov",
+   "cropTop": 129,
+   "take": "nov13_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/13.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.57,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-14",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/14.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 14,
+   "book": "Frost and Lamps",
+   "motif": "cranes flying",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.172,
+   "quietAbs": 1.27,
+   "group": "wander56-nov",
+   "cropTop": 127,
+   "take": "nov14_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/14.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.558,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-15",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/15.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 15,
+   "book": "Frost and Lamps",
+   "motif": "a cabin",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.12,
+   "quietAbs": 1.13,
+   "group": "wander56-nov",
+   "cropTop": 128,
+   "take": "nov15b_03",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/15.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.545,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-16",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/16.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 16,
+   "book": "Frost and Lamps",
+   "motif": "a mug of tea",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.221,
+   "quietAbs": 2.21,
+   "group": "wander56-nov",
+   "cropTop": 131,
+   "take": "nov16_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/16.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.623,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-17",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/17.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 17,
+   "book": "Frost and Lamps",
+   "motif": "holly",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.118,
+   "quietAbs": 1.21,
+   "group": "wander56-nov",
+   "cropTop": 146,
+   "take": "nov17_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/17.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.57,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-18",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/18.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 18,
+   "book": "Frost and Lamps",
+   "motif": "frost on glass",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.076,
+   "quietAbs": 1.16,
+   "group": "wander56-nov",
+   "cropTop": 128,
+   "take": "nov18_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/18.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.569,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-19",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/19.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 19,
+   "book": "Frost and Lamps",
+   "motif": "a bell",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.11,
+   "quietAbs": 1.2,
+   "group": "wander56-nov",
+   "cropTop": 160,
+   "take": "nov19_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/19.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.587,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-20",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/20.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 20,
+   "book": "Frost and Lamps",
+   "motif": "a mountain at dawn",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.133,
+   "quietAbs": 1.1,
+   "group": "wander56-nov",
+   "cropTop": 128,
+   "take": "nov20_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/20.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.557,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-21",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/21.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 21,
+   "book": "Frost and Lamps",
+   "motif": "a fox in frost",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.112,
+   "quietAbs": 1.24,
+   "group": "wander56-nov",
+   "cropTop": 201,
+   "take": "nov21_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/21.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.558,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-22",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/22.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 22,
+   "book": "Frost and Lamps",
+   "motif": "a snowflake",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.115,
+   "quietAbs": 0.96,
+   "group": "wander56-nov",
+   "cropTop": 144,
+   "take": "nov22_00",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/22.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.567,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-23",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/23.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 23,
+   "book": "Frost and Lamps",
+   "motif": "a heron in mist",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.199,
+   "quietAbs": 1.38,
+   "group": "wander56-nov",
+   "cropTop": 198,
+   "take": "nov23_00",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/23.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.614,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-24",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/24.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 24,
+   "book": "Frost and Lamps",
+   "motif": "a lamp-post",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.183,
+   "quietAbs": 1.14,
+   "group": "wander56-nov",
+   "cropTop": 128,
+   "take": "nov24b_00",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/24.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.555,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-25",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/25.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 25,
+   "book": "Frost and Lamps",
+   "motif": "mittens on a line",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.102,
+   "quietAbs": 1.34,
+   "group": "wander56-nov",
+   "cropTop": 194,
+   "take": "nov25_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/25.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.566,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-26",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/26.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 26,
+   "book": "Frost and Lamps",
+   "motif": "a river at dusk",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.092,
+   "quietAbs": 1.36,
+   "group": "wander56-nov",
+   "cropTop": 159,
+   "take": "nov26_01",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/26.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.57,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-27",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/27.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 27,
+   "book": "Frost and Lamps",
+   "motif": "a moonlit pine",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.19,
+   "quietAbs": 1.98,
+   "group": "wander56-nov",
+   "cropTop": 181,
+   "take": "nov27_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/27.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.584,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-28",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/28.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 28,
+   "book": "Frost and Lamps",
+   "motif": "a hearth glow",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.082,
+   "quietAbs": 1.21,
+   "group": "wander56-nov",
+   "cropTop": 128,
+   "take": "nov28_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/28.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.548,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-29",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/29.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 29,
+   "book": "Frost and Lamps",
+   "motif": "a deer in snow",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.236,
+   "quietAbs": 2.05,
+   "group": "wander56-nov",
+   "cropTop": 122,
+   "take": "nov29_02",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/29.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.615,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "daily-2026-11-30",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-11/30.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-11",
+   "day": 30,
+   "book": "Frost and Lamps",
+   "motif": "a first-snow garden",
+   "inks": [
+    "slate blue",
+    "plum",
+    "amber"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.105,
+   "quietAbs": 1.2,
+   "group": "wander56-nov",
+   "cropTop": 153,
+   "take": "nov30_00",
+   "source": "1024x1536",
+   "master": "docs/art/masters/daily/2026-11/30.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "motifBottom": 0.57,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "cross-stitch / pixel-mosaic texture read as a different medium from Daily 2026-10; repainted as wash watercolor",
+    "refs": [
+     "daily/2026-11/01 (new)",
+     "daily/2026-10/01"
+    ]
+   }
+  }
+ }
+]

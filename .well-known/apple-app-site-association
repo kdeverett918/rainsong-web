@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["UH99QQFW52.com.dizzywalk.risodream"],
+        "components": [
+          { "/": "/g/*", "comment": "A letter: /g/<painting>/#<code>" },
+          { "/": "/d", "comment": "Today's Ink: today's Daily Garden" },
+          { "/": "/d/" }
+        ]
+      }
+    ]
+  }
+}

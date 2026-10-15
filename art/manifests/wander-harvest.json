@@ -1,0 +1,1224 @@
+[
+ {
+  "id": "wander.w03-oasis.01",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 1,
+   "panels": 10,
+   "beat": "dunes",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.33,
+   "lowBandBusyness": 6.48,
+   "lowBandSaturation": 39.3,
+   "cropTop": 30,
+   "master": "docs/art/masters/wander/w03-oasis/01.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 30..1310 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.02",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a palm grove",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.314,
+   "lowBandBusyness": 7.23,
+   "lowBandSaturation": 40.1,
+   "cropTop": 64,
+   "master": "docs/art/masters/wander/w03-oasis/02.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 64..1344 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.03",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 3,
+   "panels": 10,
+   "beat": "a still pool",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.579,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.377,
+   "lowBandBusyness": 6.89,
+   "lowBandSaturation": 38.4,
+   "cropTop": 31,
+   "master": "docs/art/masters/wander/w03-oasis/03.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.04",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 4,
+   "panels": 10,
+   "beat": "a clay wall with a window",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.333,
+   "lowBandBusyness": 7.18,
+   "lowBandSaturation": 40.3,
+   "cropTop": 33,
+   "master": "docs/art/masters/wander/w03-oasis/04.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 33..1313 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.05",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 5,
+   "panels": 10,
+   "beat": "lanterns",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.324,
+   "lowBandBusyness": 7.15,
+   "lowBandSaturation": 40.5,
+   "cropTop": 18,
+   "master": "docs/art/masters/wander/w03-oasis/05.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 18..1298 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.06",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 6,
+   "panels": 10,
+   "beat": "camels' tracks (no people)",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.362,
+   "lowBandBusyness": 7.34,
+   "lowBandSaturation": 39.5,
+   "cropTop": 41,
+   "master": "docs/art/masters/wander/w03-oasis/06.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 41..1321 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.07",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 7,
+   "panels": 10,
+   "beat": "date palms",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.274,
+   "lowBandBusyness": 6.93,
+   "lowBandSaturation": 39.6,
+   "cropTop": 72,
+   "master": "docs/art/masters/wander/w03-oasis/07.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 72..1352 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.08",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 8,
+   "panels": 10,
+   "beat": "stars appearing",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.306,
+   "lowBandBusyness": 7.25,
+   "lowBandSaturation": 40.4,
+   "cropTop": 72,
+   "master": "docs/art/masters/wander/w03-oasis/08.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 72..1352 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.09",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 9,
+   "panels": 10,
+   "beat": "a small boat on the pool",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.307,
+   "lowBandBusyness": 6.42,
+   "lowBandSaturation": 38.3,
+   "cropTop": 76,
+   "master": "docs/art/masters/wander/w03-oasis/09.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 76..1356 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w03-oasis.10",
+  "kind": "painting",
+  "file": "/art/wander/w03-oasis/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w03-oasis",
+   "title": "Oasis at Dusk",
+   "panel": 10,
+   "panels": 10,
+   "beat": "a moonrise",
+   "ink": [
+    "terracotta",
+    "teal",
+    "violet"
+   ],
+   "ground": "smooth pale sand and a still pool",
+   "light": "dusk glow",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.362,
+   "lowBandBusyness": 7.72,
+   "lowBandSaturation": 40.1,
+   "cropTop": 49,
+   "master": "docs/art/masters/wander/w03-oasis/10.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 49..1329 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "wander.w04-aurora.01",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 1,
+   "panels": 10,
+   "beat": "spruce shore",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.345,
+   "lowBandBusyness": 5.58,
+   "lowBandSaturation": 30.6,
+   "cropTop": 84,
+   "master": "docs/art/masters/wander/w04-aurora/01.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 84..1364 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur01_03",
+   "upperBandSaturation": 53.5,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "panels/s07-moon-bridge/01",
+     "panels/s10-snow-temple/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.02",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a cabin with a warm window",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.288,
+   "lowBandBusyness": 6.09,
+   "lowBandSaturation": 33.5,
+   "cropTop": 98,
+   "master": "docs/art/masters/wander/w04-aurora/02.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 98..1378 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur02_01",
+   "upperBandSaturation": 59.0,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.03",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 3,
+   "panels": 10,
+   "beat": "aurora ribbons",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.266,
+   "lowBandBusyness": 5.65,
+   "lowBandSaturation": 28.3,
+   "cropTop": 86,
+   "master": "docs/art/masters/wander/w04-aurora/03.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 86..1366 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur03_00",
+   "upperBandSaturation": 55.7,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.04",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 4,
+   "panels": 10,
+   "beat": "a canoe",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.413,
+   "lowBandBusyness": 5.64,
+   "lowBandSaturation": 33.3,
+   "cropTop": 94,
+   "master": "docs/art/masters/wander/w04-aurora/04.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 94..1374 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur04_01",
+   "upperBandSaturation": 58.1,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.05",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 5,
+   "panels": 10,
+   "beat": "a loon on water",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.309,
+   "lowBandBusyness": 5.84,
+   "lowBandSaturation": 30.5,
+   "cropTop": 92,
+   "master": "docs/art/masters/wander/w04-aurora/05.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 92..1372 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur05_01",
+   "upperBandSaturation": 58.7,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.06",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 6,
+   "panels": 10,
+   "beat": "snowy rocks",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.308,
+   "lowBandBusyness": 5.9,
+   "lowBandSaturation": 31.7,
+   "cropTop": 94,
+   "master": "docs/art/masters/wander/w04-aurora/06.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 94..1374 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur06_00",
+   "upperBandSaturation": 59.7,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.07",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 7,
+   "panels": 10,
+   "beat": "reflections",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.326,
+   "lowBandBusyness": 5.67,
+   "lowBandSaturation": 30.5,
+   "cropTop": 89,
+   "master": "docs/art/masters/wander/w04-aurora/07.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 89..1369 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur07_00",
+   "upperBandSaturation": 58.3,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.08",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 8,
+   "panels": 10,
+   "beat": "a frozen inlet",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.356,
+   "lowBandBusyness": 5.3,
+   "lowBandSaturation": 34.2,
+   "cropTop": 96,
+   "master": "docs/art/masters/wander/w04-aurora/08.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 96..1376 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur08_01",
+   "upperBandSaturation": 60.7,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.09",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 9,
+   "panels": 10,
+   "beat": "a far mountain",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.294,
+   "lowBandBusyness": 5.85,
+   "lowBandSaturation": 30.1,
+   "cropTop": 103,
+   "master": "docs/art/masters/wander/w04-aurora/09.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 103..1383 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur09_00",
+   "upperBandSaturation": 57.9,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "wander.w04-aurora.10",
+  "kind": "painting",
+  "file": "/art/wander/w04-aurora/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w04-aurora",
+   "title": "Aurora Lake",
+   "panel": 10,
+   "panels": 10,
+   "beat": "the aurora's peak",
+   "ink": [
+    "spruce green",
+    "magenta",
+    "deep blue"
+   ],
+   "ground": "still lake water",
+   "light": "aurora light at the blue hour",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.3,
+   "lowBandBusyness": 5.49,
+   "lowBandSaturation": 30.3,
+   "cropTop": 88,
+   "master": "docs/art/masters/wander/w04-aurora/10.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 88..1368 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ],
+   "take": "aur10_01",
+   "upperBandSaturation": 53.9,
+   "regen": {
+    "by": "wave34 launch gate",
+    "date": "2026-10-12",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "reason": "airbrushed neon aurora on a solid saturated blue sky (upper-band saturation 80-97 vs 40-75 elsewhere): looked like a different game; repainted as broken washes with paper showing",
+    "refs": [
+     "wander/w04-aurora/01 (new)",
+     "panels/s07-moon-bridge/01"
+    ]
+   }
+  }
+ },
+ {
+  "id": "seasonal.harvest-moon.01",
+  "kind": "painting",
+  "file": "/art/seasonal/harvest-moon/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "harvest-moon",
+   "title": "Harvest Moon",
+   "panel": 1,
+   "panels": 8,
+   "beat": "pampas grass",
+   "ink": [
+    "amber",
+    "plum",
+    "deep blue"
+   ],
+   "ground": "harvested fields and a still river",
+   "light": "a huge low moon at dusk",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.231,
+   "lowBandBusyness": 6.46,
+   "lowBandSaturation": 44.0,
+   "cropTop": 87,
+   "master": "docs/art/masters/seasonal/harvest-moon/01.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 87..1367 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "seasonal.harvest-moon.02",
+  "kind": "painting",
+  "file": "/art/seasonal/harvest-moon/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "harvest-moon",
+   "title": "Harvest Moon",
+   "panel": 2,
+   "panels": 8,
+   "beat": "rice sheaves drying",
+   "ink": [
+    "amber",
+    "plum",
+    "deep blue"
+   ],
+   "ground": "harvested fields and a still river",
+   "light": "a huge low moon at dusk",
+   "horizon": 0.579,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.329,
+   "lowBandBusyness": 7.12,
+   "lowBandSaturation": 41.8,
+   "cropTop": 31,
+   "master": "docs/art/masters/seasonal/harvest-moon/02.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "seasonal.harvest-moon.03",
+  "kind": "painting",
+  "file": "/art/seasonal/harvest-moon/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "harvest-moon",
+   "title": "Harvest Moon",
+   "panel": 3,
+   "panels": 8,
+   "beat": "a rabbit-shaped cloud near the moon",
+   "ink": [
+    "amber",
+    "plum",
+    "deep blue"
+   ],
+   "ground": "harvested fields and a still river",
+   "light": "a huge low moon at dusk",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.31,
+   "lowBandBusyness": 7.04,
+   "lowBandSaturation": 43.0,
+   "cropTop": 38,
+   "master": "docs/art/masters/seasonal/harvest-moon/03.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 38..1318 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "seasonal.harvest-moon.04",
+  "kind": "painting",
+  "file": "/art/seasonal/harvest-moon/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "harvest-moon",
+   "title": "Harvest Moon",
+   "panel": 4,
+   "panels": 8,
+   "beat": "round dumplings on a tray on a veranda",
+   "ink": [
+    "amber",
+    "plum",
+    "deep blue"
+   ],
+   "ground": "harvested fields and a still river",
+   "light": "a huge low moon at dusk",
+   "horizon": 0.579,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.277,
+   "lowBandBusyness": 6.66,
+   "lowBandSaturation": 40.8,
+   "cropTop": 31,
+   "master": "docs/art/masters/seasonal/harvest-moon/04.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "seasonal.harvest-moon.05",
+  "kind": "painting",
+  "file": "/art/seasonal/harvest-moon/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "harvest-moon",
+   "title": "Harvest Moon",
+   "panel": 5,
+   "panels": 8,
+   "beat": "a persimmon tree",
+   "ink": [
+    "amber",
+    "plum",
+    "deep blue"
+   ],
+   "ground": "harvested fields and a still river",
+   "light": "a huge low moon at dusk",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.257,
+   "lowBandBusyness": 7.25,
+   "lowBandSaturation": 44.4,
+   "cropTop": 26,
+   "master": "docs/art/masters/seasonal/harvest-moon/05.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 26..1306 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "seasonal.harvest-moon.06",
+  "kind": "painting",
+  "file": "/art/seasonal/harvest-moon/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "harvest-moon",
+   "title": "Harvest Moon",
+   "panel": 6,
+   "panels": 8,
+   "beat": "the moon reflected in a river",
+   "ink": [
+    "amber",
+    "plum",
+    "deep blue"
+   ],
+   "ground": "harvested fields and a still river",
+   "light": "a huge low moon at dusk",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.344,
+   "lowBandBusyness": 7.46,
+   "lowBandSaturation": 43.7,
+   "cropTop": 26,
+   "master": "docs/art/masters/seasonal/harvest-moon/06.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 26..1306 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "seasonal.harvest-moon.07",
+  "kind": "painting",
+  "file": "/art/seasonal/harvest-moon/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "harvest-moon",
+   "title": "Harvest Moon",
+   "panel": 7,
+   "panels": 8,
+   "beat": "lanterns along a field path",
+   "ink": [
+    "amber",
+    "plum",
+    "deep blue"
+   ],
+   "ground": "harvested fields and a still river",
+   "light": "a huge low moon at dusk",
+   "horizon": 0.579,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.237,
+   "lowBandBusyness": 6.79,
+   "lowBandSaturation": 43.4,
+   "cropTop": 77,
+   "master": "docs/art/masters/seasonal/harvest-moon/07.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 77..1357 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ },
+ {
+  "id": "seasonal.harvest-moon.08",
+  "kind": "painting",
+  "file": "/art/seasonal/harvest-moon/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "harvest-moon",
+   "title": "Harvest Moon",
+   "panel": 8,
+   "panels": 8,
+   "beat": "the full moon over hills",
+   "ink": [
+    "amber",
+    "plum",
+    "deep blue"
+   ],
+   "ground": "harvested fields and a still river",
+   "light": "a huge low moon at dusk",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.268,
+   "lowBandBusyness": 6.38,
+   "lowBandSaturation": 43.2,
+   "cropTop": 53,
+   "master": "docs/art/masters/seasonal/harvest-moon/08.webp",
+   "masterNote": "generator original 1024x1536; in-app = crop y 53..1333 upscaled to 1080x1350",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "styleRefs": [
+    "panels/s03-tea-hills/01",
+    "panels/s01-first-light/06"
+   ]
+  }
+ }
+]

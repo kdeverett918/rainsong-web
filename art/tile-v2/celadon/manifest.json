@@ -1,0 +1,1177 @@
+{
+ "direction": "celadon r2 (ink-dipped cream porcelain)",
+ "generated_by": "docs/tiles-v2/celadon/src/sprites_r2.py",
+ "renders": "docs/tiles-v2/celadon/src/render_r2.py (Blender 5.1 Cycles, 128 spp, scale 8)",
+ "sets": {
+  "1x": {
+   "face_px": 64,
+   "use_when": "face * devicePixelRatio <= 64"
+  },
+  "2x": {
+   "face_px": 128,
+   "use_when": "face * devicePixelRatio <= 128"
+  },
+  "3x": {
+   "face_px": 192,
+   "use_when": "otherwise"
+  }
+ },
+ "bytes_per_set": {
+  "1x": 78420,
+  "2x": 194970,
+  "3x": 344224,
+  "shared": 6560
+ },
+ "files": {
+  "face/1x/face-a.webp": {
+   "kind": "face",
+   "px": [
+    64,
+    80
+   ],
+   "bytes": 622,
+   "sha256": "5b225bc4499dabe65b8ab69f57e1894e0d646304f7ea574578954f71a24ed7b3",
+   "note": "body variant a; background-color = scroll ink under it"
+  },
+  "wall/1x/wall-light.webp": {
+   "kind": "wall-light",
+   "px": [
+    64,
+    16
+   ],
+   "bytes": 594,
+   "sha256": "e14b8e6db0dfa9cda01343beb57755248381a722dd742dda55aba1eb428b7b50",
+   "note": "over background-color var(--side); bottom-anchored, 100% x (edge + .15 face)"
+  },
+  "face/2x/face-a.webp": {
+   "kind": "face",
+   "px": [
+    128,
+    160
+   ],
+   "bytes": 1588,
+   "sha256": "8f60c67df438f22fb05eb3522c5f9d19d56f5081bd10b388b878555ee0d3dfb0",
+   "note": "body variant a; background-color = scroll ink under it"
+  },
+  "wall/2x/wall-light.webp": {
+   "kind": "wall-light",
+   "px": [
+    128,
+    32
+   ],
+   "bytes": 1414,
+   "sha256": "ee0ba2182199091c6999b1fce20525b76e45be908cc3243bd83c39bb55540f98",
+   "note": "over background-color var(--side); bottom-anchored, 100% x (edge + .15 face)"
+  },
+  "face/3x/face-a.webp": {
+   "kind": "face",
+   "px": [
+    192,
+    240
+   ],
+   "bytes": 2812,
+   "sha256": "8a0b7b45be65b8bb7584ef68836faa1a6da8ed57f7cbbf2cb3217ceef83ce797",
+   "note": "body variant a; background-color = scroll ink under it"
+  },
+  "wall/3x/wall-light.webp": {
+   "kind": "wall-light",
+   "px": [
+    192,
+    48
+   ],
+   "bytes": 2326,
+   "sha256": "34476d248fdf35e97b96249a9d1aed20bf1544c6173b89f63831a3950af23964",
+   "note": "over background-color var(--side); bottom-anchored, 100% x (edge + .15 face)"
+  },
+  "face/1x/face-b.webp": {
+   "kind": "face",
+   "px": [
+    64,
+    80
+   ],
+   "bytes": 612,
+   "sha256": "6ba59c5e2193397e9669648e87b1b306c806439f90c1070060f9f9ac00818917",
+   "note": "body variant b; background-color = scroll ink under it"
+  },
+  "face/2x/face-b.webp": {
+   "kind": "face",
+   "px": [
+    128,
+    160
+   ],
+   "bytes": 1652,
+   "sha256": "e1d6c2267d71181f71e02a6de3e046b4f88dda3e0f0402f08ea3cce9b5c34d41",
+   "note": "body variant b; background-color = scroll ink under it"
+  },
+  "face/3x/face-b.webp": {
+   "kind": "face",
+   "px": [
+    192,
+    240
+   ],
+   "bytes": 2858,
+   "sha256": "b30316d807b92dda0049207cab6ad1a4e4682772a92ff1e36905bb21dd756706",
+   "note": "body variant b; background-color = scroll ink under it"
+  },
+  "face/1x/face-c.webp": {
+   "kind": "face",
+   "px": [
+    64,
+    80
+   ],
+   "bytes": 622,
+   "sha256": "a431c6feb81e57880b0ac46e8ecb7701148f9422f98cdf197f030e4cfe8dde8e",
+   "note": "body variant c; background-color = scroll ink under it"
+  },
+  "face/2x/face-c.webp": {
+   "kind": "face",
+   "px": [
+    128,
+    160
+   ],
+   "bytes": 1656,
+   "sha256": "ef3d1489e1654549ab7bc0979a01f846f5a4e167849357c07923897383f1045c",
+   "note": "body variant c; background-color = scroll ink under it"
+  },
+  "face/3x/face-c.webp": {
+   "kind": "face",
+   "px": [
+    192,
+    240
+   ],
+   "bytes": 2818,
+   "sha256": "188dd471889c9f7536742f7bbedbd207e5ed4605088319fb909889af475a6a12",
+   "note": "body variant c; background-color = scroll ink under it"
+  },
+  "face/1x/face-d.webp": {
+   "kind": "face",
+   "px": [
+    64,
+    80
+   ],
+   "bytes": 640,
+   "sha256": "b9c55a9a0bd8540ee54fc1fccf3c8b50948e604d6f77f53e0c02e1929ef161af",
+   "note": "body variant d; background-color = scroll ink under it"
+  },
+  "face/2x/face-d.webp": {
+   "kind": "face",
+   "px": [
+    128,
+    160
+   ],
+   "bytes": 1672,
+   "sha256": "0836756a19e06bf13e9609fd84576164d7a331e0fdd895ce61474a9a5cd43771",
+   "note": "body variant d; background-color = scroll ink under it"
+  },
+  "face/3x/face-d.webp": {
+   "kind": "face",
+   "px": [
+    192,
+    240
+   ],
+   "bytes": 2940,
+   "sha256": "03238639b8b6e26ab3766171498d6824947a18bb248a38c312c46b3b9bc39fe7",
+   "note": "body variant d; background-color = scroll ink under it"
+  },
+  "face/1x/gild-a.webp": {
+   "kind": "face-gild",
+   "px": [
+    64,
+    80
+   ],
+   "bytes": 682,
+   "sha256": "27c909051bf238c262cadeaadf0cffdccaf849db07b8fd1faf7dd594df66e2eb",
+   "note": "kintsugi seams in the rim crackle"
+  },
+  "wall/1x/wall-gold.webp": {
+   "kind": "wall-gold",
+   "px": [
+    64,
+    16
+   ],
+   "bytes": 378,
+   "sha256": "1e6c4036b92d441e755053fdb8fb35092339a74ec2770204d552c8c824c299ec",
+   "note": "opaque gold-lustre wall (gilded body)"
+  },
+  "face/2x/gild-a.webp": {
+   "kind": "face-gild",
+   "px": [
+    128,
+    160
+   ],
+   "bytes": 1560,
+   "sha256": "5710c3a8e528d6b1864c551a2a2c6f6f42baae611d0cbed3574b081d65d1d200",
+   "note": "kintsugi seams in the rim crackle"
+  },
+  "wall/2x/wall-gold.webp": {
+   "kind": "wall-gold",
+   "px": [
+    128,
+    32
+   ],
+   "bytes": 788,
+   "sha256": "465a722146f992946b2f18be6fda6551a00e8328d60383a67fc5ff4c4eb34912",
+   "note": "opaque gold-lustre wall (gilded body)"
+  },
+  "face/3x/gild-a.webp": {
+   "kind": "face-gild",
+   "px": [
+    192,
+    240
+   ],
+   "bytes": 2860,
+   "sha256": "834cde8c5a1e991275397237d8294451b1f6239484c1e134c73393ea28c71438",
+   "note": "kintsugi seams in the rim crackle"
+  },
+  "wall/3x/wall-gold.webp": {
+   "kind": "wall-gold",
+   "px": [
+    192,
+    48
+   ],
+   "bytes": 1260,
+   "sha256": "acadb10e2a26883387377aaf216f7f2ef13984bbb0edc961987fa80a0da2feb1",
+   "note": "opaque gold-lustre wall (gilded body)"
+  },
+  "face/1x/gild-c.webp": {
+   "kind": "face-gild",
+   "px": [
+    64,
+    80
+   ],
+   "bytes": 690,
+   "sha256": "a0e06bdf519ebf7bc08ea9ff9d34926d1ab0d26e1c4a249184976489495b4fdb",
+   "note": "kintsugi seams in the rim crackle"
+  },
+  "face/2x/gild-c.webp": {
+   "kind": "face-gild",
+   "px": [
+    128,
+    160
+   ],
+   "bytes": 1566,
+   "sha256": "a47d90ca009359d0fd620b714c08ebc65edca89b90e91236845ed3bf1fefdc1e",
+   "note": "kintsugi seams in the rim crackle"
+  },
+  "face/3x/gild-c.webp": {
+   "kind": "face-gild",
+   "px": [
+    192,
+    240
+   ],
+   "bytes": 2814,
+   "sha256": "deab873f7acc1d01197ae029bb44ea17687d33a7dda34b41dd286f5fd33cb53f",
+   "note": "kintsugi seams in the rim crackle"
+  },
+  "sym/1x/lotus.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2418,
+   "sha256": "d88e61e3450d210128ee11efd5f1987542381e8d01b0e24e1aea8d6be10e5d8e",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lotus.png"
+  },
+  "sym/2x/lotus.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6150,
+   "sha256": "9c2b7a7d1df82103e6ad7c02a3e8327d0b3f386dda090b83a2e281c1faecc2a7",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lotus.png"
+  },
+  "sym/3x/lotus.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 10892,
+   "sha256": "a40d5776c56dd9896834d304e58593095593f8e4334f0642ce3865e8757028e3",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lotus.png"
+  },
+  "sym/1x/moon.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2268,
+   "sha256": "1d885d51df13e65651ae44b75c737dcbd29efe073d7136e2f1eb803f8eec3385",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/moon.png"
+  },
+  "sym/2x/moon.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5634,
+   "sha256": "c72c5bfe3f9f4c9f586639c6758d61fa48b2e1a71ea35a9b7fd489fc6959d45e",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/moon.png"
+  },
+  "sym/3x/moon.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 10110,
+   "sha256": "395877f514022bb88414584dc6442ca56b6a1be36ada1714ebfeb3d243a61075",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/moon.png"
+  },
+  "sym/1x/sun.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 3028,
+   "sha256": "4dddeb6ad879664765b62698041e82c54008c075f5efd1e6e97fdb3334c3067c",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/sun.png"
+  },
+  "sym/2x/sun.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 7022,
+   "sha256": "21d6408f97443f6856cd8b15071978c9b79e58337c7a646adc1984b7ffbb7d4b",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/sun.png"
+  },
+  "sym/3x/sun.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 12566,
+   "sha256": "c3c1bc5c76694d2930a6bbae8c33237af1a417d993e45d0b59a5bf7e84b00eed",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/sun.png"
+  },
+  "sym/1x/leaf.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2296,
+   "sha256": "0f2b7c732a7a854d2f0f269148382d25d37e26d8712f7b2539ac03785820a840",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/leaf.png"
+  },
+  "sym/2x/leaf.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5906,
+   "sha256": "de574341d6ae180344b206aad9fd6917d164ac14310d6755d2fd5fc16e9b5946",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/leaf.png"
+  },
+  "sym/3x/leaf.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11042,
+   "sha256": "560fa59a1c5683af0ed545475f41e6ecd8856efda7d51ae6d799e54c0b8b93fd",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/leaf.png"
+  },
+  "sym/1x/drop.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2150,
+   "sha256": "3e48b83c54dfd7219bde38452fc7946a5dd130bb240ef2aaad64851449ffdde1",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/drop.png"
+  },
+  "sym/2x/drop.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5288,
+   "sha256": "1441b0d7fedcc3cdbf7ec4dc90175b766fab3440e1d66465bd2016635c505987",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/drop.png"
+  },
+  "sym/3x/drop.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 9906,
+   "sha256": "ebd12ebea30dcaf1b5e74c32e90589d29a2a9b769679fe1d5d5330fd4c84d2b8",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/drop.png"
+  },
+  "sym/1x/cairn.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2272,
+   "sha256": "49a8da11cacd45a1640a7e56419166e031bffb2ced624b32b491f5196e4c4364",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cairn.png"
+  },
+  "sym/2x/cairn.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6098,
+   "sha256": "26c5ddc53764bcae351e34be91f2b3941519b52c3be90988661931f4c28b06bf",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cairn.png"
+  },
+  "sym/3x/cairn.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11344,
+   "sha256": "368822cfb5bbbb748fda3d326428f780d30d3686429dd03c7091fa50857ccf50",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cairn.png"
+  },
+  "sym/1x/crane.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2372,
+   "sha256": "d5128acbc5cbbdece1b314a280fadf57e57f31977c4ec2dbf9ffd8e6a23deb33",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/crane.png"
+  },
+  "sym/2x/crane.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5760,
+   "sha256": "5cdea4ba4efdc93baf035f87ae6f94af810b482d0a7b69a07b7490664bf69e05",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/crane.png"
+  },
+  "sym/3x/crane.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 9654,
+   "sha256": "b11e29d7f37309015af8299838fcc2c44963e188cb50397cf704541291562ff7",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/crane.png"
+  },
+  "sym/1x/mushroom.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2214,
+   "sha256": "3250754ce9eb0cf5260e9ad40cc2f059f4c715fe843e6a02a5ab85a56d7340db",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mushroom.png"
+  },
+  "sym/2x/mushroom.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5520,
+   "sha256": "9a0f8f5ef7cbe734c50e54a4a7bcd43d1ded617295aadd91ffc5b3b08166e4fb",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mushroom.png"
+  },
+  "sym/3x/mushroom.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 10056,
+   "sha256": "84ded044e9d4f36d2658f01de97baccef4b5370036f8b694bbcb73d35d7b1269",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mushroom.png"
+  },
+  "sym/1x/butterfly.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2618,
+   "sha256": "a3c89ad49e9bbb7a9acef8f54d6ec670c86708c9fcce7852fbe62a01b4dfcbe5",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/butterfly.png"
+  },
+  "sym/2x/butterfly.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6904,
+   "sha256": "9f563097c65d54b0694ec28334dc694c376b3cc7174f8d67b1d47c2b987994fa",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/butterfly.png"
+  },
+  "sym/3x/butterfly.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 12698,
+   "sha256": "81df4ee9a4554263d42e548fed53362147c7e1d48e478faaa8672f35cb766011",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/butterfly.png"
+  },
+  "sym/1x/tulip.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2870,
+   "sha256": "bbba29ebff41f392f8cc50e199d48c6b1bf365311d365b6c92f92287ce727b7c",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/tulip.png"
+  },
+  "sym/2x/tulip.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 7220,
+   "sha256": "21d16372095464fd3c472ee3120593d604e4f2ebb07c90f9b357f0faa778a333",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/tulip.png"
+  },
+  "sym/3x/tulip.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 12794,
+   "sha256": "e5bf782404d73be4546c15228589877ace41a0b6a8182c2cce4e7df3842a75dc",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/tulip.png"
+  },
+  "sym/1x/enso.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2714,
+   "sha256": "23ae51b167f49698675f3e15bffbd98a40d1996ef12597383909bdda6c4c3547",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/enso.png"
+  },
+  "sym/2x/enso.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6758,
+   "sha256": "dcb4e6af1c622f801d774302c38ecb13e2933abc982058b1eda66b33381ed276",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/enso.png"
+  },
+  "sym/3x/enso.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11512,
+   "sha256": "376029b02a993b37183c7e96b49e23eab7745096e3e74b86845b71ae9897b2a5",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/enso.png"
+  },
+  "sym/1x/feather.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2462,
+   "sha256": "1c4a269d7564bc1aea6f8f782c894e554afc0bbcf87417945905a1b5b038f502",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/feather.png"
+  },
+  "sym/2x/feather.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6280,
+   "sha256": "65dc7fa7b43e05fe46095a2864228b3b31f0ad895369a9a79bbd80096dca3496",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/feather.png"
+  },
+  "sym/3x/feather.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11344,
+   "sha256": "7026198e0f1f9ec812a2c425d77a28f262abd22a82a895142cedfe5c83c8c1bd",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/feather.png"
+  },
+  "sym/1x/ginkgo.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2058,
+   "sha256": "a138725009f2ec11f1a6125f43cb9089fd359efcf6b41da048b2c40747cd728e",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/ginkgo.png"
+  },
+  "sym/2x/ginkgo.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 4818,
+   "sha256": "de8cab332c8e6e309627508cf82ed1e3be2b8b6a83e89cc7b2bab07bdec50095",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/ginkgo.png"
+  },
+  "sym/3x/ginkgo.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 8374,
+   "sha256": "576a68e34866c32c06e4564cf268a83d00b6f50ad8eb86296ec1bbf61f94cc94",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/ginkgo.png"
+  },
+  "sym/1x/acorn.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2458,
+   "sha256": "b95565d8fd7aad1b2c9780dd378f1c2e572a8959c6451178e86fbdbaf68e317c",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/acorn.png"
+  },
+  "sym/2x/acorn.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6106,
+   "sha256": "da6a3f0c49a5f8bcd8ee656d37dbf3bbe82dcc18537a2a8c23b5ddfaf5c5df0b",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/acorn.png"
+  },
+  "sym/3x/acorn.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 10946,
+   "sha256": "1b75e18adc86ea3221bc39379ee57783abe68f0dcd2a81087aa6da98396bbefe",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/acorn.png"
+  },
+  "sym/1x/dragonfly.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2220,
+   "sha256": "7f6e97ea178d1e06aa6cf12b51bfc06acb5086a3572e2cec2ea25a6a85ed1b4b",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/dragonfly.png"
+  },
+  "sym/2x/dragonfly.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5614,
+   "sha256": "2eb42ff41374364ad96b3a1257fd6a9e05d21ed9f04cd0deab7c7233e8b9dfd0",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/dragonfly.png"
+  },
+  "sym/3x/dragonfly.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 9532,
+   "sha256": "0d29d2f7a9d390d33e4158fc7a040f2e0618c4278d7f768c4ca7b578e8e4faca",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/dragonfly.png"
+  },
+  "sym/1x/shell.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2314,
+   "sha256": "0500c045d0c7a8bb3278b7b95b0ca5c8c67e4de5b5284058440209a59e80b508",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/shell.png"
+  },
+  "sym/2x/shell.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5646,
+   "sha256": "3a2d3bebe5f45458fd0c45b8e5f7adcd419412304d0ffea045ab056d5ac6d11d",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/shell.png"
+  },
+  "sym/3x/shell.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 9874,
+   "sha256": "9252dca264563f0b36269d93d090e97dbc6defaa5f0ec66d4fad7d93697733ee",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/shell.png"
+  },
+  "sym/1x/wave.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2684,
+   "sha256": "cb9e250dba16fe6df20db1623b8aaed406b54fbab3eeccc2c70fd47afa096e73",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/wave.png"
+  },
+  "sym/2x/wave.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6718,
+   "sha256": "139adba5a50049ba56ea5b13fcfdfc0138c1cd5e0787d882f5bf258eabe26f84",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/wave.png"
+  },
+  "sym/3x/wave.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11760,
+   "sha256": "586c562dad417baee6d6e5095cc62d5bd5b7e55fe3cf5b95d0f95304f9d3cced",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/wave.png"
+  },
+  "sym/1x/star.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2364,
+   "sha256": "ee6f196d899c203062bee3a0dc7474b562f572b84368a14497956f2b5f33771f",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/star.png"
+  },
+  "sym/2x/star.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5400,
+   "sha256": "94f0fd0cbf9f411f38a62328621aa2a267886faa9b254a8c79c5d5785ff3bc54",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/star.png"
+  },
+  "sym/3x/star.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 8998,
+   "sha256": "f1f52c08a9da894b268ae884c022aebbafad4512fce02912bf0767ccc2bbcbe2",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/star.png"
+  },
+  "sym/1x/bonsai.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2652,
+   "sha256": "4a7441037a4cb6d4bbe4853dcd5e05570406bd2c669f03c03cfae068628ad969",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bonsai.png"
+  },
+  "sym/2x/bonsai.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6850,
+   "sha256": "557a8f7c96b7478b88312d7e8a1f3c30386c3ea2d3681a27d5db6617c8f46209",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bonsai.png"
+  },
+  "sym/3x/bonsai.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11970,
+   "sha256": "2f5468cb3d0d0f76ecb035f25cb7c20df3b6801a712d50150649930dc4486c65",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bonsai.png"
+  },
+  "sym/1x/koi.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2904,
+   "sha256": "5a3f2c85b8c0f0c9f1d235e8e87d85b5caa6db07fb32861e1bd22a5da84b8f47",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/koi.png"
+  },
+  "sym/2x/koi.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 7220,
+   "sha256": "9bdb74bfb3cba009b96cdbde86da4df11a6c35c751f27a510cd0445b52bf3fde",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/koi.png"
+  },
+  "sym/3x/koi.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 12718,
+   "sha256": "58e24e579fe1dd187e0180140a1c0805a812ec9c73a556573ce94f1635f1bd67",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/koi.png"
+  },
+  "sym/1x/turtle.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2552,
+   "sha256": "27a4ce2ecc211ff2a789cae59e13aea82680a6e03f4d5aa783c0a1be40fd1cbe",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/turtle.png"
+  },
+  "sym/2x/turtle.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6474,
+   "sha256": "25bd62004f022b57b8811bd53b5386165f8fb7cfcb86967e200895919d2b57ab",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/turtle.png"
+  },
+  "sym/3x/turtle.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11390,
+   "sha256": "b009d100865625588ddb06882f8bf63c963d71b79dd6afca3d617ca21d053c92",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/turtle.png"
+  },
+  "sym/1x/cloud.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 1722,
+   "sha256": "4461a735f48ae041ab924a7049025bfee1ad8e50e3ac082b70609276f24096de",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cloud.png"
+  },
+  "sym/2x/cloud.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 4240,
+   "sha256": "0feaed4c0c8e9304761a31369a9523adbeaea7b68dead2a8ddbb1e82d58d4b84",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cloud.png"
+  },
+  "sym/3x/cloud.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 7338,
+   "sha256": "8684d9b3d72b0f08c679593dfbbe31db7d5a5306711a36656d2250ebc90b7dd2",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cloud.png"
+  },
+  "sym/1x/lantern.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2494,
+   "sha256": "a57744a2a2de48c5cdd9ea19c10b13a51c11765db3ac1bd783683359d099cb11",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lantern.png"
+  },
+  "sym/2x/lantern.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6558,
+   "sha256": "5dc89c03e566706ba519bd00bcbb5452e972b3a9d2c0c3cfd570168b09c6ce57",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lantern.png"
+  },
+  "sym/3x/lantern.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 12002,
+   "sha256": "5a44f495ecbe4245d7d487761866804e27cdbbf5a308903890932cdb24b9e890",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lantern.png"
+  },
+  "sym/1x/bamboo.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2562,
+   "sha256": "b616a6647dd27e11d815f147b7a9e9e792d443ade796f2a576301bb185ef7eed",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bamboo.png"
+  },
+  "sym/2x/bamboo.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6410,
+   "sha256": "ae33e665399e11062d007e4d9365b4d1e6b4c1898615dc39c156ba1d12fc2f09",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bamboo.png"
+  },
+  "sym/3x/bamboo.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11350,
+   "sha256": "2bc437ce860c2b4284d2cc1e406885acc04d3ee712437ed056a86899a5453b17",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bamboo.png"
+  },
+  "sym/1x/mountain.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 1962,
+   "sha256": "e0fc596ca4cc521050b22ffa35d90b669c3ec5f88db8f52f22b2bf59cc05b7f8",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mountain.png"
+  },
+  "sym/2x/mountain.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 4890,
+   "sha256": "02dc7bfd56f47680b369d971e90e6fca2b85f04b089937591b6b2a1fa29c02bf",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mountain.png"
+  },
+  "sym/3x/mountain.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 8774,
+   "sha256": "320bf895d6a08acca500982c871b97c6e647beed24ac70f7b612dac47be78750",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mountain.png"
+  },
+  "sym/1x/bell.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2180,
+   "sha256": "cba6261539cf95a1eaa25f93ba8347fc406ee7a84d5df83f5777d64649df3734",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/bell.png"
+  },
+  "sym/2x/bell.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5094,
+   "sha256": "b25a34547e7956da282c5f7cae7024ef65ba2377a9b2cf1c6146a633c36c7049",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/bell.png"
+  },
+  "sym/3x/bell.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 8382,
+   "sha256": "3d4c9403fdc42ef7835a4eef38c0a15d5556adbc0bec10f7a5e3e8c9f0300f24",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/bell.png"
+  },
+  "sym/1x/hummingbird.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2348,
+   "sha256": "237f621c416bd143e771e431c56e68de26d146d7fac2886b59959ceb0c62af3d",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/hummingbird.png"
+  },
+  "sym/2x/hummingbird.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 5492,
+   "sha256": "1e06f654094f9c5c2853ba4ceb5bf8c30e2d22f99d54ee5e870cafa93f612536",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/hummingbird.png"
+  },
+  "sym/3x/hummingbird.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 9356,
+   "sha256": "a98ffaa756f8e252b5ff3917b9b9db8b4b5ed41156c81c277aa5152e51d961f4",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/hummingbird.png"
+  },
+  "sym/1x/teacup.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2642,
+   "sha256": "7cfbef251ad3aba46e4ea92ad9a0722d2e488b9dc1ef8400a7517d6012e4dbc7",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/teacup.png"
+  },
+  "sym/2x/teacup.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6646,
+   "sha256": "de297abd5275e0f9b3b14fae7ae656f94e8f2b0ad7f95b593d7ea40a86168292",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/teacup.png"
+  },
+  "sym/3x/teacup.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11746,
+   "sha256": "f1f14e0b55c7aacf00f6b7f264a07d2de9741f1d14517994c1d1e0ba6f5f33a1",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/teacup.png"
+  },
+  "sym/1x/bowl.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 2584,
+   "sha256": "d29d9f8097451accdfca658ae46ad3ce47118aef541d8d3ef01b560bf157c5d9",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bowl.png"
+  },
+  "sym/2x/bowl.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 6396,
+   "sha256": "a3ed9cacb7e6a002c174a6a02dcf33f3010e28bb9653a67a9d69ccbfb96338e7",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bowl.png"
+  },
+  "sym/3x/bowl.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 11610,
+   "sha256": "a9d3f047e4d2773876b5964013fab63b797db54c8845839f3cf47f11596bdedd",
+   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bowl.png"
+  },
+  "sym/1x/snowflake.webp": {
+   "kind": "symbol",
+   "px": [
+    54,
+    67
+   ],
+   "bytes": 3198,
+   "sha256": "853bb2e5d657cbae874c03eafe071f1c4bb86b81586af627dc27006abf88ab32",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/snowflake.png"
+  },
+  "sym/2x/snowflake.webp": {
+   "kind": "symbol",
+   "px": [
+    108,
+    134
+   ],
+   "bytes": 7962,
+   "sha256": "6d1ee5175c5466522df71a30d34f61031fc244d494b8bb32d2fc7d8692e9e55c",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/snowflake.png"
+  },
+  "sym/3x/snowflake.webp": {
+   "kind": "symbol",
+   "px": [
+    161,
+    202
+   ],
+   "bytes": 13498,
+   "sha256": "25f589f62cb46837d7cd9c3266c91a84108bd512865e90691ce777aa45e75c07",
+   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/snowflake.png"
+  },
+  "ring-grain.webp": {
+   "kind": "ring-grain",
+   "px": [
+    96,
+    96
+   ],
+   "bytes": 6560,
+   "sha256": "1c96346264696d2187e0531c31d01f18b7c8666cb514d2d647781a5ddaef4260",
+   "note": "mask for the selected ink ring"
+  }
+ }
+}

@@ -1,0 +1,106 @@
+[
+ {
+  "id": "bed-s05",
+  "file": "/audio/beds/bed-s05.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -9.1
+ },
+ {
+  "id": "bed-s06",
+  "file": "/audio/beds/bed-s06.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -7.2
+ },
+ {
+  "id": "bed-s07",
+  "file": "/audio/beds/bed-s07.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -9.1
+ },
+ {
+  "id": "bed-s08",
+  "file": "/audio/beds/bed-s08.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -9.9
+ },
+ {
+  "id": "bed-s09",
+  "file": "/audio/beds/bed-s09.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.0,
+  "peak": -8.8
+ },
+ {
+  "id": "bed-s10",
+  "file": "/audio/beds/bed-s10.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -9.0
+ },
+ {
+  "id": "bed-s11",
+  "file": "/audio/beds/bed-s11.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -9.6
+ },
+ {
+  "id": "bed-s12",
+  "file": "/audio/beds/bed-s12.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.0,
+  "peak": -9.9
+ },
+ {
+  "id": "pad-ceremony-C",
+  "file": "/audio/music/pad-ceremony-C.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.0,
+  "peak": -13.4
+ },
+ {
+  "id": "pad-ceremony-F",
+  "file": "/audio/music/pad-ceremony-F.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.0,
+  "peak": -12.9
+ },
+ {
+  "id": "pad-ceremony-Bb",
+  "file": "/audio/music/pad-ceremony-Bb.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.0,
+  "peak": -12.1
+ },
+ {
+  "id": "pad-ceremony-Dm",
+  "file": "/audio/music/pad-ceremony-Dm.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.1,
+  "peak": -12.6
+ },
+ {
+  "id": "pad-ceremony-Em",
+  "file": "/audio/music/pad-ceremony-Em.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.0,
+  "peak": -11.8
+ }
+]

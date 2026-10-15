@@ -1,0 +1,974 @@
+[
+ {
+  "id": "tray.stone-garden.01",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 1,
+   "panels": 12,
+   "beat": "raked sand ripples",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.278,
+   "master": "docs/art/masters/tray/stone-garden/01.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.02",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 2,
+   "panels": 12,
+   "beat": "a mossy rock island",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.29,
+   "master": "docs/art/masters/tray/stone-garden/02.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.03",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 3,
+   "panels": 12,
+   "beat": "a maple over a wall",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.2,
+   "master": "docs/art/masters/tray/stone-garden/03.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.04",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 4,
+   "panels": 12,
+   "beat": "a bamboo fence",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.233,
+   "master": "docs/art/masters/tray/stone-garden/04.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.05",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 5,
+   "panels": 12,
+   "beat": "a stone basin",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.284,
+   "master": "docs/art/masters/tray/stone-garden/05.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.06",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 6,
+   "panels": 12,
+   "beat": "a gravel path",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.259,
+   "master": "docs/art/masters/tray/stone-garden/06.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.07",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 7,
+   "panels": 12,
+   "beat": "a pine pruned low",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.216,
+   "master": "docs/art/masters/tray/stone-garden/07.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.08",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 8,
+   "panels": 12,
+   "beat": "a lantern on moss",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.285,
+   "master": "docs/art/masters/tray/stone-garden/08.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.09",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 9,
+   "panels": 12,
+   "beat": "a dry stream of stones",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.371,
+   "master": "docs/art/masters/tray/stone-garden/09.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.10",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 10,
+   "panels": 12,
+   "beat": "a wooden veranda edge",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.293,
+   "master": "docs/art/masters/tray/stone-garden/10.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.11",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/11.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 11,
+   "panels": 12,
+   "beat": "a koi pond corner",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.406,
+   "master": "docs/art/masters/tray/stone-garden/11.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "tray.stone-garden.12",
+  "kind": "painting",
+  "file": "/art/tray/stone-garden/12.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "stone-garden",
+   "panel": 12,
+   "panels": 12,
+   "beat": "a sunlit moss mound (tortoise perch)",
+   "ink": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "ground": "raked sand",
+   "light": "soft afternoon",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.322,
+   "master": "docs/art/masters/tray/stone-garden/12.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high",
+   "perch": {
+    "resident": "tortoise",
+    "x": [
+     0.67,
+     0.95
+    ],
+    "y": [
+     0.48,
+     0.56
+    ],
+    "note": "flat sunlit rock on moss mound, right third"
+   }
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.01",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 1,
+   "panels": 10,
+   "beat": "hanging wisteria",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.305,
+   "master": "docs/art/masters/wander/w01-wisteria/01.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.02",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a pergola",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.319,
+   "master": "docs/art/masters/wander/w01-wisteria/02.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.03",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 3,
+   "panels": 10,
+   "beat": "a stone well",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.275,
+   "master": "docs/art/masters/wander/w01-wisteria/03.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.04",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 4,
+   "panels": 10,
+   "beat": "a sunny courtyard",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.328,
+   "master": "docs/art/masters/wander/w01-wisteria/04.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.05",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 5,
+   "panels": 10,
+   "beat": "petals on water",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.246,
+   "master": "docs/art/masters/wander/w01-wisteria/05.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.06",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 6,
+   "panels": 10,
+   "beat": "a moon window",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.3,
+   "master": "docs/art/masters/wander/w01-wisteria/06.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.07",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 7,
+   "panels": 10,
+   "beat": "a bench",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.281,
+   "master": "docs/art/masters/wander/w01-wisteria/07.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.08",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 8,
+   "panels": 10,
+   "beat": "a lantern",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.296,
+   "master": "docs/art/masters/wander/w01-wisteria/08.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.09",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 9,
+   "panels": 10,
+   "beat": "a koi basin",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.264,
+   "master": "docs/art/masters/wander/w01-wisteria/09.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w01-wisteria.10",
+  "kind": "painting",
+  "file": "/art/wander/w01-wisteria/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w01-wisteria",
+   "panel": 10,
+   "panels": 10,
+   "beat": "a gate",
+   "ink": [
+    "lilac",
+    "sage",
+    "cream-gold"
+   ],
+   "ground": "pale sunlit courtyard paving",
+   "light": "warm late-spring",
+   "horizon": 0.58,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.275,
+   "master": "docs/art/masters/wander/w01-wisteria/10.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.01",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 1,
+   "panels": 10,
+   "beat": "shafts of light through kelp",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.424,
+   "master": "docs/art/masters/wander/w02-kelp/01.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.02",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a turtle far off",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.438,
+   "master": "docs/art/masters/wander/w02-kelp/02.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.03",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 3,
+   "panels": 10,
+   "beat": "shells on sand",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.397,
+   "master": "docs/art/masters/wander/w02-kelp/03.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.04",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 4,
+   "panels": 10,
+   "beat": "a reef arch",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.362,
+   "master": "docs/art/masters/wander/w02-kelp/04.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.05",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 5,
+   "panels": 10,
+   "beat": "jellyfish drifting",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.424,
+   "master": "docs/art/masters/wander/w02-kelp/05.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.06",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 6,
+   "panels": 10,
+   "beat": "a sunken bell",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.369,
+   "master": "docs/art/masters/wander/w02-kelp/06.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.07",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 7,
+   "panels": 10,
+   "beat": "a ray's shadow",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.407,
+   "master": "docs/art/masters/wander/w02-kelp/07.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.08",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 8,
+   "panels": 10,
+   "beat": "sea grass",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.385,
+   "master": "docs/art/masters/wander/w02-kelp/08.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.09",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 9,
+   "panels": 10,
+   "beat": "bubbles",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.37,
+   "master": "docs/art/masters/wander/w02-kelp/09.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ },
+ {
+  "id": "wander.w02-kelp.10",
+  "kind": "painting",
+  "file": "/art/wander/w02-kelp/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "w02-kelp",
+   "panel": 10,
+   "panels": 10,
+   "beat": "the surface glow",
+   "ink": [
+    "sea green",
+    "coral",
+    "sand"
+   ],
+   "ground": "pale sandy sea floor",
+   "light": "filtered sunlight from above",
+   "horizon": 0.584,
+   "horizonTarget": 0.58,
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.427,
+   "master": "docs/art/masters/wander/w02-kelp/10.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "high"
+  }
+ }
+]

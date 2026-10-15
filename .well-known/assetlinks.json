@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dizzywalk.risodream",
+      "sha256_cert_fingerprints": [
+        "6E:0A:31:34:6B:18:D0:AE:6E:69:8E:8D:05:C1:30:19:C4:59:4B:AA:AB:77:A7:25:2F:71:82:23:79:A1:B7:27"
+      ]
+    }
+  }
+]

@@ -1,0 +1,827 @@
+[
+ {
+  "id": "panel-s05-heron-marsh-01",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 1,
+   "panels": 10,
+   "beat": "tall reeds",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.18,
+   "quietAbs": 3.85,
+   "lowSat": 28.8,
+   "cropTop": 134,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/01.webp",
+   "take": "s05-p01b_00",
+   "styleRefs": [
+    "/art/panels/s01-first-light/03.webp",
+    "/art/panels/s03-tea-hills/01.webp"
+   ],
+   "refs": "style refs s01 + s03 panels"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-02",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a heron's reflection",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.249,
+   "quietAbs": 4.05,
+   "lowSat": 27.9,
+   "cropTop": 119,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/02.webp",
+   "take": "s05-p02_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-03",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 3,
+   "panels": 10,
+   "beat": "cattails",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.203,
+   "quietAbs": 4.7,
+   "lowSat": 30.2,
+   "cropTop": 132,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/03.webp",
+   "take": "s05-p03_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-04",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 4,
+   "panels": 10,
+   "beat": "a wooden walkway",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.189,
+   "quietAbs": 4.42,
+   "lowSat": 28.7,
+   "cropTop": 130,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/04.webp",
+   "take": "s05-p04_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-05",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 5,
+   "panels": 10,
+   "beat": "lily pads in a channel",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.198,
+   "quietAbs": 4.72,
+   "lowSat": 28.3,
+   "cropTop": 140,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/05.webp",
+   "take": "s05-p05_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-06",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 6,
+   "panels": 10,
+   "beat": "a flight of small birds",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.225,
+   "quietAbs": 4.68,
+   "lowSat": 26.7,
+   "cropTop": 133,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/06.webp",
+   "take": "s05-p06_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-07",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 7,
+   "panels": 10,
+   "beat": "a half-sunk boat",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.202,
+   "quietAbs": 5.03,
+   "lowSat": 27.3,
+   "cropTop": 125,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/07.webp",
+   "take": "s05-p07_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-08",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 8,
+   "panels": 10,
+   "beat": "a reed island",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.194,
+   "quietAbs": 4.49,
+   "lowSat": 24.4,
+   "cropTop": 89,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/08.webp",
+   "take": "s05-p08_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-09",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 9,
+   "panels": 10,
+   "beat": "open water with clouds",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.218,
+   "quietAbs": 3.92,
+   "lowSat": 23.2,
+   "cropTop": 44,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/09.webp",
+   "take": "s05-p09_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s05-heron-marsh-10",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s05-heron-marsh/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "scrollName": "Heron Marsh",
+   "panel": 10,
+   "panels": 10,
+   "beat": "a driftwood post (heron perch)",
+   "ink": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "inkHex": [
+    "#1F8A8A",
+    "#FF7F6A",
+    "#D6A23E"
+   ],
+   "ground": "shallow marsh water",
+   "light": "late morning",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.193,
+   "quietAbs": 4.05,
+   "lowSat": 21.1,
+   "cropTop": 64,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s05-heron-marsh/10.webp",
+   "take": "s05-p10b_02",
+   "refs": "previous panel + panel 1",
+   "perch": {
+    "kind": "driftwood post top",
+    "x": 0.76,
+    "y": 0.444,
+    "xFrom": 0.72,
+    "xTo": 0.8
+   },
+   "resident": "heron"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-01",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 1,
+   "panels": 10,
+   "beat": "the first tree",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.236,
+   "quietAbs": 3.94,
+   "lowSat": 34.8,
+   "cropTop": 104,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/01.webp",
+   "take": "s06-p01_01",
+   "styleRefs": [
+    "/art/panels/s01-first-light/01.webp",
+    "/art/panels/s03-tea-hills/01.webp"
+   ],
+   "refs": "style refs s01 + s03 panels"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-02",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a beehive",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.21,
+   "quietAbs": 3.77,
+   "lowSat": 32.0,
+   "cropTop": 122,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/02.webp",
+   "take": "s06-p02_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-03",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 3,
+   "panels": 10,
+   "beat": "petals on the wind",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.222,
+   "quietAbs": 4.01,
+   "lowSat": 31.4,
+   "cropTop": 122,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/03.webp",
+   "take": "s06-p03_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-04",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 4,
+   "panels": 10,
+   "beat": "a wooden ladder against a trunk",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.184,
+   "quietAbs": 4.03,
+   "lowSat": 32.5,
+   "cropTop": 129,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/04.webp",
+   "take": "s06-p04_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-05",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 5,
+   "panels": 10,
+   "beat": "a stone wall with blossoms",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.2,
+   "quietAbs": 4.8,
+   "lowSat": 33.0,
+   "cropTop": 95,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/05.webp",
+   "take": "s06-p05_00",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-06",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 6,
+   "panels": 10,
+   "beat": "a small pond with petals",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.217,
+   "quietAbs": 4.91,
+   "lowSat": 31.8,
+   "cropTop": 96,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/06.webp",
+   "take": "s06-p06_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-07",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 7,
+   "panels": 10,
+   "beat": "a bench under branches",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.167,
+   "quietAbs": 4.11,
+   "lowSat": 30.2,
+   "cropTop": 117,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/07.webp",
+   "take": "s06-p07_00",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-08",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 8,
+   "panels": 10,
+   "beat": "rows of trees",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.239,
+   "quietAbs": 4.89,
+   "lowSat": 32.1,
+   "cropTop": 92,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/08.webp",
+   "take": "s06-p08b_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-09",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 9,
+   "panels": 10,
+   "beat": "a gate to the meadow",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.214,
+   "quietAbs": 4.31,
+   "lowSat": 32.2,
+   "cropTop": 122,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/09.webp",
+   "take": "s06-p09_01",
+   "refs": "previous panel + panel 1"
+  }
+ },
+ {
+  "id": "panel-s06-orchard-10",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s06-orchard/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s06-orchard",
+   "scrollName": "Orchard in Bloom",
+   "panel": 10,
+   "panels": 10,
+   "beat": "an old gnarled tree (deer stands below)",
+   "ink": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "inkHex": [
+    "#F7A1C4",
+    "#6DB04A",
+    "#FFB990"
+   ],
+   "ground": "blossom-strewn grass",
+   "light": "spring sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.179,
+   "quietAbs": 4.21,
+   "lowSat": 32.0,
+   "cropTop": 99,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/panels/s06-orchard/10.webp",
+   "take": "s06-p10_00",
+   "refs": "previous panel + panel 1",
+   "perch": {
+    "kind": "open grass under the old tree",
+    "x": 0.71,
+    "y": 0.565,
+    "xFrom": 0.62,
+    "xTo": 0.8,
+    "clearFrom": 0.42
+   },
+   "resident": "deer"
+  }
+ }
+]

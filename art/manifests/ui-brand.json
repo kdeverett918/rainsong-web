@@ -1,0 +1,841 @@
+[
+ {
+  "id": "paper-tooth",
+  "kind": "texture",
+  "file": "/art/paper/paper-tooth.webp",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "tileable": true,
+   "seamX": 1.48,
+   "seamY": 1.28,
+   "use": "board field, sheets, cards; CSS background-repeat",
+   "source": "paper-tooth_01.png"
+  }
+ },
+ {
+  "id": "paper-rice",
+  "kind": "texture",
+  "file": "/art/paper/paper-rice.webp",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "tileable": true,
+   "seamX": 1.28,
+   "seamY": 1.3,
+   "use": "alternate paper stock (earned)",
+   "source": "paper-rice_01.png"
+  }
+ },
+ {
+  "id": "riso-grain",
+  "kind": "texture",
+  "file": "/art/paper/riso-grain.png",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "tileable": true,
+   "seamX": 1.03,
+   "seamY": 1.02,
+   "use": "overlay/soft-light on paintings and UI art; mean 128",
+   "source": "procedural"
+  }
+ },
+ {
+  "id": "silk-mount",
+  "kind": "texture",
+  "file": "/art/scroll/silk-mount.webp",
+  "w": 1024,
+  "h": 256,
+  "meta": {
+   "tileable": "x",
+   "seamX": 0.92,
+   "patternPeriodPx": 204.8,
+   "periodsAcross": 5,
+   "use": "scroll border; repeat-x",
+   "source": "silk-mount_00.png"
+  }
+ },
+ {
+  "id": "roller-left",
+  "kind": "sprite",
+  "file": "/art/scroll/roller-left.png",
+  "w": 128,
+  "h": 1024,
+  "meta": {
+   "rodX": [
+    40,
+    87
+   ],
+   "knobs": "top+bottom",
+   "visibleBox": [
+    31,
+    3,
+    96,
+    1020
+   ],
+   "light": "left",
+   "source": "roller_01.png",
+   "style": "painted riso watercolor (gate regen 2026-10-12)"
+  }
+ },
+ {
+  "id": "roller-right",
+  "kind": "sprite",
+  "file": "/art/scroll/roller-right.png",
+  "w": 128,
+  "h": 1024,
+  "meta": {
+   "rodX": [
+    40,
+    87
+   ],
+   "knobs": "top+bottom",
+   "visibleBox": [
+    31,
+    3,
+    96,
+    1020
+   ],
+   "light": "right (mirrored)",
+   "source": "roller_01.png",
+   "style": "painted riso watercolor (gate regen 2026-10-12)"
+  }
+ },
+ {
+  "id": "ribbon",
+  "kind": "sprite",
+  "file": "/art/scroll/ribbon.png",
+  "w": 256,
+  "h": 128,
+  "meta": {
+   "tint": "multiply by scroll ink (white/grey base)",
+   "source": "ribbon_00.png",
+   "style": "painted riso watercolor (gate regen 2026-10-12)"
+  }
+ },
+ {
+  "id": "shelf",
+  "kind": "background",
+  "file": "/art/scroll/shelf.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "darkRows": [
+    0.296,
+    0.563,
+    0.822
+   ],
+   "note": "darkRows = plank front-edge shadow line; planks = [top surface, bottom edge], fraction of height",
+   "source": "shelf_00.png",
+   "style": "painted riso watercolor (gate regen 2026-10-12)",
+   "planks": [
+    [
+     0.256,
+     0.3
+    ],
+    [
+     0.52,
+     0.565
+    ],
+    [
+     0.776,
+     0.825
+    ]
+   ]
+  }
+ },
+ {
+  "id": "tile-face",
+  "kind": "texture",
+  "file": "/art/tile/face.webp",
+  "w": 256,
+  "h": 256,
+  "meta": {
+   "tileable": true,
+   "seamX": 1.28,
+   "seamY": 1.14,
+   "use": "tile face multiply/overlay at low opacity",
+   "derivedFrom": "paper-tooth",
+   "source": "paper-tooth_02.png"
+  }
+ },
+ {
+  "id": "tile-deckle",
+  "kind": "mask",
+  "file": "/art/tile/deckle.png",
+  "w": 256,
+  "h": 32,
+  "meta": {
+   "use": "soft torn top/left edge mask for tile faces (rotate 90deg for the left edge)",
+   "color": "white",
+   "source": "paper-edge_01.png"
+  }
+ },
+ {
+  "id": "gild-edge",
+  "kind": "sprite",
+  "file": "/art/tile/gild-edge.png",
+  "w": 256,
+  "h": 32,
+  "meta": {
+   "use": "thin gold-leaf edge on gilded tile faces; stretch/9-slice x",
+   "source": "gild-edge_01.png",
+   "style": "flat riso gold ink (gate regen 2026-10-12)"
+  }
+ },
+ {
+  "id": "gold-flakes",
+  "kind": "atlas",
+  "file": "/art/tile/gold-flakes.png",
+  "w": 512,
+  "h": 512,
+  "meta": {
+   "frames": [
+    [
+     5,
+     42,
+     160,
+     135
+    ],
+    [
+     180,
+     47,
+     187,
+     123
+    ],
+    [
+     390,
+     31,
+     113,
+     167
+    ],
+    [
+     5,
+     213,
+     163,
+     117
+    ],
+    [
+     191,
+     205,
+     123,
+     126
+    ],
+    [
+     346,
+     232,
+     161,
+     98
+    ],
+    [
+     60,
+     357,
+     184,
+     124
+    ],
+    [
+     271,
+     365,
+     196,
+     112
+    ]
+   ],
+   "count": 8,
+   "source": "gold-flakes_00.png",
+   "style": "flat riso gold ink (gate regen 2026-10-12)"
+  }
+ },
+ {
+  "id": "mist-veil",
+  "kind": "texture",
+  "file": "/art/tile/mist.png",
+  "w": 512,
+  "h": 512,
+  "meta": {
+   "tileable": true,
+   "seamX": 0.92,
+   "seamY": 1.01,
+   "use": "white veil over mist tiles at 70% opacity; drift by background-position",
+   "source": "procedural"
+  }
+ },
+ {
+  "id": "sheet-deckle-top",
+  "kind": "edge",
+  "file": "/art/ui/sheet-deckle-top.png",
+  "w": 1080,
+  "h": 64,
+  "meta": {
+   "paper": "#F6F0E4",
+   "solidFromY": 54,
+   "transparent": "above",
+   "source": "paper-edge_00.png"
+  }
+ },
+ {
+  "id": "sheet-deckle-bottom",
+  "kind": "edge",
+  "file": "/art/ui/sheet-deckle-bottom.png",
+  "w": 1080,
+  "h": 64,
+  "meta": {
+   "paper": "#F6F0E4",
+   "solidToY": 10,
+   "transparent": "below",
+   "source": "paper-edge_00.png"
+  }
+ },
+ {
+  "id": "enso",
+  "kind": "brand",
+  "file": "/art/brand/enso.png",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "svg": "/art/brand/enso.svg",
+   "svgSubpaths": 27,
+   "center": [
+    521.8,
+    513.7
+   ],
+   "radius": 412.1,
+   "strokeOrder": "heavy start -> dry tail",
+   "gapDeg": [
+    238,
+    250
+   ],
+   "drawMaskStrokeWidth": 142,
+   "ink": "#2B2A33",
+   "source": "enso_01.png",
+   "webp": "/art/brand/enso.webp"
+  }
+ },
+ {
+  "id": "logo-mark",
+  "kind": "brand",
+  "file": "/art/brand/logo-mark.png",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "inks": [
+    "#2BB3C0",
+    "#FF4FA3"
+   ],
+   "note": "pink lotus inside aqua enso, two-ink riso misregistration",
+   "source": "logo-mark_00.png",
+   "webp": "/art/brand/logo-mark.webp"
+  }
+ },
+ {
+  "id": "icon-lotus",
+  "kind": "app-icon",
+  "file": "resources/icon.png",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "alpha": false,
+   "readsAt48": true,
+   "primary": true,
+   "source": "icon-lotus_02.png"
+  }
+ },
+ {
+  "id": "icon-moon",
+  "kind": "app-icon",
+  "file": "resources/icon-alt-moon.png",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "alpha": false,
+   "readsAt48": true,
+   "primary": false,
+   "source": "icon-moon_00.png"
+  }
+ },
+ {
+  "id": "icon-enso",
+  "kind": "app-icon",
+  "file": "resources/icon-alt-enso.png",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "alpha": false,
+   "readsAt48": true,
+   "primary": false,
+   "source": "icon-enso_00.png"
+  }
+ },
+ {
+  "id": "icon-adaptive-fg",
+  "kind": "app-icon",
+  "file": "resources/android/icon-foreground.png",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "safeZoneRadius": 0.3056,
+   "contentMaxRadius": 0.3,
+   "insideSafeZone": true,
+   "source": "icon-adaptive-fg_00.png"
+  }
+ },
+ {
+  "id": "icon-adaptive-bg",
+  "kind": "app-icon",
+  "file": "resources/android/icon-background.png",
+  "w": 1024,
+  "h": 1024,
+  "meta": {
+   "alpha": false,
+   "source": "icon-adaptive-bg_01.png"
+  }
+ },
+ {
+  "id": "splash",
+  "kind": "splash",
+  "file": "resources/splash.png",
+  "w": 2732,
+  "h": 2732,
+  "meta": {
+   "ensoWidthFrac": 0.3,
+   "ensoBox": [
+    956,
+    969,
+    820,
+    793
+   ],
+   "paper": "paper-tooth tiled",
+   "alpha": false,
+   "source": "composite"
+  }
+ },
+ {
+  "id": "feature-graphic",
+  "kind": "store",
+  "file": "store/feature-graphic.png",
+  "w": 1024,
+  "h": 500,
+  "meta": {
+   "srcRows": [
+    152,
+    952
+   ],
+   "sidePadPx": 51,
+   "text": false,
+   "source": "feature-graphic_01.png"
+  }
+ },
+ {
+  "id": "icon-scroll",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/scroll.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-today",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/today.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-letters",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/letters.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-album",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/album.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-settings",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/settings.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-undo",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/undo.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-hint",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/hint.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets",
+   "meaning": "small lantern with glow rays"
+  }
+ },
+ {
+  "id": "icon-shuffle",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/shuffle.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-quiet-on",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/quiet-on.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets",
+   "meaning": "quiet mode on (sound muted): bell with slash"
+  }
+ },
+ {
+  "id": "icon-quiet-off",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/quiet-off.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets",
+   "meaning": "quiet mode off (sound on): bell"
+  }
+ },
+ {
+  "id": "icon-pause",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/pause.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-keep",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/keep.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets",
+   "meaning": "bookmark with heart"
+  }
+ },
+ {
+  "id": "icon-share",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/share.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-send",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/send.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-watch-again",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/watch-again.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-next",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/next.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-close",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/close.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-back",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/back.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-cairn",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/cairn.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-lantern",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/lantern.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-calendar",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/calendar.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-lock",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/lock.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-check",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/check.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets"
+  }
+ },
+ {
+  "id": "icon-tray-slot",
+  "kind": "ui-icon",
+  "file": "/art/ui/icons/tray-slot.svg",
+  "w": 24,
+  "h": 24,
+  "meta": {
+   "viewBox": "0 0 24 24",
+   "fill": "currentColor",
+   "brushWidth": 2.0,
+   "checkedPx": [
+    24,
+    32
+   ],
+   "source": "hand-authored (brush outline generator) from generated reference sheets",
+   "meaning": "empty tray slot"
+  }
+ }
+]

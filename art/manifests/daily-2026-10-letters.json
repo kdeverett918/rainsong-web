@@ -1,0 +1,1163 @@
+[
+ {
+  "id": "daily-2026-10-01",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 1,
+   "book": "Harvest Light",
+   "motif": "persimmon branch",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.458,
+   "quietAbs": 3.01,
+   "group": "daily-2026-10-letters",
+   "cropTop": 0,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-02",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 2,
+   "book": "Harvest Light",
+   "motif": "steaming teacup",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.625,
+   "quietAbs": 2.43,
+   "group": "daily-2026-10-letters",
+   "cropTop": 32,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-03",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 3,
+   "book": "Harvest Light",
+   "motif": "maple leaf on water",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.472,
+   "quietAbs": 3.31,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-04",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 4,
+   "book": "Harvest Light",
+   "motif": "pumpkin by a door",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.394,
+   "quietAbs": 4.67,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-05",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 5,
+   "book": "Harvest Light",
+   "motif": "acorns",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.357,
+   "quietAbs": 2.7,
+   "group": "daily-2026-10-letters",
+   "cropTop": 0,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-06",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 6,
+   "book": "Harvest Light",
+   "motif": "a stubble field",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.316,
+   "quietAbs": 2.41,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-07",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 7,
+   "book": "Harvest Light",
+   "motif": "a lantern",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.62,
+   "quietAbs": 3.15,
+   "group": "daily-2026-10-letters",
+   "cropTop": 32,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-08",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 8,
+   "book": "Harvest Light",
+   "motif": "apples in a basket",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.313,
+   "quietAbs": 2.53,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-09",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 9,
+   "book": "Harvest Light",
+   "motif": "a heron at dusk",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.473,
+   "quietAbs": 3.68,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-10",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 10,
+   "book": "Harvest Light",
+   "motif": "geese in a V",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.325,
+   "quietAbs": 2.2,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-11",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/11.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 11,
+   "book": "Harvest Light",
+   "motif": "mushrooms",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.242,
+   "quietAbs": 2.62,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-12",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/12.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 12,
+   "book": "Harvest Light",
+   "motif": "a wooden bridge",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.301,
+   "quietAbs": 3.59,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-13",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/13.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 13,
+   "book": "Harvest Light",
+   "motif": "chestnuts",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.226,
+   "quietAbs": 1.99,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-14",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/14.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 14,
+   "book": "Harvest Light",
+   "motif": "a fox's tracks",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.218,
+   "quietAbs": 2.28,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-15",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/15.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 15,
+   "book": "Harvest Light",
+   "motif": "a full moon",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.382,
+   "quietAbs": 2.63,
+   "group": "daily-2026-10-letters",
+   "cropTop": 32,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-16",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/16.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 16,
+   "book": "Harvest Light",
+   "motif": "rain on a window",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.526,
+   "quietAbs": 5.04,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-17",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/17.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 17,
+   "book": "Harvest Light",
+   "motif": "wheat sheaves",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.287,
+   "quietAbs": 3.13,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-18",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/18.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 18,
+   "book": "Harvest Light",
+   "motif": "a ginkgo",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.556,
+   "quietAbs": 5.17,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-19",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/19.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 19,
+   "book": "Harvest Light",
+   "motif": "a kettle",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.621,
+   "quietAbs": 3.26,
+   "group": "daily-2026-10-letters",
+   "cropTop": 32,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-20",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/20.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 20,
+   "book": "Harvest Light",
+   "motif": "a quiet porch",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.328,
+   "quietAbs": 4.18,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-21",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/21.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 21,
+   "book": "Harvest Light",
+   "motif": "a stone lantern",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.379,
+   "quietAbs": 4.3,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-22",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/22.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 22,
+   "book": "Harvest Light",
+   "motif": "a river bend",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.434,
+   "quietAbs": 4.31,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-23",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/23.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 23,
+   "book": "Harvest Light",
+   "motif": "a pine cone",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.301,
+   "quietAbs": 2.78,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-24",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/24.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 24,
+   "book": "Harvest Light",
+   "motif": "a candle",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.71,
+   "quietAbs": 2.68,
+   "group": "daily-2026-10-letters",
+   "cropTop": 32,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-25",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/25.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 25,
+   "book": "Harvest Light",
+   "motif": "a wool scarf on a hook",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.51,
+   "quietAbs": 3.02,
+   "group": "daily-2026-10-letters",
+   "cropTop": 32,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-26",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/26.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 26,
+   "book": "Harvest Light",
+   "motif": "plums",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.289,
+   "quietAbs": 2.39,
+   "group": "daily-2026-10-letters",
+   "cropTop": 32,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-27",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/27.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 27,
+   "book": "Harvest Light",
+   "motif": "a heron feather",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.38,
+   "quietAbs": 2.25,
+   "group": "daily-2026-10-letters",
+   "cropTop": 32,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-28",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/28.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 28,
+   "book": "Harvest Light",
+   "motif": "a mossy rock",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.231,
+   "quietAbs": 2.47,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-29",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/29.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 29,
+   "book": "Harvest Light",
+   "motif": "an owl's tree",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.331,
+   "quietAbs": 2.97,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-30",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/30.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 30,
+   "book": "Harvest Light",
+   "motif": "a quiet lake",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.491,
+   "quietAbs": 3.94,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "daily-2026-10-31",
+  "kind": "daily-painting",
+  "file": "/art/daily/2026-10/31.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "month": "2026-10",
+   "day": 31,
+   "book": "Harvest Light",
+   "motif": "a harvest moon",
+   "inks": [
+    "ochre",
+    "vermilion",
+    "indigo"
+   ],
+   "quietZone": {
+    "fromY": 0.6,
+    "toY": 1.0
+   },
+   "quietRatio": 0.507,
+   "quietAbs": 4.26,
+   "group": "daily-2026-10-letters",
+   "cropTop": 128,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-thinking-of-you",
+  "kind": "letter-paper",
+  "file": "/art/letters/thinking-of-you.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "default",
+   "scene": "a single tulip in a clear glass of water on a sill by a window with a soft curtain",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.581,
+   "quietAbs": 2.56,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-thank-you",
+  "kind": "letter-paper",
+  "file": "/art/letters/thank-you.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "thanks",
+   "scene": "a simple plain teacup in an aqua glaze with a soft curl of steam, on a plain saucer",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.706,
+   "quietAbs": 2.32,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-celebrate",
+  "kind": "letter-paper",
+  "file": "/art/letters/celebrate.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "birthdays, news",
+   "scene": "a few round paper lanterns (plain, with no writing) on a string and drifting petals",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.217,
+   "quietAbs": 1.48,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-good-morning",
+  "kind": "letter-paper",
+  "file": "/art/letters/good-morning.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "everyday",
+   "scene": "the sun rising over a lotus pond with two lotus blossoms and pads",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.489,
+   "quietAbs": 3.09,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-good-night",
+  "kind": "letter-paper",
+  "file": "/art/letters/good-night.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "everyday",
+   "scene": "a round full moon over a calm sea with a soft moon path on the water",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.413,
+   "quietAbs": 3.12,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-missing-you",
+  "kind": "letter-paper",
+  "file": "/art/letters/missing-you.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "distance",
+   "scene": "two cranes flying far apart over open water, one near the left, one near the right",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.462,
+   "quietAbs": 1.86,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-together",
+  "kind": "letter-paper",
+  "file": "/art/letters/together.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "love",
+   "scene": "two koi circling each other in a round pond, seen from above",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.553,
+   "quietAbs": 3.69,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-well-done",
+  "kind": "letter-paper",
+  "file": "/art/letters/well-done.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "congratulations",
+   "scene": "the sun rising behind a mountain summit above soft clouds",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.384,
+   "quietAbs": 1.87,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-spring-hello",
+  "kind": "letter-paper",
+  "file": "/art/letters/spring-hello.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "season",
+   "scene": "a blossoming cherry branch against open sky",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.213,
+   "quietAbs": 1.38,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-winter-hello",
+  "kind": "letter-paper",
+  "file": "/art/letters/winter-hello.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "season",
+   "scene": "a warm lamp glowing in a small snowy window",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.392,
+   "quietAbs": 3.35,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-just-because",
+  "kind": "letter-paper",
+  "file": "/art/letters/just-because.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "everyday",
+   "scene": "a butterfly over a few meadow flowers",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.411,
+   "quietAbs": 2.54,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ },
+ {
+  "id": "letter-for-mom",
+  "kind": "letter-paper",
+  "file": "/art/letters/for-mom.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "use": "Mother's Day",
+   "scene": "a bouquet of wildflowers in a simple ceramic jug",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower",
+    "federal blue"
+   ],
+   "noteMaxChars": 90,
+   "quietZone": {
+    "fromY": 0.5,
+    "toY": 1.0
+   },
+   "quietRatio": 0.136,
+   "quietAbs": 1.45,
+   "group": "daily-2026-10-letters",
+   "cropTop": 16,
+   "source": "1024x1536"
+  }
+ }
+]

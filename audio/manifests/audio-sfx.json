@@ -1,0 +1,468 @@
+[
+ {
+  "id": "bowl-small",
+  "file": "/audio/sfx/bowl-small.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -18.9,
+  "peak": -8.1,
+  "durationS": 2.424,
+  "basePitchHz": 960.0,
+  "pitchSpreadCents": 3.5
+ },
+ {
+  "id": "bowl-medium",
+  "file": "/audio/sfx/bowl-medium.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -18.6,
+  "peak": -7.9,
+  "durationS": 2.998,
+  "basePitchHz": 784.28,
+  "pitchSpreadCents": 15.6
+ },
+ {
+  "id": "bowl-large",
+  "file": "/audio/sfx/bowl-large.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -22.0,
+  "peak": -6.5,
+  "durationS": 2.594,
+  "basePitchHz": 298.91,
+  "pitchSpreadCents": 6.2
+ },
+ {
+  "id": "bowl-large-deep",
+  "file": "/audio/sfx/bowl-large-deep.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -22.4,
+  "peak": -8.1,
+  "durationS": 2.903,
+  "basePitchHz": 238.62,
+  "pitchSpreadCents": 5.1
+ },
+ {
+  "id": "bowl-large-2",
+  "file": "/audio/sfx/bowl-large-2.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -15.3,
+  "peak": -8.0,
+  "durationS": 2.754,
+  "basePitchHz": 298.91,
+  "pitchSpreadCents": 6.9
+ },
+ {
+  "id": "tok-1",
+  "file": "/audio/sfx/tok-1.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -29.3,
+  "peak": -7.9,
+  "durationS": 0.139,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "tok-2",
+  "file": "/audio/sfx/tok-2.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -28.2,
+  "peak": -6.8,
+  "durationS": 0.109,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "tok-3",
+  "file": "/audio/sfx/tok-3.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -28.2,
+  "peak": -7.9,
+  "durationS": 0.074,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "paper-rustle-1",
+  "file": "/audio/sfx/paper-rustle-1.m4a",
+  "gain": 0.631,
+  "loop": false,
+  "lufs": -32.0,
+  "peak": -8.1,
+  "durationS": 0.599,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "paper-rustle-2",
+  "file": "/audio/sfx/paper-rustle-2.m4a",
+  "gain": 0.822,
+  "loop": false,
+  "lufs": -34.3,
+  "peak": -8.1,
+  "durationS": 0.599,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "paper-rustle-3",
+  "file": "/audio/sfx/paper-rustle-3.m4a",
+  "gain": 0.427,
+  "loop": false,
+  "lufs": -28.6,
+  "peak": -8.1,
+  "durationS": 0.599,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "paper-shff-1",
+  "file": "/audio/sfx/paper-shff-1.m4a",
+  "gain": 0.263,
+  "loop": false,
+  "lufs": -18.4,
+  "peak": -8.1,
+  "durationS": 0.678
+ },
+ {
+  "id": "paper-shff-2",
+  "file": "/audio/sfx/paper-shff-2.m4a",
+  "gain": 0.269,
+  "loop": false,
+  "lufs": -18.6,
+  "peak": -7.7,
+  "durationS": 0.678
+ },
+ {
+  "id": "paper-thup-1",
+  "file": "/audio/sfx/paper-thup-1.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -33.6,
+  "peak": -8.0,
+  "durationS": 0.199,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "paper-thup-2",
+  "file": "/audio/sfx/paper-thup-2.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -30.3,
+  "peak": -7.9,
+  "durationS": 0.373,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "keyline-drum",
+  "file": "/audio/sfx/keyline-drum.m4a",
+  "gain": 0.923,
+  "loop": false,
+  "lufs": -23.3,
+  "peak": -7.5,
+  "durationS": 1.995
+ },
+ {
+  "id": "blocked-hum",
+  "file": "/audio/sfx/blocked-hum.m4a",
+  "gain": 0.832,
+  "loop": false,
+  "lufs": -30.4,
+  "peak": -8.0,
+  "durationS": 0.338,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "tray-drop-1",
+  "file": "/audio/sfx/tray-drop-1.m4a",
+  "gain": 0.881,
+  "loop": false,
+  "lufs": -26.9,
+  "peak": -8.0,
+  "durationS": 0.579,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "tray-drop-2",
+  "file": "/audio/sfx/tray-drop-2.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -28.6,
+  "peak": -8.0,
+  "durationS": 0.584,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "tray-warn",
+  "file": "/audio/sfx/tray-warn.m4a",
+  "gain": 0.832,
+  "loop": false,
+  "lufs": -26.4,
+  "peak": -8.1,
+  "durationS": 0.414,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "gild-chime",
+  "file": "/audio/sfx/gild-chime.m4a",
+  "gain": 0.394,
+  "loop": false,
+  "lufs": -19.9,
+  "peak": -8.0,
+  "durationS": 0.738
+ },
+ {
+  "id": "gild-crackle",
+  "file": "/audio/sfx/gild-crackle.m4a",
+  "gain": 0.813,
+  "loop": false,
+  "lufs": -34.2,
+  "peak": -7.7,
+  "durationS": 0.998
+ },
+ {
+  "id": "letter-fold",
+  "file": "/audio/sfx/letter-fold.m4a",
+  "gain": 0.832,
+  "loop": false,
+  "lufs": -26.4,
+  "peak": -8.0,
+  "durationS": 0.868
+ },
+ {
+  "id": "wax-press",
+  "file": "/audio/sfx/wax-press.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -36.2,
+  "peak": -7.9,
+  "durationS": 0.918
+ },
+ {
+  "id": "page-turn-1",
+  "file": "/audio/sfx/page-turn-1.m4a",
+  "gain": 0.861,
+  "loop": false,
+  "lufs": -28.7,
+  "peak": -8.3,
+  "durationS": 0.534,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "page-turn-2",
+  "file": "/audio/sfx/page-turn-2.m4a",
+  "gain": 0.631,
+  "loop": false,
+  "lufs": -26.0,
+  "peak": -7.1,
+  "durationS": 0.564,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "stone-place-1",
+  "file": "/audio/sfx/stone-place-1.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -29.2,
+  "peak": -8.0,
+  "durationS": 0.599,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "stone-place-2",
+  "file": "/audio/sfx/stone-place-2.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -32.5,
+  "peak": -8.0,
+  "durationS": 0.453,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "lantern-light",
+  "file": "/audio/sfx/lantern-light.m4a",
+  "gain": 0.417,
+  "loop": false,
+  "lufs": -18.4,
+  "peak": -7.8,
+  "durationS": 1.132
+ },
+ {
+  "id": "crane-wings",
+  "file": "/audio/sfx/crane-wings.m4a",
+  "gain": 0.861,
+  "loop": false,
+  "lufs": -26.7,
+  "peak": -7.3,
+  "durationS": 0.863
+ },
+ {
+  "id": "shuffle",
+  "file": "/audio/sfx/shuffle.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -33.8,
+  "peak": -8.0,
+  "durationS": 0.688
+ },
+ {
+  "id": "undo",
+  "file": "/audio/sfx/undo.m4a",
+  "gain": 0.661,
+  "loop": false,
+  "lufs": -28.4,
+  "peak": -8.1,
+  "durationS": 0.479,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "unroll",
+  "file": "/audio/sfx/unroll.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -31.7,
+  "peak": -8.2,
+  "durationS": 2.868
+ },
+ {
+  "id": "gift-open",
+  "file": "/audio/sfx/gift-open.m4a",
+  "gain": 0.537,
+  "loop": false,
+  "lufs": -20.6,
+  "peak": -7.8,
+  "durationS": 0.898
+ },
+ {
+  "id": "ui-tap",
+  "file": "/audio/sfx/ui-tap.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -34.4,
+  "peak": -7.8,
+  "durationS": 0.154,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "call-wren",
+  "file": "/audio/sfx/call-wren.m4a",
+  "gain": 0.452,
+  "loop": false,
+  "lufs": -19.1,
+  "peak": -7.7,
+  "durationS": 1.989
+ },
+ {
+  "id": "call-red-panda",
+  "file": "/audio/sfx/call-red-panda.m4a",
+  "gain": 0.575,
+  "loop": false,
+  "lufs": -21.2,
+  "peak": -8.1,
+  "durationS": 0.319,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "call-cat",
+  "file": "/audio/sfx/call-cat.m4a",
+  "gain": 0.479,
+  "loop": false,
+  "lufs": -19.6,
+  "peak": -8.1,
+  "durationS": 0.758
+ },
+ {
+  "id": "call-tree-frog",
+  "file": "/audio/sfx/call-tree-frog.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -30.3,
+  "peak": -8.0,
+  "durationS": 0.12,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "call-heron",
+  "file": "/audio/sfx/call-heron.m4a",
+  "gain": 0.851,
+  "loop": false,
+  "lufs": -24.6,
+  "peak": -8.0,
+  "durationS": 0.419,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "call-deer",
+  "file": "/audio/sfx/call-deer.m4a",
+  "gain": 0.741,
+  "loop": false,
+  "lufs": -23.4,
+  "peak": -7.9,
+  "durationS": 0.998
+ },
+ {
+  "id": "call-owl",
+  "file": "/audio/sfx/call-owl.m4a",
+  "gain": 0.343,
+  "loop": false,
+  "lufs": -16.7,
+  "peak": -8.0,
+  "durationS": 1.352
+ },
+ {
+  "id": "call-fox",
+  "file": "/audio/sfx/call-fox.m4a",
+  "gain": 0.442,
+  "loop": false,
+  "lufs": -18.9,
+  "peak": -8.0,
+  "durationS": 0.529,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "call-squirrel",
+  "file": "/audio/sfx/call-squirrel.m4a",
+  "gain": 0.668,
+  "loop": false,
+  "lufs": -22.5,
+  "peak": -8.1,
+  "durationS": 0.494,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "call-snow-hare",
+  "file": "/audio/sfx/call-snow-hare.m4a",
+  "gain": 0.966,
+  "loop": false,
+  "lufs": -25.7,
+  "peak": -7.8,
+  "durationS": 0.624
+ },
+ {
+  "id": "call-pika",
+  "file": "/audio/sfx/call-pika.m4a",
+  "gain": 0.367,
+  "loop": false,
+  "lufs": -17.3,
+  "peak": -7.8,
+  "durationS": 0.458,
+  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
+ },
+ {
+  "id": "call-whale",
+  "file": "/audio/sfx/call-whale.m4a",
+  "gain": 0.617,
+  "loop": false,
+  "lufs": -21.8,
+  "peak": -7.9,
+  "durationS": 2.16
+ },
+ {
+  "id": "call-tortoise",
+  "file": "/audio/sfx/call-tortoise.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -32.5,
+  "peak": -7.9,
+  "durationS": 2.479
+ }
+]

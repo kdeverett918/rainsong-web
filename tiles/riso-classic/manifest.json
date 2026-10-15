@@ -1,0 +1,254 @@
+[
+  {
+    "id": "dot1",
+    "name": "One of Dots",
+    "color": "#2e48a0",
+    "file": "dot1.png"
+  },
+  {
+    "id": "dot2",
+    "name": "Two of Dots",
+    "color": "#248c5c",
+    "file": "dot2.png"
+  },
+  {
+    "id": "dot3",
+    "name": "Three of Dots",
+    "color": "#e24834",
+    "file": "dot3.png"
+  },
+  {
+    "id": "dot4",
+    "name": "Four of Dots",
+    "color": "#e24834",
+    "file": "dot4.png"
+  },
+  {
+    "id": "dot5",
+    "name": "Five of Dots",
+    "color": "#e24834",
+    "file": "dot5.png"
+  },
+  {
+    "id": "dot6",
+    "name": "Six of Dots",
+    "color": "#e24834",
+    "file": "dot6.png"
+  },
+  {
+    "id": "dot7",
+    "name": "Seven of Dots",
+    "color": "#e24834",
+    "file": "dot7.png"
+  },
+  {
+    "id": "dot8",
+    "name": "Eight of Dots",
+    "color": "#2e48a0",
+    "file": "dot8.png"
+  },
+  {
+    "id": "dot9",
+    "name": "Nine of Dots",
+    "color": "#e24834",
+    "file": "dot9.png"
+  },
+  {
+    "id": "bam1",
+    "name": "One of Bamboo",
+    "color": "#248c5c",
+    "file": "bam1.png"
+  },
+  {
+    "id": "bam2",
+    "name": "Two of Bamboo",
+    "color": "#248c5c",
+    "file": "bam2.png"
+  },
+  {
+    "id": "bam3",
+    "name": "Three of Bamboo",
+    "color": "#248c5c",
+    "file": "bam3.png"
+  },
+  {
+    "id": "bam4",
+    "name": "Four of Bamboo",
+    "color": "#248c5c",
+    "file": "bam4.png"
+  },
+  {
+    "id": "bam5",
+    "name": "Five of Bamboo",
+    "color": "#248c5c",
+    "file": "bam5.png"
+  },
+  {
+    "id": "bam6",
+    "name": "Six of Bamboo",
+    "color": "#248c5c",
+    "file": "bam6.png"
+  },
+  {
+    "id": "bam7",
+    "name": "Seven of Bamboo",
+    "color": "#248c5c",
+    "file": "bam7.png"
+  },
+  {
+    "id": "bam8",
+    "name": "Eight of Bamboo",
+    "color": "#248c5c",
+    "file": "bam8.png"
+  },
+  {
+    "id": "bam9",
+    "name": "Nine of Bamboo",
+    "color": "#248c5c",
+    "file": "bam9.png"
+  },
+  {
+    "id": "char1",
+    "name": "One of Characters",
+    "color": "#e24834",
+    "file": "char1.png"
+  },
+  {
+    "id": "char2",
+    "name": "Two of Characters",
+    "color": "#e24834",
+    "file": "char2.png"
+  },
+  {
+    "id": "char3",
+    "name": "Three of Characters",
+    "color": "#e24834",
+    "file": "char3.png"
+  },
+  {
+    "id": "char4",
+    "name": "Four of Characters",
+    "color": "#e24834",
+    "file": "char4.png"
+  },
+  {
+    "id": "char5",
+    "name": "Five of Characters",
+    "color": "#e24834",
+    "file": "char5.png"
+  },
+  {
+    "id": "char6",
+    "name": "Six of Characters",
+    "color": "#e24834",
+    "file": "char6.png"
+  },
+  {
+    "id": "char7",
+    "name": "Seven of Characters",
+    "color": "#e24834",
+    "file": "char7.png"
+  },
+  {
+    "id": "char8",
+    "name": "Eight of Characters",
+    "color": "#e24834",
+    "file": "char8.png"
+  },
+  {
+    "id": "char9",
+    "name": "Nine of Characters",
+    "color": "#e24834",
+    "file": "char9.png"
+  },
+  {
+    "id": "east",
+    "name": "East Wind",
+    "color": "#1e2c68",
+    "file": "east.png"
+  },
+  {
+    "id": "south",
+    "name": "South Wind",
+    "color": "#1e2c68",
+    "file": "south.png"
+  },
+  {
+    "id": "west",
+    "name": "West Wind",
+    "color": "#1e2c68",
+    "file": "west.png"
+  },
+  {
+    "id": "north",
+    "name": "North Wind",
+    "color": "#1e2c68",
+    "file": "north.png"
+  },
+  {
+    "id": "red",
+    "name": "Red Dragon",
+    "color": "#e24834",
+    "file": "red.png"
+  },
+  {
+    "id": "green",
+    "name": "Green Dragon",
+    "color": "#248c5c",
+    "file": "green.png"
+  },
+  {
+    "id": "white",
+    "name": "White Dragon",
+    "color": "#2e48a0",
+    "file": "white.png"
+  },
+  {
+    "id": "flower1",
+    "name": "Flower: Plum",
+    "color": "#c43a6c",
+    "file": "flower1.png"
+  },
+  {
+    "id": "flower2",
+    "name": "Flower: Orchid",
+    "color": "#2e48a0",
+    "file": "flower2.png"
+  },
+  {
+    "id": "flower3",
+    "name": "Flower: Chrysanthemum",
+    "color": "#e2a034",
+    "file": "flower3.png"
+  },
+  {
+    "id": "flower4",
+    "name": "Flower: Bamboo",
+    "color": "#248c5c",
+    "file": "flower4.png"
+  },
+  {
+    "id": "season1",
+    "name": "Season: Spring",
+    "color": "#248c5c",
+    "file": "season1.png"
+  },
+  {
+    "id": "season2",
+    "name": "Season: Summer",
+    "color": "#e24834",
+    "file": "season2.png"
+  },
+  {
+    "id": "season3",
+    "name": "Season: Autumn",
+    "color": "#e2a034",
+    "file": "season3.png"
+  },
+  {
+    "id": "season4",
+    "name": "Season: Winter",
+    "color": "#2e48a0",
+    "file": "season4.png"
+  }
+]

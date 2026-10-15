@@ -1,0 +1,888 @@
+[
+ {
+  "id": "panel-s09-autumn-maples-01",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 1,
+   "panels": 10,
+   "beat": "the first maple",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.146,
+   "quietAbs": 3.59,
+   "lowerSat": 34.5,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/01.webp",
+   "cropTop": 145,
+   "source": {
+    "job": "img-20261012-183919-1d3a5d60",
+    "take": "s09-01_00"
+   },
+   "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-02",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a creek with floating leaves",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.107,
+   "quietAbs": 2.87,
+   "lowerSat": 34.6,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/02.webp",
+   "cropTop": 144,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s09-02_01"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-03",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 3,
+   "panels": 10,
+   "beat": "stone steps with leaves",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.141,
+   "quietAbs": 3.91,
+   "lowerSat": 35.7,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/03.webp",
+   "cropTop": 120,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s09-03_00"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-04",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 4,
+   "panels": 10,
+   "beat": "a mossy shrine roof (no symbols or script)",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.155,
+   "quietAbs": 4.08,
+   "lowerSat": 36.8,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/04.webp",
+   "cropTop": 123,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s09-04_01"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-05",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 5,
+   "panels": 10,
+   "beat": "a wooden water wheel",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.115,
+   "quietAbs": 3.22,
+   "lowerSat": 35.0,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/05.webp",
+   "cropTop": 112,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s09-05_01"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-06",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 6,
+   "panels": 10,
+   "beat": "a maple over a pool",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.133,
+   "quietAbs": 3.83,
+   "lowerSat": 35.9,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/06.webp",
+   "cropTop": 138,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s09-06_02"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-07",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 7,
+   "panels": 10,
+   "beat": "acorns and mushrooms on a log",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.13,
+   "quietAbs": 3.56,
+   "lowerSat": 36.9,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/07.webp",
+   "cropTop": 130,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s09-07_00"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-08",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 8,
+   "panels": 10,
+   "beat": "a gold ginkgo",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.152,
+   "quietAbs": 3.89,
+   "lowerSat": 35.7,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/08.webp",
+   "cropTop": 139,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s09-08_01"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-09",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 9,
+   "panels": 10,
+   "beat": "a misty hillside",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.165,
+   "quietAbs": 3.87,
+   "lowerSat": 36.2,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/09.webp",
+   "cropTop": 116,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s09-09_00"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s09-autumn-maples-10",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s09-autumn-maples/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "scrollName": "Autumn Maples",
+   "panel": 10,
+   "panels": 10,
+   "beat": "a hollow tree stump (squirrel perch)",
+   "ink": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "inkHex": [
+    "#E2462B",
+    "#C98A2B",
+    "#7A3B69"
+   ],
+   "ground": "leaf-covered stream",
+   "light": "low autumn sun",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.14,
+   "quietAbs": 3.66,
+   "lowerSat": 36.3,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/10.webp",
+   "cropTop": 120,
+   "source": {
+    "job": "img-20261012-185255-d4cb12fd",
+    "take": "s09-10b_02"
+   },
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "perch": {
+    "resident": "squirrel",
+    "kind": "low mossy tree stump on the bank",
+    "x": 0.76,
+    "y": 0.43,
+    "top": 0.42,
+    "xRange": [
+     0.63,
+     0.88
+    ],
+    "note": "flat mossy top; reads as a stump, not visibly hollow (a low stump was chosen so the perch sits near the 45-55% band; the hollow takes stood at ~0.31)"
+   },
+   "showpiece": true
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-01",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 1,
+   "panels": 10,
+   "beat": "snow on pines",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.164,
+   "quietAbs": 3.56,
+   "lowerSat": 22.3,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/01.webp",
+   "cropTop": 117,
+   "source": {
+    "job": "img-20261012-183919-1d3a5d60",
+    "take": "s10-01_00"
+   },
+   "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-02",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 2,
+   "panels": 10,
+   "beat": "a gate in snow",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.169,
+   "quietAbs": 3.6,
+   "lowerSat": 23.0,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/02.webp",
+   "cropTop": 89,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s10-02_00"
+   },
+   "refs": "s10-snow-temple panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-03",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 3,
+   "panels": 10,
+   "beat": "a bell under a roof",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.161,
+   "quietAbs": 3.61,
+   "lowerSat": 22.4,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/03.webp",
+   "cropTop": 131,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s10-03_01"
+   },
+   "refs": "s10-snow-temple panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-04",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 4,
+   "panels": 10,
+   "beat": "a frozen pond",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.191,
+   "quietAbs": 4.06,
+   "lowerSat": 22.4,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/04.webp",
+   "cropTop": 67,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s10-04_01"
+   },
+   "refs": "s10-snow-temple panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-05",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 5,
+   "panels": 10,
+   "beat": "snow-capped lanterns",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.148,
+   "quietAbs": 3.23,
+   "lowerSat": 22.4,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/05.webp",
+   "cropTop": 118,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s10-05_00"
+   },
+   "refs": "s10-snow-temple panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-06",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 6,
+   "panels": 10,
+   "beat": "a red camellia in snow",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.158,
+   "quietAbs": 3.72,
+   "lowerSat": 21.1,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/06.webp",
+   "cropTop": 114,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s10-06_01"
+   },
+   "refs": "s10-snow-temple panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-07",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 7,
+   "panels": 10,
+   "beat": "a stone path swept",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.16,
+   "quietAbs": 3.66,
+   "lowerSat": 22.6,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/07.webp",
+   "cropTop": 104,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s10-07_00"
+   },
+   "refs": "s10-snow-temple panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-08",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 8,
+   "panels": 10,
+   "beat": "temple eaves with icicles",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.158,
+   "quietAbs": 3.51,
+   "lowerSat": 22.1,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/08.webp",
+   "cropTop": 118,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s10-08_01"
+   },
+   "refs": "s10-snow-temple panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-09",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 9,
+   "panels": 10,
+   "beat": "falling snow over hills",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.203,
+   "quietAbs": 3.74,
+   "lowerSat": 22.6,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/09.webp",
+   "cropTop": 112,
+   "source": {
+    "job": "img-20261012-184139-b744941d",
+    "take": "s10-09_00"
+   },
+   "refs": "s10-snow-temple panel 1 (style)"
+  }
+ },
+ {
+  "id": "panel-s10-snow-temple-10",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s10-snow-temple/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "scrollName": "First Snow Temple",
+   "panel": 10,
+   "panels": 10,
+   "beat": "a snow-covered rock (snow hare perch)",
+   "ink": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "inkHex": [
+    "#8DB8D6",
+    "#8A84A8",
+    "#E2462B"
+   ],
+   "ground": "fresh snow",
+   "light": "hushed light",
+   "horizon": 0.58,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.165,
+   "quietAbs": 3.69,
+   "lowerSat": 22.2,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "docs/art/masters/public/art/panels/s10-snow-temple/10.webp",
+   "cropTop": 106,
+   "source": {
+    "job": "img-20261012-185455-3439b9c9",
+    "take": "s10-10b_00"
+   },
+   "refs": "s10-snow-temple panel 1 (style)",
+   "perch": {
+    "resident": "snow-hare",
+    "kind": "low rounded snow-covered rock",
+    "x": 0.73,
+    "y": 0.43,
+    "top": 0.41,
+    "xRange": [
+     0.5,
+     0.95
+    ],
+    "note": "highest point of the snow cap near x 0.73; open sky above"
+   },
+   "showpiece": true
+  }
+ }
+]

@@ -1,0 +1,1146 @@
+[
+ {
+  "id": "res-wren",
+  "kind": "resident",
+  "file": "/art/residents/res-wren.png",
+  "w": 378,
+  "h": 512,
+  "meta": {
+   "resident": "res-wren",
+   "frame": "idle",
+   "pair": "res-wren_b",
+   "scroll": "s01-first-light",
+   "subject": "a wren on a reed",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 226244
+  }
+ },
+ {
+  "id": "res-wren_b",
+  "kind": "resident",
+  "file": "/art/residents/res-wren_b.png",
+  "w": 378,
+  "h": 512,
+  "meta": {
+   "resident": "res-wren",
+   "frame": "blink",
+   "pair": "res-wren",
+   "scroll": "s01-first-light",
+   "subject": "a wren on a reed",
+   "inks": [
+    "fluorescent pink",
+    "aqua",
+    "sunflower"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 219565
+  }
+ },
+ {
+  "id": "res-red-panda",
+  "kind": "resident",
+  "file": "/art/residents/res-red-panda.png",
+  "w": 512,
+  "h": 478,
+  "meta": {
+   "resident": "res-red-panda",
+   "frame": "idle",
+   "pair": "res-red-panda_b",
+   "scroll": "s02-bamboo",
+   "subject": "a red panda on a log",
+   "inks": [
+    "leaf green",
+    "teal",
+    "sunflower"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 463748
+  }
+ },
+ {
+  "id": "res-red-panda_b",
+  "kind": "resident",
+  "file": "/art/residents/res-red-panda_b.png",
+  "w": 512,
+  "h": 478,
+  "meta": {
+   "resident": "res-red-panda",
+   "frame": "blink",
+   "pair": "res-red-panda",
+   "scroll": "s02-bamboo",
+   "subject": "a red panda on a log",
+   "inks": [
+    "leaf green",
+    "teal",
+    "sunflower"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 453000
+  }
+ },
+ {
+  "id": "res-cat",
+  "kind": "resident",
+  "file": "/art/residents/res-cat.png",
+  "w": 512,
+  "h": 453,
+  "meta": {
+   "resident": "res-cat",
+   "frame": "idle",
+   "pair": "res-cat_b",
+   "scroll": "s03-tea-hills",
+   "subject": "a cat curled on a porch plank",
+   "inks": [
+    "federal blue",
+    "orange",
+    "cream"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 384250
+  }
+ },
+ {
+  "id": "res-cat_b",
+  "kind": "resident",
+  "file": "/art/residents/res-cat_b.png",
+  "w": 512,
+  "h": 453,
+  "meta": {
+   "resident": "res-cat",
+   "frame": "blink",
+   "pair": "res-cat",
+   "scroll": "s03-tea-hills",
+   "subject": "a cat curled on a porch plank",
+   "inks": [
+    "federal blue",
+    "orange",
+    "cream"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 373250
+  }
+ },
+ {
+  "id": "res-tree-frog",
+  "kind": "resident",
+  "file": "/art/residents/res-tree-frog.png",
+  "w": 459,
+  "h": 512,
+  "meta": {
+   "resident": "res-tree-frog",
+   "frame": "idle",
+   "pair": "res-tree-frog_b",
+   "scroll": "s04-rain-canal",
+   "subject": "a tree frog on a stone",
+   "inks": [
+    "ultramarine",
+    "violet",
+    "mint"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 442259
+  }
+ },
+ {
+  "id": "res-tree-frog_b",
+  "kind": "resident",
+  "file": "/art/residents/res-tree-frog_b.png",
+  "w": 459,
+  "h": 512,
+  "meta": {
+   "resident": "res-tree-frog",
+   "frame": "blink",
+   "pair": "res-tree-frog",
+   "scroll": "s04-rain-canal",
+   "subject": "a tree frog on a stone",
+   "inks": [
+    "ultramarine",
+    "violet",
+    "mint"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 414372
+  }
+ },
+ {
+  "id": "res-heron",
+  "kind": "resident",
+  "file": "/art/residents/res-heron.png",
+  "w": 296,
+  "h": 512,
+  "meta": {
+   "resident": "res-heron",
+   "frame": "idle",
+   "pair": "res-heron_b",
+   "scroll": "s05-heron-marsh",
+   "subject": "a heron on a driftwood post",
+   "inks": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 171171
+  }
+ },
+ {
+  "id": "res-heron_b",
+  "kind": "resident",
+  "file": "/art/residents/res-heron_b.png",
+  "w": 296,
+  "h": 512,
+  "meta": {
+   "resident": "res-heron",
+   "frame": "blink",
+   "pair": "res-heron",
+   "scroll": "s05-heron-marsh",
+   "subject": "a heron on a driftwood post",
+   "inks": [
+    "teal",
+    "coral",
+    "ochre"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 166515
+  }
+ },
+ {
+  "id": "res-deer",
+  "kind": "resident",
+  "file": "/art/residents/res-deer.png",
+  "w": 512,
+  "h": 480,
+  "meta": {
+   "resident": "res-deer",
+   "frame": "idle",
+   "pair": "res-deer_b",
+   "scroll": "s06-orchard",
+   "subject": "a young deer grazing",
+   "inks": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 348647
+  }
+ },
+ {
+  "id": "res-deer_b",
+  "kind": "resident",
+  "file": "/art/residents/res-deer_b.png",
+  "w": 512,
+  "h": 480,
+  "meta": {
+   "resident": "res-deer",
+   "frame": "blink",
+   "pair": "res-deer",
+   "scroll": "s06-orchard",
+   "subject": "a young deer grazing",
+   "inks": [
+    "pink",
+    "leaf green",
+    "peach"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 337879
+  }
+ },
+ {
+  "id": "res-owl",
+  "kind": "resident",
+  "file": "/art/residents/res-owl.png",
+  "w": 493,
+  "h": 512,
+  "meta": {
+   "resident": "res-owl",
+   "frame": "idle",
+   "pair": "res-owl_b",
+   "scroll": "s07-moon-bridge",
+   "subject": "an owl on a pine bough",
+   "inks": [
+    "indigo",
+    "silver-violet",
+    "pale gold"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 421774
+  }
+ },
+ {
+  "id": "res-owl_b",
+  "kind": "resident",
+  "file": "/art/residents/res-owl_b.png",
+  "w": 493,
+  "h": 512,
+  "meta": {
+   "resident": "res-owl",
+   "frame": "blink",
+   "pair": "res-owl",
+   "scroll": "s07-moon-bridge",
+   "subject": "an owl on a pine bough",
+   "inks": [
+    "indigo",
+    "silver-violet",
+    "pale gold"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 405977
+  }
+ },
+ {
+  "id": "res-fox",
+  "kind": "resident",
+  "file": "/art/residents/res-fox.png",
+  "w": 329,
+  "h": 512,
+  "meta": {
+   "resident": "res-fox",
+   "frame": "idle",
+   "pair": "res-fox_b",
+   "scroll": "s08-lantern-night",
+   "subject": "a fox sitting",
+   "inks": [
+    "orange",
+    "plum",
+    "gold"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 280315
+  }
+ },
+ {
+  "id": "res-fox_b",
+  "kind": "resident",
+  "file": "/art/residents/res-fox_b.png",
+  "w": 329,
+  "h": 512,
+  "meta": {
+   "resident": "res-fox",
+   "frame": "blink",
+   "pair": "res-fox",
+   "scroll": "s08-lantern-night",
+   "subject": "a fox sitting",
+   "inks": [
+    "orange",
+    "plum",
+    "gold"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 279503
+  }
+ },
+ {
+  "id": "res-squirrel",
+  "kind": "resident",
+  "file": "/art/residents/res-squirrel.png",
+  "w": 458,
+  "h": 512,
+  "meta": {
+   "resident": "res-squirrel",
+   "frame": "idle",
+   "pair": "res-squirrel_b",
+   "scroll": "s09-autumn-maples",
+   "subject": "a squirrel with an acorn",
+   "inks": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 397795
+  }
+ },
+ {
+  "id": "res-squirrel_b",
+  "kind": "resident",
+  "file": "/art/residents/res-squirrel_b.png",
+  "w": 458,
+  "h": 512,
+  "meta": {
+   "resident": "res-squirrel",
+   "frame": "blink",
+   "pair": "res-squirrel",
+   "scroll": "s09-autumn-maples",
+   "subject": "a squirrel with an acorn",
+   "inks": [
+    "vermilion",
+    "ochre",
+    "plum"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 388357
+  }
+ },
+ {
+  "id": "res-snow-hare",
+  "kind": "resident",
+  "file": "/art/residents/res-snow-hare.png",
+  "w": 372,
+  "h": 512,
+  "meta": {
+   "resident": "res-snow-hare",
+   "frame": "idle",
+   "pair": "res-snow-hare_b",
+   "scroll": "s10-snow-temple",
+   "subject": "a snow hare",
+   "inks": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 294732
+  }
+ },
+ {
+  "id": "res-snow-hare_b",
+  "kind": "resident",
+  "file": "/art/residents/res-snow-hare_b.png",
+  "w": 372,
+  "h": 512,
+  "meta": {
+   "resident": "res-snow-hare",
+   "frame": "blink",
+   "pair": "res-snow-hare",
+   "scroll": "s10-snow-temple",
+   "subject": "a snow hare",
+   "inks": [
+    "ice blue",
+    "grey-violet",
+    "vermilion accent"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 269967
+  }
+ },
+ {
+  "id": "res-pika",
+  "kind": "resident",
+  "file": "/art/residents/res-pika.png",
+  "w": 403,
+  "h": 512,
+  "meta": {
+   "resident": "res-pika",
+   "frame": "idle",
+   "pair": "res-pika_b",
+   "scroll": "s11-high-meadow",
+   "subject": "a pika on a boulder",
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 408901
+  }
+ },
+ {
+  "id": "res-pika_b",
+  "kind": "resident",
+  "file": "/art/residents/res-pika_b.png",
+  "w": 403,
+  "h": 512,
+  "meta": {
+   "resident": "res-pika",
+   "frame": "blink",
+   "pair": "res-pika",
+   "scroll": "s11-high-meadow",
+   "subject": "a pika on a boulder",
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 388608
+  }
+ },
+ {
+  "id": "res-whale",
+  "kind": "resident",
+  "file": "/art/residents/res-whale.png",
+  "w": 490,
+  "h": 512,
+  "meta": {
+   "resident": "res-whale",
+   "frame": "idle",
+   "pair": "res-whale_b",
+   "scroll": "s12-sea-sunrise",
+   "subject": "a whale breaching softly",
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 348027
+  }
+ },
+ {
+  "id": "res-whale_b",
+  "kind": "resident",
+  "file": "/art/residents/res-whale_b.png",
+  "w": 490,
+  "h": 512,
+  "meta": {
+   "resident": "res-whale",
+   "frame": "blink",
+   "pair": "res-whale",
+   "scroll": "s12-sea-sunrise",
+   "subject": "a whale breaching softly",
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 340412
+  }
+ },
+ {
+  "id": "res-tortoise",
+  "kind": "resident",
+  "file": "/art/residents/res-tortoise.png",
+  "w": 512,
+  "h": 430,
+  "meta": {
+   "resident": "res-tortoise",
+   "frame": "idle",
+   "pair": "res-tortoise_b",
+   "scroll": "tray-stone-garden",
+   "subject": "a tortoise on moss",
+   "inks": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 454339
+  }
+ },
+ {
+  "id": "res-tortoise_b",
+  "kind": "resident",
+  "file": "/art/residents/res-tortoise_b.png",
+  "w": 512,
+  "h": 430,
+  "meta": {
+   "resident": "res-tortoise",
+   "frame": "blink",
+   "pair": "res-tortoise",
+   "scroll": "tray-stone-garden",
+   "subject": "a tortoise on moss",
+   "inks": [
+    "moss green",
+    "slate blue",
+    "warm sand"
+   ],
+   "anchor": "bottom-center",
+   "framesAligned": true,
+   "bytes": 437228
+  }
+ },
+ {
+  "id": "crane",
+  "kind": "meta",
+  "file": "/art/meta/crane.png",
+  "w": 256,
+  "h": 229,
+  "meta": {
+   "use": "sender reward",
+   "tintable": true,
+   "anchor": "center",
+   "bytes": 53858
+  }
+ },
+ {
+  "id": "stone-lantern",
+  "kind": "meta",
+  "file": "/art/meta/stone-lantern.png",
+  "w": 180,
+  "h": 256,
+  "meta": {
+   "use": "cairn milestones 7/30/100/365",
+   "lit": true,
+   "anchor": "bottom-center",
+   "bytes": 70522
+  }
+ },
+ {
+  "id": "wax-seal",
+  "kind": "meta",
+  "file": "/art/meta/wax-seal.png",
+  "w": 256,
+  "h": 254,
+  "meta": {
+   "use": "letter seal",
+   "baseHue": "neutral red",
+   "hueShiftable": true,
+   "anchor": "center",
+   "bytes": 118350
+  }
+ },
+ {
+  "id": "cairn-moss",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-moss.png",
+  "w": 128,
+  "h": 51,
+  "meta": {
+   "use": "cairn moss stone (long runs)",
+   "anchor": "bottom-center",
+   "bytes": 15012
+  }
+ },
+ {
+  "id": "cairn-rest",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-rest.png",
+  "w": 128,
+  "h": 53,
+  "meta": {
+   "use": "cairn rest stone (faint glow)",
+   "anchor": "bottom-center",
+   "bytes": 13769
+  }
+ },
+ {
+  "id": "lantern-lit",
+  "kind": "meta",
+  "file": "/art/meta/lantern-lit.png",
+  "w": 89,
+  "h": 128,
+  "meta": {
+   "use": "night streak / daily lantern",
+   "anchor": "top-center",
+   "framesAligned": true,
+   "lit": true,
+   "pair": "lantern-unlit",
+   "bytes": 18633
+  }
+ },
+ {
+  "id": "lantern-unlit",
+  "kind": "meta",
+  "file": "/art/meta/lantern-unlit.png",
+  "w": 89,
+  "h": 128,
+  "meta": {
+   "use": "night streak / daily lantern",
+   "anchor": "top-center",
+   "framesAligned": true,
+   "lit": false,
+   "pair": "lantern-lit",
+   "bytes": 18541
+  }
+ },
+ {
+  "id": "envelope-closed",
+  "kind": "meta",
+  "file": "/art/meta/envelope-closed.png",
+  "w": 483,
+  "h": 298,
+  "meta": {
+   "use": "letter fold end state",
+   "anchor": "bottom-center",
+   "bodyWidthPx": 481,
+   "pair": "envelope-open",
+   "bytes": 236882
+  }
+ },
+ {
+  "id": "envelope-open",
+  "kind": "meta",
+  "file": "/art/meta/envelope-open.png",
+  "w": 484,
+  "h": 384,
+  "meta": {
+   "use": "letter fold end state",
+   "anchor": "bottom-center",
+   "bodyWidthPx": 481,
+   "pair": "envelope-closed",
+   "bytes": 265402
+  }
+ },
+ {
+  "id": "cairn-stone-01",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-stone-01.png",
+  "w": 122,
+  "h": 64,
+  "meta": {
+   "use": "cairn day stone",
+   "tone": "grey-violet",
+   "anchor": "bottom-center",
+   "bytes": 16195
+  }
+ },
+ {
+  "id": "cairn-stone-02",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-stone-02.png",
+  "w": 117,
+  "h": 64,
+  "meta": {
+   "use": "cairn day stone",
+   "tone": "warm sand",
+   "anchor": "bottom-center",
+   "bytes": 15951
+  }
+ },
+ {
+  "id": "cairn-stone-03",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-stone-03.png",
+  "w": 115,
+  "h": 64,
+  "meta": {
+   "use": "cairn day stone",
+   "tone": "slate blue-grey",
+   "anchor": "bottom-center",
+   "bytes": 15486
+  }
+ },
+ {
+  "id": "cairn-stone-04",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-stone-04.png",
+  "w": 111,
+  "h": 64,
+  "meta": {
+   "use": "cairn day stone",
+   "tone": "pale lavender-grey",
+   "anchor": "bottom-center",
+   "bytes": 14760
+  }
+ },
+ {
+  "id": "cairn-stone-05",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-stone-05.png",
+  "w": 109,
+  "h": 64,
+  "meta": {
+   "use": "cairn day stone",
+   "tone": "ochre sand",
+   "anchor": "bottom-center",
+   "bytes": 15037
+  }
+ },
+ {
+  "id": "cairn-stone-06",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-stone-06.png",
+  "w": 111,
+  "h": 64,
+  "meta": {
+   "use": "cairn day stone",
+   "tone": "cool dove grey",
+   "anchor": "bottom-center",
+   "bytes": 14882
+  }
+ },
+ {
+  "id": "cairn-stone-07",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-stone-07.png",
+  "w": 111,
+  "h": 64,
+  "meta": {
+   "use": "cairn day stone",
+   "tone": "rose-sand",
+   "anchor": "bottom-center",
+   "bytes": 15229
+  }
+ },
+ {
+  "id": "cairn-stone-08",
+  "kind": "meta",
+  "file": "/art/meta/cairn/cairn-stone-08.png",
+  "w": 103,
+  "h": 64,
+  "meta": {
+   "use": "cairn day stone",
+   "tone": "deep violet-grey",
+   "anchor": "bottom-center",
+   "bytes": 14237
+  }
+ },
+ {
+  "id": "flower-01",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-01.png",
+  "w": 104,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "violet",
+   "anchor": "center",
+   "bytes": 18067
+  }
+ },
+ {
+  "id": "flower-02",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-02.png",
+  "w": 128,
+  "h": 120,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "buttercup",
+   "anchor": "center",
+   "bytes": 26713
+  }
+ },
+ {
+  "id": "flower-03",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-03.png",
+  "w": 109,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "clover",
+   "anchor": "center",
+   "bytes": 21242
+  }
+ },
+ {
+  "id": "flower-04",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-04.png",
+  "w": 76,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "fern",
+   "anchor": "center",
+   "bytes": 15624
+  }
+ },
+ {
+  "id": "flower-05",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-05.png",
+  "w": 128,
+  "h": 124,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "cosmos",
+   "anchor": "center",
+   "bytes": 28119
+  }
+ },
+ {
+  "id": "flower-06",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-06.png",
+  "w": 128,
+  "h": 126,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "poppy",
+   "anchor": "center",
+   "bytes": 29417
+  }
+ },
+ {
+  "id": "flower-07",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-07.png",
+  "w": 98,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "forget-me-not",
+   "anchor": "center",
+   "bytes": 17401
+  }
+ },
+ {
+  "id": "flower-08",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-08.png",
+  "w": 126,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "daisy",
+   "anchor": "center",
+   "bytes": 26659
+  }
+ },
+ {
+  "id": "flower-09",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-09.png",
+  "w": 127,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "cherry-blossom",
+   "anchor": "center",
+   "bytes": 25299
+  }
+ },
+ {
+  "id": "flower-10",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-10.png",
+  "w": 128,
+  "h": 127,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "hydrangea",
+   "anchor": "center",
+   "bytes": 26479
+  }
+ },
+ {
+  "id": "flower-11",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-11.png",
+  "w": 64,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "lavender",
+   "anchor": "center",
+   "bytes": 9893
+  }
+ },
+ {
+  "id": "flower-12",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-12.png",
+  "w": 128,
+  "h": 127,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "pansy",
+   "anchor": "center",
+   "bytes": 33773
+  }
+ },
+ {
+  "id": "flower-13",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-13.png",
+  "w": 128,
+  "h": 127,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "camellia",
+   "anchor": "center",
+   "bytes": 26871
+  }
+ },
+ {
+  "id": "flower-14",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-14.png",
+  "w": 125,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "morning-glory",
+   "anchor": "center",
+   "bytes": 24382
+  }
+ },
+ {
+  "id": "flower-15",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-15.png",
+  "w": 100,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "chamomile",
+   "anchor": "center",
+   "bytes": 13130
+  }
+ },
+ {
+  "id": "flower-16",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-16.png",
+  "w": 127,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "cornflower",
+   "anchor": "center",
+   "bytes": 26868
+  }
+ },
+ {
+  "id": "flower-17",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-17.png",
+  "w": 128,
+  "h": 119,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "wild-rose",
+   "anchor": "center",
+   "bytes": 27018
+  }
+ },
+ {
+  "id": "flower-18",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-18.png",
+  "w": 104,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "sweet-pea",
+   "anchor": "center",
+   "bytes": 17574
+  }
+ },
+ {
+  "id": "flower-19",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-19.png",
+  "w": 107,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "bellflower",
+   "anchor": "center",
+   "bytes": 11968
+  }
+ },
+ {
+  "id": "flower-20",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-20.png",
+  "w": 128,
+  "h": 127,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "primrose",
+   "anchor": "center",
+   "bytes": 26373
+  }
+ },
+ {
+  "id": "flower-21",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-21.png",
+  "w": 128,
+  "h": 123,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "gentian",
+   "anchor": "center",
+   "bytes": 24751
+  }
+ },
+ {
+  "id": "flower-22",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-22.png",
+  "w": 59,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "lily-of-the-valley",
+   "anchor": "center",
+   "bytes": 10074
+  }
+ },
+ {
+  "id": "flower-23",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-23.png",
+  "w": 127,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "nasturtium",
+   "anchor": "center",
+   "bytes": 24574
+  }
+ },
+ {
+  "id": "flower-24",
+  "kind": "collectible",
+  "file": "/art/meta/flowers/flower-24.png",
+  "w": 128,
+  "h": 128,
+  "meta": {
+   "use": "daily gift pressed flower",
+   "flower": "dandelion",
+   "anchor": "center",
+   "bytes": 31357
+  }
+ },
+ {
+  "id": "particles",
+  "kind": "sheet",
+  "file": "/art/meta/particles.png",
+  "w": 512,
+  "h": 512,
+  "meta": {
+   "grid": [
+    4,
+    4
+   ],
+   "cell": 128,
+   "frames": [
+    "petal-a",
+    "petal-b",
+    "petal-c",
+    "petal-d",
+    "leaf-green",
+    "leaf-maple",
+    "leaf-ginkgo",
+    "leaf-ochre",
+    "snow-a",
+    "snow-b",
+    "snow-c",
+    "snow-d",
+    "firefly-a",
+    "firefly-b",
+    "mote-a",
+    "mote-b"
+   ],
+   "use": "home scroll season overlay: petals (spring), leaves (autumn), snow (winter), fireflies (summer), motes",
+   "bytes": 229640
+  }
+ }
+]

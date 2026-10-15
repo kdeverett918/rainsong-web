@@ -1,0 +1,725 @@
+[
+ {
+  "id": "panel-s11-high-meadow-01",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 1,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "alpine flowers",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.23,
+   "lowSat": 31.3,
+   "cropTopPx": 96,
+   "master": "docs/art/masters/panels/s11-high-meadow/01.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-01_01",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-02",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 2,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "a cairn on a ridge",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.249,
+   "lowSat": 32.0,
+   "cropTopPx": 92,
+   "master": "docs/art/masters/panels/s11-high-meadow/02.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-02_01",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-03",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 3,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "a mountain tarn",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.193,
+   "lowSat": 33.4,
+   "cropTopPx": 136,
+   "master": "docs/art/masters/panels/s11-high-meadow/03.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-03_02",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-04",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 4,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "grass bending in wind",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.198,
+   "lowSat": 32.6,
+   "cropTopPx": 132,
+   "master": "docs/art/masters/panels/s11-high-meadow/04.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-04_02",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-05",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 5,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "a flock of birds",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.199,
+   "lowSat": 33.3,
+   "cropTopPx": 140,
+   "master": "docs/art/masters/panels/s11-high-meadow/05.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-05_02",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-06",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 6,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "a shepherd's hut (empty)",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.17,
+   "lowSat": 32.8,
+   "cropTopPx": 124,
+   "master": "docs/art/masters/panels/s11-high-meadow/06.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-06_00",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-07",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 7,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "a waterfall far off",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.209,
+   "lowSat": 33.3,
+   "cropTopPx": 92,
+   "master": "docs/art/masters/panels/s11-high-meadow/07.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-07_00",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-08",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 8,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "wildflowers close",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.165,
+   "lowSat": 31.9,
+   "cropTopPx": 144,
+   "master": "docs/art/masters/panels/s11-high-meadow/08.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-08_00",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-09",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 9,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "clouds over peaks",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.213,
+   "lowSat": 32.4,
+   "cropTopPx": 140,
+   "master": "docs/art/masters/panels/s11-high-meadow/09.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-09_00",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
+  }
+ },
+ {
+  "id": "panel-s11-high-meadow-10",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s11-high-meadow/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "scrollTitle": "High Meadow",
+   "panel": 10,
+   "of": 10,
+   "inks": [
+    "gold",
+    "cornflower",
+    "pink"
+   ],
+   "ground": "wildflower meadow",
+   "light": "bright wind",
+   "beat": "a sunny boulder (pika perch)",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.198,
+   "lowSat": 32.8,
+   "cropTopPx": 116,
+   "master": "docs/art/masters/panels/s11-high-meadow/10.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s11-10_02 (regen r2)",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "perch": {
+    "resident": "pika",
+    "kind": "low flat-topped sunny boulder",
+    "x": [
+     0.67,
+     0.95
+    ],
+    "y": 0.41,
+    "rockTop": 0.4,
+    "note": "boulder spans x 0.53-0.98; flat top at 0.40-0.41, a little above the 45-55% target"
+   }
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-01",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 1,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "the river mouth",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.311,
+   "lowSat": 28.1,
+   "cropTopPx": 134,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/01.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-01_00 (regen r2, sun removed)",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-02",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 2,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "dunes with grass",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.385,
+   "lowSat": 26.8,
+   "cropTopPx": 99,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/02.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-02_02",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-03",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 3,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "a fishing pier",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.345,
+   "lowSat": 27.5,
+   "cropTopPx": 100,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/03.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-03_01 (regen r2)",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-04",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 4,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "gulls over water",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.355,
+   "lowSat": 27.9,
+   "cropTopPx": 98,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/04.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-04_00 (regen r2)",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-05",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 5,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "a tide pool",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.307,
+   "lowSat": 28.0,
+   "cropTopPx": 97,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/05.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-05_01",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-06",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 6,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "a lighthouse far away",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.425,
+   "lowSat": 27.7,
+   "cropTopPx": 98,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/06.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-06_01",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-07",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 7,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "sun breaking the horizon",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.405,
+   "lowSat": 28.0,
+   "cropTopPx": 98,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/07.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-07_01",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-08",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 8,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "long light on waves",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.374,
+   "lowSat": 28.1,
+   "cropTopPx": 99,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/08.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-08_02",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-09",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/09.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 9,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "a sandbar",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.392,
+   "lowSat": 28.0,
+   "cropTopPx": 98,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/09.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-09_02",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
+  }
+ },
+ {
+  "id": "panel-s12-sea-sunrise-10",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s12-sea-sunrise/10.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "scrollTitle": "The Sea at Sunrise",
+   "panel": 10,
+   "of": 10,
+   "inks": [
+    "gold",
+    "pink",
+    "sky blue"
+   ],
+   "ground": "calm sea",
+   "light": "sunrise",
+   "beat": "open sea with a whale's spout (whale surfaces here)",
+   "horizon": 0.58,
+   "quietZone": {
+    "top": 0.6,
+    "bottom": 1.0
+   },
+   "quietRatio": 0.444,
+   "lowSat": 27.2,
+   "cropTopPx": 98,
+   "master": "docs/art/masters/panels/s12-sea-sunrise/10.webp",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "take": "s12-10_02",
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "seaHorizon": 0.414,
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "perch": {
+    "resident": "whale",
+    "kind": "whale back surfacing with spout",
+    "x": 0.75,
+    "y": 0.5,
+    "spout": {
+     "x": 0.74,
+     "yTop": 0.28,
+     "yBase": 0.5
+    },
+    "note": "whale back at x 0.66-0.86 on the water just below the sea line"
+   }
+  }
+ }
+]

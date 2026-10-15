@@ -1,0 +1,146 @@
+[
+ {
+  "id": "bed-s01",
+  "file": "/audio/beds/bed-s01.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -10.4
+ },
+ {
+  "id": "bed-s02",
+  "file": "/audio/beds/bed-s02.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -27.9,
+  "peak": -9.6
+ },
+ {
+  "id": "bed-s03",
+  "file": "/audio/beds/bed-s03.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -27.5,
+  "peak": -7.9
+ },
+ {
+  "id": "bed-s04",
+  "file": "/audio/beds/bed-s04.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -27.5,
+  "peak": -8.2
+ },
+ {
+  "id": "bed-tray",
+  "file": "/audio/beds/bed-tray.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -8.5
+ },
+ {
+  "id": "bed-daily",
+  "file": "/audio/beds/bed-daily.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -27.9,
+  "peak": -8.8
+ },
+ {
+  "id": "bed-rain-paper",
+  "file": "/audio/beds/bed-rain-paper.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -27.5,
+  "peak": -7.6
+ },
+ {
+  "id": "bed-night-crickets",
+  "file": "/audio/beds/bed-night-crickets.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -28.1,
+  "peak": -17.8
+ },
+ {
+  "id": "bed-creek",
+  "file": "/audio/beds/bed-creek.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -27.8,
+  "peak": -9.7
+ },
+ {
+  "id": "pad-dawn",
+  "file": "/audio/music/pad-dawn.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -24.0,
+  "peak": -15.5
+ },
+ {
+  "id": "pad-day",
+  "file": "/audio/music/pad-day.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -24.0,
+  "peak": -13.9
+ },
+ {
+  "id": "pad-dusk",
+  "file": "/audio/music/pad-dusk.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -24.0,
+  "peak": -13.1
+ },
+ {
+  "id": "pad-night",
+  "file": "/audio/music/pad-night.m4a",
+  "gain": 1.0,
+  "loop": true,
+  "lufs": -24.0,
+  "peak": -12.6
+ },
+ {
+  "id": "pad-ceremony-D",
+  "file": "/audio/music/pad-ceremony-D.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.0,
+  "peak": -10.4
+ },
+ {
+  "id": "pad-ceremony-G",
+  "file": "/audio/music/pad-ceremony-G.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.0,
+  "peak": -11.5
+ },
+ {
+  "id": "pad-ceremony-A",
+  "file": "/audio/music/pad-ceremony-A.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.0,
+  "peak": -13.4
+ },
+ {
+  "id": "pad-ceremony-E",
+  "file": "/audio/music/pad-ceremony-E.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -24.1,
+  "peak": -11.5
+ },
+ {
+  "id": "store-preview",
+  "file": "/audio/music/store-preview.m4a",
+  "gain": 1.0,
+  "loop": false,
+  "lufs": -16.0,
+  "peak": -2.0
+ }
+]
