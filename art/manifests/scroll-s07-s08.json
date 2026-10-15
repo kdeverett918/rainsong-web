@@ -38,19 +38,19 @@
    "cropTop": 0,
    "take": "s07-01m_00",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/01-8.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 01 take 8)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/01-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 01 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
    "subject": "a weeping willow by the stream, its long strands silvered by moonlight",
    "scale": "mid"
   },
-  "bytes": 236176
+  "bytes": 205622
  },
  {
   "id": "panel-s07-moon-bridge-02",
@@ -75,7 +75,7 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "the moon bright ivory, a soft blue-grey dusk sky",
+   "light": "the moon ivory, a soft blue-grey dusk sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -92,19 +92,19 @@
    "take": "s07-02_00",
    "night": "ink washes on cream paper (no black fills)",
    "note": "the only panel with the moon disc (the beat); moon removed from all other panels so the mounted scroll shows one moon",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/02-7.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 02 take 7)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/02-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 02 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
-   "subject": "a large full moon rising above soft pine-covered hills in silver mist",
+   "subject": "a large soft full moon rising above pine-covered hills in silver mist",
    "scale": "wide"
   },
-  "bytes": 176088
+  "bytes": 142458
  },
  {
   "id": "panel-s07-moon-bridge-03",
@@ -129,7 +129,7 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "high bright moonlight",
+   "light": "high soft moonlight",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -145,19 +145,19 @@
    "cropTop": 0,
    "take": "s07-03m_00",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/03-8.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 03 take 8)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/03-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 03 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
-   "subject": "a small stream sparkling with silver moon glitter between soft grassy banks",
+   "subject": "a small stream glittering with silver moonlight between soft grassy banks",
    "scale": "mid"
   },
-  "bytes": 219836
+  "bytes": 201166
  },
  {
   "id": "panel-s07-moon-bridge-04",
@@ -182,7 +182,7 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "bright moonlight from the upper left",
+   "light": "soft moonlight from the upper left",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -198,19 +198,19 @@
    "cropTop": 0,
    "take": "s07-04m_00",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/04-7.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 04 take 7)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/04-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 04 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
    "subject": "the near end of a tall arched stone bridge, its pale stones silvered by moonlight",
    "scale": "mid"
   },
-  "bytes": 202766
+  "bytes": 189522
  },
  {
   "id": "panel-s07-moon-bridge-05",
@@ -235,7 +235,7 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "full bright moonlight, a thin mist on the water",
+   "light": "full soft moonlight, a thin mist on the water",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -251,19 +251,19 @@
    "cropTop": 0,
    "take": "s07-05m_00",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/05-7.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 05 take 7)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/05-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 05 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
-   "subject": "the high round arch of the stone bridge mirrored as a full circle in the calm stream",
+   "subject": "the high round arch of a stone bridge mirrored as a full circle in the calm stream",
    "scale": "wide"
   },
-  "bytes": 187956
+  "bytes": 145208
  },
  {
   "id": "panel-s07-moon-bridge-06",
@@ -288,7 +288,7 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "moonlit night with one small warm lantern glow",
+   "light": "moonlit mist with one small warm lantern glow",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -304,19 +304,19 @@
    "cropTop": 0,
    "take": "s07-06m_00",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/06-8.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 06 take 8)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/06-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 06 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
-   "subject": "the far side of the bridge descending into the misty garden with one warm amber lantern",
+   "subject": "the far side of a stone bridge descending into the misty garden with one small warm amber lantern",
    "scale": "mid"
   },
-  "bytes": 188912
+  "bytes": 177320
  },
  {
   "id": "panel-s07-moon-bridge-07",
@@ -357,19 +357,19 @@
    "cropTop": 0,
    "take": "s07-07m_00",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/07-7.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 07 take 7)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/07-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 07 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
-   "subject": "tall pale blue irises in the moonlit garden, their petals edged with silver light",
+   "subject": "tall pale blue irises, their petals edged with silver light",
    "scale": "close"
   },
-  "bytes": 163354
+  "bytes": 157852
  },
  {
   "id": "panel-s07-moon-bridge-08",
@@ -410,19 +410,19 @@
    "cropTop": 0,
    "take": "s07-08m_00",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/08-7.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 08 take 7)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/08-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 08 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
    "subject": "an old stone lantern lit from within, warm amber light on soft green moss",
    "scale": "close"
   },
-  "bytes": 174278
+  "bytes": 213478
  },
  {
   "id": "panel-s07-moon-bridge-09",
@@ -463,19 +463,19 @@
    "cropTop": 0,
    "take": "s07-09f_01",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/09-7.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 09 take 7)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/09-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 09 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
-   "subject": "hundreds of soft gold fireflies over tall summer grass",
+   "subject": "soft gold fireflies drifting over tall summer grass",
    "scale": "wide"
   },
-  "bytes": 227592
+  "bytes": 186848
  },
  {
   "id": "panel-s07-moon-bridge-10",
@@ -500,7 +500,7 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "soft warm light",
+   "light": "soft silver moonlight",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -525,19 +525,19 @@
     "branchTop": 0.39,
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v3 DL3 variety",
+   "look": "v4 DL r4 painted mist",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s07/10-8.png",
-    "prompt": "docs/art/dl3/prompts.json (s07 10 take 8)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/masters/dl4-takes/s07/10-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r4-s07 10 take 11)",
+    "script": "docs/art/dl3/_scripts/gen4.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
    },
-   "subject": "small owl resting on a moonlit pine bough",
+   "subject": "one small owl resting calmly on a moonlit pine bough; the owl is whole, clearly visible and the clear centre of attention, placed exactly in the horizontal centre of the frame in the upper third, with open calm space on both sides of it",
    "scale": "mid"
   },
-  "bytes": 185980
+  "bytes": 179256
  },
  {
   "id": "panel-s08-lantern-night-01",

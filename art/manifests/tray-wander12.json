@@ -27,20 +27,21 @@
    "master": "docs/art/masters/tray/stone-garden/01.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "perfect concentric raked ripples around a single dark stone",
-   "scale": "close"
+   "scale": "close",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 171264
+  "bytes": 318324
  },
  {
   "id": "tray.stone-garden.02",
@@ -70,20 +71,21 @@
    "master": "docs/art/masters/tray/stone-garden/02.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a mossy rock island in a sea of raked gravel",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 188134
+  "bytes": 282452
  },
  {
   "id": "tray.stone-garden.03",
@@ -113,20 +115,21 @@
    "master": "docs/art/masters/tray/stone-garden/03.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "one red maple branch leaning over a white plaster garden wall",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 226948
+  "bytes": 312800
  },
  {
   "id": "tray.stone-garden.04",
@@ -156,20 +159,21 @@
    "master": "docs/art/masters/tray/stone-garden/04.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/04-5.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 04 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "one small red maple and a stone lantern standing beside a mossy rock in a wide raked-gravel garden; the maple and lantern sit in the upper third of the frame",
-   "scale": "wide"
+   "scale": "wide",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 150204
+  "bytes": 321122
  },
  {
   "id": "tray.stone-garden.05",
@@ -199,20 +203,21 @@
    "master": "docs/art/masters/tray/stone-garden/05.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a round stone water basin with a bamboo ladle, water brimming",
-   "scale": "close"
+   "scale": "close",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 199584
+  "bytes": 335560
  },
  {
   "id": "tray.stone-garden.06",
@@ -242,20 +247,21 @@
    "master": "docs/art/masters/tray/stone-garden/06.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a gravel path of stepping stones through moss",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 223152
+  "bytes": 348354
  },
  {
   "id": "tray.stone-garden.07",
@@ -285,20 +291,21 @@
    "master": "docs/art/masters/tray/stone-garden/07.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a low cloud-pruned pine spreading over the gravel",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 201126
+  "bytes": 298804
  },
  {
   "id": "tray.stone-garden.08",
@@ -328,20 +335,21 @@
    "master": "docs/art/masters/tray/stone-garden/08.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a small stone lantern standing on a bed of moss",
-   "scale": "close"
+   "scale": "close",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 156476
+  "bytes": 297228
  },
  {
   "id": "tray.stone-garden.09",
@@ -371,20 +379,21 @@
    "master": "docs/art/masters/tray/stone-garden/09.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a dry stream bed of smooth river stones winding through the garden",
-   "scale": "wide"
+   "scale": "wide",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 224758
+  "bytes": 392682
  },
  {
   "id": "tray.stone-garden.10",
@@ -414,20 +423,21 @@
    "master": "docs/art/masters/tray/stone-garden/10.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "the polished edge of a wooden veranda looking onto the garden",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 194992
+  "bytes": 385710
  },
  {
   "id": "tray.stone-garden.11",
@@ -457,20 +467,21 @@
    "master": "docs/art/masters/tray/stone-garden/11.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/11-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 11 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/stone/11-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-stone 11 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "the corner of a koi pond with two orange and white koi under a maple leaf",
-   "scale": "close"
+   "scale": "close",
+   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
   },
-  "bytes": 185876
+  "bytes": 361242
  },
  {
   "id": "tray.stone-garden.12",

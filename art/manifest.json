@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generated": "2026-10-15T12:28:51+00:00",
- "count": 396,
+ "generated": "2026-10-15T17:36:24+00:00",
+ "count": 397,
  "fragments": [
   "brand-surfaces-v3",
   "daily-2026-10-letters",
@@ -616,22 +616,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/01-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 01 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/01-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 01 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a branch of ripe orange persimmons against a clear blue sky",
-    "light": "bright crisp midday sun",
+    "subject": "a branch of ripe orange persimmons",
+    "light": "soft bright morning light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 118728,
+   "bytes": 211074,
    "group": "daily-2026-10-letters"
   },
   {
@@ -659,22 +659,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/02-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 02 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/02-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 02 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a steaming celadon teacup on a wooden windowsill, autumn leaves outside",
-    "light": "soft warm morning window light",
+    "subject": "a celadon teacup with a curl of steam resting on a flat mossy stone at the edge of a pond, two red maple leaves beside it",
+    "light": "soft warm morning light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 98504,
+   "bytes": 214836,
    "group": "daily-2026-10-letters"
   },
   {
@@ -702,22 +702,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/03-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 03 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/03-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 03 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "one red maple leaf floating on a dark forest puddle",
-    "light": "dappled light",
+    "subject": "one red maple leaf floating on still water, its reflection beneath it",
+    "light": "soft dappled light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 104260,
+   "bytes": 182630,
    "group": "daily-2026-10-letters"
   },
   {
@@ -745,22 +745,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/04-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 04 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/04-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 04 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a pumpkin beside a weathered blue wooden door",
-    "light": "warm late-afternoon sun",
+    "subject": "one round orange pumpkin sitting on an old mossy stone wall",
+    "light": "warm late-afternoon light",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 213590,
+   "bytes": 307198,
    "group": "daily-2026-10-letters"
   },
   {
@@ -788,22 +788,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/05-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 05 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/05-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 05 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "three glossy acorns on green moss",
-    "light": "a sunbeam in a shady wood",
+    "subject": "three glossy acorns on a cushion of green moss",
+    "light": "a soft sunbeam in a wood",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 122716,
+   "bytes": 223918,
    "group": "daily-2026-10-letters"
   },
   {
@@ -831,22 +831,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/06-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 06 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/06-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 06 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a golden stubble field with round hay bales",
+    "subject": "one large round golden hay bale in a stubble field, near and clear",
     "light": "low golden-hour sun",
-    "scale": "wide",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 139662,
+   "bytes": 362522,
    "group": "daily-2026-10-letters"
   },
   {
@@ -874,22 +874,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/07-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 07 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/07-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 07 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a glowing paper lantern hanging from a maple branch",
-    "light": "blue dusk",
+    "subject": "a glowing round paper lantern hanging from a red maple branch",
+    "light": "soft blue dusk",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 108422,
+   "bytes": 200040,
    "group": "daily-2026-10-letters"
   },
   {
@@ -917,22 +917,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/08-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 08 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/08-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 08 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a wicker basket of red apples on an old wooden table in an orchard",
-    "light": "dappled afternoon sun",
+    "subject": "a branch of red apples",
+    "light": "soft dappled afternoon light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 169362,
+   "bytes": 213634,
    "group": "daily-2026-10-letters"
   },
   {
@@ -960,22 +960,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/09-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 09 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/09-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 09 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a grey heron standing in a stream",
-    "light": "dramatic sunset sky, orange and violet",
+    "subject": "a grey heron standing in shallow water",
+    "light": "a soft apricot sunset glow",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 133264,
+   "bytes": 239568,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1003,22 +1003,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/10-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 10 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/10-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 10 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a V of wild geese over golden fields",
-    "light": "bright clear autumn sky",
-    "scale": "wide",
+    "subject": "three wild geese flying close and large across a pale sky above fields",
+    "light": "pale bright autumn light",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 119510,
+   "bytes": 267052,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1046,22 +1046,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/11-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 11 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/11-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 11 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a cluster of brown wild mushrooms on a forest floor of leaves",
+    "subject": "a small cluster of brown wild mushrooms on a mossy log",
     "light": "soft green-gold forest light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 126112,
+   "bytes": 239262,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1089,22 +1089,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/12-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 12 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/12-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 12 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "an old wooden footbridge over a forest stream under yellow trees",
-    "light": "soft overcast light",
+    "subject": "a small old arched wooden footbridge over a calm stream, golden and rust autumn trees",
+    "light": "soft luminous morning light, a warm gold glow",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 277430,
+   "bytes": 365780,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1132,22 +1132,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/13-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 13 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/13-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 13 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "roasted chestnuts in a cast-iron pan on a wooden table",
-    "light": "warm firelight",
+    "subject": "a few chestnuts in their open spiky husks on a mossy stone",
+    "light": "warm soft light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 135422,
+   "bytes": 260880,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1175,22 +1175,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/14-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 14 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/14-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 14 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "fox paw tracks across early frost on a meadow",
+    "subject": "a red fox standing in a frosted meadow",
     "light": "pale cold morning light",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 190812,
+   "bytes": 323318,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1218,22 +1218,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/15-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 15 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/15-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 15 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
     "subject": "a bright full moon above bare branches",
-    "light": "deep blue night",
+    "light": "soft blue night with lifted, shadows",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 171628,
+   "bytes": 339998,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1261,22 +1261,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/16-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 16 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/16-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 16 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "raindrops running down a window, a blurred red tree outside",
-    "light": "grey rainy afternoon",
-    "scale": "close",
+    "subject": "raindrops ringing the still surface of a pond under a red maple",
+    "light": "soft grey rain light",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 148350,
+   "bytes": 346084,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1304,22 +1304,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/17-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 17 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/17-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 17 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "wheat sheaves standing in a field",
+    "subject": "one wheat sheaf standing in a golden field",
     "light": "warm evening light",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 173960,
+   "bytes": 326452,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1347,22 +1347,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/18-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 18 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/18-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 18 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
     "subject": "a golden ginkgo tree shedding fan-shaped leaves onto a stone path",
-    "light": "bright afternoon",
+    "light": "bright soft afternoon light",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 261924,
+   "bytes": 370570,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1390,22 +1390,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/19-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 19 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/19-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 19 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a copper kettle on an old wood stove",
-    "light": "warm kitchen lamplight",
+    "subject": "a copper kettle with a thin curl of steam on a flat rock beside a stream",
+    "light": "warm soft morning light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 99190,
+   "bytes": 285168,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1433,22 +1433,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/20-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 20 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/20-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 20 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a quiet wooden porch with a rocking chair and a wool blanket",
-    "light": "golden-hour sun",
+    "subject": "an empty wooden bench under a golden tree",
+    "light": "golden-hour light",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 193142,
+   "bytes": 349668,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1476,12 +1476,12 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/21-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 21 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/21-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 21 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
@@ -1491,7 +1491,7 @@
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 177522,
+   "bytes": 282362,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1519,22 +1519,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/22-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 22 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/22-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 22 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a river bending through hills of autumn forest",
-    "light": "late afternoon light, seen from high above",
-    "scale": "wide",
+    "subject": "a small wooden rowing boat moored at a river bend under one golden tree",
+    "light": "late afternoon light",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 197184,
+   "bytes": 297856,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1562,22 +1562,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/23-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 23 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/23-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 23 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
     "subject": "a single pine cone on a bed of pine needles",
-    "light": "warm sunbeam",
+    "light": "a warm sunbeam",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 130248,
+   "bytes": 228304,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1605,22 +1605,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/24-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 24 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/24-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 24 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "one lit candle in a glass jar on a windowsill at night",
-    "light": "night, candlelight",
+    "subject": "a small candle lantern glowing on a stone step",
+    "light": "soft blue dusk",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 76252,
+   "bytes": 209386,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1648,22 +1648,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/25-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 25 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/25-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 25 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a knitted rust-red wool scarf hanging on a wooden peg by a door",
-    "light": "soft window light",
-    "scale": "close",
+    "subject": "a young red maple tree standing alone in a meadow",
+    "light": "soft morning light",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 116114,
+   "bytes": 321962,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1691,22 +1691,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/26-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 26 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/26-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 26 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a branch of dusky purple plums with dew on them",
-    "light": "early morning light",
+    "subject": "a branch of dusky purple plums beaded with dew",
+    "light": "soft early morning light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 129012,
+   "bytes": 255396,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1734,22 +1734,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/27-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 27 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/27-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 27 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a long grey heron feather lying on golden leaves",
+    "subject": "a long grey heron feather resting on golden leaves",
     "light": "soft overcast light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 134202,
+   "bytes": 218742,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1777,22 +1777,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/28-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 28 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/28-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 28 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
     "subject": "a mossy boulder in a beech wood with gold leaves",
-    "light": "misty forest light with sunbeams",
+    "light": "soft forest light with gentle sunbeams",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 251252,
+   "bytes": 347070,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1820,22 +1820,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/29-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 29 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/29-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 29 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "an old oak with a hollow, a tawny owl peering out",
-    "light": "blue dusk",
+    "subject": "a tawny owl peering from the hollow of an old oak",
+    "light": "soft blue dusk",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 161488,
+   "bytes": 321760,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1863,22 +1863,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/30-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 30 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/30-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 30 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a still mountain lake ringed with gold larches and snowy peaks",
-    "light": "crisp clear noon",
-    "scale": "wide",
+    "subject": "one golden larch tree on the shore of a still mountain lake, a soft snowy peak far behind",
+    "light": "soft clear noon in light haze",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 153666,
+   "bytes": 323716,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1906,22 +1906,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily10/31-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily10 31 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily10/31-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily10 31 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a huge orange harvest moon rising over a field",
+    "subject": "a large soft orange harvest moon rising over a field",
     "light": "dusk",
     "scale": "wide",
     "horizon": 0.55
    },
-   "bytes": 96756,
+   "bytes": 260286,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1932,7 +1932,7 @@
    "h": 1350,
    "meta": {
     "use": "default",
-    "scene": "a single pink tulip in a clear glass of water on a sunny windowsill, a soft linen curtain",
+    "scene": "a single pink tulip growing alone in a soft meadow",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -1949,22 +1949,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/thinking-of-you-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters thinking-of-you take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/thinking-of-you-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters thinking-of-you take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a single pink tulip in a clear glass of water on a sunny windowsill, a soft linen curtain",
-    "light": "warm morning window light",
+    "subject": "a single pink tulip growing alone in a soft meadow",
+    "light": "warm morning light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 104642,
+   "bytes": 149780,
    "group": "daily-2026-10-letters"
   },
   {
@@ -1975,7 +1975,7 @@
    "h": 1350,
    "meta": {
     "use": "thanks",
-    "scene": "a handmade aqua-glazed teacup with a soft curl of steam on a linen cloth, a sprig of mint beside it",
+    "scene": "a celadon teacup with a soft curl of steam resting on a flat mossy stone in a garden, a sprig of mint beside it",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -1992,22 +1992,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/thank-you-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters thank-you take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/thank-you-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters thank-you take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a handmade aqua-glazed teacup with a soft curl of steam on a linen cloth, a sprig of mint beside it",
+    "subject": "a celadon teacup with a soft curl of steam resting on a flat mossy stone in a garden, a sprig of mint beside it",
     "light": "soft warm morning light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 104962,
+   "bytes": 223760,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2018,7 +2018,7 @@
    "h": 1350,
    "meta": {
     "use": "birthdays, news",
-    "scene": "a string of glowing paper lanterns with confetti-like petals drifting in a garden",
+    "scene": "one glowing round paper lantern hanging from a blossoming branch",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -2035,22 +2035,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/celebrate-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters celebrate take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/celebrate-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters celebrate take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a string of glowing paper lanterns with confetti-like petals drifting in a garden",
-    "light": "festive warm evening light",
-    "scale": "mid",
+    "subject": "one glowing round paper lantern hanging from a blossoming branch",
+    "light": "warm festive evening glow",
+    "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 220310,
+   "bytes": 171882,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2061,7 +2061,7 @@
    "h": 1350,
    "meta": {
     "use": "everyday",
-    "scene": "a breakfast tray by an open window: a pot of coffee, a cup and a croissant, sunshine on the sill",
+    "scene": "a branch of three ripe orange persimmons",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -2078,22 +2078,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/good-morning-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters good-morning take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/good-morning-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters good-morning take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a breakfast tray by an open window: a pot of coffee, a cup and a croissant, sunshine on the sill",
-    "light": "bright golden morning sun",
+    "subject": "a branch of three ripe orange persimmons",
+    "light": "soft golden morning sun",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 158960,
+   "bytes": 172546,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2104,7 +2104,7 @@
    "h": 1350,
    "meta": {
     "use": "everyday",
-    "scene": "a crescent moon over a sleepy village of rooftops with a few lit windows",
+    "scene": "a thin crescent moon above one lone pine on a soft hill, the pine near and clear",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -2121,22 +2121,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/good-night-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters good-night take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/good-night-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters good-night take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a crescent moon over a sleepy village of rooftops with a few lit windows",
-    "light": "deep blue night",
-    "scale": "wide",
+    "subject": "a thin crescent moon above one lone pine on a soft hill, the pine near and clear",
+    "light": "soft blue night with lifted, shadows",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 94752,
+   "bytes": 287114,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2164,22 +2164,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/missing-you-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters missing-you take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/missing-you-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters missing-you take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
     "subject": "two red-crowned cranes flying apart across a rose-gold sky",
-    "light": "sunset",
+    "light": "soft sunset glow",
     "scale": "wide",
     "horizon": 0.55
    },
-   "bytes": 80688,
+   "bytes": 188754,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2207,22 +2207,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/together-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters together take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/together-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters together take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
     "subject": "two orange and white koi circling each other in a round green pond, seen from above",
-    "light": "dappled noon light",
+    "light": "soft dappled noon light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 142422,
+   "bytes": 258558,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2250,22 +2250,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/well-done-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters well-done take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/well-done-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters well-done take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
     "subject": "a mountain summit rising above a sea of clouds, golden light on the peak",
-    "light": "golden sunrise",
+    "light": "soft golden sunrise",
     "scale": "wide",
     "horizon": 0.55
    },
-   "bytes": 91984,
+   "bytes": 238268,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2276,7 +2276,7 @@
    "h": 1350,
    "meta": {
     "use": "season",
-    "scene": "a branch of pink cherry blossom against a bright blue sky",
+    "scene": "a branch of pink cherry blossom",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -2293,22 +2293,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/spring-hello-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters spring-hello take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/spring-hello-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters spring-hello take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a branch of pink cherry blossom against a bright blue sky",
-    "light": "bright spring sun",
+    "subject": "a branch of pink cherry blossom",
+    "light": "bright soft spring light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 127186,
+   "bytes": 156960,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2319,7 +2319,7 @@
    "h": 1350,
    "meta": {
     "use": "season",
-    "scene": "a warm lamp glowing in a small snowy cottage window with a wreath",
+    "scene": "a stone lantern glowing warm amber, capped with fresh snow",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -2336,22 +2336,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/winter-hello-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters winter-hello take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/winter-hello-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters winter-hello take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a warm lamp glowing in a small snowy cottage window with a wreath",
-    "light": "blue snowy dusk",
-    "scale": "mid",
+    "subject": "a stone lantern glowing warm amber, capped with fresh snow",
+    "light": "soft blue snowy dusk",
+    "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 159122,
+   "bytes": 249496,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2362,7 +2362,7 @@
    "h": 1350,
    "meta": {
     "use": "everyday",
-    "scene": "a blue butterfly on a bunch of wildflowers in a meadow",
+    "scene": "a blue butterfly resting on a single wildflower",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -2379,22 +2379,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/just-because-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters just-because take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/just-because-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters just-because take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a blue butterfly on a bunch of wildflowers in a meadow",
-    "light": "bright summer sun",
+    "subject": "a blue butterfly resting on a single wildflower",
+    "light": "bright soft summer light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 166018,
+   "bytes": 168292,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2405,7 +2405,7 @@
    "h": 1350,
    "meta": {
     "use": "Mother's Day",
-    "scene": "a bouquet of peonies, roses and wildflowers in a cream ceramic jug on a kitchen table",
+    "scene": "a generous spray of soft pink peonies on their stems, growing in a garden",
     "inks": [
      "fluorescent pink",
      "aqua",
@@ -2422,22 +2422,22 @@
     "group": "daily-2026-10-letters",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/letters/for-mom-1.png",
-     "prompt": "docs/art/dl3/prompts.json (letters for-mom take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/letters/for-mom-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-letters for-mom take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
     "noPeople": true,
     "noText": true,
-    "subject": "a bouquet of peonies, roses and wildflowers in a cream ceramic jug on a kitchen table",
-    "light": "soft golden afternoon window light",
+    "subject": "a generous spray of soft pink peonies on their stems, growing in a garden",
+    "light": "soft golden afternoon light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 170320,
+   "bytes": 211448,
    "group": "daily-2026-10-letters"
   },
   {
@@ -2475,20 +2475,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s01-first-light/01.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s01/01-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s01, panel 1, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s01/01-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s01 01 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
    },
-   "bytes": 68138,
+   "bytes": 198290,
    "group": "scroll-s01-s02"
   },
   {
@@ -2526,20 +2526,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s01-first-light/02.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s01/02-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s01, panel 2, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s01/02-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s01 02 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
    },
-   "bytes": 55896,
+   "bytes": 188756,
    "group": "scroll-s01-s02"
   },
   {
@@ -2577,20 +2577,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s01-first-light/03.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s01/03-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s01, panel 3, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s01/03-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s01 03 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
    },
-   "bytes": 85782,
+   "bytes": 192480,
    "group": "scroll-s01-s02"
   },
   {
@@ -2628,20 +2628,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s01-first-light/04.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s01/04-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s01, panel 4, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s01/04-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s01 04 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
    },
-   "bytes": 55204,
+   "bytes": 195342,
    "group": "scroll-s01-s02"
   },
   {
@@ -2679,20 +2679,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s01-first-light/05.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s01/05-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s01, panel 5, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s01/05-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s01 05 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
    },
-   "bytes": 49034,
+   "bytes": 189364,
    "group": "scroll-s01-s02"
   },
   {
@@ -2730,20 +2730,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s01-first-light/06.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s01/06-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s01, panel 6, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s01/06-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s01 06 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
    },
-   "bytes": 138740,
+   "bytes": 216458,
    "group": "scroll-s01-s02"
   },
   {
@@ -2781,20 +2781,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s01-first-light/07.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s01/07-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s01, panel 7, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s01/07-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s01 07 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
    },
-   "bytes": 87484,
+   "bytes": 199970,
    "group": "scroll-s01-s02"
   },
   {
@@ -2893,20 +2893,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/01.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/01-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 1, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/01-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 01 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 162148,
+   "bytes": 314508,
    "group": "scroll-s01-s02"
   },
   {
@@ -2946,20 +2946,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/02.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/02-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 2, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/02-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 02 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 168746,
+   "bytes": 319416,
    "group": "scroll-s01-s02"
   },
   {
@@ -2999,20 +2999,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/03.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/03-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 3, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/03-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 03 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 199266,
+   "bytes": 290716,
    "group": "scroll-s01-s02"
   },
   {
@@ -3043,7 +3043,7 @@
     "panel": 4,
     "beat": "a bamboo water spout",
     "subject": "a single bamboo water spout dripping a thin stream of water into a round stone basin, rain-beaded",
-    "accent": "one red camellia floating in the basin",
+    "accent": "one red camellia floating in the basin; DL r4: a low morning sun in the mist at the upper right and its gold path on the water",
     "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
     "horizon": 0.5,
     "quietZone": {
@@ -3052,20 +3052,25 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/04.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/04-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 4, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/04-2.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 04 take 2)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "lightPass": {
+     "script": "docs/art/dl3/_scripts/home4.py",
+     "why": "JUDGE-r3-3 spec 11: one warm accent at clear strength on the day Home hero",
+     "geometry": "unchanged (ui/nightlamp.ts fractions hold)"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 127142,
+   "bytes": 273100,
    "group": "scroll-s01-s02"
   },
   {
@@ -3105,20 +3110,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/05.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/05-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 5, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/05-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 05 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 61824,
+   "bytes": 233936,
    "group": "scroll-s01-s02"
   },
   {
@@ -3158,20 +3163,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/06.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/06-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 6, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/06-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 06 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 232416,
+   "bytes": 408104,
    "group": "scroll-s01-s02"
   },
   {
@@ -3211,20 +3216,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/07.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/07-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 7, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/07-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 07 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 227864,
+   "bytes": 352070,
    "group": "scroll-s01-s02"
   },
   {
@@ -3264,20 +3269,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/08.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/08-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 8, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/08-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 08 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 105790,
+   "bytes": 274686,
    "group": "scroll-s01-s02"
   },
   {
@@ -3317,20 +3322,20 @@
     },
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL single-subject",
+    "look": "v6 DL r4-2 lit painted stage",
     "master": "docs/art/masters/public/art/panels/s02-bamboo/09.webp",
     "cropTop": 0,
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl-takes/s02/09-1.png",
-     "prompt": "docs/art/dl/prompts.json (scroll s02, panel 9, take 1)",
-     "script": "docs/art/dl/_scripts/gen_dl.py",
-     "size": "1728x2160",
-     "seed": null
-    }
+     "take": "docs/art/masters/dl6-takes/s02/09-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s02 09 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
    },
-   "bytes": 185388,
+   "bytes": 303394,
    "group": "scroll-s01-s02"
   },
   {
@@ -3424,20 +3429,20 @@
     "master": "docs/art/masters/panels/s03-tea-hills/01.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/01-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 01 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/01-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 01 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a single fresh tea shoot, two bright leaves and a bud, beaded with dew",
     "scale": "close"
    },
-   "bytes": 104960,
+   "bytes": 109038,
    "group": "scroll-s03-s04"
   },
   {
@@ -3457,7 +3462,7 @@
      "cream"
     ],
     "ground": "mist in the valley",
-    "light": "golden early-morning sun low on the right, the thin steam lit gold",
+    "light": "golden early-morning sunrise",
     "beat": "a steaming kettle on a stone",
     "horizon": 0.55,
     "quietZone": {
@@ -3469,21 +3474,21 @@
     "master": "docs/art/masters/panels/s03-tea-hills/02.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/02-7.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 02 take 7)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/s03/02-4.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-s03 02 take 4)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "subject": "a small old iron kettle, only about one third of the frame's width, steaming on a flat warm rock in the lower left of the upper half; behind and around it the sunlit terraced tea rows sweep across the frame and a wide clear sky fills the top third, so the landscape dominates and the kettle is a quiet detail",
+    "subject": "a small old iron kettle with a thin curl of steam, the kettle about 30 percent of the frame's width, standing on a flat sunlit rock; the kettle sits low in the frame, its centre about 60 percent down and about 35 percent from the left edge, the rock's top edge at about 68 percent down; above and behind it sunlit terraced tea rows sweep up the hills to a wide glowing sunrise sky that fills the upper half",
     "scale": "mid",
     "note_r33": "DL r3-3: shipped at 1296x1620 (Lanczos from the 1152x1440 take) so the stage never upscales it"
    },
-   "bytes": 247362,
+   "bytes": 303516,
    "group": "scroll-s03-s04"
   },
   {
@@ -3515,20 +3520,20 @@
     "master": "docs/art/masters/panels/s03-tea-hills/03.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/03-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 03 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/03-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 03 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a small wooden tea-picker's hut with a tiled roof among the terraces, a thin curl of smoke from its chimney",
     "scale": "mid"
    },
-   "bytes": 228962,
+   "bytes": 216626,
    "group": "scroll-s03-s04"
   },
   {
@@ -3560,20 +3565,20 @@
     "master": "docs/art/masters/panels/s03-tea-hills/04.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/04-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 04 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/04-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 04 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "soft bands of morning cloud drifting below the terraced hilltops",
     "scale": "wide"
    },
-   "bytes": 145008,
+   "bytes": 142118,
    "group": "scroll-s03-s04"
   },
   {
@@ -3605,20 +3610,20 @@
     "master": "docs/art/masters/panels/s03-tea-hills/05.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/05-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 05 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/05-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 05 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "one lone umbrella pine on the crest of a tea hill",
     "scale": "wide"
    },
-   "bytes": 136656,
+   "bytes": 152552,
    "group": "scroll-s03-s04"
   },
   {
@@ -3650,20 +3655,20 @@
     "master": "docs/art/masters/panels/s03-tea-hills/06.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/06-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 06 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/06-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 06 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "two woven bamboo baskets of fresh tea leaves resting on a dry-stone wall",
     "scale": "close"
    },
-   "bytes": 250208,
+   "bytes": 194550,
    "group": "scroll-s03-s04"
   },
   {
@@ -3695,20 +3700,20 @@
     "master": "docs/art/masters/panels/s03-tea-hills/07.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/07-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 07 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/07-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 07 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a far temple roof with upturned eaves above the terraces during a summer shower",
     "scale": "wide"
    },
-   "bytes": 204192,
+   "bytes": 174778,
    "group": "scroll-s03-s04"
   },
   {
@@ -3740,20 +3745,20 @@
     "master": "docs/art/masters/panels/s03-tea-hills/08.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/08-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 08 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/08-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 08 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "two white butterflies over a flowering tea bush with small white camellia-like tea flowers",
     "scale": "close"
    },
-   "bytes": 114572,
+   "bytes": 114218,
    "group": "scroll-s03-s04"
   },
   {
@@ -3785,20 +3790,20 @@
     "master": "docs/art/masters/panels/s03-tea-hills/09.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/09-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 09 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/09-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 09 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a low dry-stone wall with tiny wildflowers and a green lizard basking on it",
     "scale": "close"
    },
-   "bytes": 222938,
+   "bytes": 181114,
    "group": "scroll-s03-s04"
   },
   {
@@ -3836,20 +3841,20 @@
      "note": "DL3: the resident is painted in, centred in the upper third"
     },
     "resident": "cat",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s03/10-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s03 10 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s03/10-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s03 10 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "cat resting on a sunlit wooden porch step of a small tea house",
     "scale": "mid"
    },
-   "bytes": 214294,
+   "bytes": 183860,
    "group": "scroll-s03-s04"
   },
   {
@@ -3888,20 +3893,21 @@
      "take": "s04-p1",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/01-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 01 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/01-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 01 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "rain falling over a crowd of old tiled rooftops and chimneys",
-    "scale": "wide"
+    "scale": "wide",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 249166,
+   "bytes": 381746,
    "group": "scroll-s03-s04"
   },
   {
@@ -3940,20 +3946,21 @@
      "take": "s04-02_01",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/02-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 02 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/02-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 02 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a narrow wooden boat moored by a stone quay, rain pooling in its hull",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 226608,
+   "bytes": 320930,
    "group": "scroll-s03-s04"
   },
   {
@@ -3992,20 +3999,21 @@
      "take": "s04-03_00",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/03-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 03 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/03-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 03 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "an old stone arch bridge over the canal, ivy hanging from it",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 238294,
+   "bytes": 358466,
    "group": "scroll-s03-s04"
   },
   {
@@ -4044,20 +4052,21 @@
      "take": "s04-04_01",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/04-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 04 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/04-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 04 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "three colourful oiled-paper umbrellas hung open to dry under a wooden eave",
-    "scale": "close"
+    "scale": "close",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 214934,
+   "bytes": 335442,
    "group": "scroll-s03-s04"
   },
   {
@@ -4096,20 +4105,21 @@
      "take": "s04-05_00",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/05-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 05 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/05-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 05 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "lit windows reflected as long gold streaks in the rippling canal",
-    "scale": "wide"
+    "scale": "wide",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 232412,
+   "bytes": 391714,
    "group": "scroll-s03-s04"
   },
   {
@@ -4148,20 +4158,21 @@
      "take": "s04-06_00",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/06-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 06 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/06-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 06 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "worn stone steps descending into the canal, a moss line at the water",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 224622,
+   "bytes": 337756,
    "group": "scroll-s03-s04"
   },
   {
@@ -4200,20 +4211,21 @@
      "take": "s04-07_01",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/07-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 07 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/07-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 07 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a weeping willow dripping rain over the canal wall",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 302154,
+   "bytes": 401788,
    "group": "scroll-s03-s04"
   },
   {
@@ -4252,20 +4264,21 @@
      "take": "s04-08_01",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/08-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 08 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/08-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 08 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "an iron lantern glowing on a wet stone post at the canal's edge",
-    "scale": "close"
+    "scale": "close",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 231290,
+   "bytes": 308848,
    "group": "scroll-s03-s04"
   },
   {
@@ -4304,20 +4317,21 @@
      "take": "s04-09_01",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/09-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 09 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/s04/09-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-s04 09 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "rain rings spreading on dark canal water with one floating yellow leaf",
-    "scale": "close"
+    "scale": "close",
+    "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
    },
-   "bytes": 145476,
+   "bytes": 371382,
    "group": "scroll-s03-s04"
   },
   {
@@ -4337,7 +4351,7 @@
      "mint"
     ],
     "ground": "rain-pocked water",
-    "light": "soft warm light",
+    "light": "rainy blue dusk with warm lamplight",
     "beat": "a mossy stone ledge (tree frog perch)",
     "horizon": 0.55,
     "quietZone": {
@@ -4367,20 +4381,20 @@
      "take": "s04-10_01",
      "refs": "panel 1 (style) + previous take (beat)"
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s04/10-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s04 10 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/s04/10-2.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-s04 10 take 2)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
-    "subject": "tree frog resting on a mossy stone ledge beside the canal, raindrops on the moss",
+    "subject": "one small green tree frog, painted in gouache like a storybook illustration (not a photograph), sitting on the worn stone lip of an old canal wall, placed exactly in the horizontal centre of the frame in the upper third, with calm open space on both sides of it; behind it an arched stone bridge and windows glowing warm amber",
     "scale": "mid"
    },
-   "bytes": 202842,
+   "bytes": 299098,
    "group": "scroll-s03-s04"
   },
   {
@@ -4425,19 +4439,19 @@
      "/art/panels/s03-tea-hills/01.webp"
     ],
     "refs": "style refs s01 + s03 panels",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/01-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 01 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/01-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 01 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "tall feathery reed plumes backlit by the sun, seed heads glowing",
     "scale": "close"
    },
-   "bytes": 187002,
+   "bytes": 191998,
    "group": "scroll-s05-s06"
   },
   {
@@ -4478,19 +4492,19 @@
     "master": "docs/art/masters/panels/s05-heron-marsh/02.webp",
     "take": "s05-p02_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/02-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 02 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/02-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 02 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a grey heron standing still in a shallow golden channel",
     "scale": "mid"
    },
-   "bytes": 155086,
+   "bytes": 142916,
    "group": "scroll-s05-s06"
   },
   {
@@ -4531,19 +4545,19 @@
     "master": "docs/art/masters/panels/s05-heron-marsh/03.webp",
     "take": "s05-p03_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/03-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 03 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/03-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 03 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a cluster of brown cattails with their velvet heads, one bursting with seed fluff",
     "scale": "close"
    },
-   "bytes": 178344,
+   "bytes": 166026,
    "group": "scroll-s05-s06"
   },
   {
@@ -4584,19 +4598,19 @@
     "master": "docs/art/masters/panels/s05-heron-marsh/04.webp",
     "take": "s05-p04_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/04-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 04 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/04-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 04 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a narrow wooden boardwalk zig-zagging away through the golden reeds",
     "scale": "wide"
    },
-   "bytes": 194114,
+   "bytes": 187566,
    "group": "scroll-s05-s06"
   },
   {
@@ -4637,19 +4651,19 @@
     "master": "docs/art/masters/panels/s05-heron-marsh/05.webp",
     "take": "s05-p05_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/05-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 05 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/05-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 05 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "water lilies with one pink flower open in a dark channel between reeds",
     "scale": "close"
    },
-   "bytes": 162954,
+   "bytes": 178594,
    "group": "scroll-s05-s06"
   },
   {
@@ -4690,19 +4704,19 @@
     "master": "docs/art/masters/panels/s05-heron-marsh/06.webp",
     "take": "s05-p06_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/06-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 06 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/06-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 06 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a skein of small birds wheeling over the reed beds",
     "scale": "wide"
    },
-   "bytes": 134718,
+   "bytes": 121246,
    "group": "scroll-s05-s06"
   },
   {
@@ -4743,19 +4757,19 @@
     "master": "docs/art/masters/panels/s05-heron-marsh/07.webp",
     "take": "s05-p07_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/07-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 07 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/07-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 07 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "an old half-sunk wooden rowboat among the reeds, grass growing in it",
     "scale": "mid"
    },
-   "bytes": 215782,
+   "bytes": 214764,
    "group": "scroll-s05-s06"
   },
   {
@@ -4796,19 +4810,19 @@
     "master": "docs/art/masters/panels/s05-heron-marsh/08.webp",
     "take": "s05-p08_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/08-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 08 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/08-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 08 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a small reed island with a lone silver birch on it",
     "scale": "mid"
    },
-   "bytes": 227992,
+   "bytes": 153546,
    "group": "scroll-s05-s06"
   },
   {
@@ -4849,19 +4863,19 @@
     "master": "docs/art/masters/panels/s05-heron-marsh/09.webp",
     "take": "s05-p09_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/09-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 09 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/09-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 09 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "towering white cumulus clouds over the flat marsh",
     "scale": "wide"
    },
-   "bytes": 144436,
+   "bytes": 122456,
    "group": "scroll-s05-s06"
   },
   {
@@ -4911,19 +4925,19 @@
      "note": "DL3: the resident is painted in, centred in the upper third"
     },
     "resident": "heron",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s05/10-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s05 10 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s05/10-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s05 10 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "grey heron resting on a bleached driftwood stump standing among golden reeds",
     "scale": "mid"
    },
-   "bytes": 177456,
+   "bytes": 153856,
    "group": "scroll-s05-s06"
   },
   {
@@ -4968,19 +4982,19 @@
      "/art/panels/s03-tea-hills/01.webp"
     ],
     "refs": "style refs s01 + s03 panels",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/01-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 01 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/01-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 01 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a branch of white apple blossom with pink buds, petals glowing",
     "scale": "close"
    },
-   "bytes": 130170,
+   "bytes": 130872,
    "group": "scroll-s05-s06"
   },
   {
@@ -5021,19 +5035,19 @@
     "master": "docs/art/masters/panels/s06-orchard/02.webp",
     "take": "s06-p02_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/02-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 02 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/02-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 02 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a white wooden beehive under blossoming branches, a few honeybees",
     "scale": "close"
    },
-   "bytes": 219134,
+   "bytes": 185252,
    "group": "scroll-s05-s06"
   },
   {
@@ -5074,19 +5088,19 @@
     "master": "docs/art/masters/panels/s06-orchard/03.webp",
     "take": "s06-p03_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/03-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 03 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/03-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 03 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a honeybee on a single pink cherry blossom",
     "scale": "close"
    },
-   "bytes": 95980,
+   "bytes": 112046,
    "group": "scroll-s05-s06"
   },
   {
@@ -5127,19 +5141,19 @@
     "master": "docs/art/masters/panels/s06-orchard/04.webp",
     "take": "s06-p04_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/04-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 04 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/04-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 04 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a wooden orchard ladder against a blossoming trunk with a wicker basket of the first green apples",
     "scale": "mid"
    },
-   "bytes": 248774,
+   "bytes": 286496,
    "group": "scroll-s05-s06"
   },
   {
@@ -5180,19 +5194,19 @@
     "master": "docs/art/masters/panels/s06-orchard/05.webp",
     "take": "s06-p05_00",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/05-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 05 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/05-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 05 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "an old dry-stone wall with blossom spilling over it and petals resting on the stones",
     "scale": "close"
    },
-   "bytes": 207176,
+   "bytes": 292522,
    "group": "scroll-s05-s06"
   },
   {
@@ -5233,19 +5247,19 @@
     "master": "docs/art/masters/panels/s06-orchard/06.webp",
     "take": "s06-p06_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/06-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 06 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/06-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 06 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a small round pond mirroring blossom branches and a blue sky",
     "scale": "mid"
    },
-   "bytes": 318160,
+   "bytes": 290936,
    "group": "scroll-s05-s06"
   },
   {
@@ -5286,19 +5300,19 @@
     "master": "docs/art/masters/panels/s06-orchard/07.webp",
     "take": "s06-p07_00",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/07-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 07 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/07-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 07 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a single blossoming branch silhouetted against a lilac dusk sky with the first star",
     "scale": "close"
    },
-   "bytes": 119688,
+   "bytes": 158188,
    "group": "scroll-s05-s06"
   },
   {
@@ -5339,19 +5353,19 @@
     "master": "docs/art/masters/panels/s06-orchard/08.webp",
     "take": "s06-p08b_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/08-5.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 08 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/08-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 08 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "an orchard at night with one warm paper lantern hanging from a blossoming branch",
     "scale": "mid"
    },
-   "bytes": 210330,
+   "bytes": 213870,
    "group": "scroll-s05-s06"
   },
   {
@@ -5392,19 +5406,19 @@
     "master": "docs/art/masters/panels/s06-orchard/09.webp",
     "take": "s06-p09_01",
     "refs": "previous panel + panel 1",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/09-6.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 09 take 6)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/09-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 09 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a spring rain shower over the orchard: glistening wet blossom branches, visible falling rain streaks and puddles rippling with drops on a mossy path",
     "scale": "mid"
    },
-   "bytes": 308874,
+   "bytes": 386072,
    "group": "scroll-s05-s06"
   },
   {
@@ -5455,19 +5469,19 @@
      "note": "DL3: the resident is painted in, centred in the upper third"
     },
     "resident": "deer",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s06/10-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s06 10 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s06/10-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s06 10 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "young deer resting on the grass beneath an old gnarled blossoming apple tree",
     "scale": "mid"
    },
-   "bytes": 210240,
+   "bytes": 211118,
    "group": "scroll-s05-s06"
   },
   {
@@ -5509,19 +5523,19 @@
     "cropTop": 0,
     "take": "s07-01m_00",
     "night": "ink washes on cream paper (no black fills)",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/01-8.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 01 take 8)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/01-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 01 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
     "subject": "a weeping willow by the stream, its long strands silvered by moonlight",
     "scale": "mid"
    },
-   "bytes": 236176,
+   "bytes": 205622,
    "group": "scroll-s07-s08"
   },
   {
@@ -5547,7 +5561,7 @@
      "#E9CF86"
     ],
     "ground": "moonlit stream",
-    "light": "the moon bright ivory, a soft blue-grey dusk sky",
+    "light": "the moon ivory, a soft blue-grey dusk sky",
     "horizon": 0.55,
     "quietZone": {
      "from": 0.6,
@@ -5564,19 +5578,19 @@
     "take": "s07-02_00",
     "night": "ink washes on cream paper (no black fills)",
     "note": "the only panel with the moon disc (the beat); moon removed from all other panels so the mounted scroll shows one moon",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/02-7.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 02 take 7)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/02-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 02 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
-    "subject": "a large full moon rising above soft pine-covered hills in silver mist",
+    "subject": "a large soft full moon rising above pine-covered hills in silver mist",
     "scale": "wide"
    },
-   "bytes": 176088,
+   "bytes": 142458,
    "group": "scroll-s07-s08"
   },
   {
@@ -5602,7 +5616,7 @@
      "#E9CF86"
     ],
     "ground": "moonlit stream",
-    "light": "high bright moonlight",
+    "light": "high soft moonlight",
     "horizon": 0.55,
     "quietZone": {
      "from": 0.6,
@@ -5618,19 +5632,19 @@
     "cropTop": 0,
     "take": "s07-03m_00",
     "night": "ink washes on cream paper (no black fills)",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/03-8.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 03 take 8)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/03-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 03 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
-    "subject": "a small stream sparkling with silver moon glitter between soft grassy banks",
+    "subject": "a small stream glittering with silver moonlight between soft grassy banks",
     "scale": "mid"
    },
-   "bytes": 219836,
+   "bytes": 201166,
    "group": "scroll-s07-s08"
   },
   {
@@ -5656,7 +5670,7 @@
      "#E9CF86"
     ],
     "ground": "moonlit stream",
-    "light": "bright moonlight from the upper left",
+    "light": "soft moonlight from the upper left",
     "horizon": 0.55,
     "quietZone": {
      "from": 0.6,
@@ -5672,19 +5686,19 @@
     "cropTop": 0,
     "take": "s07-04m_00",
     "night": "ink washes on cream paper (no black fills)",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/04-7.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 04 take 7)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/04-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 04 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
     "subject": "the near end of a tall arched stone bridge, its pale stones silvered by moonlight",
     "scale": "mid"
    },
-   "bytes": 202766,
+   "bytes": 189522,
    "group": "scroll-s07-s08"
   },
   {
@@ -5710,7 +5724,7 @@
      "#E9CF86"
     ],
     "ground": "moonlit stream",
-    "light": "full bright moonlight, a thin mist on the water",
+    "light": "full soft moonlight, a thin mist on the water",
     "horizon": 0.55,
     "quietZone": {
      "from": 0.6,
@@ -5726,19 +5740,19 @@
     "cropTop": 0,
     "take": "s07-05m_00",
     "night": "ink washes on cream paper (no black fills)",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/05-7.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 05 take 7)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/05-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 05 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
-    "subject": "the high round arch of the stone bridge mirrored as a full circle in the calm stream",
+    "subject": "the high round arch of a stone bridge mirrored as a full circle in the calm stream",
     "scale": "wide"
    },
-   "bytes": 187956,
+   "bytes": 145208,
    "group": "scroll-s07-s08"
   },
   {
@@ -5764,7 +5778,7 @@
      "#E9CF86"
     ],
     "ground": "moonlit stream",
-    "light": "moonlit night with one small warm lantern glow",
+    "light": "moonlit mist with one small warm lantern glow",
     "horizon": 0.55,
     "quietZone": {
      "from": 0.6,
@@ -5780,19 +5794,19 @@
     "cropTop": 0,
     "take": "s07-06m_00",
     "night": "ink washes on cream paper (no black fills)",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/06-8.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 06 take 8)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/06-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 06 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
-    "subject": "the far side of the bridge descending into the misty garden with one warm amber lantern",
+    "subject": "the far side of a stone bridge descending into the misty garden with one small warm amber lantern",
     "scale": "mid"
    },
-   "bytes": 188912,
+   "bytes": 177320,
    "group": "scroll-s07-s08"
   },
   {
@@ -5834,19 +5848,19 @@
     "cropTop": 0,
     "take": "s07-07m_00",
     "night": "ink washes on cream paper (no black fills)",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/07-7.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 07 take 7)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/07-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 07 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
-    "subject": "tall pale blue irises in the moonlit garden, their petals edged with silver light",
+    "subject": "tall pale blue irises, their petals edged with silver light",
     "scale": "close"
    },
-   "bytes": 163354,
+   "bytes": 157852,
    "group": "scroll-s07-s08"
   },
   {
@@ -5888,19 +5902,19 @@
     "cropTop": 0,
     "take": "s07-08m_00",
     "night": "ink washes on cream paper (no black fills)",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/08-7.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 08 take 7)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/08-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 08 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
     "subject": "an old stone lantern lit from within, warm amber light on soft green moss",
     "scale": "close"
    },
-   "bytes": 174278,
+   "bytes": 213478,
    "group": "scroll-s07-s08"
   },
   {
@@ -5942,19 +5956,19 @@
     "cropTop": 0,
     "take": "s07-09f_01",
     "night": "ink washes on cream paper (no black fills)",
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/09-7.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 09 take 7)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/09-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 09 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
-    "subject": "hundreds of soft gold fireflies over tall summer grass",
+    "subject": "soft gold fireflies drifting over tall summer grass",
     "scale": "wide"
    },
-   "bytes": 227592,
+   "bytes": 186848,
    "group": "scroll-s07-s08"
   },
   {
@@ -5980,7 +5994,7 @@
      "#E9CF86"
     ],
     "ground": "moonlit stream",
-    "light": "soft warm light",
+    "light": "soft silver moonlight",
     "horizon": 0.55,
     "quietZone": {
      "from": 0.6,
@@ -6005,19 +6019,19 @@
      "branchTop": 0.39,
      "note": "DL3: the resident is painted in, centred in the upper third"
     },
-    "look": "v3 DL3 variety",
+    "look": "v4 DL r4 painted mist",
     "noPeople": true,
     "noText": true,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s07/10-8.png",
-     "prompt": "docs/art/dl3/prompts.json (s07 10 take 8)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
-     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+     "take": "docs/art/masters/dl4-takes/s07/10-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r4-s07 10 take 11)",
+     "script": "docs/art/dl3/_scripts/gen4.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
     },
-    "subject": "small owl resting on a moonlit pine bough",
+    "subject": "one small owl resting calmly on a moonlit pine bough; the owl is whole, clearly visible and the clear centre of attention, placed exactly in the horizontal centre of the frame in the upper third, with open calm space on both sides of it",
     "scale": "mid"
    },
-   "bytes": 185980,
+   "bytes": 179256,
    "group": "scroll-s07-s08"
   },
   {
@@ -6607,19 +6621,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/01.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/01-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 01 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/01-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 01 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "one magnificent crimson maple tree glowing in a clearing",
     "scale": "mid"
    },
-   "bytes": 316030,
+   "bytes": 325872,
    "group": "scroll-s09-s10"
   },
   {
@@ -6659,19 +6673,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/02.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/02-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 02 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/02-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 02 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "a small creek running over rocks, carrying floating red leaves",
     "scale": "close"
    },
-   "bytes": 255698,
+   "bytes": 253160,
    "group": "scroll-s09-s10"
   },
   {
@@ -6711,19 +6725,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/03.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/03-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 03 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/03-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 03 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "mossy stone steps climbing into a tunnel of red maples",
     "scale": "mid"
    },
-   "bytes": 297698,
+   "bytes": 347140,
    "group": "scroll-s09-s10"
   },
   {
@@ -6763,19 +6777,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/04.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/04-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 04 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/04-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 04 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "a small moss-covered shrine roof under scarlet maples, plain with no symbols",
     "scale": "mid"
    },
-   "bytes": 276244,
+   "bytes": 291464,
    "group": "scroll-s09-s10"
   },
   {
@@ -6815,19 +6829,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/05.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/05-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 05 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/05-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 05 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "an old wooden water wheel turning beside a mill pond, maples behind",
     "scale": "mid"
    },
-   "bytes": 299610,
+   "bytes": 329530,
    "group": "scroll-s09-s10"
   },
   {
@@ -6867,19 +6881,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/06.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/06-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 06 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/06-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 06 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "maple branches arching over a dark forest pool full of red reflections",
     "scale": "close"
    },
-   "bytes": 242934,
+   "bytes": 240910,
    "group": "scroll-s09-s10"
   },
   {
@@ -6919,19 +6933,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/07.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/07-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 07 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/07-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 07 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "acorns and red-capped mushrooms on a mossy fallen log",
     "scale": "close"
    },
-   "bytes": 200378,
+   "bytes": 234598,
    "group": "scroll-s09-s10"
   },
   {
@@ -6971,19 +6985,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/08.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/08-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 08 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/08-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 08 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "a towering golden ginkgo tree among red maples",
     "scale": "wide"
    },
-   "bytes": 310916,
+   "bytes": 368514,
    "group": "scroll-s09-s10"
   },
   {
@@ -7023,19 +7037,19 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/09.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/09-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 09 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/09-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 09 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "a whole hillside of red, orange and gold forest",
     "scale": "wide"
    },
-   "bytes": 257680,
+   "bytes": 283230,
    "group": "scroll-s09-s10"
   },
   {
@@ -7075,9 +7089,9 @@
     "master": "docs/art/masters/public/art/panels/s09-autumn-maples/10.webp",
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/s09/10-1.png",
-     "prompt": "docs/art/dl3/prompts.json (s09 10 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl5-takes/s09/10-11.png",
+     "prompt": "docs/art/dl3/prompts.json (r41-s09 10 take 11)",
+     "script": "docs/art/dl3/_scripts/gen5.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "refs": "s09-autumn-maples panel 1 (style)",
@@ -7094,13 +7108,13 @@
      "note": "DL3: the resident is painted in, centred in the upper third"
     },
     "showpiece": true,
-    "look": "v3 DL3 variety",
+    "look": "v5 DL r4-1 painted mist scrolls",
     "noPeople": true,
     "noText": true,
     "subject": "red squirrel resting on a hollow moss-covered tree stump",
     "scale": "mid"
    },
-   "bytes": 211588,
+   "bytes": 209380,
    "group": "scroll-s09-s10"
   },
   {
@@ -9401,6 +9415,32 @@
    "bytes": 265402
   },
   {
+   "id": "envelope-mist",
+   "kind": "meta",
+   "file": "/art/meta/envelope-mist.webp",
+   "w": 432,
+   "h": 540,
+   "meta": {
+    "use": "Letters tab: Write a letter (painted thumbnail, DL r4-2)",
+    "look": "v7 DL r4-3 one light",
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "noPeople": true,
+    "noText": true,
+    "source": {
+     "take": "docs/art/masters/dl7-takes/env/envelope-2.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-env envelope take 2)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
+     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    },
+    "bytes": 47148,
+    "subject": "one sealed cream paper envelope with a small round red wax seal, resting slightly tilted on a flat mossy stone in a sunlit garden meadow, a sprig of tiny white flowers beside it",
+    "light": "warm golden morning light"
+   },
+   "bytes": 56508,
+   "group": "sprites"
+  },
+  {
    "id": "cairn-stone-01",
    "kind": "meta",
    "file": "/art/meta/cairn/cairn-stone-01.png",
@@ -9944,20 +9984,21 @@
     "master": "docs/art/masters/tray/stone-garden/01.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/01-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 01 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/01-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 01 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "perfect concentric raked ripples around a single dark stone",
-    "scale": "close"
+    "scale": "close",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 171264,
+   "bytes": 318324,
    "group": "tray-wander12"
   },
   {
@@ -9988,20 +10029,21 @@
     "master": "docs/art/masters/tray/stone-garden/02.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/02-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 02 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/02-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 02 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a mossy rock island in a sea of raked gravel",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 188134,
+   "bytes": 282452,
    "group": "tray-wander12"
   },
   {
@@ -10032,20 +10074,21 @@
     "master": "docs/art/masters/tray/stone-garden/03.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/03-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 03 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/03-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 03 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "one red maple branch leaning over a white plaster garden wall",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 226948,
+   "bytes": 312800,
    "group": "tray-wander12"
   },
   {
@@ -10076,20 +10119,21 @@
     "master": "docs/art/masters/tray/stone-garden/04.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/04-5.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 04 take 5)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/04-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 04 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "one small red maple and a stone lantern standing beside a mossy rock in a wide raked-gravel garden; the maple and lantern sit in the upper third of the frame",
-    "scale": "wide"
+    "scale": "wide",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 150204,
+   "bytes": 321122,
    "group": "tray-wander12"
   },
   {
@@ -10120,20 +10164,21 @@
     "master": "docs/art/masters/tray/stone-garden/05.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/05-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 05 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/05-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 05 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a round stone water basin with a bamboo ladle, water brimming",
-    "scale": "close"
+    "scale": "close",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 199584,
+   "bytes": 335560,
    "group": "tray-wander12"
   },
   {
@@ -10164,20 +10209,21 @@
     "master": "docs/art/masters/tray/stone-garden/06.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/06-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 06 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/06-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 06 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a gravel path of stepping stones through moss",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 223152,
+   "bytes": 348354,
    "group": "tray-wander12"
   },
   {
@@ -10208,20 +10254,21 @@
     "master": "docs/art/masters/tray/stone-garden/07.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/07-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 07 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/07-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 07 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a low cloud-pruned pine spreading over the gravel",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 201126,
+   "bytes": 298804,
    "group": "tray-wander12"
   },
   {
@@ -10252,20 +10299,21 @@
     "master": "docs/art/masters/tray/stone-garden/08.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/08-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 08 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/08-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 08 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a small stone lantern standing on a bed of moss",
-    "scale": "close"
+    "scale": "close",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 156476,
+   "bytes": 297228,
    "group": "tray-wander12"
   },
   {
@@ -10296,20 +10344,21 @@
     "master": "docs/art/masters/tray/stone-garden/09.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/09-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 09 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/09-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 09 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "a dry stream bed of smooth river stones winding through the garden",
-    "scale": "wide"
+    "scale": "wide",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 224758,
+   "bytes": 392682,
    "group": "tray-wander12"
   },
   {
@@ -10340,20 +10389,21 @@
     "master": "docs/art/masters/tray/stone-garden/10.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/10-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 10 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/10-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 10 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "the polished edge of a wooden veranda looking onto the garden",
-    "scale": "mid"
+    "scale": "mid",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 194992,
+   "bytes": 385710,
    "group": "tray-wander12"
   },
   {
@@ -10384,20 +10434,21 @@
     "master": "docs/art/masters/tray/stone-garden/11.webp",
     "model": "gpt-image-2.5-sunburst",
     "quality": "max",
-    "look": "v3 DL3 variety",
+    "look": "v6 DL r4-2 lit painted stage",
     "noPeople": true,
     "noText": true,
     "cropTop": 0,
     "source": {
-     "take": "docs/art/masters/dl3-takes/stone/11-1.png",
-     "prompt": "docs/art/dl3/prompts.json (stone 11 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl6-takes/stone/11-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r6-stone 11 take 1)",
+     "script": "docs/art/dl3/_scripts/gen6.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "subject": "the corner of a koi pond with two orange and white koi under a maple leaf",
-    "scale": "close"
+    "scale": "close",
+    "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
    },
-   "bytes": 185876,
+   "bytes": 361242,
    "group": "tray-wander12"
   },
   {
@@ -14801,9 +14852,9 @@
     "cropTop": 0,
     "take": "nov01_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/01-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 01 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/01-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 01 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/01.webp",
@@ -14821,7 +14872,7 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "red and brown leaves edged with white frost crystals",
@@ -14829,7 +14880,7 @@
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 184880,
+   "bytes": 248614,
    "group": "wander56-nov"
   },
   {
@@ -14858,9 +14909,9 @@
     "cropTop": 0,
     "take": "nov02_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/02-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 02 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/02-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 02 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/02.webp",
@@ -14878,15 +14929,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a cottage window glowing warm amber in a dark stone wall",
-    "light": "blue dusk",
+    "subject": "a small stone cottage with one warm amber window in a hollow",
+    "light": "soft blue dusk",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 171440,
+   "bytes": 371234,
    "group": "wander56-nov"
   },
   {
@@ -14915,9 +14966,9 @@
     "cropTop": 0,
     "take": "nov03_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/03-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 03 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/03-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 03 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/03.webp",
@@ -14935,15 +14986,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a round cast-iron teapot and two small cups on a low wooden table",
-    "light": "soft warm lamplight",
+    "subject": "a round cast-iron teapot with a curl of steam on a flat snowy stone",
+    "light": "soft warm light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 112814,
+   "bytes": 241840,
    "group": "wander56-nov"
   },
   {
@@ -14972,9 +15023,9 @@
     "cropTop": 0,
     "take": "nov04b_00",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/04-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 04 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/04-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 04 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/04.webp",
@@ -14992,15 +15043,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a lone white birch tree, bare, on a frosty hill",
-    "light": "pale pink dawn",
-    "scale": "wide",
+    "subject": "a lone white birch tree, bare, on a frosty hill, near and clear",
+    "light": "a pale pink dawn",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 157510,
+   "bytes": 327944,
    "group": "wander56-nov"
   },
   {
@@ -15029,9 +15080,9 @@
     "cropTop": 0,
     "take": "nov05_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/05-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 05 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/05-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 05 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/05.webp",
@@ -15049,7 +15100,7 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "a sprig of white snowberries on bare twigs",
@@ -15057,7 +15108,7 @@
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 91882,
+   "bytes": 175064,
    "group": "wander56-nov"
   },
   {
@@ -15086,9 +15137,9 @@
     "cropTop": 0,
     "take": "nov06_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/06-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 06 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/06-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 06 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/06.webp",
@@ -15106,15 +15157,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a neat stack of split firewood under a wooden shelter",
-    "light": "cold clear afternoon sun",
+    "subject": "a neat stack of split firewood under a small wooden shelter in snow",
+    "light": "cold soft afternoon sun",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 203214,
+   "bytes": 314392,
    "group": "wander56-nov"
   },
   {
@@ -15143,9 +15194,9 @@
     "cropTop": 0,
     "take": "nov07_00",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/07-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 07 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/07-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 07 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/07.webp",
@@ -15163,15 +15214,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "an iron lantern glowing on a foggy country lane",
-    "light": "foggy night",
+    "light": "soft foggy night with lifted shadows",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 148630,
+   "bytes": 290566,
    "group": "wander56-nov"
   },
   {
@@ -15200,9 +15251,9 @@
     "cropTop": 0,
     "take": "nov08_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/08-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 08 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/08-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 08 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/08.webp",
@@ -15220,15 +15271,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "a robin with a red breast on a frosty fence post",
-    "light": "low winter sun",
+    "light": "low soft winter sun",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 189340,
+   "bytes": 269762,
    "group": "wander56-nov"
   },
   {
@@ -15257,9 +15308,9 @@
     "cropTop": 0,
     "take": "nov09_00",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/09-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 09 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/09-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 09 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/09.webp",
@@ -15277,15 +15328,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a frozen puddle with feathery ice patterns and a fallen leaf trapped in it",
-    "light": "bright cold light",
+    "subject": "a frozen puddle with feathery ice patterns and one fallen leaf trapped in it",
+    "light": "bright soft cold light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 225972,
+   "bytes": 309120,
    "group": "wander56-nov"
   },
   {
@@ -15314,9 +15365,9 @@
     "cropTop": 0,
     "take": "nov10_00",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/10-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 10 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/10-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 10 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/10.webp",
@@ -15334,15 +15385,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "the corner of a patchwork quilt on a wooden bed by a frosted window",
+    "subject": "a small snow-covered stone bridge over a dark stream",
     "light": "soft morning light",
-    "scale": "close",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 158628,
+   "bytes": 334770,
    "group": "wander56-nov"
   },
   {
@@ -15371,9 +15422,9 @@
     "cropTop": 0,
     "take": "nov11_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/11-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 11 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/11-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 11 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/11.webp",
@@ -15391,7 +15442,7 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "snow-dusted pine branches",
@@ -15399,7 +15450,7 @@
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 186946,
+   "bytes": 254758,
    "group": "wander56-nov"
   },
   {
@@ -15428,9 +15479,9 @@
     "cropTop": 0,
     "take": "nov12_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/12-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 12 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/12-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 12 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/12.webp",
@@ -15448,15 +15499,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "three white candles burning on a wooden mantel",
-    "light": "warm candlelight in a dark room",
-    "scale": "close",
+    "subject": "three small stone lanterns glowing in fresh snow",
+    "light": "soft blue dusk",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 92216,
+   "bytes": 302984,
    "group": "wander56-nov"
   },
   {
@@ -15485,9 +15536,9 @@
     "cropTop": 0,
     "take": "nov13_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/13-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 13 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/13-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 13 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/13.webp",
@@ -15505,15 +15556,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "steam rising from a rocky hot spring pool in snow",
-    "light": "blue twilight",
+    "light": "soft blue twilight",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 145794,
+   "bytes": 287194,
    "group": "wander56-nov"
   },
   {
@@ -15542,9 +15593,9 @@
     "cropTop": 0,
     "take": "nov14_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/14-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 14 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/14-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 14 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/14.webp",
@@ -15562,15 +15613,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "two red-crowned cranes flying over a snowy field",
-    "light": "bright winter morning",
+    "light": "bright soft winter morning",
     "scale": "wide",
     "horizon": 0.55
    },
-   "bytes": 109780,
+   "bytes": 274212,
    "group": "wander56-nov"
   },
   {
@@ -15599,9 +15650,9 @@
     "cropTop": 0,
     "take": "nov15b_03",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/15-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 15 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/15-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 15 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/15.webp",
@@ -15619,15 +15670,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a small log cabin in a snowy clearing with smoke from the chimney",
+    "subject": "a small log cabin with a warm window in a snowy clearing, a thin thread of chimney smoke, near and clear",
     "light": "golden late sun",
-    "scale": "wide",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 144596,
+   "bytes": 346020,
    "group": "wander56-nov"
   },
   {
@@ -15656,9 +15707,9 @@
     "cropTop": 0,
     "take": "nov16_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/16-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 16 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/16-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 16 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/16.webp",
@@ -15676,15 +15727,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a steaming mug of tea held on a window ledge, snow outside",
+    "subject": "a little wren on a snowy branch",
     "light": "soft daylight",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 132180,
+   "bytes": 262242,
    "group": "wander56-nov"
   },
   {
@@ -15713,9 +15764,9 @@
     "cropTop": 0,
     "take": "nov17_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/17-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 17 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/17-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 17 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/17.webp",
@@ -15733,15 +15784,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "a sprig of holly with red berries",
-    "light": "bright crisp light",
+    "light": "soft bright crisp light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 156246,
+   "bytes": 247144,
    "group": "wander56-nov"
   },
   {
@@ -15770,9 +15821,9 @@
     "cropTop": 0,
     "take": "nov18_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/18-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 18 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/18-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 18 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/18.webp",
@@ -15790,15 +15841,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "fern-like frost patterns on a window pane, warm light behind",
-    "light": "morning",
+    "subject": "frost-feathered reeds at the edge of a frozen pond",
+    "light": "pale morning",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 252684,
+   "bytes": 308770,
    "group": "wander56-nov"
   },
   {
@@ -15827,9 +15878,9 @@
     "cropTop": 0,
     "take": "nov19_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/19-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 19 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/19-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 19 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/19.webp",
@@ -15847,15 +15898,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "a small brass bell hanging from a frosted branch",
-    "light": "cold blue morning",
+    "light": "cold soft blue morning",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 133308,
+   "bytes": 225394,
    "group": "wander56-nov"
   },
   {
@@ -15884,9 +15935,9 @@
     "cropTop": 0,
     "take": "nov20_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/20-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 20 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/20-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 20 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/20.webp",
@@ -15904,15 +15955,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a snowy mountain peak lit pink by the first sun",
-    "light": "dawn alpenglow",
-    "scale": "wide",
+    "subject": "a single snowy mountain peak lit pink by the first sun, large in the frame",
+    "light": "dawn alpenglow above soft mist",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 123576,
+   "bytes": 276722,
    "group": "wander56-nov"
   },
   {
@@ -15941,9 +15992,9 @@
     "cropTop": 0,
     "take": "nov21_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/21-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 21 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/21-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 21 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/21.webp",
@@ -15961,7 +16012,7 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "a red fox standing in a frosty meadow",
@@ -15969,7 +16020,7 @@
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 180530,
+   "bytes": 299524,
    "group": "wander56-nov"
   },
   {
@@ -15998,9 +16049,9 @@
     "cropTop": 0,
     "take": "nov22_00",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/22-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 22 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/22-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 22 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/22.webp",
@@ -16018,15 +16069,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a single large snowflake crystal against a dark blue background",
-    "light": "soft light",
+    "subject": "a waxwing bird on a branch of red rowan berries",
+    "light": "soft winter light",
     "scale": "close",
     "horizon": 0.55
    },
-   "bytes": 158400,
+   "bytes": 243248,
    "group": "wander56-nov"
   },
   {
@@ -16055,9 +16106,9 @@
     "cropTop": 0,
     "take": "nov23_00",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/23-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 23 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/23-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 23 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/23.webp",
@@ -16075,7 +16126,7 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "a heron standing in a frosty grey river",
@@ -16083,7 +16134,7 @@
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 162600,
+   "bytes": 302908,
    "group": "wander56-nov"
   },
   {
@@ -16112,9 +16163,9 @@
     "cropTop": 0,
     "take": "nov24b_00",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/24-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 24 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/24-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 24 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/24.webp",
@@ -16132,15 +16183,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "an old iron street lamp lit in falling snow",
-    "light": "night",
+    "light": "soft snowy night with lifted shadows",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 159014,
+   "bytes": 294650,
    "group": "wander56-nov"
   },
   {
@@ -16169,9 +16220,9 @@
     "cropTop": 0,
     "take": "nov25_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/25-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 25 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/25-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 25 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/25.webp",
@@ -16189,15 +16240,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "knitted red and grey mittens pegged on a line in the snow",
-    "light": "bright winter sun",
-    "scale": "close",
+    "subject": "a small evergreen tree hung with snow standing alone in a white field",
+    "light": "bright soft winter sun",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 199650,
+   "bytes": 229536,
    "group": "wander56-nov"
   },
   {
@@ -16226,9 +16277,9 @@
     "cropTop": 0,
     "take": "nov26_01",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/26-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 26 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/26-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 26 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/26.webp",
@@ -16246,15 +16297,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a winding river through snowy fields",
-    "light": "violet dusk",
-    "scale": "wide",
+    "subject": "a small snow-capped wooden rowing boat pulled up on the bank of a frozen river",
+    "light": "soft violet dusk",
+    "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 134724,
+   "bytes": 336666,
    "group": "wander56-nov"
   },
   {
@@ -16283,9 +16334,9 @@
     "cropTop": 0,
     "take": "nov27_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/27-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 27 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/27-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 27 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/27.webp",
@@ -16303,15 +16354,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a lone pine on a ridge under moonlight",
-    "light": "clear night, bright moon",
+    "subject": "a lone pine on a ridge under a bright moon",
+    "light": "soft clear night with lifted, shadows",
     "scale": "wide",
     "horizon": 0.55
    },
-   "bytes": 113468,
+   "bytes": 240410,
    "group": "wander56-nov"
   },
   {
@@ -16340,9 +16391,9 @@
     "cropTop": 0,
     "take": "nov28_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/28-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 28 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/28-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 28 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/28.webp",
@@ -16360,15 +16411,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a stone fireplace with a crackling fire and a wool rug",
-    "light": "warm firelight",
+    "subject": "a small wooden hut with a warm lit doorway at the edge of a snowy forest",
+    "light": "soft blue dusk",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 173708,
+   "bytes": 315258,
    "group": "wander56-nov"
   },
   {
@@ -16397,9 +16448,9 @@
     "cropTop": 0,
     "take": "nov29_02",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/29-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 29 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/29-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 29 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/29.webp",
@@ -16417,7 +16468,7 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
     "subject": "a deer standing in falling snow at a forest edge",
@@ -16425,7 +16476,7 @@
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 169036,
+   "bytes": 308928,
    "group": "wander56-nov"
   },
   {
@@ -16454,9 +16505,9 @@
     "cropTop": 0,
     "take": "nov30_00",
     "source": {
-     "take": "docs/art/masters/dl3-takes/daily11/30-1.png",
-     "prompt": "docs/art/dl3/prompts.json (daily11 30 take 1)",
-     "script": "docs/art/dl3/_scripts/gen3.py",
+     "take": "docs/art/masters/dl7-takes/daily11/30-1.png",
+     "prompt": "docs/art/dl3/prompts.json (r7-daily11 30 take 1)",
+     "script": "docs/art/dl3/_scripts/gen7.py",
      "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
     },
     "master": "docs/art/masters/daily/2026-11/30.webp",
@@ -16474,15 +16525,15 @@
       "daily/2026-10/01"
      ]
     },
-    "look": "v3 DL3 variety",
+    "look": "v7 DL r4-3 one light",
     "noPeople": true,
     "noText": true,
-    "subject": "a small garden under the first snow, a stone lantern and red berries",
+    "subject": "a stone lantern capped with the first snow beside a sprig of red berries",
     "light": "quiet grey morning",
     "scale": "mid",
     "horizon": 0.55
    },
-   "bytes": 184760,
+   "bytes": 310920,
    "group": "wander56-nov"
   }
  ]

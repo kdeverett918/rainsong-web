@@ -694,6 +694,31 @@
   }
  },
  {
+  "id": "envelope-mist",
+  "kind": "meta",
+  "file": "/art/meta/envelope-mist.webp",
+  "w": 432,
+  "h": 540,
+  "meta": {
+   "use": "Letters tab: Write a letter (painted thumbnail, DL r4-2)",
+   "look": "v7 DL r4-3 one light",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl7-takes/env/envelope-2.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-env envelope take 2)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "bytes": 47148,
+   "subject": "one sealed cream paper envelope with a small round red wax seal, resting slightly tilted on a flat mossy stone in a sunlit garden meadow, a sprig of tiny white flowers beside it",
+   "light": "warm golden morning light"
+  },
+  "bytes": 56508
+ },
+ {
   "id": "cairn-stone-01",
   "kind": "meta",
   "file": "/art/meta/cairn/cairn-stone-01.png",

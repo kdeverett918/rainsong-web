@@ -41,19 +41,19 @@
     "/art/panels/s03-tea-hills/01.webp"
    ],
    "refs": "style refs s01 + s03 panels",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/01-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 01 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "tall feathery reed plumes backlit by the sun, seed heads glowing",
    "scale": "close"
   },
-  "bytes": 187002
+  "bytes": 191998
  },
  {
   "id": "panel-s05-heron-marsh-02",
@@ -93,19 +93,19 @@
    "master": "docs/art/masters/panels/s05-heron-marsh/02.webp",
    "take": "s05-p02_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/02-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 02 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a grey heron standing still in a shallow golden channel",
    "scale": "mid"
   },
-  "bytes": 155086
+  "bytes": 142916
  },
  {
   "id": "panel-s05-heron-marsh-03",
@@ -145,19 +145,19 @@
    "master": "docs/art/masters/panels/s05-heron-marsh/03.webp",
    "take": "s05-p03_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/03-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 03 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a cluster of brown cattails with their velvet heads, one bursting with seed fluff",
    "scale": "close"
   },
-  "bytes": 178344
+  "bytes": 166026
  },
  {
   "id": "panel-s05-heron-marsh-04",
@@ -197,19 +197,19 @@
    "master": "docs/art/masters/panels/s05-heron-marsh/04.webp",
    "take": "s05-p04_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/04-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 04 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a narrow wooden boardwalk zig-zagging away through the golden reeds",
    "scale": "wide"
   },
-  "bytes": 194114
+  "bytes": 187566
  },
  {
   "id": "panel-s05-heron-marsh-05",
@@ -249,19 +249,19 @@
    "master": "docs/art/masters/panels/s05-heron-marsh/05.webp",
    "take": "s05-p05_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/05-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 05 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "water lilies with one pink flower open in a dark channel between reeds",
    "scale": "close"
   },
-  "bytes": 162954
+  "bytes": 178594
  },
  {
   "id": "panel-s05-heron-marsh-06",
@@ -301,19 +301,19 @@
    "master": "docs/art/masters/panels/s05-heron-marsh/06.webp",
    "take": "s05-p06_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/06-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 06 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a skein of small birds wheeling over the reed beds",
    "scale": "wide"
   },
-  "bytes": 134718
+  "bytes": 121246
  },
  {
   "id": "panel-s05-heron-marsh-07",
@@ -353,19 +353,19 @@
    "master": "docs/art/masters/panels/s05-heron-marsh/07.webp",
    "take": "s05-p07_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/07-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 07 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "an old half-sunk wooden rowboat among the reeds, grass growing in it",
    "scale": "mid"
   },
-  "bytes": 215782
+  "bytes": 214764
  },
  {
   "id": "panel-s05-heron-marsh-08",
@@ -405,19 +405,19 @@
    "master": "docs/art/masters/panels/s05-heron-marsh/08.webp",
    "take": "s05-p08_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/08-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 08 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a small reed island with a lone silver birch on it",
    "scale": "mid"
   },
-  "bytes": 227992
+  "bytes": 153546
  },
  {
   "id": "panel-s05-heron-marsh-09",
@@ -457,19 +457,19 @@
    "master": "docs/art/masters/panels/s05-heron-marsh/09.webp",
    "take": "s05-p09_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/09-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 09 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "towering white cumulus clouds over the flat marsh",
    "scale": "wide"
   },
-  "bytes": 144436
+  "bytes": 122456
  },
  {
   "id": "panel-s05-heron-marsh-10",
@@ -518,19 +518,19 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "resident": "heron",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s05/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s05 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s05/10-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s05 10 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "grey heron resting on a bleached driftwood stump standing among golden reeds",
    "scale": "mid"
   },
-  "bytes": 177456
+  "bytes": 153856
  },
  {
   "id": "panel-s06-orchard-01",
@@ -574,19 +574,19 @@
     "/art/panels/s03-tea-hills/01.webp"
    ],
    "refs": "style refs s01 + s03 panels",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/01-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 01 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/01-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 01 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a branch of white apple blossom with pink buds, petals glowing",
    "scale": "close"
   },
-  "bytes": 130170
+  "bytes": 130872
  },
  {
   "id": "panel-s06-orchard-02",
@@ -626,19 +626,19 @@
    "master": "docs/art/masters/panels/s06-orchard/02.webp",
    "take": "s06-p02_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/02-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 02 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a white wooden beehive under blossoming branches, a few honeybees",
    "scale": "close"
   },
-  "bytes": 219134
+  "bytes": 185252
  },
  {
   "id": "panel-s06-orchard-03",
@@ -678,19 +678,19 @@
    "master": "docs/art/masters/panels/s06-orchard/03.webp",
    "take": "s06-p03_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/03-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 03 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/03-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 03 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a honeybee on a single pink cherry blossom",
    "scale": "close"
   },
-  "bytes": 95980
+  "bytes": 112046
  },
  {
   "id": "panel-s06-orchard-04",
@@ -730,19 +730,19 @@
    "master": "docs/art/masters/panels/s06-orchard/04.webp",
    "take": "s06-p04_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/04-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 04 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/04-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 04 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a wooden orchard ladder against a blossoming trunk with a wicker basket of the first green apples",
    "scale": "mid"
   },
-  "bytes": 248774
+  "bytes": 286496
  },
  {
   "id": "panel-s06-orchard-05",
@@ -782,19 +782,19 @@
    "master": "docs/art/masters/panels/s06-orchard/05.webp",
    "take": "s06-p05_00",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/05-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 05 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/05-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 05 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "an old dry-stone wall with blossom spilling over it and petals resting on the stones",
    "scale": "close"
   },
-  "bytes": 207176
+  "bytes": 292522
  },
  {
   "id": "panel-s06-orchard-06",
@@ -834,19 +834,19 @@
    "master": "docs/art/masters/panels/s06-orchard/06.webp",
    "take": "s06-p06_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/06-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 06 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/06-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 06 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a small round pond mirroring blossom branches and a blue sky",
    "scale": "mid"
   },
-  "bytes": 318160
+  "bytes": 290936
  },
  {
   "id": "panel-s06-orchard-07",
@@ -886,19 +886,19 @@
    "master": "docs/art/masters/panels/s06-orchard/07.webp",
    "take": "s06-p07_00",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/07-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 07 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/07-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 07 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a single blossoming branch silhouetted against a lilac dusk sky with the first star",
    "scale": "close"
   },
-  "bytes": 119688
+  "bytes": 158188
  },
  {
   "id": "panel-s06-orchard-08",
@@ -938,19 +938,19 @@
    "master": "docs/art/masters/panels/s06-orchard/08.webp",
    "take": "s06-p08b_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/08-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 08 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/08-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 08 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "an orchard at night with one warm paper lantern hanging from a blossoming branch",
    "scale": "mid"
   },
-  "bytes": 210330
+  "bytes": 213870
  },
  {
   "id": "panel-s06-orchard-09",
@@ -990,19 +990,19 @@
    "master": "docs/art/masters/panels/s06-orchard/09.webp",
    "take": "s06-p09_01",
    "refs": "previous panel + panel 1",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/09-6.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 09 take 6)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/09-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 09 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a spring rain shower over the orchard: glistening wet blossom branches, visible falling rain streaks and puddles rippling with drops on a mossy path",
    "scale": "mid"
   },
-  "bytes": 308874
+  "bytes": 386072
  },
  {
   "id": "panel-s06-orchard-10",
@@ -1052,18 +1052,18 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "resident": "deer",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s06/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s06 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s06/10-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s06 10 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "young deer resting on the grass beneath an old gnarled blossoming apple tree",
    "scale": "mid"
   },
-  "bytes": 210240
+  "bytes": 211118
  }
 ]

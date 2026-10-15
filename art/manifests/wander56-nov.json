@@ -1008,9 +1008,9 @@
    "cropTop": 0,
    "take": "nov01_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/01.webp",
@@ -1028,7 +1028,7 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "red and brown leaves edged with white frost crystals",
@@ -1036,7 +1036,7 @@
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 184880
+  "bytes": 248614
  },
  {
   "id": "daily-2026-11-02",
@@ -1064,9 +1064,9 @@
    "cropTop": 0,
    "take": "nov02_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/02.webp",
@@ -1084,15 +1084,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a cottage window glowing warm amber in a dark stone wall",
-   "light": "blue dusk",
+   "subject": "a small stone cottage with one warm amber window in a hollow",
+   "light": "soft blue dusk",
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 171440
+  "bytes": 371234
  },
  {
   "id": "daily-2026-11-03",
@@ -1120,9 +1120,9 @@
    "cropTop": 0,
    "take": "nov03_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/03.webp",
@@ -1140,15 +1140,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a round cast-iron teapot and two small cups on a low wooden table",
-   "light": "soft warm lamplight",
+   "subject": "a round cast-iron teapot with a curl of steam on a flat snowy stone",
+   "light": "soft warm light",
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 112814
+  "bytes": 241840
  },
  {
   "id": "daily-2026-11-04",
@@ -1176,9 +1176,9 @@
    "cropTop": 0,
    "take": "nov04b_00",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/04.webp",
@@ -1196,15 +1196,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a lone white birch tree, bare, on a frosty hill",
-   "light": "pale pink dawn",
-   "scale": "wide",
+   "subject": "a lone white birch tree, bare, on a frosty hill, near and clear",
+   "light": "a pale pink dawn",
+   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 157510
+  "bytes": 327944
  },
  {
   "id": "daily-2026-11-05",
@@ -1232,9 +1232,9 @@
    "cropTop": 0,
    "take": "nov05_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/05.webp",
@@ -1252,7 +1252,7 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "a sprig of white snowberries on bare twigs",
@@ -1260,7 +1260,7 @@
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 91882
+  "bytes": 175064
  },
  {
   "id": "daily-2026-11-06",
@@ -1288,9 +1288,9 @@
    "cropTop": 0,
    "take": "nov06_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/06.webp",
@@ -1308,15 +1308,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a neat stack of split firewood under a wooden shelter",
-   "light": "cold clear afternoon sun",
+   "subject": "a neat stack of split firewood under a small wooden shelter in snow",
+   "light": "cold soft afternoon sun",
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 203214
+  "bytes": 314392
  },
  {
   "id": "daily-2026-11-07",
@@ -1344,9 +1344,9 @@
    "cropTop": 0,
    "take": "nov07_00",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/07.webp",
@@ -1364,15 +1364,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "an iron lantern glowing on a foggy country lane",
-   "light": "foggy night",
+   "light": "soft foggy night with lifted shadows",
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 148630
+  "bytes": 290566
  },
  {
   "id": "daily-2026-11-08",
@@ -1400,9 +1400,9 @@
    "cropTop": 0,
    "take": "nov08_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/08.webp",
@@ -1420,15 +1420,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "a robin with a red breast on a frosty fence post",
-   "light": "low winter sun",
+   "light": "low soft winter sun",
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 189340
+  "bytes": 269762
  },
  {
   "id": "daily-2026-11-09",
@@ -1456,9 +1456,9 @@
    "cropTop": 0,
    "take": "nov09_00",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/09.webp",
@@ -1476,15 +1476,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a frozen puddle with feathery ice patterns and a fallen leaf trapped in it",
-   "light": "bright cold light",
+   "subject": "a frozen puddle with feathery ice patterns and one fallen leaf trapped in it",
+   "light": "bright soft cold light",
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 225972
+  "bytes": 309120
  },
  {
   "id": "daily-2026-11-10",
@@ -1512,9 +1512,9 @@
    "cropTop": 0,
    "take": "nov10_00",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/10-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 10 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/10.webp",
@@ -1532,15 +1532,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "the corner of a patchwork quilt on a wooden bed by a frosted window",
+   "subject": "a small snow-covered stone bridge over a dark stream",
    "light": "soft morning light",
-   "scale": "close",
+   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 158628
+  "bytes": 334770
  },
  {
   "id": "daily-2026-11-11",
@@ -1568,9 +1568,9 @@
    "cropTop": 0,
    "take": "nov11_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/11-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 11 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/11-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 11 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/11.webp",
@@ -1588,7 +1588,7 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "snow-dusted pine branches",
@@ -1596,7 +1596,7 @@
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 186946
+  "bytes": 254758
  },
  {
   "id": "daily-2026-11-12",
@@ -1624,9 +1624,9 @@
    "cropTop": 0,
    "take": "nov12_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/12-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 12 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/12-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 12 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/12.webp",
@@ -1644,15 +1644,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "three white candles burning on a wooden mantel",
-   "light": "warm candlelight in a dark room",
-   "scale": "close",
+   "subject": "three small stone lanterns glowing in fresh snow",
+   "light": "soft blue dusk",
+   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 92216
+  "bytes": 302984
  },
  {
   "id": "daily-2026-11-13",
@@ -1680,9 +1680,9 @@
    "cropTop": 0,
    "take": "nov13_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/13-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 13 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/13-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 13 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/13.webp",
@@ -1700,15 +1700,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "steam rising from a rocky hot spring pool in snow",
-   "light": "blue twilight",
+   "light": "soft blue twilight",
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 145794
+  "bytes": 287194
  },
  {
   "id": "daily-2026-11-14",
@@ -1736,9 +1736,9 @@
    "cropTop": 0,
    "take": "nov14_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/14-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 14 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/14-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 14 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/14.webp",
@@ -1756,15 +1756,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "two red-crowned cranes flying over a snowy field",
-   "light": "bright winter morning",
+   "light": "bright soft winter morning",
    "scale": "wide",
    "horizon": 0.55
   },
-  "bytes": 109780
+  "bytes": 274212
  },
  {
   "id": "daily-2026-11-15",
@@ -1792,9 +1792,9 @@
    "cropTop": 0,
    "take": "nov15b_03",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/15-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 15 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/15-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 15 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/15.webp",
@@ -1812,15 +1812,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a small log cabin in a snowy clearing with smoke from the chimney",
+   "subject": "a small log cabin with a warm window in a snowy clearing, a thin thread of chimney smoke, near and clear",
    "light": "golden late sun",
-   "scale": "wide",
+   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 144596
+  "bytes": 346020
  },
  {
   "id": "daily-2026-11-16",
@@ -1848,9 +1848,9 @@
    "cropTop": 0,
    "take": "nov16_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/16-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 16 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/16-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 16 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/16.webp",
@@ -1868,15 +1868,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a steaming mug of tea held on a window ledge, snow outside",
+   "subject": "a little wren on a snowy branch",
    "light": "soft daylight",
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 132180
+  "bytes": 262242
  },
  {
   "id": "daily-2026-11-17",
@@ -1904,9 +1904,9 @@
    "cropTop": 0,
    "take": "nov17_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/17-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 17 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/17-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 17 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/17.webp",
@@ -1924,15 +1924,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "a sprig of holly with red berries",
-   "light": "bright crisp light",
+   "light": "soft bright crisp light",
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 156246
+  "bytes": 247144
  },
  {
   "id": "daily-2026-11-18",
@@ -1960,9 +1960,9 @@
    "cropTop": 0,
    "take": "nov18_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/18-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 18 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/18-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 18 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/18.webp",
@@ -1980,15 +1980,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "fern-like frost patterns on a window pane, warm light behind",
-   "light": "morning",
+   "subject": "frost-feathered reeds at the edge of a frozen pond",
+   "light": "pale morning",
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 252684
+  "bytes": 308770
  },
  {
   "id": "daily-2026-11-19",
@@ -2016,9 +2016,9 @@
    "cropTop": 0,
    "take": "nov19_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/19-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 19 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/19-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 19 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/19.webp",
@@ -2036,15 +2036,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "a small brass bell hanging from a frosted branch",
-   "light": "cold blue morning",
+   "light": "cold soft blue morning",
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 133308
+  "bytes": 225394
  },
  {
   "id": "daily-2026-11-20",
@@ -2072,9 +2072,9 @@
    "cropTop": 0,
    "take": "nov20_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/20-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 20 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/20-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 20 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/20.webp",
@@ -2092,15 +2092,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a snowy mountain peak lit pink by the first sun",
-   "light": "dawn alpenglow",
-   "scale": "wide",
+   "subject": "a single snowy mountain peak lit pink by the first sun, large in the frame",
+   "light": "dawn alpenglow above soft mist",
+   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 123576
+  "bytes": 276722
  },
  {
   "id": "daily-2026-11-21",
@@ -2128,9 +2128,9 @@
    "cropTop": 0,
    "take": "nov21_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/21-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 21 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/21-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 21 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/21.webp",
@@ -2148,7 +2148,7 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "a red fox standing in a frosty meadow",
@@ -2156,7 +2156,7 @@
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 180530
+  "bytes": 299524
  },
  {
   "id": "daily-2026-11-22",
@@ -2184,9 +2184,9 @@
    "cropTop": 0,
    "take": "nov22_00",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/22-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 22 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/22-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 22 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/22.webp",
@@ -2204,15 +2204,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a single large snowflake crystal against a dark blue background",
-   "light": "soft light",
+   "subject": "a waxwing bird on a branch of red rowan berries",
+   "light": "soft winter light",
    "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 158400
+  "bytes": 243248
  },
  {
   "id": "daily-2026-11-23",
@@ -2240,9 +2240,9 @@
    "cropTop": 0,
    "take": "nov23_00",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/23-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 23 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/23-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 23 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/23.webp",
@@ -2260,7 +2260,7 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "a heron standing in a frosty grey river",
@@ -2268,7 +2268,7 @@
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 162600
+  "bytes": 302908
  },
  {
   "id": "daily-2026-11-24",
@@ -2296,9 +2296,9 @@
    "cropTop": 0,
    "take": "nov24b_00",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/24-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 24 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/24-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 24 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/24.webp",
@@ -2316,15 +2316,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "an old iron street lamp lit in falling snow",
-   "light": "night",
+   "light": "soft snowy night with lifted shadows",
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 159014
+  "bytes": 294650
  },
  {
   "id": "daily-2026-11-25",
@@ -2352,9 +2352,9 @@
    "cropTop": 0,
    "take": "nov25_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/25-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 25 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/25-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 25 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/25.webp",
@@ -2372,15 +2372,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "knitted red and grey mittens pegged on a line in the snow",
-   "light": "bright winter sun",
-   "scale": "close",
+   "subject": "a small evergreen tree hung with snow standing alone in a white field",
+   "light": "bright soft winter sun",
+   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 199650
+  "bytes": 229536
  },
  {
   "id": "daily-2026-11-26",
@@ -2408,9 +2408,9 @@
    "cropTop": 0,
    "take": "nov26_01",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/26-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 26 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/26-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 26 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/26.webp",
@@ -2428,15 +2428,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a winding river through snowy fields",
-   "light": "violet dusk",
-   "scale": "wide",
+   "subject": "a small snow-capped wooden rowing boat pulled up on the bank of a frozen river",
+   "light": "soft violet dusk",
+   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 134724
+  "bytes": 336666
  },
  {
   "id": "daily-2026-11-27",
@@ -2464,9 +2464,9 @@
    "cropTop": 0,
    "take": "nov27_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/27-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 27 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/27-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 27 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/27.webp",
@@ -2484,15 +2484,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a lone pine on a ridge under moonlight",
-   "light": "clear night, bright moon",
+   "subject": "a lone pine on a ridge under a bright moon",
+   "light": "soft clear night with lifted, shadows",
    "scale": "wide",
    "horizon": 0.55
   },
-  "bytes": 113468
+  "bytes": 240410
  },
  {
   "id": "daily-2026-11-28",
@@ -2520,9 +2520,9 @@
    "cropTop": 0,
    "take": "nov28_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/28-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 28 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/28-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 28 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/28.webp",
@@ -2540,15 +2540,15 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a stone fireplace with a crackling fire and a wool rug",
-   "light": "warm firelight",
+   "subject": "a small wooden hut with a warm lit doorway at the edge of a snowy forest",
+   "light": "soft blue dusk",
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 173708
+  "bytes": 315258
  },
  {
   "id": "daily-2026-11-29",
@@ -2576,9 +2576,9 @@
    "cropTop": 0,
    "take": "nov29_02",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/29-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 29 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/29-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 29 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/29.webp",
@@ -2596,7 +2596,7 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "subject": "a deer standing in falling snow at a forest edge",
@@ -2604,7 +2604,7 @@
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 169036
+  "bytes": 308928
  },
  {
   "id": "daily-2026-11-30",
@@ -2632,9 +2632,9 @@
    "cropTop": 0,
    "take": "nov30_00",
    "source": {
-    "take": "docs/art/masters/dl3-takes/daily11/30-1.png",
-    "prompt": "docs/art/dl3/prompts.json (daily11 30 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/daily11/30-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-daily11 30 take 1)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "master": "docs/art/masters/daily/2026-11/30.webp",
@@ -2652,14 +2652,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
-   "subject": "a small garden under the first snow, a stone lantern and red berries",
+   "subject": "a stone lantern capped with the first snow beside a sprig of red berries",
    "light": "quiet grey morning",
    "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 184760
+  "bytes": 310920
  }
 ]

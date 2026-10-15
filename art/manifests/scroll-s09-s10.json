@@ -36,19 +36,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/01.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/01-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 01 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "one magnificent crimson maple tree glowing in a clearing",
    "scale": "mid"
   },
-  "bytes": 316030
+  "bytes": 325872
  },
  {
   "id": "panel-s09-autumn-maples-02",
@@ -87,19 +87,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/02.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/02-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 02 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "a small creek running over rocks, carrying floating red leaves",
    "scale": "close"
   },
-  "bytes": 255698
+  "bytes": 253160
  },
  {
   "id": "panel-s09-autumn-maples-03",
@@ -138,19 +138,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/03.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/03-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 03 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "mossy stone steps climbing into a tunnel of red maples",
    "scale": "mid"
   },
-  "bytes": 297698
+  "bytes": 347140
  },
  {
   "id": "panel-s09-autumn-maples-04",
@@ -189,19 +189,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/04.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/04-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 04 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "a small moss-covered shrine roof under scarlet maples, plain with no symbols",
    "scale": "mid"
   },
-  "bytes": 276244
+  "bytes": 291464
  },
  {
   "id": "panel-s09-autumn-maples-05",
@@ -240,19 +240,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/05.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/05-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 05 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "an old wooden water wheel turning beside a mill pond, maples behind",
    "scale": "mid"
   },
-  "bytes": 299610
+  "bytes": 329530
  },
  {
   "id": "panel-s09-autumn-maples-06",
@@ -291,19 +291,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/06.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/06-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 06 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "maple branches arching over a dark forest pool full of red reflections",
    "scale": "close"
   },
-  "bytes": 242934
+  "bytes": 240910
  },
  {
   "id": "panel-s09-autumn-maples-07",
@@ -342,19 +342,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/07.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/07-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 07 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "acorns and red-capped mushrooms on a mossy fallen log",
    "scale": "close"
   },
-  "bytes": 200378
+  "bytes": 234598
  },
  {
   "id": "panel-s09-autumn-maples-08",
@@ -393,19 +393,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/08.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/08-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 08 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "a towering golden ginkgo tree among red maples",
    "scale": "wide"
   },
-  "bytes": 310916
+  "bytes": 368514
  },
  {
   "id": "panel-s09-autumn-maples-09",
@@ -444,19 +444,19 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/09.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/09-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 09 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "a whole hillside of red, orange and gold forest",
    "scale": "wide"
   },
-  "bytes": 257680
+  "bytes": 283230
  },
  {
   "id": "panel-s09-autumn-maples-10",
@@ -495,9 +495,9 @@
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/10.webp",
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s09/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s09 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s09/10-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s09 10 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
@@ -514,13 +514,13 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "showpiece": true,
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "subject": "red squirrel resting on a hollow moss-covered tree stump",
    "scale": "mid"
   },
-  "bytes": 211588
+  "bytes": 209380
  },
  {
   "id": "panel-s10-snow-temple-01",

@@ -34,20 +34,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s01-first-light/01.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s01/01-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 1, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s01/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s01 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
   },
-  "bytes": 68138
+  "bytes": 198290
  },
  {
   "id": "panel-s01-first-light-02",
@@ -84,20 +84,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s01-first-light/02.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s01/02-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 2, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s01/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s01 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
   },
-  "bytes": 55896
+  "bytes": 188756
  },
  {
   "id": "panel-s01-first-light-03",
@@ -134,20 +134,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s01-first-light/03.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s01/03-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 3, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s01/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s01 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
   },
-  "bytes": 85782
+  "bytes": 192480
  },
  {
   "id": "panel-s01-first-light-04",
@@ -184,20 +184,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s01-first-light/04.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s01/04-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 4, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s01/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s01 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
   },
-  "bytes": 55204
+  "bytes": 195342
  },
  {
   "id": "panel-s01-first-light-05",
@@ -234,20 +234,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s01-first-light/05.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s01/05-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 5, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s01/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s01 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
   },
-  "bytes": 49034
+  "bytes": 189364
  },
  {
   "id": "panel-s01-first-light-06",
@@ -284,20 +284,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s01-first-light/06.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s01/06-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 6, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s01/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s01 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
   },
-  "bytes": 138740
+  "bytes": 216458
  },
  {
   "id": "panel-s01-first-light-07",
@@ -334,20 +334,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s01-first-light/07.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s01/07-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 7, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s01/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s01 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
   },
-  "bytes": 87484
+  "bytes": 199970
  },
  {
   "id": "panel-s01-first-light-08",
@@ -444,20 +444,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/01.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/01-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 1, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 162148
+  "bytes": 314508
  },
  {
   "id": "panel-s02-bamboo-02",
@@ -496,20 +496,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/02.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/02-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 2, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 168746
+  "bytes": 319416
  },
  {
   "id": "panel-s02-bamboo-03",
@@ -548,20 +548,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/03.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/03-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 3, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 199266
+  "bytes": 290716
  },
  {
   "id": "panel-s02-bamboo-04",
@@ -591,7 +591,7 @@
    "panel": 4,
    "beat": "a bamboo water spout",
    "subject": "a single bamboo water spout dripping a thin stream of water into a round stone basin, rain-beaded",
-   "accent": "one red camellia floating in the basin",
+   "accent": "one red camellia floating in the basin; DL r4: a low morning sun in the mist at the upper right and its gold path on the water",
    "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
@@ -600,20 +600,25 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/04.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/04-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 4, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/04-2.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 04 take 2)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "lightPass": {
+    "script": "docs/art/dl3/_scripts/home4.py",
+    "why": "JUDGE-r3-3 spec 11: one warm accent at clear strength on the day Home hero",
+    "geometry": "unchanged (ui/nightlamp.ts fractions hold)"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 127142
+  "bytes": 273100
  },
  {
   "id": "panel-s02-bamboo-05",
@@ -652,20 +657,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/05.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/05-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 5, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 61824
+  "bytes": 233936
  },
  {
   "id": "panel-s02-bamboo-06",
@@ -704,20 +709,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/06.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/06-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 6, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 232416
+  "bytes": 408104
  },
  {
   "id": "panel-s02-bamboo-07",
@@ -756,20 +761,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/07.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/07-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 7, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 227864
+  "bytes": 352070
  },
  {
   "id": "panel-s02-bamboo-08",
@@ -808,20 +813,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/08.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/08-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 8, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 105790
+  "bytes": 274686
  },
  {
   "id": "panel-s02-bamboo-09",
@@ -860,20 +865,20 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
+   "look": "v6 DL r4-2 lit painted stage",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/09.webp",
    "cropTop": 0,
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/09-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 9, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "take": "docs/art/masters/dl6-takes/s02/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s02 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
+    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+   },
+   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
   },
-  "bytes": 185388
+  "bytes": 303394
  },
  {
   "id": "panel-s02-bamboo-10",

@@ -28,20 +28,20 @@
    "master": "docs/art/masters/panels/s03-tea-hills/01.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/01-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 01 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/01-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 01 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a single fresh tea shoot, two bright leaves and a bud, beaded with dew",
    "scale": "close"
   },
-  "bytes": 104960
+  "bytes": 109038
  },
  {
   "id": "panel-s03-tea-hills-02",
@@ -60,7 +60,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "golden early-morning sun low on the right, the thin steam lit gold",
+   "light": "golden early-morning sunrise",
    "beat": "a steaming kettle on a stone",
    "horizon": 0.55,
    "quietZone": {
@@ -72,21 +72,21 @@
    "master": "docs/art/masters/panels/s03-tea-hills/02.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/02-7.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 02 take 7)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/s03/02-4.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-s03 02 take 4)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "subject": "a small old iron kettle, only about one third of the frame's width, steaming on a flat warm rock in the lower left of the upper half; behind and around it the sunlit terraced tea rows sweep across the frame and a wide clear sky fills the top third, so the landscape dominates and the kettle is a quiet detail",
+   "subject": "a small old iron kettle with a thin curl of steam, the kettle about 30 percent of the frame's width, standing on a flat sunlit rock; the kettle sits low in the frame, its centre about 60 percent down and about 35 percent from the left edge, the rock's top edge at about 68 percent down; above and behind it sunlit terraced tea rows sweep up the hills to a wide glowing sunrise sky that fills the upper half",
    "scale": "mid",
    "note_r33": "DL r3-3: shipped at 1296x1620 (Lanczos from the 1152x1440 take) so the stage never upscales it"
   },
-  "bytes": 247362
+  "bytes": 303516
  },
  {
   "id": "panel-s03-tea-hills-03",
@@ -117,20 +117,20 @@
    "master": "docs/art/masters/panels/s03-tea-hills/03.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/03-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 03 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/03-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 03 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a small wooden tea-picker's hut with a tiled roof among the terraces, a thin curl of smoke from its chimney",
    "scale": "mid"
   },
-  "bytes": 228962
+  "bytes": 216626
  },
  {
   "id": "panel-s03-tea-hills-04",
@@ -161,20 +161,20 @@
    "master": "docs/art/masters/panels/s03-tea-hills/04.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/04-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 04 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "soft bands of morning cloud drifting below the terraced hilltops",
    "scale": "wide"
   },
-  "bytes": 145008
+  "bytes": 142118
  },
  {
   "id": "panel-s03-tea-hills-05",
@@ -205,20 +205,20 @@
    "master": "docs/art/masters/panels/s03-tea-hills/05.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/05-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 05 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/05-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 05 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "one lone umbrella pine on the crest of a tea hill",
    "scale": "wide"
   },
-  "bytes": 136656
+  "bytes": 152552
  },
  {
   "id": "panel-s03-tea-hills-06",
@@ -249,20 +249,20 @@
    "master": "docs/art/masters/panels/s03-tea-hills/06.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/06-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 06 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "two woven bamboo baskets of fresh tea leaves resting on a dry-stone wall",
    "scale": "close"
   },
-  "bytes": 250208
+  "bytes": 194550
  },
  {
   "id": "panel-s03-tea-hills-07",
@@ -293,20 +293,20 @@
    "master": "docs/art/masters/panels/s03-tea-hills/07.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/07-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 07 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/07-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 07 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a far temple roof with upturned eaves above the terraces during a summer shower",
    "scale": "wide"
   },
-  "bytes": 204192
+  "bytes": 174778
  },
  {
   "id": "panel-s03-tea-hills-08",
@@ -337,20 +337,20 @@
    "master": "docs/art/masters/panels/s03-tea-hills/08.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/08-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 08 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/08-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 08 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "two white butterflies over a flowering tea bush with small white camellia-like tea flowers",
    "scale": "close"
   },
-  "bytes": 114572
+  "bytes": 114218
  },
  {
   "id": "panel-s03-tea-hills-09",
@@ -381,20 +381,20 @@
    "master": "docs/art/masters/panels/s03-tea-hills/09.webp",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/09-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 09 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a low dry-stone wall with tiny wildflowers and a green lizard basking on it",
    "scale": "close"
   },
-  "bytes": 222938
+  "bytes": 181114
  },
  {
   "id": "panel-s03-tea-hills-10",
@@ -431,20 +431,20 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "resident": "cat",
-   "look": "v3 DL3 variety",
+   "look": "v5 DL r4-1 painted mist scrolls",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s03/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s03 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl5-takes/s03/10-11.png",
+    "prompt": "docs/art/dl3/prompts.json (r41-s03 10 take 11)",
+    "script": "docs/art/dl3/_scripts/gen5.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "cat resting on a sunlit wooden porch step of a small tea house",
    "scale": "mid"
   },
-  "bytes": 214294
+  "bytes": 183860
  },
  {
   "id": "panel-s04-rain-canal-01",
@@ -482,20 +482,21 @@
     "take": "s04-p1",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/01-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 01 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "rain falling over a crowd of old tiled rooftops and chimneys",
-   "scale": "wide"
+   "scale": "wide",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 249166
+  "bytes": 381746
  },
  {
   "id": "panel-s04-rain-canal-02",
@@ -533,20 +534,21 @@
     "take": "s04-02_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/02-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 02 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a narrow wooden boat moored by a stone quay, rain pooling in its hull",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 226608
+  "bytes": 320930
  },
  {
   "id": "panel-s04-rain-canal-03",
@@ -584,20 +586,21 @@
     "take": "s04-03_00",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/03-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 03 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "an old stone arch bridge over the canal, ivy hanging from it",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 238294
+  "bytes": 358466
  },
  {
   "id": "panel-s04-rain-canal-04",
@@ -635,20 +638,21 @@
     "take": "s04-04_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/04-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 04 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "three colourful oiled-paper umbrellas hung open to dry under a wooden eave",
-   "scale": "close"
+   "scale": "close",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 214934
+  "bytes": 335442
  },
  {
   "id": "panel-s04-rain-canal-05",
@@ -686,20 +690,21 @@
     "take": "s04-05_00",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/05-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 05 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "lit windows reflected as long gold streaks in the rippling canal",
-   "scale": "wide"
+   "scale": "wide",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 232412
+  "bytes": 391714
  },
  {
   "id": "panel-s04-rain-canal-06",
@@ -737,20 +742,21 @@
     "take": "s04-06_00",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/06-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 06 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "worn stone steps descending into the canal, a moss line at the water",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 224622
+  "bytes": 337756
  },
  {
   "id": "panel-s04-rain-canal-07",
@@ -788,20 +794,21 @@
     "take": "s04-07_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/07-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 07 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "a weeping willow dripping rain over the canal wall",
-   "scale": "mid"
+   "scale": "mid",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 302154
+  "bytes": 401788
  },
  {
   "id": "panel-s04-rain-canal-08",
@@ -839,20 +846,21 @@
     "take": "s04-08_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/08-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 08 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "an iron lantern glowing on a wet stone post at the canal's edge",
-   "scale": "close"
+   "scale": "close",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 231290
+  "bytes": 308848
  },
  {
   "id": "panel-s04-rain-canal-09",
@@ -890,20 +898,21 @@
     "take": "s04-09_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v6 DL r4-2 lit painted stage",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl6-takes/s04/09-1.png",
+    "prompt": "docs/art/dl3/prompts.json (r6-s04 09 take 1)",
+    "script": "docs/art/dl3/_scripts/gen6.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
    "subject": "rain rings spreading on dark canal water with one floating yellow leaf",
-   "scale": "close"
+   "scale": "close",
+   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
   },
-  "bytes": 145476
+  "bytes": 371382
  },
  {
   "id": "panel-s04-rain-canal-10",
@@ -922,7 +931,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "soft warm light",
+   "light": "rainy blue dusk with warm lamplight",
    "beat": "a mossy stone ledge (tree frog perch)",
    "horizon": 0.55,
    "quietZone": {
@@ -952,19 +961,19 @@
     "take": "s04-10_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v3 DL3 variety",
+   "look": "v7 DL r4-3 one light",
    "noPeople": true,
    "noText": true,
    "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s04/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s04 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
+    "take": "docs/art/masters/dl7-takes/s04/10-2.png",
+    "prompt": "docs/art/dl3/prompts.json (r7-s04 10 take 2)",
+    "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "subject": "tree frog resting on a mossy stone ledge beside the canal, raindrops on the moss",
+   "subject": "one small green tree frog, painted in gouache like a storybook illustration (not a photograph), sitting on the worn stone lip of an old canal wall, placed exactly in the horizontal centre of the frame in the upper third, with calm open space on both sides of it; behind it an arched stone bridge and windows glowing warm amber",
    "scale": "mid"
   },
-  "bytes": 202842
+  "bytes": 299098
  }
 ]
