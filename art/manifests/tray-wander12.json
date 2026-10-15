@@ -26,8 +26,19 @@
    "quietRatio": 0.278,
    "master": "docs/art/masters/tray/stone-garden/01.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 122924
  },
  {
   "id": "tray.stone-garden.02",
@@ -56,8 +67,19 @@
    "quietRatio": 0.29,
    "master": "docs/art/masters/tray/stone-garden/02.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 96488
  },
  {
   "id": "tray.stone-garden.03",
@@ -86,8 +108,19 @@
    "quietRatio": 0.2,
    "master": "docs/art/masters/tray/stone-garden/03.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 246806
  },
  {
   "id": "tray.stone-garden.04",
@@ -116,8 +149,19 @@
    "quietRatio": 0.233,
    "master": "docs/art/masters/tray/stone-garden/04.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 196726
  },
  {
   "id": "tray.stone-garden.05",
@@ -146,8 +190,19 @@
    "quietRatio": 0.284,
    "master": "docs/art/masters/tray/stone-garden/05.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 226556
  },
  {
   "id": "tray.stone-garden.06",
@@ -176,8 +231,19 @@
    "quietRatio": 0.259,
    "master": "docs/art/masters/tray/stone-garden/06.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 308878
  },
  {
   "id": "tray.stone-garden.07",
@@ -206,8 +272,19 @@
    "quietRatio": 0.216,
    "master": "docs/art/masters/tray/stone-garden/07.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 107332
  },
  {
   "id": "tray.stone-garden.08",
@@ -236,8 +313,19 @@
    "quietRatio": 0.285,
    "master": "docs/art/masters/tray/stone-garden/08.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 125314
  },
  {
   "id": "tray.stone-garden.09",
@@ -266,8 +354,19 @@
    "quietRatio": 0.371,
    "master": "docs/art/masters/tray/stone-garden/09.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 210870
  },
  {
   "id": "tray.stone-garden.10",
@@ -296,8 +395,19 @@
    "quietRatio": 0.293,
    "master": "docs/art/masters/tray/stone-garden/10.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 130206
  },
  {
   "id": "tray.stone-garden.11",
@@ -326,8 +436,19 @@
    "quietRatio": 0.406,
    "master": "docs/art/masters/tray/stone-garden/11.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/11-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 11)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 158508
  },
  {
   "id": "tray.stone-garden.12",
@@ -356,20 +477,25 @@
    "quietRatio": 0.322,
    "master": "docs/art/masters/tray/stone-garden/12.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high",
+   "quality": "max",
    "perch": {
     "resident": "tortoise",
-    "x": [
-     0.67,
-     0.95
-    ],
-    "y": [
-     0.48,
-     0.56
-    ],
-    "note": "flat sunlit rock on moss mound, right third"
+    "x": 0.5,
+    "y": 0.3,
+    "note": "DL r2: the resident is painted in, centred in the upper third"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/stone/12-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (stone 12)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 102110
  },
  {
   "id": "wander.w01-wisteria.01",
@@ -398,8 +524,19 @@
    "quietRatio": 0.305,
    "master": "docs/art/masters/wander/w01-wisteria/01.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 159176
  },
  {
   "id": "wander.w01-wisteria.02",
@@ -428,8 +565,19 @@
    "quietRatio": 0.319,
    "master": "docs/art/masters/wander/w01-wisteria/02.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 269954
  },
  {
   "id": "wander.w01-wisteria.03",
@@ -458,8 +606,19 @@
    "quietRatio": 0.275,
    "master": "docs/art/masters/wander/w01-wisteria/03.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 247086
  },
  {
   "id": "wander.w01-wisteria.04",
@@ -488,8 +647,19 @@
    "quietRatio": 0.328,
    "master": "docs/art/masters/wander/w01-wisteria/04.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 256688
  },
  {
   "id": "wander.w01-wisteria.05",
@@ -518,8 +688,19 @@
    "quietRatio": 0.246,
    "master": "docs/art/masters/wander/w01-wisteria/05.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 119460
  },
  {
   "id": "wander.w01-wisteria.06",
@@ -548,8 +729,19 @@
    "quietRatio": 0.3,
    "master": "docs/art/masters/wander/w01-wisteria/06.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 211860
  },
  {
   "id": "wander.w01-wisteria.07",
@@ -578,8 +770,19 @@
    "quietRatio": 0.281,
    "master": "docs/art/masters/wander/w01-wisteria/07.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 251848
  },
  {
   "id": "wander.w01-wisteria.08",
@@ -608,8 +811,19 @@
    "quietRatio": 0.296,
    "master": "docs/art/masters/wander/w01-wisteria/08.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 198152
  },
  {
   "id": "wander.w01-wisteria.09",
@@ -638,8 +852,19 @@
    "quietRatio": 0.264,
    "master": "docs/art/masters/wander/w01-wisteria/09.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 217830
  },
  {
   "id": "wander.w01-wisteria.10",
@@ -668,8 +893,19 @@
    "quietRatio": 0.275,
    "master": "docs/art/masters/wander/w01-wisteria/10.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w01-wisteria/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w01-wisteria 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 227096
  },
  {
   "id": "wander.w02-kelp.01",
@@ -698,8 +934,19 @@
    "quietRatio": 0.424,
    "master": "docs/art/masters/wander/w02-kelp/01.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 100824
  },
  {
   "id": "wander.w02-kelp.02",
@@ -728,8 +975,19 @@
    "quietRatio": 0.438,
    "master": "docs/art/masters/wander/w02-kelp/02.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 79374
  },
  {
   "id": "wander.w02-kelp.03",
@@ -758,8 +1016,19 @@
    "quietRatio": 0.397,
    "master": "docs/art/masters/wander/w02-kelp/03.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 106020
  },
  {
   "id": "wander.w02-kelp.04",
@@ -788,8 +1057,19 @@
    "quietRatio": 0.362,
    "master": "docs/art/masters/wander/w02-kelp/04.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 147336
  },
  {
   "id": "wander.w02-kelp.05",
@@ -818,8 +1098,19 @@
    "quietRatio": 0.424,
    "master": "docs/art/masters/wander/w02-kelp/05.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 55154
  },
  {
   "id": "wander.w02-kelp.06",
@@ -848,8 +1139,19 @@
    "quietRatio": 0.369,
    "master": "docs/art/masters/wander/w02-kelp/06.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 116864
  },
  {
   "id": "wander.w02-kelp.07",
@@ -878,8 +1180,19 @@
    "quietRatio": 0.407,
    "master": "docs/art/masters/wander/w02-kelp/07.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 66380
  },
  {
   "id": "wander.w02-kelp.08",
@@ -908,8 +1221,19 @@
    "quietRatio": 0.385,
    "master": "docs/art/masters/wander/w02-kelp/08.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 115860
  },
  {
   "id": "wander.w02-kelp.09",
@@ -938,8 +1262,19 @@
    "quietRatio": 0.37,
    "master": "docs/art/masters/wander/w02-kelp/09.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 71222
  },
  {
   "id": "wander.w02-kelp.10",
@@ -968,7 +1303,18 @@
    "quietRatio": 0.427,
    "master": "docs/art/masters/wander/w02-kelp/10.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "high"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w02-kelp/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w02-kelp 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 89930
  }
 ]

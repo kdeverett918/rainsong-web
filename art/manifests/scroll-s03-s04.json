@@ -27,8 +27,19 @@
    "cropTopPx": 110,
    "master": "docs/art/masters/panels/s03-tea-hills/01.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 104202
  },
  {
   "id": "panel-s03-tea-hills-02",
@@ -58,8 +69,19 @@
    "cropTopPx": 125,
    "master": "docs/art/masters/panels/s03-tea-hills/02.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 95658
  },
  {
   "id": "panel-s03-tea-hills-03",
@@ -89,8 +111,19 @@
    "cropTopPx": 125,
    "master": "docs/art/masters/panels/s03-tea-hills/03.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 95798
  },
  {
   "id": "panel-s03-tea-hills-04",
@@ -120,8 +153,19 @@
    "cropTopPx": 125,
    "master": "docs/art/masters/panels/s03-tea-hills/04.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 73078
  },
  {
   "id": "panel-s03-tea-hills-05",
@@ -151,8 +195,19 @@
    "cropTopPx": 125,
    "master": "docs/art/masters/panels/s03-tea-hills/05.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 127588
  },
  {
   "id": "panel-s03-tea-hills-06",
@@ -182,8 +237,19 @@
    "cropTopPx": 125,
    "master": "docs/art/masters/panels/s03-tea-hills/06.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 149100
  },
  {
   "id": "panel-s03-tea-hills-07",
@@ -213,8 +279,19 @@
    "cropTopPx": 125,
    "master": "docs/art/masters/panels/s03-tea-hills/07.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 60698
  },
  {
   "id": "panel-s03-tea-hills-08",
@@ -244,8 +321,19 @@
    "cropTopPx": 125,
    "master": "docs/art/masters/panels/s03-tea-hills/08.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 201758
  },
  {
   "id": "panel-s03-tea-hills-09",
@@ -275,8 +363,19 @@
    "cropTopPx": 125,
    "master": "docs/art/masters/panels/s03-tea-hills/09.webp",
    "model": "gpt-image-2.5-sunburst",
-   "quality": "max"
-  }
+   "quality": "max",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 155318
  },
  {
   "id": "panel-s03-tea-hills-10",
@@ -308,17 +407,23 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "perch": {
-    "x": [
-     0.67,
-     1.0
-    ],
-    "y": [
-     0.45,
-     0.55
-    ]
+    "x": 0.5,
+    "y": 0.3,
+    "note": "DL r2: the resident is painted in, centred in the upper third"
    },
-   "resident": "cat"
-  }
+   "resident": "cat",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s03/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s03 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 158378
  },
  {
   "id": "panel-s04-rain-canal-01",
@@ -355,8 +460,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-p1",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 137456
  },
  {
   "id": "panel-s04-rain-canal-02",
@@ -393,8 +509,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-02_01",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 86406
  },
  {
   "id": "panel-s04-rain-canal-03",
@@ -431,8 +558,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-03_00",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 110208
  },
  {
   "id": "panel-s04-rain-canal-04",
@@ -469,8 +607,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-04_01",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 120094
  },
  {
   "id": "panel-s04-rain-canal-05",
@@ -507,8 +656,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-05_00",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 91690
  },
  {
   "id": "panel-s04-rain-canal-06",
@@ -545,8 +705,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-06_00",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 139568
  },
  {
   "id": "panel-s04-rain-canal-07",
@@ -583,8 +754,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-07_01",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 210412
  },
  {
   "id": "panel-s04-rain-canal-08",
@@ -621,8 +803,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-08_01",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 81714
  },
  {
   "id": "panel-s04-rain-canal-09",
@@ -659,8 +852,19 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-09_01",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 39902
  },
  {
   "id": "panel-s04-rain-canal-10",
@@ -692,20 +896,14 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "perch": {
-    "x": [
-     0.67,
-     1.0
-    ],
-    "y": [
-     0.45,
-     0.55
-    ],
+    "x": 0.5,
+    "y": 0.3,
     "ledgeTop": 0.52,
     "ledgeX": [
      0.7,
      1.0
     ],
-    "note": "re-measured after gate regen"
+    "note": "DL r2: the resident is painted in, centred in the upper third"
    },
    "resident": "tree-frog",
    "quietAbs": 8.69,
@@ -714,7 +912,18 @@
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-10_01",
     "refs": "panel 1 (style) + previous take (beat)"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s04/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s04 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 138864
  }
 ]

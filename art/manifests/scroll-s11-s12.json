@@ -30,8 +30,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-01_01",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 144620
  },
  {
   "id": "panel-s11-high-meadow-02",
@@ -64,8 +75,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-02_01",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 136256
  },
  {
   "id": "panel-s11-high-meadow-03",
@@ -98,8 +120,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-03_02",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 176110
  },
  {
   "id": "panel-s11-high-meadow-04",
@@ -132,8 +165,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-04_02",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 144670
  },
  {
   "id": "panel-s11-high-meadow-05",
@@ -166,8 +210,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-05_02",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 103520
  },
  {
   "id": "panel-s11-high-meadow-06",
@@ -200,8 +255,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-06_00",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 196118
  },
  {
   "id": "panel-s11-high-meadow-07",
@@ -234,8 +300,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-07_00",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 116800
  },
  {
   "id": "panel-s11-high-meadow-08",
@@ -268,8 +345,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-08_00",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 157060
  },
  {
   "id": "panel-s11-high-meadow-09",
@@ -302,8 +390,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "take": "s11-09_00",
-   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick"
-  }
+   "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 68842
  },
  {
   "id": "panel-s11-high-meadow-10",
@@ -340,15 +439,23 @@
    "perch": {
     "resident": "pika",
     "kind": "low flat-topped sunny boulder",
-    "x": [
-     0.67,
-     0.95
-    ],
-    "y": 0.41,
+    "x": 0.5,
+    "y": 0.3,
     "rockTop": 0.4,
-    "note": "boulder spans x 0.53-0.98; flat top at 0.40-0.41, a little above the 45-55% target"
+    "note": "DL r2: the resident is painted in, centred in the upper third"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s11/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s11 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 242602
  },
  {
   "id": "panel-s12-sea-sunrise-01",
@@ -383,8 +490,19 @@
    "take": "s12-01_00 (regen r2, sun removed)",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 97106
  },
  {
   "id": "panel-s12-sea-sunrise-02",
@@ -419,8 +537,19 @@
    "take": "s12-02_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 98790
  },
  {
   "id": "panel-s12-sea-sunrise-03",
@@ -455,8 +584,19 @@
    "take": "s12-03_01 (regen r2)",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 93084
  },
  {
   "id": "panel-s12-sea-sunrise-04",
@@ -491,8 +631,19 @@
    "take": "s12-04_00 (regen r2)",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 102306
  },
  {
   "id": "panel-s12-sea-sunrise-05",
@@ -527,8 +678,19 @@
    "take": "s12-05_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 163514
  },
  {
   "id": "panel-s12-sea-sunrise-06",
@@ -563,8 +725,19 @@
    "take": "s12-06_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 65940
  },
  {
   "id": "panel-s12-sea-sunrise-07",
@@ -599,8 +772,19 @@
    "take": "s12-07_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 87896
  },
  {
   "id": "panel-s12-sea-sunrise-08",
@@ -635,8 +819,19 @@
    "take": "s12-08_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 141494
  },
  {
   "id": "panel-s12-sea-sunrise-09",
@@ -671,8 +866,19 @@
    "take": "s12-09_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
-   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58"
-  }
+   "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 104180
  },
  {
   "id": "panel-s12-sea-sunrise-10",
@@ -711,15 +917,26 @@
    "perch": {
     "resident": "whale",
     "kind": "whale back surfacing with spout",
-    "x": 0.75,
-    "y": 0.5,
+    "x": 0.5,
+    "y": 0.3,
     "spout": {
      "x": 0.74,
      "yTop": 0.28,
      "yBase": 0.5
     },
-    "note": "whale back at x 0.66-0.86 on the water just below the sea line"
+    "note": "DL r2: the resident is painted in, centred in the upper third"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s12/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s12 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 108938
  }
 ]

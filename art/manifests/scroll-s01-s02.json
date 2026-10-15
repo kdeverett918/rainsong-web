@@ -8,9 +8,7 @@
   "meta": {
    "scroll": "s01-first-light",
    "scrollName": "First Light Pond",
-   "panel": 1,
    "panels": 8,
-   "beat": "a moored punt and the wren's post",
    "ink": [
     "moss green",
     "wet slate",
@@ -24,38 +22,32 @@
     "#C8432B"
    ],
    "ground": "still pond",
-   "light": "dawn mist after rain",
-   "horizon": 0.58,
+   "panel": 1,
+   "beat": "a moored wooden post and the wren",
+   "subject": "a small brown wren perched on top of a single weathered wooden mooring post standing in still, glassy water; the post's reflection runs straight down",
+   "accent": "a faint gold rim on the wren's breast",
+   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.771,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s01-first-light/01.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 46.1,
-    "br": 5.8,
-    "dk": 29.9,
-    "C": 8.4,
-    "fL": 52.6,
-    "fS": 52.1,
-    "qL": 27.1,
-    "qS": 41.1,
-    "dock": 87.0
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s01/01-3.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 1, take 3)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s01/01-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 1, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 68138
  },
  {
   "id": "panel-s01-first-light-02",
@@ -66,9 +58,7 @@
   "meta": {
    "scroll": "s01-first-light",
    "scrollName": "First Light Pond",
-   "panel": 2,
    "panels": 8,
-   "beat": "a lotus stand in rain",
    "ink": [
     "moss green",
     "wet slate",
@@ -82,38 +72,32 @@
     "#C8432B"
    ],
    "ground": "still pond",
-   "light": "dawn mist after rain",
-   "horizon": 0.58,
+   "panel": 2,
+   "beat": "a lotus in rain",
+   "subject": "a single cream-white lotus flower, fully open, with raindrops on its petals, on one slender stem above still water; one round leaf floats beside it",
+   "accent": "the faintest blush of coral at the petal tips",
+   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 2.006,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s01-first-light/02.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 51.7,
-    "br": 7.6,
-    "dk": 20.4,
-    "C": 8.0,
-    "fL": 59.8,
-    "fS": 35.5,
-    "qL": 30.7,
-    "qS": 31.8,
-    "dock": 89.0
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s01/02-2.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 2, take 2)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s01/02-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 2, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 55896
  },
  {
   "id": "panel-s01-first-light-03",
@@ -124,9 +108,7 @@
   "meta": {
    "scroll": "s01-first-light",
    "scrollName": "First Light Pond",
-   "panel": 3,
    "panels": 8,
-   "beat": "stepping stones past a pine boulder",
    "ink": [
     "moss green",
     "wet slate",
@@ -140,38 +122,32 @@
     "#C8432B"
    ],
    "ground": "still pond",
-   "light": "dawn mist after rain",
-   "horizon": 0.58,
+   "panel": 3,
+   "beat": "a pine on a granite rock",
+   "subject": "one small wind-bent pine growing from a lone rounded granite boulder that rises out of a misty, perfectly still lake",
+   "accent": "a single red maple leaf resting on the boulder",
+   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.73,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s01-first-light/03.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 47.5,
-    "br": 4.5,
-    "dk": 26.0,
-    "C": 9.6,
-    "fL": 53.5,
-    "fS": 47.9,
-    "qL": 29.6,
-    "qS": 40.0,
-    "dock": 83.0
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s01/03-2.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 3, take 2)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s01/03-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 3, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 85782
  },
  {
   "id": "panel-s01-first-light-04",
@@ -182,9 +158,7 @@
   "meta": {
    "scroll": "s01-first-light",
    "scrollName": "First Light Pond",
-   "panel": 4,
    "panels": 8,
-   "beat": "a frog on a lily pad below the cattails",
    "ink": [
     "moss green",
     "wet slate",
@@ -198,38 +172,32 @@
     "#C8432B"
    ],
    "ground": "still pond",
-   "light": "dawn mist after rain",
-   "horizon": 0.58,
+   "panel": 4,
+   "beat": "a frog on a lily pad",
+   "subject": "one glossy green frog with a golden eye sitting on a single round lily pad on dark still water, rain rings spreading softly",
+   "accent": "one small pink water-lily bud beside the pad",
+   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.469,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s01-first-light/04.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 45.6,
-    "br": 3.7,
-    "dk": 23.4,
-    "C": 9.0,
-    "fL": 50.9,
-    "fS": 36.8,
-    "qL": 32.7,
-    "qS": 38.8,
-    "dock": 78.4
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s01/04-4.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 4, take 4)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s01/04-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 4, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 55204
  },
  {
   "id": "panel-s01-first-light-05",
@@ -240,9 +208,7 @@
   "meta": {
    "scroll": "s01-first-light",
    "scrollName": "First Light Pond",
-   "panel": 5,
    "panels": 8,
-   "beat": "a dragonfly over open water",
    "ink": [
     "moss green",
     "wet slate",
@@ -256,38 +222,32 @@
     "#C8432B"
    ],
    "ground": "still pond",
-   "light": "dawn mist after rain",
-   "horizon": 0.58,
+   "panel": 5,
+   "beat": "a dragonfly on a reed",
+   "subject": "a single vermilion dragonfly with glinting veined wings resting on the tip of one slender bent reed over still water",
+   "accent": "the dragonfly itself is the warm accent",
+   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.581,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s01-first-light/05.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 43.3,
-    "br": 4.2,
-    "dk": 27.9,
-    "C": 9.8,
-    "fL": 50.1,
-    "fS": 36.0,
-    "qL": 25.5,
-    "qS": 36.7,
-    "dock": 75.3
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s01/05-7.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 5, take 7)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s01/05-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 5, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 49034
  },
  {
   "id": "panel-s01-first-light-06",
@@ -298,9 +258,7 @@
   "meta": {
    "scroll": "s01-first-light",
    "scrollName": "First Light Pond",
-   "panel": 6,
    "panels": 8,
-   "beat": "the willow dipping at sunrise",
    "ink": [
     "moss green",
     "wet slate",
@@ -314,38 +272,32 @@
     "#C8432B"
    ],
    "ground": "still pond",
-   "light": "dawn mist after rain",
-   "horizon": 0.58,
+   "panel": 6,
+   "beat": "a willow bough over the water",
+   "subject": "one long willow bough with fine new leaves hanging down from the top edge, its tips just touching mirror-still water and making three soft rings",
+   "accent": "a pale gold glow in the leaves",
+   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.102,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s01-first-light/06.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 52.7,
-    "br": 5.0,
-    "dk": 17.4,
-    "C": 11.8,
-    "fL": 61.6,
-    "fS": 33.4,
-    "qL": 34.8,
-    "qS": 42.8,
-    "dock": 89.4
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s01/06-6.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 6, take 6)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s01/06-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 6, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 138740
  },
  {
   "id": "panel-s01-first-light-07",
@@ -356,9 +308,7 @@
   "meta": {
    "scroll": "s01-first-light",
    "scrollName": "First Light Pond",
-   "panel": 7,
    "panels": 8,
-   "beat": "a low plank bridge into the mist",
    "ink": [
     "moss green",
     "wet slate",
@@ -372,38 +322,32 @@
     "#C8432B"
    ],
    "ground": "still pond",
-   "light": "dawn mist after rain",
-   "horizon": 0.58,
+   "panel": 7,
+   "beat": "a jetty into the mist",
+   "subject": "an old narrow wooden jetty, silvered planks wet with rain, leading straight out into dawn mist over still water and vanishing softly",
+   "accent": "a coil of faded red rope on the first post",
+   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.78,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s01-first-light/07.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 47.8,
-    "br": 4.7,
-    "dk": 27.1,
-    "C": 8.7,
-    "fL": 54.9,
-    "fS": 49.7,
-    "qL": 30.6,
-    "qS": 41.8,
-    "dock": 82.6
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s01/07-2.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 7, take 2)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s01/07-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 7, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 87484
  },
  {
   "id": "panel-s01-first-light-08",
@@ -412,11 +356,17 @@
   "w": 1080,
   "h": 1350,
   "meta": {
+   "perch": {
+    "resident": "wren",
+    "kind": "reed nest",
+    "x": 0.79,
+    "y": 0.4,
+    "note": "v3 repaint: nest in the reeds right of centre, measured on the pick"
+   },
+   "showpiece": true,
    "scroll": "s01-first-light",
    "scrollName": "First Light Pond",
-   "panel": 8,
    "panels": 8,
-   "beat": "the wren's reed nest on the far bank",
    "ink": [
     "moss green",
     "wet slate",
@@ -430,46 +380,32 @@
     "#C8432B"
    ],
    "ground": "still pond",
-   "light": "dawn mist after rain",
-   "horizon": 0.58,
+   "panel": 8,
+   "beat": "the wren's nest in the reeds",
+   "subject": "a small round wren's nest woven into a single cluster of tall golden reeds at the water's edge, the brown wren perched beside it",
+   "accent": "warm straw gold of the reeds",
+   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.473,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s01-first-light/08.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 46.3,
-    "br": 5.4,
-    "dk": 26.3,
-    "C": 11.0,
-    "fL": 54.0,
-    "fS": 38.5,
-    "qL": 26.4,
-    "qS": 29.5,
-    "dock": 89.2
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s01/08-1.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s01, panel 8, take 1)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s01/08-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 8, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
-   },
-   "perch": {
-    "resident": "wren",
-    "kind": "reed nest",
-    "x": 0.79,
-    "y": 0.4,
-    "note": "v3 repaint: nest in the reeds right of centre, measured on the pick"
-   },
-   "showpiece": true
-  }
+   }
+  },
+  "bytes": 150188
  },
  {
   "id": "panel-s02-bamboo-01",
@@ -480,9 +416,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 1,
    "panels": 10,
-   "beat": "the grove's edge",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -498,38 +432,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 1,
+   "beat": "a stone lantern in the bamboo",
+   "subject": "one old moss-covered stone garden lantern standing among slender bamboo stems in light rain",
+   "accent": "a faint amber glow inside the lantern window",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.148,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/01.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 41.7,
-    "br": 3.7,
-    "dk": 33.0,
-    "C": 11.2,
-    "fL": 46.4,
-    "fS": 50.6,
-    "qL": 28.4,
-    "qS": 37.5,
-    "dock": 85.6
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/01-5.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 1, take 5)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/01-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 1, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 162148
  },
  {
   "id": "panel-s02-bamboo-02",
@@ -540,9 +468,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 2,
    "panels": 10,
-   "beat": "a stone lantern among the stalks",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -558,38 +484,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 2,
+   "beat": "a path into the grove",
+   "subject": "a single narrow stone path curving gently into a tall bamboo grove that fades into pale mist",
+   "accent": "one fallen amber leaf on the wet stones",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.324,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/02.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 39.0,
-    "br": 4.7,
-    "dk": 44.0,
-    "C": 10.9,
-    "fL": 44.3,
-    "fS": 57.9,
-    "qL": 22.9,
-    "qS": 35.4,
-    "dock": 86.7
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/02-1.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 2, take 1)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/02-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 2, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 168746
  },
  {
   "id": "panel-s02-bamboo-03",
@@ -600,9 +520,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 3,
    "panels": 10,
-   "beat": "light breaking through the canopy",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -618,38 +536,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 3,
+   "beat": "a mossy stone bridge",
+   "subject": "a small arched stone bridge covered in moss over a quiet stream, bamboo dissolving in mist behind it",
+   "accent": "a few amber leaves on the bridge",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.579,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/03.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 46.2,
-    "br": 3.8,
-    "dk": 24.1,
-    "C": 13.4,
-    "fL": 53.3,
-    "fS": 40.1,
-    "qL": 30.9,
-    "qS": 42.3,
-    "dock": 81.2
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/03-5.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 3, take 5)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/03-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 3, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 199266
  },
  {
   "id": "panel-s02-bamboo-04",
@@ -660,9 +572,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 4,
    "panels": 10,
-   "beat": "the path bending past a mossy wall",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -678,38 +588,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 4,
+   "beat": "a bamboo water spout",
+   "subject": "a single bamboo water spout dripping a thin stream of water into a round stone basin, rain-beaded",
+   "accent": "one red camellia floating in the basin",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.504,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/04.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 45.8,
-    "br": 3.7,
-    "dk": 27.9,
-    "C": 10.9,
-    "fL": 51.1,
-    "fS": 53.2,
-    "qL": 33.9,
-    "qS": 41.7,
-    "dock": 82.7
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/04-2.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 4, take 2)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/04-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 4, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 127142
  },
  {
   "id": "panel-s02-bamboo-05",
@@ -720,9 +624,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 5,
    "panels": 10,
-   "beat": "a bamboo spout dripping into a stone basin",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -738,38 +640,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 5,
+   "beat": "a snail on a broad leaf",
+   "subject": "one small snail with an amber shell climbing a single broad, rain-beaded green leaf",
+   "accent": "the snail's amber shell",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.493,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/05.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 42.1,
-    "br": 4.3,
-    "dk": 32.8,
-    "C": 10.1,
-    "fL": 47.0,
-    "fS": 46.4,
-    "qL": 29.7,
-    "qS": 42.4,
-    "dock": 87.8
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/05-2.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 5, take 2)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/05-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 5, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 61824
  },
  {
   "id": "panel-s02-bamboo-06",
@@ -780,9 +676,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 6,
    "panels": 10,
-   "beat": "a moss-roofed gate",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -798,38 +692,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 6,
+   "beat": "a stone stair in the grove",
+   "subject": "a short flight of worn, moss-edged stone steps rising into tall bamboo and pale mist",
+   "accent": "a single amber lamp glow at the top of the steps",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.34,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/06.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 41.8,
-    "br": 4.4,
-    "dk": 36.6,
-    "C": 11.4,
-    "fL": 45.4,
-    "fS": 56.9,
-    "qL": 29.5,
-    "qS": 47.1,
-    "dock": 86.2
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/06-1.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 6, take 1)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/06-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 6, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 232416
  },
  {
   "id": "panel-s02-bamboo-07",
@@ -840,9 +728,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 7,
    "panels": 10,
-   "beat": "the old giant culms",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -858,38 +744,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 7,
+   "beat": "a wooden bench under bamboo",
+   "subject": "one empty weathered wooden bench beneath arching bamboo, rain dripping from the leaves",
+   "accent": "a folded amber cloth on the bench",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.299,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/07.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 42.2,
-    "br": 3.4,
-    "dk": 34.9,
-    "C": 11.6,
-    "fL": 47.3,
-    "fS": 52.1,
-    "qL": 29.2,
-    "qS": 40.6,
-    "dock": 83.5
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/07-5.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 7, take 5)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/07-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 7, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 227864
  },
  {
   "id": "panel-s02-bamboo-08",
@@ -900,9 +780,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 8,
    "panels": 10,
-   "beat": "a fern clearing",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -918,38 +796,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 8,
+   "beat": "amber lanterns at dusk",
+   "subject": "a single round paper lantern glowing amber, hanging from one bamboo stem at blue dusk in light rain",
+   "accent": "the lantern's warm glow",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.403,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/08.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 43.1,
-    "br": 4.1,
-    "dk": 32.2,
-    "C": 11.9,
-    "fL": 48.8,
-    "fS": 46.3,
-    "qL": 29.0,
-    "qS": 43.3,
-    "dock": 86.2
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/08-2.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 8, take 2)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/08-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 8, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 105790
  },
  {
   "id": "panel-s02-bamboo-09",
@@ -960,9 +832,7 @@
   "meta": {
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 9,
    "panels": 10,
-   "beat": "a stream crossing",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -978,38 +848,32 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 9,
+   "beat": "a stream through the bamboo",
+   "subject": "a clear shallow stream running over smooth pebbles between bamboo stems, its surface catching soft light",
+   "accent": "a single amber leaf drifting on the water",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.613,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/09.webp",
    "cropTop": 0,
-   "heroSide": "left",
-   "lab": {
-    "L": 43.8,
-    "br": 3.6,
-    "dk": 29.7,
-    "C": 10.2,
-    "fL": 48.1,
-    "fS": 44.6,
-    "qL": 33.3,
-    "qS": 52.6,
-    "dock": 85.4
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/09-2.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 9, take 2)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/09-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 9, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
    }
-  }
+  },
+  "bytes": 185388
  },
  {
   "id": "panel-s02-bamboo-10",
@@ -1018,11 +882,18 @@
   "w": 1080,
   "h": 1350,
   "meta": {
+   "perch": {
+    "resident": "red-panda",
+    "kind": "fallen mossy log",
+    "x": 0.8,
+    "y": 0.5,
+    "logTop": 0.55,
+    "note": "v3 repaint: log spans x 0.6-1.0, measured on the pick"
+   },
+   "showpiece": true,
    "scroll": "s02-bamboo",
    "scrollName": "Bamboo Path",
-   "panel": 10,
    "panels": 10,
-   "beat": "a fallen log with the red panda",
    "ink": [
     "bamboo green",
     "deep pine",
@@ -1038,46 +909,31 @@
     "#C8432B"
    ],
    "ground": "wet stone path",
-   "light": "amber break in summer rain",
-   "horizon": 0.58,
+   "panel": 10,
+   "beat": "the red panda on a branch",
+   "subject": "one red panda with a ringed tail resting along a mossy branch among bamboo leaves, looking calmly at the viewer",
+   "accent": "the red panda's russet fur",
+   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
+   "horizon": 0.5,
    "quietZone": {
-    "from": 0.6,
+    "from": 0.45,
     "to": 1.0
    },
-   "quietRatio": 1.49,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 Weatherlight",
+   "look": "v3 DL single-subject",
    "master": "docs/art/masters/public/art/panels/s02-bamboo/10.webp",
    "cropTop": 0,
-   "heroSide": "right",
-   "lab": {
-    "L": 41.8,
-    "br": 3.9,
-    "dk": 34.7,
-    "C": 9.5,
-    "fL": 49.0,
-    "fS": 42.9,
-    "qL": 26.2,
-    "qS": 46.4,
-    "dock": 82.8
-   },
+   "noPeople": true,
+   "noText": true,
    "source": {
-    "take": "docs/art/masters/v3-takes/s02/10-2.png",
-    "prompt": "docs/art/v3/first-scroll/prompts.json (scroll s02, panel 10, take 2)",
-    "script": "docs/art/v3/first-scroll/_scripts/panels.py",
+    "take": "docs/art/masters/dl-takes/s02/10-1.png",
+    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 10, take 1)",
+    "script": "docs/art/dl/_scripts/gen_dl.py",
     "size": "1728x2160",
     "seed": null
-   },
-   "perch": {
-    "resident": "red-panda",
-    "kind": "fallen mossy log",
-    "x": 0.8,
-    "y": 0.5,
-    "logTop": 0.55,
-    "note": "v3 repaint: log spans x 0.6-1.0, measured on the pick"
-   },
-   "showpiece": true
-  }
+   }
+  },
+  "bytes": 178514
  }
 ]

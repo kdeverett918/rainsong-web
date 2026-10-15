@@ -34,13 +34,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/01.webp",
-   "cropTop": 145,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-183919-1d3a5d60",
-    "take": "s09-01_00"
+    "take": "docs/art/masters/dl-takes/s09/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)"
-  }
+   "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 100118
  },
  {
   "id": "panel-s09-autumn-maples-02",
@@ -77,13 +83,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/02.webp",
-   "cropTop": 144,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s09-02_01"
+    "take": "docs/art/masters/dl-takes/s09/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s09-autumn-maples panel 1 (style)"
-  }
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 190502
  },
  {
   "id": "panel-s09-autumn-maples-03",
@@ -120,13 +132,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/03.webp",
-   "cropTop": 120,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s09-03_00"
+    "take": "docs/art/masters/dl-takes/s09/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s09-autumn-maples panel 1 (style)"
-  }
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 167676
  },
  {
   "id": "panel-s09-autumn-maples-04",
@@ -163,13 +181,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/04.webp",
-   "cropTop": 123,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s09-04_01"
+    "take": "docs/art/masters/dl-takes/s09/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s09-autumn-maples panel 1 (style)"
-  }
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 178518
  },
  {
   "id": "panel-s09-autumn-maples-05",
@@ -206,13 +230,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/05.webp",
-   "cropTop": 112,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s09-05_01"
+    "take": "docs/art/masters/dl-takes/s09/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s09-autumn-maples panel 1 (style)"
-  }
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 176134
  },
  {
   "id": "panel-s09-autumn-maples-06",
@@ -249,13 +279,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/06.webp",
-   "cropTop": 138,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s09-06_02"
+    "take": "docs/art/masters/dl-takes/s09/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s09-autumn-maples panel 1 (style)"
-  }
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 201638
  },
  {
   "id": "panel-s09-autumn-maples-07",
@@ -292,13 +328,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/07.webp",
-   "cropTop": 130,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s09-07_00"
+    "take": "docs/art/masters/dl-takes/s09/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s09-autumn-maples panel 1 (style)"
-  }
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 118888
  },
  {
   "id": "panel-s09-autumn-maples-08",
@@ -335,13 +377,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/08.webp",
-   "cropTop": 139,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s09-08_01"
+    "take": "docs/art/masters/dl-takes/s09/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s09-autumn-maples panel 1 (style)"
-  }
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 57700
  },
  {
   "id": "panel-s09-autumn-maples-09",
@@ -378,13 +426,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/09.webp",
-   "cropTop": 116,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s09-09_00"
+    "take": "docs/art/masters/dl-takes/s09/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s09-autumn-maples panel 1 (style)"
-  }
+   "refs": "s09-autumn-maples panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 118712
  },
  {
   "id": "panel-s09-autumn-maples-10",
@@ -421,26 +475,32 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s09-autumn-maples/10.webp",
-   "cropTop": 120,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-185255-d4cb12fd",
-    "take": "s09-10b_02"
+    "take": "docs/art/masters/dl-takes/s09/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s09 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
    "perch": {
     "resident": "squirrel",
     "kind": "low mossy tree stump on the bank",
-    "x": 0.76,
-    "y": 0.43,
+    "x": 0.5,
+    "y": 0.3,
     "top": 0.42,
     "xRange": [
      0.63,
      0.88
     ],
-    "note": "flat mossy top; reads as a stump, not visibly hollow (a low stump was chosen so the perch sits near the 45-55% band; the hollow takes stood at ~0.31)"
+    "note": "DL r2: the resident is painted in, centred in the upper third"
    },
-   "showpiece": true
-  }
+   "showpiece": true,
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 231296
  },
  {
   "id": "panel-s10-snow-temple-01",
@@ -477,13 +537,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/01.webp",
-   "cropTop": 117,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-183919-1d3a5d60",
-    "take": "s10-01_00"
+    "take": "docs/art/masters/dl-takes/s10/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)"
-  }
+   "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 142322
  },
  {
   "id": "panel-s10-snow-temple-02",
@@ -520,13 +586,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/02.webp",
-   "cropTop": 89,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s10-02_00"
+    "take": "docs/art/masters/dl-takes/s10/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s10-snow-temple panel 1 (style)"
-  }
+   "refs": "s10-snow-temple panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 139254
  },
  {
   "id": "panel-s10-snow-temple-03",
@@ -563,13 +635,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/03.webp",
-   "cropTop": 131,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s10-03_01"
+    "take": "docs/art/masters/dl-takes/s10/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s10-snow-temple panel 1 (style)"
-  }
+   "refs": "s10-snow-temple panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 83746
  },
  {
   "id": "panel-s10-snow-temple-04",
@@ -606,13 +684,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/04.webp",
-   "cropTop": 67,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s10-04_01"
+    "take": "docs/art/masters/dl-takes/s10/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s10-snow-temple panel 1 (style)"
-  }
+   "refs": "s10-snow-temple panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 211528
  },
  {
   "id": "panel-s10-snow-temple-05",
@@ -649,13 +733,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/05.webp",
-   "cropTop": 118,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s10-05_00"
+    "take": "docs/art/masters/dl-takes/s10/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s10-snow-temple panel 1 (style)"
-  }
+   "refs": "s10-snow-temple panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 104426
  },
  {
   "id": "panel-s10-snow-temple-06",
@@ -692,13 +782,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/06.webp",
-   "cropTop": 114,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s10-06_01"
+    "take": "docs/art/masters/dl-takes/s10/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s10-snow-temple panel 1 (style)"
-  }
+   "refs": "s10-snow-temple panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 78952
  },
  {
   "id": "panel-s10-snow-temple-07",
@@ -735,13 +831,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/07.webp",
-   "cropTop": 104,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s10-07_00"
+    "take": "docs/art/masters/dl-takes/s10/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s10-snow-temple panel 1 (style)"
-  }
+   "refs": "s10-snow-temple panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 149084
  },
  {
   "id": "panel-s10-snow-temple-08",
@@ -778,13 +880,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/08.webp",
-   "cropTop": 118,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s10-08_01"
+    "take": "docs/art/masters/dl-takes/s10/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s10-snow-temple panel 1 (style)"
-  }
+   "refs": "s10-snow-temple panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 97568
  },
  {
   "id": "panel-s10-snow-temple-09",
@@ -821,13 +929,19 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/09.webp",
-   "cropTop": 112,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-184139-b744941d",
-    "take": "s10-09_00"
+    "take": "docs/art/masters/dl-takes/s10/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
-   "refs": "s10-snow-temple panel 1 (style)"
-  }
+   "refs": "s10-snow-temple panel 1 (style)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 82144
  },
  {
   "id": "panel-s10-snow-temple-10",
@@ -864,25 +978,31 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s10-snow-temple/10.webp",
-   "cropTop": 106,
+   "cropTop": 0,
    "source": {
-    "job": "img-20261012-185455-3439b9c9",
-    "take": "s10-10b_00"
+    "take": "docs/art/masters/dl-takes/s10/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s10 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    },
    "refs": "s10-snow-temple panel 1 (style)",
    "perch": {
     "resident": "snow-hare",
     "kind": "low rounded snow-covered rock",
-    "x": 0.73,
-    "y": 0.43,
+    "x": 0.5,
+    "y": 0.3,
     "top": 0.41,
     "xRange": [
      0.5,
      0.95
     ],
-    "note": "highest point of the snow cap near x 0.73; open sky above"
+    "note": "DL r2: the resident is painted in, centred in the upper third"
    },
-   "showpiece": true
-  }
+   "showpiece": true,
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 98888
  }
 ]

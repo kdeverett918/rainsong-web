@@ -31,7 +31,7 @@
    "quietRatio": 0.18,
    "quietAbs": 3.85,
    "lowSat": 28.8,
-   "cropTop": 134,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/01.webp",
@@ -40,8 +40,18 @@
     "/art/panels/s01-first-light/03.webp",
     "/art/panels/s03-tea-hills/01.webp"
    ],
-   "refs": "style refs s01 + s03 panels"
-  }
+   "refs": "style refs s01 + s03 panels",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 163520
  },
  {
   "id": "panel-s05-heron-marsh-02",
@@ -75,13 +85,23 @@
    "quietRatio": 0.249,
    "quietAbs": 4.05,
    "lowSat": 27.9,
-   "cropTop": 119,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/02.webp",
    "take": "s05-p02_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 79420
  },
  {
   "id": "panel-s05-heron-marsh-03",
@@ -115,13 +135,23 @@
    "quietRatio": 0.203,
    "quietAbs": 4.7,
    "lowSat": 30.2,
-   "cropTop": 132,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/03.webp",
    "take": "s05-p03_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 112978
  },
  {
   "id": "panel-s05-heron-marsh-04",
@@ -155,13 +185,23 @@
    "quietRatio": 0.189,
    "quietAbs": 4.42,
    "lowSat": 28.7,
-   "cropTop": 130,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/04.webp",
    "take": "s05-p04_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 117860
  },
  {
   "id": "panel-s05-heron-marsh-05",
@@ -195,13 +235,23 @@
    "quietRatio": 0.198,
    "quietAbs": 4.72,
    "lowSat": 28.3,
-   "cropTop": 140,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/05.webp",
    "take": "s05-p05_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 84946
  },
  {
   "id": "panel-s05-heron-marsh-06",
@@ -235,13 +285,23 @@
    "quietRatio": 0.225,
    "quietAbs": 4.68,
    "lowSat": 26.7,
-   "cropTop": 133,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/06.webp",
    "take": "s05-p06_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 44740
  },
  {
   "id": "panel-s05-heron-marsh-07",
@@ -275,13 +335,23 @@
    "quietRatio": 0.202,
    "quietAbs": 5.03,
    "lowSat": 27.3,
-   "cropTop": 125,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/07.webp",
    "take": "s05-p07_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 83038
  },
  {
   "id": "panel-s05-heron-marsh-08",
@@ -315,13 +385,23 @@
    "quietRatio": 0.194,
    "quietAbs": 4.49,
    "lowSat": 24.4,
-   "cropTop": 89,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/08.webp",
    "take": "s05-p08_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 122964
  },
  {
   "id": "panel-s05-heron-marsh-09",
@@ -355,13 +435,23 @@
    "quietRatio": 0.218,
    "quietAbs": 3.92,
    "lowSat": 23.2,
-   "cropTop": 44,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/09.webp",
    "take": "s05-p09_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 88486
  },
  {
   "id": "panel-s05-heron-marsh-10",
@@ -395,7 +485,7 @@
    "quietRatio": 0.193,
    "quietAbs": 4.05,
    "lowSat": 21.1,
-   "cropTop": 64,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s05-heron-marsh/10.webp",
@@ -403,13 +493,24 @@
    "refs": "previous panel + panel 1",
    "perch": {
     "kind": "driftwood post top",
-    "x": 0.76,
-    "y": 0.444,
+    "x": 0.5,
+    "y": 0.3,
     "xFrom": 0.72,
-    "xTo": 0.8
+    "xTo": 0.8,
+    "note": "DL r2: the resident is painted in, centred in the upper third"
    },
-   "resident": "heron"
-  }
+   "resident": "heron",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s05/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s05 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 62066
  },
  {
   "id": "panel-s06-orchard-01",
@@ -443,7 +544,7 @@
    "quietRatio": 0.236,
    "quietAbs": 3.94,
    "lowSat": 34.8,
-   "cropTop": 104,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/01.webp",
@@ -452,8 +553,18 @@
     "/art/panels/s01-first-light/01.webp",
     "/art/panels/s03-tea-hills/01.webp"
    ],
-   "refs": "style refs s01 + s03 panels"
-  }
+   "refs": "style refs s01 + s03 panels",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 113770
  },
  {
   "id": "panel-s06-orchard-02",
@@ -487,13 +598,23 @@
    "quietRatio": 0.21,
    "quietAbs": 3.77,
    "lowSat": 32.0,
-   "cropTop": 122,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/02.webp",
    "take": "s06-p02_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 136562
  },
  {
   "id": "panel-s06-orchard-03",
@@ -527,13 +648,23 @@
    "quietRatio": 0.222,
    "quietAbs": 4.01,
    "lowSat": 31.4,
-   "cropTop": 122,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/03.webp",
    "take": "s06-p03_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 63578
  },
  {
   "id": "panel-s06-orchard-04",
@@ -567,13 +698,23 @@
    "quietRatio": 0.184,
    "quietAbs": 4.03,
    "lowSat": 32.5,
-   "cropTop": 129,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/04.webp",
    "take": "s06-p04_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 243444
  },
  {
   "id": "panel-s06-orchard-05",
@@ -607,13 +748,23 @@
    "quietRatio": 0.2,
    "quietAbs": 4.8,
    "lowSat": 33.0,
-   "cropTop": 95,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/05.webp",
    "take": "s06-p05_00",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 178136
  },
  {
   "id": "panel-s06-orchard-06",
@@ -647,13 +798,23 @@
    "quietRatio": 0.217,
    "quietAbs": 4.91,
    "lowSat": 31.8,
-   "cropTop": 96,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/06.webp",
    "take": "s06-p06_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 130440
  },
  {
   "id": "panel-s06-orchard-07",
@@ -687,13 +848,23 @@
    "quietRatio": 0.167,
    "quietAbs": 4.11,
    "lowSat": 30.2,
-   "cropTop": 117,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/07.webp",
    "take": "s06-p07_00",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 244056
  },
  {
   "id": "panel-s06-orchard-08",
@@ -727,13 +898,23 @@
    "quietRatio": 0.239,
    "quietAbs": 4.89,
    "lowSat": 32.1,
-   "cropTop": 92,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/08.webp",
    "take": "s06-p08b_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 200390
  },
  {
   "id": "panel-s06-orchard-09",
@@ -767,13 +948,23 @@
    "quietRatio": 0.214,
    "quietAbs": 4.31,
    "lowSat": 32.2,
-   "cropTop": 122,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/09.webp",
    "take": "s06-p09_01",
-   "refs": "previous panel + panel 1"
-  }
+   "refs": "previous panel + panel 1",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 239342
  },
  {
   "id": "panel-s06-orchard-10",
@@ -807,7 +998,7 @@
    "quietRatio": 0.179,
    "quietAbs": 4.21,
    "lowSat": 32.0,
-   "cropTop": 99,
+   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/panels/s06-orchard/10.webp",
@@ -815,13 +1006,24 @@
    "refs": "previous panel + panel 1",
    "perch": {
     "kind": "open grass under the old tree",
-    "x": 0.71,
-    "y": 0.565,
+    "x": 0.5,
+    "y": 0.3,
     "xFrom": 0.62,
     "xTo": 0.8,
-    "clearFrom": 0.42
+    "clearFrom": 0.42,
+    "note": "DL r2: the resident is painted in, centred in the upper third"
    },
-   "resident": "deer"
-  }
+   "resident": "deer",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s06/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s06 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 249718
  }
 ]

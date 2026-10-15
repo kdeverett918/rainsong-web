@@ -35,10 +35,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/01.webp",
-   "cropTop": 93,
+   "cropTop": 0,
    "take": "s07-01m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 141878
  },
  {
   "id": "panel-s07-moon-bridge-02",
@@ -76,11 +86,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/02.webp",
-   "cropTop": 61,
+   "cropTop": 0,
    "take": "s07-02_00",
    "night": "ink washes on cream paper (no black fills)",
-   "note": "the only panel with the moon disc (the beat); moon removed from all other panels so the mounted scroll shows one moon"
-  }
+   "note": "the only panel with the moon disc (the beat); moon removed from all other panels so the mounted scroll shows one moon",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 79176
  },
  {
   "id": "panel-s07-moon-bridge-03",
@@ -118,10 +138,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/03.webp",
-   "cropTop": 18,
+   "cropTop": 0,
    "take": "s07-03m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 158494
  },
  {
   "id": "panel-s07-moon-bridge-04",
@@ -159,10 +189,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/04.webp",
-   "cropTop": 70,
+   "cropTop": 0,
    "take": "s07-04m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 76702
  },
  {
   "id": "panel-s07-moon-bridge-05",
@@ -200,10 +240,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/05.webp",
-   "cropTop": 78,
+   "cropTop": 0,
    "take": "s07-05m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 102214
  },
  {
   "id": "panel-s07-moon-bridge-06",
@@ -241,10 +291,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/06.webp",
-   "cropTop": 66,
+   "cropTop": 0,
    "take": "s07-06m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 104708
  },
  {
   "id": "panel-s07-moon-bridge-07",
@@ -282,10 +342,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/07.webp",
-   "cropTop": 63,
+   "cropTop": 0,
    "take": "s07-07m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 70320
  },
  {
   "id": "panel-s07-moon-bridge-08",
@@ -323,10 +393,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/08.webp",
-   "cropTop": 66,
+   "cropTop": 0,
    "take": "s07-08m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 89322
  },
  {
   "id": "panel-s07-moon-bridge-09",
@@ -364,10 +444,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/09.webp",
-   "cropTop": 58,
+   "cropTop": 0,
    "take": "s07-09f_01",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 83412
  },
  {
   "id": "panel-s07-moon-bridge-10",
@@ -405,19 +495,29 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s07-moon-bridge/10.webp",
-   "cropTop": 70,
+   "cropTop": 0,
    "take": "s07-10m_00",
    "night": "ink washes on cream paper (no black fills)",
    "showpiece": true,
    "perch": {
     "resident": "owl",
     "kind": "horizontal pine bough",
-    "x": 0.8,
-    "y": 0.4,
+    "x": 0.5,
+    "y": 0.3,
     "branchTop": 0.39,
-    "note": "bough runs x 0.30-0.95 at y 0.39-0.41; slightly above the 45-55% band, owl sits on top"
+    "note": "DL r2: the resident is painted in, centred in the upper third"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s07/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s07 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 117276
  },
  {
   "id": "panel-s08-lantern-night-01",
@@ -455,10 +555,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/01.webp",
-   "cropTop": 93,
+   "cropTop": 0,
    "take": "s08-01m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 104218
  },
  {
   "id": "panel-s08-lantern-night-02",
@@ -496,10 +606,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/02.webp",
-   "cropTop": 63,
+   "cropTop": 0,
    "take": "s08-02m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 42542
  },
  {
   "id": "panel-s08-lantern-night-03",
@@ -537,10 +657,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/03.webp",
-   "cropTop": 73,
+   "cropTop": 0,
    "take": "s08-03m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 67846
  },
  {
   "id": "panel-s08-lantern-night-04",
@@ -578,10 +708,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/04.webp",
-   "cropTop": 58,
+   "cropTop": 0,
    "take": "s08-04m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 96994
  },
  {
   "id": "panel-s08-lantern-night-05",
@@ -619,10 +759,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/05.webp",
-   "cropTop": 58,
+   "cropTop": 0,
    "take": "s08-05f_01",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 46722
  },
  {
   "id": "panel-s08-lantern-night-06",
@@ -660,10 +810,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/06.webp",
-   "cropTop": 68,
+   "cropTop": 0,
    "take": "s08-06m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 128418
  },
  {
   "id": "panel-s08-lantern-night-07",
@@ -701,10 +861,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/07.webp",
-   "cropTop": 58,
+   "cropTop": 0,
    "take": "s08-07m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 67822
  },
  {
   "id": "panel-s08-lantern-night-08",
@@ -742,11 +912,21 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/08.webp",
-   "cropTop": 81,
+   "cropTop": 0,
    "take": "s08-08m_00",
    "night": "ink washes on cream paper (no black fills)",
-   "note": "embers read as small sky lanterns and sparks"
-  }
+   "note": "embers read as small sky lanterns and sparks",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 34868
  },
  {
   "id": "panel-s08-lantern-night-09",
@@ -784,10 +964,20 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/09.webp",
-   "cropTop": 63,
+   "cropTop": 0,
    "take": "s08-09m_00",
-   "night": "ink washes on cream paper (no black fills)"
-  }
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 214144
  },
  {
   "id": "panel-s08-lantern-night-10",
@@ -825,18 +1015,28 @@
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "master": "docs/art/masters/public/art/panels/s08-lantern-night/10.webp",
-   "cropTop": 63,
+   "cropTop": 0,
    "take": "s08-10m_00",
    "night": "ink washes on cream paper (no black fills)",
    "showpiece": true,
    "perch": {
     "resident": "fox",
     "kind": "flat-topped garden rock",
-    "x": 0.78,
-    "y": 0.45,
+    "x": 0.5,
+    "y": 0.3,
     "rockTop": 0.425,
-    "note": "rock spans x 0.59-0.98, flat top at 0.425; stone lantern at x 0.88 above it"
+    "note": "DL r2: the resident is painted in, centred in the upper third"
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/s08/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (s08 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 128862
  }
 ]

@@ -27,7 +27,7 @@
    "quietRatio": 0.33,
    "lowBandBusyness": 6.48,
    "lowBandSaturation": 39.3,
-   "cropTop": 30,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/01.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 30..1310 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -35,8 +35,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 45028
  },
  {
   "id": "wander.w03-oasis.02",
@@ -66,7 +76,7 @@
    "quietRatio": 0.314,
    "lowBandBusyness": 7.23,
    "lowBandSaturation": 40.1,
-   "cropTop": 64,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/02.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 64..1344 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -74,8 +84,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 125080
  },
  {
   "id": "wander.w03-oasis.03",
@@ -105,7 +125,7 @@
    "quietRatio": 0.377,
    "lowBandBusyness": 6.89,
    "lowBandSaturation": 38.4,
-   "cropTop": 31,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/03.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -113,8 +133,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 141562
  },
  {
   "id": "wander.w03-oasis.04",
@@ -144,7 +174,7 @@
    "quietRatio": 0.333,
    "lowBandBusyness": 7.18,
    "lowBandSaturation": 40.3,
-   "cropTop": 33,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/04.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 33..1313 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -152,8 +182,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 197222
  },
  {
   "id": "wander.w03-oasis.05",
@@ -183,7 +223,7 @@
    "quietRatio": 0.324,
    "lowBandBusyness": 7.15,
    "lowBandSaturation": 40.5,
-   "cropTop": 18,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/05.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 18..1298 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -191,8 +231,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 117134
  },
  {
   "id": "wander.w03-oasis.06",
@@ -222,7 +272,7 @@
    "quietRatio": 0.362,
    "lowBandBusyness": 7.34,
    "lowBandSaturation": 39.5,
-   "cropTop": 41,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/06.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 41..1321 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -230,8 +280,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 153852
  },
  {
   "id": "wander.w03-oasis.07",
@@ -261,7 +321,7 @@
    "quietRatio": 0.274,
    "lowBandBusyness": 6.93,
    "lowBandSaturation": 39.6,
-   "cropTop": 72,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/07.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 72..1352 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -269,8 +329,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 172610
  },
  {
   "id": "wander.w03-oasis.08",
@@ -300,7 +370,7 @@
    "quietRatio": 0.306,
    "lowBandBusyness": 7.25,
    "lowBandSaturation": 40.4,
-   "cropTop": 72,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/08.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 72..1352 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -308,8 +378,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 71546
  },
  {
   "id": "wander.w03-oasis.09",
@@ -339,7 +419,7 @@
    "quietRatio": 0.307,
    "lowBandBusyness": 6.42,
    "lowBandSaturation": 38.3,
-   "cropTop": 76,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/09.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 76..1356 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -347,8 +427,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 84354
  },
  {
   "id": "wander.w03-oasis.10",
@@ -378,7 +468,7 @@
    "quietRatio": 0.362,
    "lowBandBusyness": 7.72,
    "lowBandSaturation": 40.1,
-   "cropTop": 49,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w03-oasis/10.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 49..1329 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -386,8 +476,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w03-oasis/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w03-oasis 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 134486
  },
  {
   "id": "wander.w04-aurora.01",
@@ -417,7 +517,7 @@
    "quietRatio": 0.345,
    "lowBandBusyness": 5.58,
    "lowBandSaturation": 30.6,
-   "cropTop": 84,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/01.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 84..1364 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -438,8 +538,18 @@
      "panels/s07-moon-bridge/01",
      "panels/s10-snow-temple/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 122002
  },
  {
   "id": "wander.w04-aurora.02",
@@ -469,7 +579,7 @@
    "quietRatio": 0.288,
    "lowBandBusyness": 6.09,
    "lowBandSaturation": 33.5,
-   "cropTop": 98,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/02.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 98..1378 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -490,8 +600,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 102674
  },
  {
   "id": "wander.w04-aurora.03",
@@ -521,7 +641,7 @@
    "quietRatio": 0.266,
    "lowBandBusyness": 5.65,
    "lowBandSaturation": 28.3,
-   "cropTop": 86,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/03.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 86..1366 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -542,8 +662,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 46188
  },
  {
   "id": "wander.w04-aurora.04",
@@ -573,7 +703,7 @@
    "quietRatio": 0.413,
    "lowBandBusyness": 5.64,
    "lowBandSaturation": 33.3,
-   "cropTop": 94,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/04.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 94..1374 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -594,8 +724,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 66706
  },
  {
   "id": "wander.w04-aurora.05",
@@ -625,7 +765,7 @@
    "quietRatio": 0.309,
    "lowBandBusyness": 5.84,
    "lowBandSaturation": 30.5,
-   "cropTop": 92,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/05.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 92..1372 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -646,8 +786,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 49030
  },
  {
   "id": "wander.w04-aurora.06",
@@ -677,7 +827,7 @@
    "quietRatio": 0.308,
    "lowBandBusyness": 5.9,
    "lowBandSaturation": 31.7,
-   "cropTop": 94,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/06.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 94..1374 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -698,8 +848,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 75510
  },
  {
   "id": "wander.w04-aurora.07",
@@ -729,7 +889,7 @@
    "quietRatio": 0.326,
    "lowBandBusyness": 5.67,
    "lowBandSaturation": 30.5,
-   "cropTop": 89,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/07.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 89..1369 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -750,8 +910,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 50010
  },
  {
   "id": "wander.w04-aurora.08",
@@ -781,7 +951,7 @@
    "quietRatio": 0.356,
    "lowBandBusyness": 5.3,
    "lowBandSaturation": 34.2,
-   "cropTop": 96,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/08.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 96..1376 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -802,8 +972,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 92840
  },
  {
   "id": "wander.w04-aurora.09",
@@ -833,7 +1013,7 @@
    "quietRatio": 0.294,
    "lowBandBusyness": 5.85,
    "lowBandSaturation": 30.1,
-   "cropTop": 103,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/09.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 103..1383 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -854,8 +1034,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 51316
  },
  {
   "id": "wander.w04-aurora.10",
@@ -885,7 +1075,7 @@
    "quietRatio": 0.3,
    "lowBandBusyness": 5.49,
    "lowBandSaturation": 30.3,
-   "cropTop": 88,
+   "cropTop": 0,
    "master": "docs/art/masters/wander/w04-aurora/10.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 88..1368 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -906,8 +1096,18 @@
      "wander/w04-aurora/01 (new)",
      "panels/s07-moon-bridge/01"
     ]
+   },
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/w04-aurora/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (w04-aurora 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
    }
-  }
+  },
+  "bytes": 51268
  },
  {
   "id": "seasonal.harvest-moon.01",
@@ -937,7 +1137,7 @@
    "quietRatio": 0.231,
    "lowBandBusyness": 6.46,
    "lowBandSaturation": 44.0,
-   "cropTop": 87,
+   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/01.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 87..1367 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -945,8 +1145,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/harvest-moon/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 121342
  },
  {
   "id": "seasonal.harvest-moon.02",
@@ -976,7 +1186,7 @@
    "quietRatio": 0.329,
    "lowBandBusyness": 7.12,
    "lowBandSaturation": 41.8,
-   "cropTop": 31,
+   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/02.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -984,8 +1194,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/harvest-moon/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 87616
  },
  {
   "id": "seasonal.harvest-moon.03",
@@ -1015,7 +1235,7 @@
    "quietRatio": 0.31,
    "lowBandBusyness": 7.04,
    "lowBandSaturation": 43.0,
-   "cropTop": 38,
+   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/03.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 38..1318 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -1023,8 +1243,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/harvest-moon/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 58548
  },
  {
   "id": "seasonal.harvest-moon.04",
@@ -1054,7 +1284,7 @@
    "quietRatio": 0.277,
    "lowBandBusyness": 6.66,
    "lowBandSaturation": 40.8,
-   "cropTop": 31,
+   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/04.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -1062,8 +1292,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/harvest-moon/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 105428
  },
  {
   "id": "seasonal.harvest-moon.05",
@@ -1132,7 +1372,7 @@
    "quietRatio": 0.344,
    "lowBandBusyness": 7.46,
    "lowBandSaturation": 43.7,
-   "cropTop": 26,
+   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/06.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 26..1306 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -1140,8 +1380,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/harvest-moon/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 101848
  },
  {
   "id": "seasonal.harvest-moon.07",
@@ -1171,7 +1421,7 @@
    "quietRatio": 0.237,
    "lowBandBusyness": 6.79,
    "lowBandSaturation": 43.4,
-   "cropTop": 77,
+   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/07.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 77..1357 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -1179,8 +1429,18 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/harvest-moon/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 124094
  },
  {
   "id": "seasonal.harvest-moon.08",
@@ -1210,7 +1470,7 @@
    "quietRatio": 0.268,
    "lowBandBusyness": 6.38,
    "lowBandSaturation": 43.2,
-   "cropTop": 53,
+   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/08.webp",
    "masterNote": "generator original 1024x1536; in-app = crop y 53..1333 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
@@ -1218,7 +1478,17 @@
    "styleRefs": [
     "panels/s03-tea-hills/01",
     "panels/s01-first-light/06"
-   ]
-  }
+   ],
+   "look": "v3 DL single-subject",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/dl-takes/harvest-moon/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (harvest-moon 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   }
+  },
+  "bytes": 74556
  }
 ]

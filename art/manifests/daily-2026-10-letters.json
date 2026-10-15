@@ -23,8 +23,19 @@
    "quietAbs": 3.01,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
-   "source": "1024x1536"
-  }
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/01-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 01)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 90968
  },
  {
   "id": "daily-2026-10-02",
@@ -49,9 +60,20 @@
    "quietRatio": 0.625,
    "quietAbs": 2.43,
    "group": "daily-2026-10-letters",
-   "cropTop": 32,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/02-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 02)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 81422
  },
  {
   "id": "daily-2026-10-03",
@@ -76,9 +98,20 @@
    "quietRatio": 0.472,
    "quietAbs": 3.31,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/03-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 03)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 48580
  },
  {
   "id": "daily-2026-10-04",
@@ -103,9 +136,20 @@
    "quietRatio": 0.394,
    "quietAbs": 4.67,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/04-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 04)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 185360
  },
  {
   "id": "daily-2026-10-05",
@@ -131,8 +175,19 @@
    "quietAbs": 2.7,
    "group": "daily-2026-10-letters",
    "cropTop": 0,
-   "source": "1024x1536"
-  }
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/05-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 05)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 101392
  },
  {
   "id": "daily-2026-10-06",
@@ -157,9 +212,20 @@
    "quietRatio": 0.316,
    "quietAbs": 2.41,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/06-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 06)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 170368
  },
  {
   "id": "daily-2026-10-07",
@@ -184,9 +250,20 @@
    "quietRatio": 0.62,
    "quietAbs": 3.15,
    "group": "daily-2026-10-letters",
-   "cropTop": 32,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/07-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 07)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 105076
  },
  {
   "id": "daily-2026-10-08",
@@ -211,9 +288,20 @@
    "quietRatio": 0.313,
    "quietAbs": 2.53,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/08-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 08)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 121106
  },
  {
   "id": "daily-2026-10-09",
@@ -238,9 +326,20 @@
    "quietRatio": 0.473,
    "quietAbs": 3.68,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/09-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 09)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 82594
  },
  {
   "id": "daily-2026-10-10",
@@ -265,9 +364,20 @@
    "quietRatio": 0.325,
    "quietAbs": 2.2,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/10-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 10)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 67694
  },
  {
   "id": "daily-2026-10-11",
@@ -292,9 +402,20 @@
    "quietRatio": 0.242,
    "quietAbs": 2.62,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/11-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 11)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 103628
  },
  {
   "id": "daily-2026-10-12",
@@ -319,9 +440,20 @@
    "quietRatio": 0.301,
    "quietAbs": 3.59,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/12-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 12)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 161318
  },
  {
   "id": "daily-2026-10-13",
@@ -346,9 +478,20 @@
    "quietRatio": 0.226,
    "quietAbs": 1.99,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/13-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 13)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 106352
  },
  {
   "id": "daily-2026-10-14",
@@ -373,9 +516,20 @@
    "quietRatio": 0.218,
    "quietAbs": 2.28,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/14-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 14)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 158850
  },
  {
   "id": "daily-2026-10-15",
@@ -400,9 +554,20 @@
    "quietRatio": 0.382,
    "quietAbs": 2.63,
    "group": "daily-2026-10-letters",
-   "cropTop": 32,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/15-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 15)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 118922
  },
  {
   "id": "daily-2026-10-16",
@@ -427,9 +592,20 @@
    "quietRatio": 0.526,
    "quietAbs": 5.04,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/16-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 16)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 174250
  },
  {
   "id": "daily-2026-10-17",
@@ -454,9 +630,20 @@
    "quietRatio": 0.287,
    "quietAbs": 3.13,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/17-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 17)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 127536
  },
  {
   "id": "daily-2026-10-18",
@@ -481,9 +668,20 @@
    "quietRatio": 0.556,
    "quietAbs": 5.17,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/18-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 18)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 135906
  },
  {
   "id": "daily-2026-10-19",
@@ -508,9 +706,20 @@
    "quietRatio": 0.621,
    "quietAbs": 3.26,
    "group": "daily-2026-10-letters",
-   "cropTop": 32,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/19-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 19)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 106182
  },
  {
   "id": "daily-2026-10-20",
@@ -535,9 +744,20 @@
    "quietRatio": 0.328,
    "quietAbs": 4.18,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/20-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 20)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 165154
  },
  {
   "id": "daily-2026-10-21",
@@ -562,9 +782,20 @@
    "quietRatio": 0.379,
    "quietAbs": 4.3,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/21-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 21)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 136680
  },
  {
   "id": "daily-2026-10-22",
@@ -589,9 +820,20 @@
    "quietRatio": 0.434,
    "quietAbs": 4.31,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/22-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 22)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 121708
  },
  {
   "id": "daily-2026-10-23",
@@ -616,9 +858,20 @@
    "quietRatio": 0.301,
    "quietAbs": 2.78,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/23-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 23)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 120198
  },
  {
   "id": "daily-2026-10-24",
@@ -643,9 +896,20 @@
    "quietRatio": 0.71,
    "quietAbs": 2.68,
    "group": "daily-2026-10-letters",
-   "cropTop": 32,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/24-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 24)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 83214
  },
  {
   "id": "daily-2026-10-25",
@@ -670,9 +934,20 @@
    "quietRatio": 0.51,
    "quietAbs": 3.02,
    "group": "daily-2026-10-letters",
-   "cropTop": 32,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/25-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 25)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 137978
  },
  {
   "id": "daily-2026-10-26",
@@ -697,9 +972,20 @@
    "quietRatio": 0.289,
    "quietAbs": 2.39,
    "group": "daily-2026-10-letters",
-   "cropTop": 32,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/26-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 26)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 79482
  },
  {
   "id": "daily-2026-10-27",
@@ -724,9 +1010,20 @@
    "quietRatio": 0.38,
    "quietAbs": 2.25,
    "group": "daily-2026-10-letters",
-   "cropTop": 32,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/27-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 27)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 49622
  },
  {
   "id": "daily-2026-10-28",
@@ -751,9 +1048,20 @@
    "quietRatio": 0.231,
    "quietAbs": 2.47,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/28-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 28)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 80584
  },
  {
   "id": "daily-2026-10-29",
@@ -778,9 +1086,20 @@
    "quietRatio": 0.331,
    "quietAbs": 2.97,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/29-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 29)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 168746
  },
  {
   "id": "daily-2026-10-30",
@@ -805,9 +1124,20 @@
    "quietRatio": 0.491,
    "quietAbs": 3.94,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/30-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 30)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 76848
  },
  {
   "id": "daily-2026-10-31",
@@ -832,9 +1162,20 @@
    "quietRatio": 0.507,
    "quietAbs": 4.26,
    "group": "daily-2026-10-letters",
-   "cropTop": 128,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/daily10/31-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (daily10 31)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 97132
  },
  {
   "id": "letter-thinking-of-you",
@@ -859,9 +1200,20 @@
    "quietRatio": 0.581,
    "quietAbs": 2.56,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/thinking-of-you-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters thinking-of-you)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 72162
  },
  {
   "id": "letter-thank-you",
@@ -886,9 +1238,20 @@
    "quietRatio": 0.706,
    "quietAbs": 2.32,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/thank-you-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters thank-you)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 95690
  },
  {
   "id": "letter-celebrate",
@@ -913,9 +1276,20 @@
    "quietRatio": 0.217,
    "quietAbs": 1.48,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/celebrate-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters celebrate)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 95818
  },
  {
   "id": "letter-good-morning",
@@ -940,9 +1314,20 @@
    "quietRatio": 0.489,
    "quietAbs": 3.09,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/good-morning-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters good-morning)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 92132
  },
  {
   "id": "letter-good-night",
@@ -967,9 +1352,20 @@
    "quietRatio": 0.413,
    "quietAbs": 3.12,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/good-night-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters good-night)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 112822
  },
  {
   "id": "letter-missing-you",
@@ -994,9 +1390,20 @@
    "quietRatio": 0.462,
    "quietAbs": 1.86,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/missing-you-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters missing-you)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 51582
  },
  {
   "id": "letter-together",
@@ -1021,9 +1428,20 @@
    "quietRatio": 0.553,
    "quietAbs": 3.69,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/together-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters together)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 99296
  },
  {
   "id": "letter-well-done",
@@ -1048,9 +1466,20 @@
    "quietRatio": 0.384,
    "quietAbs": 1.87,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/well-done-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters well-done)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 50082
  },
  {
   "id": "letter-spring-hello",
@@ -1075,9 +1504,20 @@
    "quietRatio": 0.213,
    "quietAbs": 1.38,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/spring-hello-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters spring-hello)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 67006
  },
  {
   "id": "letter-winter-hello",
@@ -1102,9 +1542,20 @@
    "quietRatio": 0.392,
    "quietAbs": 3.35,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/winter-hello-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters winter-hello)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 163350
  },
  {
   "id": "letter-just-because",
@@ -1129,9 +1580,20 @@
    "quietRatio": 0.411,
    "quietAbs": 2.54,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/just-because-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters just-because)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 68470
  },
  {
   "id": "letter-for-mom",
@@ -1156,8 +1618,19 @@
    "quietRatio": 0.136,
    "quietAbs": 1.45,
    "group": "daily-2026-10-letters",
-   "cropTop": 16,
-   "source": "1024x1536"
-  }
+   "cropTop": 0,
+   "source": {
+    "take": "docs/art/masters/dl-takes/letters/for-mom-1.png",
+    "prompt": "docs/art/dl/prompts-r2.json (letters for-mom)",
+    "script": "docs/art/dl/_scripts/gen_dl2.py",
+    "size": "1728x2160"
+   },
+   "look": "v3 DL single-subject",
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 138796
  }
 ]
