@@ -2,74 +2,103 @@
  {
   "id": "bed-s01",
   "file": "/audio/beds/bed-s01.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -10.4
+  "peak": -10.4,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
  },
  {
   "id": "bed-s02",
   "file": "/audio/beds/bed-s02.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -27.9,
-  "peak": -9.6
+  "peak": -9.6,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
  },
  {
   "id": "bed-s03",
   "file": "/audio/beds/bed-s03.m4a",
-  "gain": 1.0,
+  "gain": 0.15,
   "loop": true,
   "lufs": -27.5,
-  "peak": -7.9
+  "peak": -7.9,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
  },
  {
   "id": "bed-s04",
   "file": "/audio/beds/bed-s04.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -27.5,
-  "peak": -8.2
+  "peak": -8.2,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
  },
  {
   "id": "bed-tray",
   "file": "/audio/beds/bed-tray.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -8.5
+  "peak": -8.5,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
  },
  {
   "id": "bed-daily",
   "file": "/audio/beds/bed-daily.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -27.9,
-  "peak": -8.8
+  "peak": -8.8,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
  },
  {
   "id": "bed-rain-paper",
   "file": "/audio/beds/bed-rain-paper.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -27.5,
-  "peak": -7.6
+  "peak": -7.6,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
  },
  {
   "id": "bed-night-crickets",
   "file": "/audio/beds/bed-night-crickets.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -17.8
+  "peak": -17.8,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
  },
  {
   "id": "bed-creek",
   "file": "/audio/beds/bed-creek.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -27.8,
-  "peak": -9.7
+  "peak": -9.7,
+  "note": "calm ambience 2026-10-16: earned picker texture only, about -42 LUFS in-app (14 dB under its old level)"
+ },
+ {
+  "id": "bed-calm-day",
+  "file": "/audio/beds/bed-calm-day.m4a",
+  "gain": 0.32,
+  "loop": true,
+  "xfade": 4,
+  "lufs": -28.1,
+  "peak": -13.7,
+  "note": "calm ambience 2026-10-16: default bed 06:00-20:00. ElevenLabs music_v2_5 (el-day-3: soft pads, slow felt piano, quiet harp, no percussion, no vocals). gain 0.32 = -38 LUFS in-app"
+ },
+ {
+  "id": "bed-calm-night",
+  "file": "/audio/beds/bed-calm-night.m4a",
+  "gain": 0.28,
+  "loop": true,
+  "xfade": 4,
+  "lufs": -28.1,
+  "peak": -13.8,
+  "note": "calm ambience 2026-10-16: default bed 20:00-06:00 and the Harvest Moon. ElevenLabs music_v2_5 (el-night-2: warm pad drone, slow chords, a hush of rain). gain 0.28 = -39 LUFS in-app"
  },
  {
   "id": "pad-dawn",

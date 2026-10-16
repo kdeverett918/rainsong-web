@@ -2,66 +2,74 @@
  {
   "id": "bed-s05",
   "file": "/audio/beds/bed-s05.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -9.1
+  "peak": -9.1,
+  "note": "calm ambience 2026-10-16: not played by default; about -42 LUFS in-app if a later picker uses it"
  },
  {
   "id": "bed-s06",
   "file": "/audio/beds/bed-s06.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -7.2
+  "peak": -7.2,
+  "note": "calm ambience 2026-10-16: not played by default; about -42 LUFS in-app if a later picker uses it"
  },
  {
   "id": "bed-s07",
   "file": "/audio/beds/bed-s07.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -9.1
+  "peak": -9.1,
+  "note": "calm ambience 2026-10-16: not played by default; about -42 LUFS in-app if a later picker uses it"
  },
  {
   "id": "bed-s08",
   "file": "/audio/beds/bed-s08.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -9.9
+  "peak": -9.9,
+  "note": "calm ambience 2026-10-16: not played by default; about -42 LUFS in-app if a later picker uses it"
  },
  {
   "id": "bed-s09",
   "file": "/audio/beds/bed-s09.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.0,
-  "peak": -8.8
+  "peak": -8.8,
+  "note": "calm ambience 2026-10-16: not played by default; about -42 LUFS in-app if a later picker uses it"
  },
  {
   "id": "bed-s10",
   "file": "/audio/beds/bed-s10.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -9.0
+  "peak": -9.0,
+  "note": "calm ambience 2026-10-16: not played by default; about -42 LUFS in-app if a later picker uses it"
  },
  {
   "id": "bed-s11",
   "file": "/audio/beds/bed-s11.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.1,
-  "peak": -9.6
+  "peak": -9.6,
+  "note": "calm ambience 2026-10-16: not played by default; about -42 LUFS in-app if a later picker uses it"
  },
  {
   "id": "bed-s12",
   "file": "/audio/beds/bed-s12.m4a",
-  "gain": 1.0,
+  "gain": 0.2,
   "loop": true,
   "lufs": -28.0,
-  "peak": -9.9
+  "peak": -9.9,
+  "note": "calm ambience 2026-10-16: not played by default; about -42 LUFS in-app if a later picker uses it"
  },
  {
   "id": "pad-ceremony-C",
