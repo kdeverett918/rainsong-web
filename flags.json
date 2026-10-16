@@ -1,7 +1,14 @@
 {
-  "flags_version": "2026-10-15-c14",
+  "flags_version": "2026-10-16-ads-safety",
   "flags": {
     "web_doorway": true,
-    "web_free_boards": 1
+    "web_free_boards": 1,
+    "app_open_enabled": false,
+    "app_open_cold": false,
+    "ivs_from_board": 15,
+    "ivs_gap_s": 120,
+    "ivs_gap_t23_s": 120,
+    "ivs_daily_cap": 8,
+    "banner_board_from": 15
   }
 }
