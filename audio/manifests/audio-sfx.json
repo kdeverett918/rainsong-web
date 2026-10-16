@@ -1,90 +1,5 @@
 [
  {
-  "id": "bowl-small",
-  "file": "/audio/sfx/bowl-small.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -18.9,
-  "peak": -8.1,
-  "durationS": 2.424,
-  "basePitchHz": 960.0,
-  "pitchSpreadCents": 3.5
- },
- {
-  "id": "bowl-medium",
-  "file": "/audio/sfx/bowl-medium.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -18.6,
-  "peak": -7.9,
-  "durationS": 2.998,
-  "basePitchHz": 784.28,
-  "pitchSpreadCents": 15.6
- },
- {
-  "id": "bowl-large",
-  "file": "/audio/sfx/bowl-large.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -22.0,
-  "peak": -6.5,
-  "durationS": 2.594,
-  "basePitchHz": 298.91,
-  "pitchSpreadCents": 6.2
- },
- {
-  "id": "bowl-large-deep",
-  "file": "/audio/sfx/bowl-large-deep.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -22.4,
-  "peak": -8.1,
-  "durationS": 2.903,
-  "basePitchHz": 238.62,
-  "pitchSpreadCents": 5.1
- },
- {
-  "id": "bowl-large-2",
-  "file": "/audio/sfx/bowl-large-2.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -15.3,
-  "peak": -8.0,
-  "durationS": 2.754,
-  "basePitchHz": 298.91,
-  "pitchSpreadCents": 6.9
- },
- {
-  "id": "tok-1",
-  "file": "/audio/sfx/tok-1.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -29.3,
-  "peak": -7.9,
-  "durationS": 0.139,
-  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
- },
- {
-  "id": "tok-2",
-  "file": "/audio/sfx/tok-2.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -28.2,
-  "peak": -6.8,
-  "durationS": 0.109,
-  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
- },
- {
-  "id": "tok-3",
-  "file": "/audio/sfx/tok-3.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -28.2,
-  "peak": -7.9,
-  "durationS": 0.074,
-  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
- },
- {
   "id": "paper-rustle-1",
   "file": "/audio/sfx/paper-rustle-1.m4a",
   "gain": 0.631,
@@ -162,16 +77,6 @@
   "durationS": 1.995
  },
  {
-  "id": "blocked-hum",
-  "file": "/audio/sfx/blocked-hum.m4a",
-  "gain": 0.832,
-  "loop": false,
-  "lufs": -30.4,
-  "peak": -8.0,
-  "durationS": 0.338,
-  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
- },
- {
   "id": "tray-drop-1",
   "file": "/audio/sfx/tray-drop-1.m4a",
   "gain": 0.881,
@@ -227,15 +132,6 @@
   "lufs": -26.4,
   "peak": -8.0,
   "durationS": 0.868
- },
- {
-  "id": "wax-press",
-  "file": "/audio/sfx/wax-press.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -36.2,
-  "peak": -7.9,
-  "durationS": 0.918
  },
  {
   "id": "page-turn-1",
@@ -294,25 +190,6 @@
   "lufs": -26.7,
   "peak": -7.3,
   "durationS": 0.863
- },
- {
-  "id": "shuffle",
-  "file": "/audio/sfx/shuffle.m4a",
-  "gain": 1.0,
-  "loop": false,
-  "lufs": -33.8,
-  "peak": -8.0,
-  "durationS": 0.688
- },
- {
-  "id": "undo",
-  "file": "/audio/sfx/undo.m4a",
-  "gain": 0.661,
-  "loop": false,
-  "lufs": -28.4,
-  "peak": -8.1,
-  "durationS": 0.479,
-  "lufsNote": "short clip: integrated measured with silence padding to 1 s"
  },
  {
   "id": "unroll",
