@@ -10,14 +10,13 @@
    "title": "Oasis at Dusk",
    "panel": 1,
    "panels": 10,
-   "beat": "dunes",
+   "beat": "the sun",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "low golden afternoon sun, strong shadows",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -25,30 +24,25 @@
     "to": 1.0
    },
    "quietRatio": 0.33,
-   "lowBandBusyness": 6.48,
-   "lowBandSaturation": 39.3,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/01.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 30..1310 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "sweeping sand dunes with sharp sunlit ridges",
-   "scale": "wide"
+   "subject": "the sun",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 148566
+  "bytes": 46516
  },
  {
   "id": "wander.w03-oasis.02",
@@ -61,14 +55,13 @@
    "title": "Oasis at Dusk",
    "panel": 2,
    "panels": 10,
-   "beat": "a palm grove",
+   "beat": "the reeds",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "hot bright midday light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -76,30 +69,25 @@
     "to": 1.0
    },
    "quietRatio": 0.314,
-   "lowBandBusyness": 7.23,
-   "lowBandSaturation": 40.1,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/02.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 64..1344 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a grove of tall palms around the oasis",
-   "scale": "mid"
+   "subject": "the reeds",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 235460
+  "bytes": 98822
  },
  {
   "id": "wander.w03-oasis.03",
@@ -112,14 +100,13 @@
    "title": "Oasis at Dusk",
    "panel": 3,
    "panels": 10,
-   "beat": "a still pool",
+   "beat": "the water lily",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "soft rose dusk",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -127,30 +114,25 @@
     "to": 1.0
    },
    "quietRatio": 0.377,
-   "lowBandBusyness": 6.89,
-   "lowBandSaturation": 38.4,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/03.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a still turquoise pool reflecting palms",
-   "scale": "mid"
+   "subject": "the water lily",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 187772
+  "bytes": 85012
  },
  {
   "id": "wander.w03-oasis.04",
@@ -163,14 +145,13 @@
    "title": "Oasis at Dusk",
    "panel": 4,
    "panels": 10,
-   "beat": "a clay wall with a window",
+   "beat": "the birds",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "warm late sun on the clay",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -178,30 +159,25 @@
     "to": 1.0
    },
    "quietRatio": 0.333,
-   "lowBandBusyness": 7.18,
-   "lowBandSaturation": 40.3,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/04.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 33..1313 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a clay wall with a small arched blue-shuttered window",
-   "scale": "close"
+   "subject": "the birds",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 182396
+  "bytes": 39164
  },
  {
   "id": "wander.w03-oasis.05",
@@ -214,14 +190,13 @@
    "title": "Oasis at Dusk",
    "panel": 5,
    "panels": 10,
-   "beat": "lanterns",
+   "beat": "the palms",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "violet dusk",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -229,30 +204,25 @@
     "to": 1.0
    },
    "quietRatio": 0.324,
-   "lowBandBusyness": 7.15,
-   "lowBandSaturation": 40.5,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/05.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 18..1298 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "brass lanterns with pierced patterns glowing on a clay step",
-   "scale": "close"
+   "subject": "the palms",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 140644
+  "bytes": 76196
  },
  {
   "id": "wander.w03-oasis.06",
@@ -265,14 +235,13 @@
    "title": "Oasis at Dusk",
    "panel": 6,
    "panels": 10,
-   "beat": "camels' tracks (no people)",
+   "beat": "the camels",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "early morning rose light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -280,30 +249,25 @@
     "to": 1.0
    },
    "quietRatio": 0.362,
-   "lowBandBusyness": 7.34,
-   "lowBandSaturation": 39.5,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/06.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 41..1321 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a line of animal tracks crossing a dune",
-   "scale": "wide"
+   "subject": "the camels",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 120552
+  "bytes": 73930
  },
  {
   "id": "wander.w03-oasis.07",
@@ -316,14 +280,13 @@
    "title": "Oasis at Dusk",
    "panel": 7,
    "panels": 10,
-   "beat": "date palms",
+   "beat": "the well",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "bright afternoon sun",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -331,30 +294,25 @@
     "to": 1.0
    },
    "quietRatio": 0.274,
-   "lowBandBusyness": 6.93,
-   "lowBandSaturation": 39.6,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/07.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 72..1352 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "heavy golden clusters of dates hanging from a palm",
-   "scale": "close"
+   "subject": "the well",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 193466
+  "bytes": 87236
  },
  {
   "id": "wander.w03-oasis.08",
@@ -367,14 +325,13 @@
    "title": "Oasis at Dusk",
    "panel": 8,
    "panels": 10,
-   "beat": "stars appearing",
+   "beat": "the moon",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "deep violet twilight",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -382,30 +339,25 @@
     "to": 1.0
    },
    "quietRatio": 0.306,
-   "lowBandBusyness": 7.25,
-   "lowBandSaturation": 40.4,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/08.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 72..1352 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "the first stars over the dunes",
-   "scale": "wide"
+   "subject": "the moon",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 102074
+  "bytes": 72360
  },
  {
   "id": "wander.w03-oasis.09",
@@ -418,14 +370,13 @@
    "title": "Oasis at Dusk",
    "panel": 9,
    "panels": 10,
-   "beat": "a small boat on the pool",
+   "beat": "the evening star",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "warm evening light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -433,30 +384,25 @@
     "to": 1.0
    },
    "quietRatio": 0.307,
-   "lowBandBusyness": 6.42,
-   "lowBandSaturation": 38.3,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/09.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 76..1356 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small wooden boat resting at the edge of the pool",
-   "scale": "mid"
+   "subject": "the evening star",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 176610
+  "bytes": 82528
  },
  {
   "id": "wander.w03-oasis.10",
@@ -469,14 +415,13 @@
    "title": "Oasis at Dusk",
    "panel": 10,
    "panels": 10,
-   "beat": "a moonrise",
+   "beat": "the palm shade",
    "ink": [
     "terracotta",
     "teal",
     "violet"
    ],
    "ground": "smooth pale sand and a still pool",
-   "light": "night",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -484,30 +429,25 @@
     "to": 1.0
    },
    "quietRatio": 0.362,
-   "lowBandBusyness": 7.72,
-   "lowBandSaturation": 40.1,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w03-oasis/10.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 49..1329 upscaled to 1080x1350",
+   "master": "scrolls/w03-oasis/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w03/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w03 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w03-oasis/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a huge orange moon rising over the dunes",
-   "scale": "wide"
+   "subject": "the palm shade",
+   "master_file": "docs/art/puzzle/w03-oasis/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w03-oasis/r3/spec-r3.json"
   },
-  "bytes": 92272
+  "bytes": 112164
  },
  {
   "id": "wander.w04-aurora.01",
@@ -520,14 +460,13 @@
    "title": "Aurora Lake",
    "panel": 1,
    "panels": 10,
-   "beat": "spruce shore",
+   "beat": "the stars",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "night, aurora glow",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -535,18 +474,9 @@
     "to": 1.0
    },
    "quietRatio": 0.345,
-   "lowBandBusyness": 5.58,
-   "lowBandSaturation": 30.6,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/01.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 84..1364 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur01_03",
    "upperBandSaturation": 53.5,
    "regen": {
     "by": "wave34 launch gate",
@@ -559,19 +489,22 @@
      "panels/s10-snow-temple/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a dark shore of snowy spruce trees under green aurora",
-   "scale": "wide"
+   "subject": "the stars",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 100526
+  "bytes": 56734
  },
  {
   "id": "wander.w04-aurora.02",
@@ -584,14 +517,13 @@
    "title": "Aurora Lake",
    "panel": 2,
    "panels": 10,
-   "beat": "a cabin with a warm window",
+   "beat": "the reeds",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "blue night, warm window",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -599,18 +531,9 @@
     "to": 1.0
    },
    "quietRatio": 0.288,
-   "lowBandBusyness": 6.09,
-   "lowBandSaturation": 33.5,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/02.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 98..1378 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur02_01",
    "upperBandSaturation": 59.0,
    "regen": {
     "by": "wave34 launch gate",
@@ -623,19 +546,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small log cabin with a warm glowing window in deep snow",
-   "scale": "mid"
+   "subject": "the reeds",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 134656
+  "bytes": 81284
  },
  {
   "id": "wander.w04-aurora.03",
@@ -648,14 +574,13 @@
    "title": "Aurora Lake",
    "panel": 3,
    "panels": 10,
-   "beat": "aurora ribbons",
+   "beat": "the ripples",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "night",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -663,18 +588,9 @@
     "to": 1.0
    },
    "quietRatio": 0.266,
-   "lowBandBusyness": 5.65,
-   "lowBandSaturation": 28.3,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/03.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 86..1366 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur03_00",
    "upperBandSaturation": 55.7,
    "regen": {
     "by": "wave34 launch gate",
@@ -687,19 +603,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "wide ribbons of green and violet aurora across a starry sky",
-   "scale": "wide"
+   "subject": "the ripples",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 91226
+  "bytes": 56212
  },
  {
   "id": "wander.w04-aurora.04",
@@ -712,14 +631,13 @@
    "title": "Aurora Lake",
    "panel": 4,
    "panels": 10,
-   "beat": "a canoe",
+   "beat": "the peak",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "dim blue twilight",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -727,18 +645,9 @@
     "to": 1.0
    },
    "quietRatio": 0.413,
-   "lowBandBusyness": 5.64,
-   "lowBandSaturation": 33.3,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/04.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 94..1374 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur04_01",
    "upperBandSaturation": 58.1,
    "regen": {
     "by": "wave34 launch gate",
@@ -751,19 +660,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a red canoe resting upside down on snow",
-   "scale": "close"
+   "subject": "the peak",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 108802
+  "bytes": 49050
  },
  {
   "id": "wander.w04-aurora.05",
@@ -776,14 +688,13 @@
    "title": "Aurora Lake",
    "panel": 5,
    "panels": 10,
-   "beat": "a loon on water",
+   "beat": "the aurora",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "soft blue dawn",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -791,18 +702,9 @@
     "to": 1.0
    },
    "quietRatio": 0.309,
-   "lowBandBusyness": 5.84,
-   "lowBandSaturation": 30.5,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/05.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 92..1372 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur05_01",
    "upperBandSaturation": 58.7,
    "regen": {
     "by": "wave34 launch gate",
@@ -815,19 +717,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a loon floating on a dark open lead of water",
-   "scale": "mid"
+   "subject": "the aurora",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 101936
+  "bytes": 44652
  },
  {
   "id": "wander.w04-aurora.06",
@@ -840,14 +745,13 @@
    "title": "Aurora Lake",
    "panel": 6,
    "panels": 10,
-   "beat": "snowy rocks",
+   "beat": "the stones",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "pale pink dawn light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -855,18 +759,9 @@
     "to": 1.0
    },
    "quietRatio": 0.308,
-   "lowBandBusyness": 5.9,
-   "lowBandSaturation": 31.7,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/06.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 94..1374 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur06_00",
    "upperBandSaturation": 59.7,
    "regen": {
     "by": "wave34 launch gate",
@@ -879,19 +774,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "snow-capped rocks along an icy shore",
-   "scale": "mid"
+   "subject": "the stones",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 159100
+  "bytes": 61306
  },
  {
   "id": "wander.w04-aurora.07",
@@ -904,14 +802,13 @@
    "title": "Aurora Lake",
    "panel": 7,
    "panels": 10,
-   "beat": "reflections",
+   "beat": "the cabin",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "night",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -919,18 +816,9 @@
     "to": 1.0
    },
    "quietRatio": 0.326,
-   "lowBandBusyness": 5.67,
-   "lowBandSaturation": 30.5,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/07.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 89..1369 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur07_00",
    "upperBandSaturation": 58.3,
    "regen": {
     "by": "wave34 launch gate",
@@ -943,19 +831,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "the aurora reflected in a dark calm lake between snowy banks",
-   "scale": "wide"
+   "subject": "the cabin",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 101780
+  "bytes": 61710
  },
  {
   "id": "wander.w04-aurora.08",
@@ -968,14 +859,13 @@
    "title": "Aurora Lake",
    "panel": 8,
    "panels": 10,
-   "beat": "a frozen inlet",
+   "beat": "the moon",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "cold clear morning light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -983,18 +873,9 @@
     "to": 1.0
    },
    "quietRatio": 0.356,
-   "lowBandBusyness": 5.3,
-   "lowBandSaturation": 34.2,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/08.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 96..1376 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur08_01",
    "upperBandSaturation": 60.7,
    "regen": {
     "by": "wave34 launch gate",
@@ -1007,19 +888,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a frozen inlet with cracks of blue ice",
-   "scale": "wide"
+   "subject": "the moon",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 133944
+  "bytes": 49918
  },
  {
   "id": "wander.w04-aurora.09",
@@ -1032,14 +916,13 @@
    "title": "Aurora Lake",
    "panel": 9,
    "panels": 10,
-   "beat": "a far mountain",
+   "beat": "the pines",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "night, faint aurora",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1047,18 +930,9 @@
     "to": 1.0
    },
    "quietRatio": 0.294,
-   "lowBandBusyness": 5.85,
-   "lowBandSaturation": 30.1,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/09.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 103..1383 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur09_00",
    "upperBandSaturation": 57.9,
    "regen": {
     "by": "wave34 launch gate",
@@ -1071,19 +945,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a far snowy mountain under a starry sky",
-   "scale": "wide"
+   "subject": "the pines",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 98252
+  "bytes": 57404
  },
  {
   "id": "wander.w04-aurora.10",
@@ -1096,14 +973,13 @@
    "title": "Aurora Lake",
    "panel": 10,
    "panels": 10,
-   "beat": "the aurora's peak",
+   "beat": "the snow bank",
    "ink": [
     "spruce green",
     "magenta",
     "deep blue"
    ],
    "ground": "still lake water",
-   "light": "night",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1111,18 +987,9 @@
     "to": 1.0
    },
    "quietRatio": 0.3,
-   "lowBandBusyness": 5.49,
-   "lowBandSaturation": 30.3,
-   "cropTop": 0,
-   "master": "docs/art/masters/wander/w04-aurora/10.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 88..1368 upscaled to 1080x1350",
+   "master": "scrolls/w04-aurora/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "take": "aur10_01",
    "upperBandSaturation": 53.9,
    "regen": {
     "by": "wave34 launch gate",
@@ -1135,19 +1002,22 @@
      "panels/s07-moon-bridge/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w04/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w04 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w04-aurora/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a spiralling crown of aurora directly overhead",
-   "scale": "wide"
+   "subject": "the snow bank",
+   "master_file": "docs/art/puzzle/w04-aurora/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w04-aurora/f1/spec-f1.json"
   },
-  "bytes": 94886
+  "bytes": 61278
  },
  {
   "id": "seasonal.harvest-moon.01",
@@ -1174,31 +1044,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.231,
    "lowBandBusyness": 6.46,
    "lowBandSaturation": 44.0,
-   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/01.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 87..1367 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/harvest/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (harvest 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/seasonal_harvest-moon_01.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (seasonal_harvest-moon_01)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "subject": "silver pampas grass plumes against a huge rising moon",
-   "scale": "close"
+   "subject": "silver pampas grass plumes against a huge rising moon"
   },
-  "bytes": 183498
+  "bytes": 88684
  },
  {
   "id": "seasonal.harvest-moon.02",
@@ -1225,31 +1086,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.329,
    "lowBandBusyness": 7.12,
    "lowBandSaturation": 41.8,
-   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/02.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/harvest/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (harvest 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/seasonal_harvest-moon_02.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (seasonal_harvest-moon_02)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "subject": "golden rice sheaves hung to dry on wooden racks",
-   "scale": "mid"
+   "subject": "golden rice sheaves hung to dry on wooden racks"
   },
-  "bytes": 233664
+  "bytes": 86210
  },
  {
   "id": "seasonal.harvest-moon.03",
@@ -1276,31 +1128,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.31,
    "lowBandBusyness": 7.04,
    "lowBandSaturation": 43.0,
-   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/03.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 38..1318 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/harvest/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (harvest 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/seasonal_harvest-moon_03.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (seasonal_harvest-moon_03)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "subject": "a soft cloud drifting past a bright full moon",
-   "scale": "wide"
+   "subject": "a soft cloud drifting past a bright full moon"
   },
-  "bytes": 86770
+  "bytes": 51232
  },
  {
   "id": "seasonal.harvest-moon.04",
@@ -1327,31 +1170,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.277,
    "lowBandBusyness": 6.66,
    "lowBandSaturation": 40.8,
-   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/04.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 31..1311 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/harvest/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (harvest 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/seasonal_harvest-moon_04.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (seasonal_harvest-moon_04)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "subject": "a tray of round white rice dumplings on a wooden veranda with a vase of pampas",
-   "scale": "close"
+   "subject": "a tray of round white rice dumplings on a wooden veranda with a vase of pampas"
   },
-  "bytes": 129380
+  "bytes": 81954
  },
  {
   "id": "seasonal.harvest-moon.05",
@@ -1378,31 +1212,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.257,
    "lowBandBusyness": 7.25,
    "lowBandSaturation": 44.4,
-   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/05.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 26..1306 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a persimmon tree heavy with glowing orange fruit, leaves fallen",
-   "scale": "mid",
    "source": {
-    "take": "docs/art/masters/dl3-takes/harvest/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (harvest 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/seasonal_harvest-moon_05.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (seasonal_harvest-moon_05)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    }
   },
-  "bytes": 215750
+  "bytes": 91214
  },
  {
   "id": "seasonal.harvest-moon.06",
@@ -1429,31 +1254,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.344,
    "lowBandBusyness": 7.46,
    "lowBandSaturation": 43.7,
-   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/06.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 26..1306 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/harvest/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (harvest 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/seasonal_harvest-moon_06.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (seasonal_harvest-moon_06)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "subject": "the full moon reflected in a slow river between dark fields",
-   "scale": "wide"
+   "subject": "the full moon reflected in a slow river between dark fields"
   },
-  "bytes": 122052
+  "bytes": 67674
  },
  {
   "id": "seasonal.harvest-moon.07",
@@ -1480,31 +1296,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.237,
    "lowBandBusyness": 6.79,
    "lowBandSaturation": 43.4,
-   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/07.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 77..1357 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/harvest/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (harvest 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/seasonal_harvest-moon_07.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (seasonal_harvest-moon_07)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "subject": "small lanterns lighting a path through a harvested field",
-   "scale": "wide"
+   "subject": "small lanterns lighting a path through a harvested field"
   },
-  "bytes": 161098
+  "bytes": 70006
  },
  {
   "id": "seasonal.harvest-moon.08",
@@ -1531,30 +1338,21 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.268,
    "lowBandBusyness": 6.38,
    "lowBandSaturation": 43.2,
-   "cropTop": 0,
    "master": "docs/art/masters/seasonal/harvest-moon/08.webp",
-   "masterNote": "generator original 1024x1536; in-app = crop y 53..1333 upscaled to 1080x1350",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "styleRefs": [
-    "panels/s03-tea-hills/01",
-    "panels/s01-first-light/06"
-   ],
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/harvest/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (harvest 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/seasonal_harvest-moon_08.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (seasonal_harvest-moon_08)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "subject": "an enormous golden full moon over rolling hills",
-   "scale": "wide"
+   "subject": "an enormous golden full moon over rolling hills"
   },
-  "bytes": 93154
+  "bytes": 76094
  }
 ]

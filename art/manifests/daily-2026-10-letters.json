@@ -19,27 +19,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.458,
-   "quietAbs": 3.01,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_01.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_01)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a branch of ripe orange persimmons",
    "light": "soft bright morning light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 211074
+  "bytes": 75362
  },
  {
   "id": "daily-2026-10-02",
@@ -61,27 +56,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.625,
-   "quietAbs": 2.43,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_02.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_02)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a celadon teacup with a curl of steam resting on a flat mossy stone at the edge of a pond, two red maple leaves beside it",
    "light": "soft warm morning light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 214836
+  "bytes": 88388
  },
  {
   "id": "daily-2026-10-03",
@@ -103,27 +93,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.472,
-   "quietAbs": 3.31,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_03.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_03)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "one red maple leaf floating on still water, its reflection beneath it",
    "light": "soft dappled light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 182630
+  "bytes": 58192
  },
  {
   "id": "daily-2026-10-04",
@@ -145,27 +130,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.394,
-   "quietAbs": 4.67,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_04.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_04)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "one round orange pumpkin sitting on an old mossy stone wall",
    "light": "warm late-afternoon light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 307198
+  "bytes": 79184
  },
  {
   "id": "daily-2026-10-05",
@@ -187,27 +167,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.357,
-   "quietAbs": 2.7,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_05.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_05)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "three glossy acorns on a cushion of green moss",
    "light": "a soft sunbeam in a wood",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 223918
+  "bytes": 73908
  },
  {
   "id": "daily-2026-10-06",
@@ -229,27 +204,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.316,
-   "quietAbs": 2.41,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_06.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_06)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "one large round golden hay bale in a stubble field, near and clear",
    "light": "low golden-hour sun",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 362522
+  "bytes": 81162
  },
  {
   "id": "daily-2026-10-07",
@@ -271,27 +241,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.62,
-   "quietAbs": 3.15,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_07.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_07)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a glowing round paper lantern hanging from a red maple branch",
    "light": "soft blue dusk",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 200040
+  "bytes": 72750
  },
  {
   "id": "daily-2026-10-08",
@@ -313,27 +278,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.313,
-   "quietAbs": 2.53,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_08.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_08)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a branch of red apples",
    "light": "soft dappled afternoon light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 213634
+  "bytes": 76158
  },
  {
   "id": "daily-2026-10-09",
@@ -355,27 +315,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.473,
-   "quietAbs": 3.68,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_09.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_09)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a grey heron standing in shallow water",
    "light": "a soft apricot sunset glow",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 239568
+  "bytes": 70214
  },
  {
   "id": "daily-2026-10-10",
@@ -397,27 +352,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.325,
-   "quietAbs": 2.2,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_10.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_10)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "three wild geese flying close and large across a pale sky above fields",
    "light": "pale bright autumn light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 267052
+  "bytes": 83030
  },
  {
   "id": "daily-2026-10-11",
@@ -439,27 +389,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.242,
-   "quietAbs": 2.62,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/11-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 11 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_11.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_11)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a small cluster of brown wild mushrooms on a mossy log",
    "light": "soft green-gold forest light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 239262
+  "bytes": 71296
  },
  {
   "id": "daily-2026-10-12",
@@ -481,27 +426,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.301,
-   "quietAbs": 3.59,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/12-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 12 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_12.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_12)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a small old arched wooden footbridge over a calm stream, golden and rust autumn trees",
    "light": "soft luminous morning light, a warm gold glow",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 365780
+  "bytes": 92384
  },
  {
   "id": "daily-2026-10-13",
@@ -523,27 +463,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.226,
-   "quietAbs": 1.99,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/13-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 13 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_13.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_13)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a few chestnuts in their open spiky husks on a mossy stone",
    "light": "warm soft light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 260880
+  "bytes": 72518
  },
  {
   "id": "daily-2026-10-14",
@@ -565,27 +500,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.218,
-   "quietAbs": 2.28,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/14-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 14 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_14.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_14)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a red fox standing in a frosted meadow",
    "light": "pale cold morning light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 323318
+  "bytes": 87746
  },
  {
   "id": "daily-2026-10-15",
@@ -607,27 +537,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.382,
-   "quietAbs": 2.63,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/15-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 15 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_15.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_15)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a bright full moon above bare branches",
    "light": "soft blue night with lifted, shadows",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 339998
+  "bytes": 59222
  },
  {
   "id": "daily-2026-10-16",
@@ -649,27 +574,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.526,
-   "quietAbs": 5.04,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/16-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 16 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_16.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_16)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "raindrops ringing the still surface of a pond under a red maple",
    "light": "soft grey rain light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 346084
+  "bytes": 78816
  },
  {
   "id": "daily-2026-10-17",
@@ -691,27 +611,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.287,
-   "quietAbs": 3.13,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/17-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 17 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_17.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_17)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "one wheat sheaf standing in a golden field",
    "light": "warm evening light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 326452
+  "bytes": 73664
  },
  {
   "id": "daily-2026-10-18",
@@ -733,27 +648,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.556,
-   "quietAbs": 5.17,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/18-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 18 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_18.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_18)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a golden ginkgo tree shedding fan-shaped leaves onto a stone path",
    "light": "bright soft afternoon light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 370570
+  "bytes": 73638
  },
  {
   "id": "daily-2026-10-19",
@@ -775,27 +685,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.621,
-   "quietAbs": 3.26,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/19-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 19 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_19.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_19)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a copper kettle with a thin curl of steam on a flat rock beside a stream",
    "light": "warm soft morning light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 285168
+  "bytes": 72624
  },
  {
   "id": "daily-2026-10-20",
@@ -817,27 +722,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.328,
-   "quietAbs": 4.18,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/20-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 20 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_20.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_20)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "an empty wooden bench under a golden tree",
    "light": "golden-hour light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 349668
+  "bytes": 75080
  },
  {
   "id": "daily-2026-10-21",
@@ -859,27 +759,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.379,
-   "quietAbs": 4.3,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/21-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 21 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_21.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_21)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a moss-covered stone lantern among fallen red leaves",
    "light": "soft rain light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 282362
+  "bytes": 89036
  },
  {
   "id": "daily-2026-10-22",
@@ -901,27 +796,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.434,
-   "quietAbs": 4.31,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/22-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 22 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_22.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_22)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a small wooden rowing boat moored at a river bend under one golden tree",
    "light": "late afternoon light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 297856
+  "bytes": 91400
  },
  {
   "id": "daily-2026-10-23",
@@ -943,27 +833,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.301,
-   "quietAbs": 2.78,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/23-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 23 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_23.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_23)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a single pine cone on a bed of pine needles",
    "light": "a warm sunbeam",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 228304
+  "bytes": 73840
  },
  {
   "id": "daily-2026-10-24",
@@ -985,27 +870,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.71,
-   "quietAbs": 2.68,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/24-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 24 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_24.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_24)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a small candle lantern glowing on a stone step",
    "light": "soft blue dusk",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 209386
+  "bytes": 80486
  },
  {
   "id": "daily-2026-10-25",
@@ -1027,27 +907,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.51,
-   "quietAbs": 3.02,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/25-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 25 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_25.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_25)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a young red maple tree standing alone in a meadow",
    "light": "soft morning light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 321962
+  "bytes": 78058
  },
  {
   "id": "daily-2026-10-26",
@@ -1069,27 +944,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.289,
-   "quietAbs": 2.39,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/26-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 26 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_26.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_26)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a branch of dusky purple plums beaded with dew",
    "light": "soft early morning light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 255396
+  "bytes": 67094
  },
  {
   "id": "daily-2026-10-27",
@@ -1111,27 +981,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.38,
-   "quietAbs": 2.25,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/27-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 27 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_27.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_27)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a long grey heron feather resting on golden leaves",
    "light": "soft overcast light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 218742
+  "bytes": 68828
  },
  {
   "id": "daily-2026-10-28",
@@ -1153,27 +1018,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.231,
-   "quietAbs": 2.47,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/28-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 28 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_28.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_28)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a mossy boulder in a beech wood with gold leaves",
    "light": "soft forest light with gentle sunbeams",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 347070
+  "bytes": 101766
  },
  {
   "id": "daily-2026-10-29",
@@ -1195,27 +1055,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.331,
-   "quietAbs": 2.97,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/29-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 29 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_29.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_29)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a tawny owl peering from the hollow of an old oak",
    "light": "soft blue dusk",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 321760
+  "bytes": 102516
  },
  {
   "id": "daily-2026-10-30",
@@ -1237,27 +1092,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.491,
-   "quietAbs": 3.94,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/30-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 30 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_30.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_30)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "one golden larch tree on the shore of a still mountain lake, a soft snowy peak far behind",
    "light": "soft clear noon in light haze",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 323716
+  "bytes": 97614
  },
  {
   "id": "daily-2026-10-31",
@@ -1279,27 +1129,22 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.507,
-   "quietAbs": 4.26,
    "group": "daily-2026-10-letters",
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily10/31-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily10 31 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-10_31.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-10_31)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "noPeople": true,
    "noText": true,
    "subject": "a large soft orange harvest moon rising over a field",
    "light": "dusk",
-   "scale": "wide",
    "horizon": 0.55
   },
-  "bytes": 260286
+  "bytes": 84192
  },
  {
   "id": "letter-thinking-of-you",

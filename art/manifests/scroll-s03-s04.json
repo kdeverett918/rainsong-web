@@ -16,8 +16,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "soft golden morning backlight",
-   "beat": "terraced rows",
+   "beat": "the blue peak",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -25,30 +24,33 @@
    },
    "quietRatio": 0.25,
    "cropTopPx": 110,
-   "master": "docs/art/masters/panels/s03-tea-hills/01.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/01-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 01 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a single fresh tea shoot, two bright leaves and a bud, beaded with dew",
-   "scale": "close"
+   "subject": "the blue peak",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 109038
+  "bytes": 55258
  },
  {
   "id": "panel-s03-tea-hills-02",
   "kind": "scroll-panel",
   "file": "/art/panels/s03-tea-hills/02.webp",
-  "w": 1296,
-  "h": 1620,
+  "w": 1080,
+  "h": 1350,
   "meta": {
    "scroll": "s03-tea-hills",
    "scrollTitle": "Tea Hills in Mist",
@@ -60,8 +62,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "golden early-morning sunrise",
-   "beat": "a steaming kettle on a stone",
+   "beat": "the tea basket",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -69,24 +70,27 @@
    },
    "quietRatio": 0.2,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/02.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/s03/02-4.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-s03 02 take 4)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small old iron kettle with a thin curl of steam, the kettle about 30 percent of the frame's width, standing on a flat sunlit rock; the kettle sits low in the frame, its centre about 60 percent down and about 35 percent from the left edge, the rock's top edge at about 68 percent down; above and behind it sunlit terraced tea rows sweep up the hills to a wide glowing sunrise sky that fills the upper half",
-   "scale": "mid",
-   "note_r33": "DL r3-3: shipped at 1296x1620 (Lanczos from the 1152x1440 take) so the stage never upscales it"
+   "subject": "the tea basket",
+   "note_r33": "DL r3-3: shipped at 1296x1620 (Lanczos from the 1152x1440 take) so the stage never upscales it",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 303516
+  "bytes": 67298
  },
  {
   "id": "panel-s03-tea-hills-03",
@@ -105,8 +109,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "misty blue early morning, the first warm light on the roof",
-   "beat": "a hillside hut",
+   "beat": "the teacup",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -114,23 +117,26 @@
    },
    "quietRatio": 0.23,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/03.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/03-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 03 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small wooden tea-picker's hut with a tiled roof among the terraces, a thin curl of smoke from its chimney",
-   "scale": "mid"
+   "subject": "the teacup",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 216626
+  "bytes": 57720
  },
  {
   "id": "panel-s03-tea-hills-04",
@@ -149,8 +155,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "cool pale dawn with the first pink light on the hill crests",
-   "beat": "drifting mist bands",
+   "beat": "the crane",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -158,23 +163,26 @@
    },
    "quietRatio": 0.26,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/04.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/04-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 04 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "soft bands of morning cloud drifting below the terraced hilltops",
-   "scale": "wide"
+   "subject": "the crane",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 142118
+  "bytes": 60364
  },
  {
   "id": "panel-s03-tea-hills-05",
@@ -193,8 +201,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "deep orange sunset, the pine a dark silhouette against the glow",
-   "beat": "a lone pine",
+   "beat": "the sun",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -202,23 +209,26 @@
    },
    "quietRatio": 0.22,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/05.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/05-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 05 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "one lone umbrella pine on the crest of a tea hill",
-   "scale": "wide"
+   "subject": "the sun",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 152552
+  "bytes": 34862
  },
  {
   "id": "panel-s03-tea-hills-06",
@@ -237,8 +247,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "dappled afternoon sun through leaves",
-   "beat": "baskets on a wall",
+   "beat": "the flowering tree",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -246,23 +255,26 @@
    },
    "quietRatio": 0.2,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/06.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/06-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 06 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "two woven bamboo baskets of fresh tea leaves resting on a dry-stone wall",
-   "scale": "close"
+   "subject": "the flowering tree",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 194550
+  "bytes": 68478
  },
  {
   "id": "panel-s03-tea-hills-07",
@@ -281,8 +293,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "silver rain light with a soft rainbow in the distance",
-   "beat": "a far temple roof in mist",
+   "beat": "the stone lantern",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -290,23 +301,26 @@
    },
    "quietRatio": 0.24,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/07.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/07-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 07 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a far temple roof with upturned eaves above the terraces during a summer shower",
-   "scale": "wide"
+   "subject": "the stone lantern",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 174778
+  "bytes": 58382
  },
  {
   "id": "panel-s03-tea-hills-08",
@@ -325,8 +339,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "warm late-afternoon sun",
-   "beat": "a path between rows",
+   "beat": "the tea hill",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -334,23 +347,26 @@
    },
    "quietRatio": 0.22,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/08.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/08-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 08 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "two white butterflies over a flowering tea bush with small white camellia-like tea flowers",
-   "scale": "close"
+   "subject": "the tea hill",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 114218
+  "bytes": 39500
  },
  {
   "id": "panel-s03-tea-hills-09",
@@ -369,8 +385,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "hot bright midday sun",
-   "beat": "a low stone wall in sun",
+   "beat": "the cloud",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -378,23 +393,26 @@
    },
    "quietRatio": 0.2,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/09.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/09-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 09 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a low dry-stone wall with tiny wildflowers and a green lizard basking on it",
-   "scale": "close"
+   "subject": "the cloud",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 181114
+  "bytes": 38784
  },
  {
   "id": "panel-s03-tea-hills-10",
@@ -413,8 +431,7 @@
     "cream"
    ],
    "ground": "mist in the valley",
-   "light": "soft warm light",
-   "beat": "a wooden porch (cat perch)",
+   "beat": "the porch step",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -422,7 +439,7 @@
    },
    "quietRatio": 0.2,
    "cropTopPx": 125,
-   "master": "docs/art/masters/panels/s03-tea-hills/10.webp",
+   "master": "scrolls/s03-tea-hills/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "perch": {
@@ -431,20 +448,23 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "resident": "cat",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s03/10-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s03 10 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s03-tea-hills/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "cat resting on a sunlit wooden porch step of a small tea house",
-   "scale": "mid"
+   "subject": "the porch step",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s03-tea-hills/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s03-tea-hills/r3/spec-r3b.json"
   },
-  "bytes": 183860
+  "bytes": 67732
  },
  {
   "id": "panel-s04-rain-canal-01",
@@ -463,8 +483,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "grey afternoon rain light with a soft silver sky",
-   "beat": "rain over rooftops",
+   "beat": "rain clouds",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -472,31 +491,32 @@
    },
    "quietRatio": 0.304,
    "cropTopPx": 96,
-   "master": "docs/art/masters/panels/s04-rain-canal/01.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 6.16,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-p1",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "rain falling over a crowd of old tiled rooftops and chimneys",
-   "scale": "wide",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "rain clouds",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 381746
+  "bytes": 47826
  },
  {
   "id": "panel-s04-rain-canal-02",
@@ -515,8 +535,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "blue dusk with warm lamp glow on the water",
-   "beat": "a moored boat",
+   "beat": "rain rings",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -524,31 +543,32 @@
    },
    "quietRatio": 0.271,
    "cropTopPx": 112,
-   "master": "docs/art/masters/panels/s04-rain-canal/02.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 6.35,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-02_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a narrow wooden boat moored by a stone quay, rain pooling in its hull",
-   "scale": "mid",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "rain rings",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 320930
+  "bytes": 69740
  },
  {
   "id": "panel-s04-rain-canal-03",
@@ -567,8 +587,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "soft grey morning rain",
-   "beat": "a stone arch",
+   "beat": "moored boat (empty)",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -576,31 +595,32 @@
    },
    "quietRatio": 0.319,
    "cropTopPx": 100,
-   "master": "docs/art/masters/panels/s04-rain-canal/03.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 6.88,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-03_00",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old stone arch bridge over the canal, ivy hanging from it",
-   "scale": "mid",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "moored boat (empty)",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 358466
+  "bytes": 58446
  },
  {
   "id": "panel-s04-rain-canal-04",
@@ -619,8 +639,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "warm lamplight against a dark rainy evening",
-   "beat": "umbrellas hung to dry",
+   "beat": "canal houses",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -628,31 +647,32 @@
    },
    "quietRatio": 0.277,
    "cropTopPx": 64,
-   "master": "docs/art/masters/panels/s04-rain-canal/04.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 6.48,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-04_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "three colourful oiled-paper umbrellas hung open to dry under a wooden eave",
-   "scale": "close",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "canal houses",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 335442
+  "bytes": 42764
  },
  {
   "id": "panel-s04-rain-canal-05",
@@ -671,8 +691,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "deep blue night, warm amber windows",
-   "beat": "lit window reflections",
+   "beat": "arched stone bridge",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -680,31 +699,32 @@
    },
    "quietRatio": 0.304,
    "cropTopPx": 80,
-   "master": "docs/art/masters/panels/s04-rain-canal/05.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 6.39,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-05_00",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "lit windows reflected as long gold streaks in the rippling canal",
-   "scale": "wide",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "arched stone bridge",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 391714
+  "bytes": 33032
  },
  {
   "id": "panel-s04-rain-canal-06",
@@ -723,8 +743,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "pearl-grey noon rain light",
-   "beat": "steps down to water",
+   "beat": "lotus pot",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -732,31 +751,32 @@
    },
    "quietRatio": 0.268,
    "cropTopPx": 108,
-   "master": "docs/art/masters/panels/s04-rain-canal/06.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 6.33,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-06_00",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "worn stone steps descending into the canal, a moss line at the water",
-   "scale": "mid",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "lotus pot",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 337756
+  "bytes": 48272
  },
  {
   "id": "panel-s04-rain-canal-07",
@@ -775,8 +795,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "green-grey rain light after a shower, a brightening sky",
-   "beat": "a willow in rain",
+   "beat": "two koi",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -784,31 +803,32 @@
    },
    "quietRatio": 0.262,
    "cropTopPx": 124,
-   "master": "docs/art/masters/panels/s04-rain-canal/07.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 5.9,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-07_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a weeping willow dripping rain over the canal wall",
-   "scale": "mid",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "two koi",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 401788
+  "bytes": 62530
  },
  {
   "id": "panel-s04-rain-canal-08",
@@ -827,8 +847,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "dark blue twilight, the lantern the only warm light",
-   "beat": "a lantern on a post",
+   "beat": "hanging lantern",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -836,31 +855,32 @@
    },
    "quietRatio": 0.259,
    "cropTopPx": 100,
-   "master": "docs/art/masters/panels/s04-rain-canal/08.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 6.14,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-08_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an iron lantern glowing on a wet stone post at the canal's edge",
-   "scale": "close",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "hanging lantern",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 308848
+  "bytes": 45378
  },
  {
   "id": "panel-s04-rain-canal-09",
@@ -879,8 +899,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "soft overhead overcast light",
-   "beat": "rings on the water",
+   "beat": "rising moon",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -888,31 +907,32 @@
    },
    "quietRatio": 0.398,
    "cropTopPx": 104,
-   "master": "docs/art/masters/panels/s04-rain-canal/09.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "quietAbs": 7.26,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-09_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s04/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s04 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "rain rings spreading on dark canal water with one floating yellow leaf",
-   "scale": "close",
-   "focal": "warm amber lamplight glowing in lanterns and windows near the subject, shining in long gold reflections on the wet canal"
+   "subject": "rising moon",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 371382
+  "bytes": 49058
  },
  {
   "id": "panel-s04-rain-canal-10",
@@ -931,8 +951,7 @@
     "mint"
    ],
    "ground": "rain-pocked water",
-   "light": "rainy blue dusk with warm lamplight",
-   "beat": "a mossy stone ledge (tree frog perch)",
+   "beat": "HOME: empty lily pad under a leaf",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -940,7 +959,7 @@
    },
    "quietRatio": 0.35,
    "cropTopPx": 104,
-   "master": "docs/art/masters/panels/s04-rain-canal/10.webp",
+   "master": "scrolls/s04-rain-canal/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "perch": {
@@ -954,26 +973,28 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "resident": "tree-frog",
-   "quietAbs": 8.69,
    "regen": {
     "by": "launch gate 2026-10-12",
     "why": "lower 40% busy/saturated and off house style",
     "take": "s04-10_01",
     "refs": "panel 1 (style) + previous take (beat)"
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl7-takes/s04/10-2.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-s04 10 take 2)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s04-rain-canal/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "one small green tree frog, painted in gouache like a storybook illustration (not a photograph), sitting on the worn stone lip of an old canal wall, placed exactly in the horizontal centre of the frame in the upper third, with calm open space on both sides of it; behind it an arched stone bridge and windows glowing warm amber",
-   "scale": "mid"
+   "subject": "HOME: empty lily pad under a leaf",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s04-rain-canal/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s04-rain-canal/r3/spec-r3.json"
   },
-  "bytes": 299098
+  "bytes": 61484
  }
 ]

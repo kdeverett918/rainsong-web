@@ -16,8 +16,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "bright late-morning mountain sun",
-   "beat": "alpine flowers",
+   "beat": "the twin peaks",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -26,25 +25,27 @@
    "quietRatio": 0.23,
    "lowSat": 31.3,
    "cropTopPx": 96,
-   "master": "docs/art/masters/panels/s11-high-meadow/01.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-01_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a carpet of alpine flowers: blue gentians, yellow buttercups and pink clover",
-   "scale": "close"
+   "subject": "the twin peaks",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 236120
+  "bytes": 53110
  },
  {
   "id": "panel-s11-high-meadow-02",
@@ -63,8 +64,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "golden-hour light, long shadows",
-   "beat": "a cairn on a ridge",
+   "beat": "the wildflowers",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -73,25 +73,27 @@
    "quietRatio": 0.249,
    "lowSat": 32.0,
    "cropTopPx": 92,
-   "master": "docs/art/masters/panels/s11-high-meadow/02.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-02_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a stone cairn on a grassy ridge against a vast sky",
-   "scale": "wide"
+   "subject": "the wildflowers",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 173448
+  "bytes": 92026
  },
  {
   "id": "panel-s11-high-meadow-03",
@@ -110,8 +112,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "clear noon light, saturated sky",
-   "beat": "a mountain tarn",
+   "beat": "the cairn",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -120,25 +121,27 @@
    "quietRatio": 0.193,
    "lowSat": 33.4,
    "cropTopPx": 136,
-   "master": "docs/art/masters/panels/s11-high-meadow/03.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-03_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small deep-blue mountain tarn ringed by rock and snow patches",
-   "scale": "wide"
+   "subject": "the cairn",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 242304
+  "bytes": 61020
  },
  {
   "id": "panel-s11-high-meadow-04",
@@ -157,8 +160,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "crisp morning light",
-   "beat": "grass bending in wind",
+   "beat": "the waterfall",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -167,25 +169,27 @@
    "quietRatio": 0.198,
    "lowSat": 32.6,
    "cropTopPx": 132,
-   "master": "docs/art/masters/panels/s11-high-meadow/04.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-04_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/04-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 04 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a clear mountain stream tumbling over mossy boulders",
-   "scale": "close"
+   "subject": "the waterfall",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 271826
+  "bytes": 46852
  },
  {
   "id": "panel-s11-high-meadow-05",
@@ -204,8 +208,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "clear high-altitude night, deep blue and violet",
-   "beat": "a flock of birds",
+   "beat": "the cloud",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -214,25 +217,27 @@
    "quietRatio": 0.199,
    "lowSat": 33.3,
    "cropTopPx": 140,
-   "master": "docs/art/masters/panels/s11-high-meadow/05.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-05_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/05-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 05 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "the Milky Way arching over dark jagged peaks",
-   "scale": "wide"
+   "subject": "the cloud",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 179490
+  "bytes": 39296
  },
  {
   "id": "panel-s11-high-meadow-06",
@@ -251,8 +256,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "warm evening sun",
-   "beat": "a shepherd's hut (empty)",
+   "beat": "the tarn",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -261,25 +265,27 @@
    "quietRatio": 0.17,
    "lowSat": 32.8,
    "cropTopPx": 124,
-   "master": "docs/art/masters/panels/s11-high-meadow/06.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-06_00",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an empty old stone shepherd's hut with a slate roof in the meadow",
-   "scale": "mid"
+   "subject": "the tarn",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 196854
+  "bytes": 59010
  },
  {
   "id": "panel-s11-high-meadow-07",
@@ -298,8 +304,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "warm afternoon light",
-   "beat": "a waterfall far off",
+   "beat": "the tall grass",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -308,25 +313,27 @@
    "quietRatio": 0.209,
    "lowSat": 33.3,
    "cropTopPx": 92,
-   "master": "docs/art/masters/panels/s11-high-meadow/07.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-07_00",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/07-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 07 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a cluster of pink alpine rose flowers on a rocky ledge with a blue butterfly on them",
-   "scale": "close"
+   "subject": "the tall grass",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 179212
+  "bytes": 87892
  },
  {
   "id": "panel-s11-high-meadow-08",
@@ -345,8 +352,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "soft bright overcast light",
-   "beat": "wildflowers close",
+   "beat": "the birds",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -355,25 +361,27 @@
    "quietRatio": 0.165,
    "lowSat": 31.9,
    "cropTopPx": 144,
-   "master": "docs/art/masters/panels/s11-high-meadow/08.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-08_00",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a single edelweiss and blue harebells close in the grass",
-   "scale": "close"
+   "subject": "the birds",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 194854
+  "bytes": 41652
  },
  {
   "id": "panel-s11-high-meadow-09",
@@ -392,8 +400,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "pink alpenglow at sunset",
-   "beat": "clouds over peaks",
+   "beat": "the sun",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -402,25 +409,27 @@
    "quietRatio": 0.213,
    "lowSat": 32.4,
    "cropTopPx": 140,
-   "master": "docs/art/masters/panels/s11-high-meadow/09.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-09_00",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "rolling clouds pouring over jagged peaks",
-   "scale": "wide"
+   "subject": "the sun",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 180272
+  "bytes": 36852
  },
  {
   "id": "panel-s11-high-meadow-10",
@@ -439,8 +448,7 @@
     "pink"
    ],
    "ground": "wildflower meadow",
-   "light": "soft warm light",
-   "beat": "a sunny boulder (pika perch)",
+   "beat": "the scree nook",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -449,10 +457,9 @@
    "quietRatio": 0.198,
    "lowSat": 32.8,
    "cropTopPx": 116,
-   "master": "docs/art/masters/panels/s11-high-meadow/10.webp",
+   "master": "scrolls/s11-high-meadow/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s11-10_02 (regen r2)",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "perch": {
     "resident": "pika",
@@ -462,20 +469,23 @@
     "rockTop": 0.4,
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s11/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s11 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s11-high-meadow/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "pika resting on a sunny lichen-covered boulder in the meadow",
-   "scale": "mid"
+   "subject": "the scree nook",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s11-high-meadow/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s11-high-meadow/r1/spec-r2c.json"
   },
-  "bytes": 188802
+  "bytes": 63386
  },
  {
   "id": "panel-s12-sea-sunrise-01",
@@ -494,8 +504,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "early sunrise, peach and coral glow",
-   "beat": "the river mouth",
+   "beat": "the last stars",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -504,27 +513,29 @@
    "quietRatio": 0.311,
    "lowSat": 28.1,
    "cropTopPx": 134,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/01.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-01_00 (regen r2, sun removed)",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/01-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 01 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a scatter of seashells and a sand dollar on glassy wet sand",
-   "scale": "close"
+   "subject": "the last stars",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 134630
+  "bytes": 79020
  },
  {
   "id": "panel-s12-sea-sunrise-02",
@@ -543,8 +554,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "bright breezy morning, blue sky",
-   "beat": "dunes with grass",
+   "beat": "the shells",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -553,27 +563,29 @@
    "quietRatio": 0.385,
    "lowSat": 26.8,
    "cropTopPx": 99,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/02.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-02_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/02-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 02 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a weathered pale-blue wooden beach hut among dune grass",
-   "scale": "mid"
+   "subject": "the shells",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 202688
+  "bytes": 84402
  },
  {
   "id": "panel-s12-sea-sunrise-03",
@@ -592,8 +604,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "clear late-morning sun",
-   "beat": "a fishing pier",
+   "beat": "the rock arch",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -602,27 +613,29 @@
    "quietRatio": 0.345,
    "lowSat": 27.5,
    "cropTopPx": 100,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/03.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-03_01 (regen r2)",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old wooden fishing pier running out over turquoise water",
-   "scale": "mid"
+   "subject": "the rock arch",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 229312
+  "bytes": 90280
  },
  {
   "id": "panel-s12-sea-sunrise-04",
@@ -641,8 +654,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "bright midday light, sparkling sea",
-   "beat": "gulls over water",
+   "beat": "the gulls",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -651,27 +663,29 @@
    "quietRatio": 0.355,
    "lowSat": 27.9,
    "cropTopPx": 98,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/04.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-04_00 (regen r2)",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "three white gulls gliding over a cresting wave",
-   "scale": "mid"
+   "subject": "the gulls",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 163774
+  "bytes": 60676
  },
  {
   "id": "panel-s12-sea-sunrise-05",
@@ -690,8 +704,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "clear bright noon light, crystal water",
-   "beat": "a tide pool",
+   "beat": "the sail",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -700,27 +713,29 @@
    "quietRatio": 0.307,
    "lowSat": 28.0,
    "cropTopPx": 97,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/05.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-05_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a rock pool with a red starfish, anemones and limpets",
-   "scale": "close"
+   "subject": "the sail",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 242398
+  "bytes": 41184
  },
  {
   "id": "panel-s12-sea-sunrise-06",
@@ -739,8 +754,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "soft golden afternoon",
-   "beat": "a lighthouse far away",
+   "beat": "the wave",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -749,27 +763,29 @@
    "quietRatio": 0.425,
    "lowSat": 27.7,
    "cropTopPx": 98,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/06.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-06_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/06-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 06 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small sailboat with a white sail on a calm turquoise sea",
-   "scale": "mid"
+   "subject": "the wave",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 146460
+  "bytes": 78590
  },
  {
   "id": "panel-s12-sea-sunrise-07",
@@ -788,8 +804,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "sunrise light streaming through the arch",
-   "beat": "sun breaking the horizon",
+   "beat": "the sandbar",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -798,27 +813,29 @@
    "quietRatio": 0.405,
    "lowSat": 28.0,
    "cropTopPx": 98,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/07.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-07_01",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/07-5.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 07 take 5)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a rocky sea arch framing the rising sun",
-   "scale": "mid"
+   "subject": "the sandbar",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 158580
+  "bytes": 69172
  },
  {
   "id": "panel-s12-sea-sunrise-08",
@@ -837,8 +854,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "low morning sun behind the wave",
-   "beat": "long light on waves",
+   "beat": "the sun",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -847,27 +863,29 @@
    "quietRatio": 0.374,
    "lowSat": 28.1,
    "cropTopPx": 99,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/08.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-08_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a translucent green wave curling with light shining through it",
-   "scale": "close"
+   "subject": "the sun",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 161848
+  "bytes": 39056
  },
  {
   "id": "panel-s12-sea-sunrise-09",
@@ -886,8 +904,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "high noon from above, clear water",
-   "beat": "a sandbar",
+   "beat": "the bright cloud",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -896,27 +913,29 @@
    "quietRatio": 0.392,
    "lowSat": 28.0,
    "cropTopPx": 98,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/09.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-09_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a long pale sandbar curving into a turquoise lagoon",
-   "scale": "wide"
+   "subject": "the bright cloud",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 163578
+  "bytes": 52600
  },
  {
   "id": "panel-s12-sea-sunrise-10",
@@ -935,8 +954,7 @@
     "sky blue"
    ],
    "ground": "calm sea",
-   "light": "soft warm light",
-   "beat": "open sea with a whale's spout (whale surfaces here)",
+   "beat": "the open sea",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
@@ -945,10 +963,9 @@
    "quietRatio": 0.444,
    "lowSat": 27.2,
    "cropTopPx": 98,
-   "master": "docs/art/masters/panels/s12-sea-sunrise/10.webp",
+   "master": "scrolls/s12-sea-sunrise/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "take": "s12-10_02",
    "refs": "panel 1: s03-tea-hills/01 + s01-first-light/01 (house style); panels 2-10: own panel 1 + previous pick",
    "seaHorizon": 0.414,
    "horizonNote": "far sea line at seaHorizon on every panel; shore/motif base ends near 0.55-0.58",
@@ -964,19 +981,22 @@
     },
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s12/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s12 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s12-sea-sunrise/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "humpback whale resting on the open calm sea; the whale's back and spout breaking the surface",
-   "scale": "mid"
+   "subject": "the open sea",
+   "panels": 10,
+   "master_file": "docs/art/puzzle/s12-sea-sunrise/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s12-sea-sunrise/r1/spec-r1b.json"
   },
-  "bytes": 152052
+  "bytes": 68664
  }
 ]

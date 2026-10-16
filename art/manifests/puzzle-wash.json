@@ -1,0 +1,381 @@
+[
+ {
+  "id": "wash-buttercup",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-buttercup.png",
+  "w": 240,
+  "h": 234,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 53404
+  },
+  "bytes": 53404
+ },
+ {
+  "id": "wash-cosmos",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-cosmos.png",
+  "w": 240,
+  "h": 236,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 56398
+  },
+  "bytes": 56398
+ },
+ {
+  "id": "wash-poppy",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-poppy.png",
+  "w": 240,
+  "h": 236,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 58898
+  },
+  "bytes": 58898
+ },
+ {
+  "id": "wash-blossom",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-blossom.png",
+  "w": 240,
+  "h": 230,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 49591
+  },
+  "bytes": 49591
+ },
+ {
+  "id": "wash-pansy",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-pansy.png",
+  "w": 240,
+  "h": 231,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 63240
+  },
+  "bytes": 63240
+ },
+ {
+  "id": "wash-camellia",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-camellia.png",
+  "w": 240,
+  "h": 232,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 60956
+  },
+  "bytes": 60956
+ },
+ {
+  "id": "wash-wild-rose",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-wild-rose.png",
+  "w": 240,
+  "h": 226,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 53703
+  },
+  "bytes": 53703
+ },
+ {
+  "id": "wash-primrose",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-primrose.png",
+  "w": 240,
+  "h": 224,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 53344
+  },
+  "bytes": 53344
+ },
+ {
+  "id": "wash-nasturtium",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-nasturtium.png",
+  "w": 240,
+  "h": 223,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 61628
+  },
+  "bytes": 61628
+ },
+ {
+  "id": "wash-dandelion",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-dandelion.png",
+  "w": 240,
+  "h": 236,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 66681
+  },
+  "bytes": 66681
+ },
+ {
+  "id": "wash-lantern",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-lantern.png",
+  "w": 165,
+  "h": 240,
+  "meta": {
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "anchor": "center",
+   "bytes": 36923
+  },
+  "bytes": 36923
+ },
+ {
+  "id": "wash-lily-bud",
+  "kind": "collectible",
+  "file": "/art/meta/flowers-wash/wash-lily-bud.png",
+  "meta": {
+   "anchor": "center",
+   "use": "found detail on puzzle-scroll boards: the house watercolour wash (translucent pooled-edge petals, no outline), puzzle r4",
+   "bytes": 42839
+  },
+  "w": 213,
+  "h": 240,
+  "bytes": 42839
+ },
+ {
+  "id": "res-wren-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-wren.png",
+  "w": 512,
+  "h": 469,
+  "meta": {
+   "resident": "res-wren",
+   "frame": "idle",
+   "scroll": "s01-first-light",
+   "subject": "a wren, flat two-wash with a thin warm-brown outline (puzzle ceremony, pilot r3)",
+   "anchor": "bottom-center",
+   "bytes": 202311
+  }
+ },
+ {
+  "id": "res-cat-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-cat.png",
+  "w": 408,
+  "h": 560,
+  "meta": {
+   "resident": "res-cat",
+   "frame": "idle",
+   "scroll": "s03-tea-hills",
+   "subject": "a cat, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 211155
+  }
+ },
+ {
+  "id": "res-deer-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-deer.png",
+  "w": 476,
+  "h": 560,
+  "meta": {
+   "resident": "res-deer",
+   "frame": "idle",
+   "scroll": "s06-orchard",
+   "subject": "a deer, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 186309
+  }
+ },
+ {
+  "id": "res-fox-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-fox.png",
+  "w": 437,
+  "h": 560,
+  "meta": {
+   "resident": "res-fox",
+   "frame": "idle",
+   "scroll": "s08-lantern-night",
+   "subject": "a fox, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 212842
+  }
+ },
+ {
+  "id": "res-heron-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-heron.png",
+  "w": 450,
+  "h": 560,
+  "meta": {
+   "resident": "res-heron",
+   "frame": "idle",
+   "scroll": "s05-heron-marsh",
+   "subject": "a heron, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 127276
+  }
+ },
+ {
+  "id": "res-owl-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-owl.png",
+  "w": 428,
+  "h": 560,
+  "meta": {
+   "resident": "res-owl",
+   "frame": "idle",
+   "scroll": "s07-moon-bridge",
+   "subject": "a owl, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 250098
+  }
+ },
+ {
+  "id": "res-pika-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-pika.png",
+  "w": 560,
+  "h": 547,
+  "meta": {
+   "resident": "res-pika",
+   "frame": "idle",
+   "scroll": "s11-high-meadow",
+   "subject": "a pika, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 320317
+  }
+ },
+ {
+  "id": "res-red-panda-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-red-panda.png",
+  "w": 549,
+  "h": 560,
+  "meta": {
+   "resident": "res-red-panda",
+   "frame": "idle",
+   "scroll": "s02-bamboo",
+   "subject": "a red panda, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 253455
+  }
+ },
+ {
+  "id": "res-snow-hare-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-snow-hare.png",
+  "w": 389,
+  "h": 560,
+  "meta": {
+   "resident": "res-snow-hare",
+   "frame": "idle",
+   "scroll": "s10-snow-temple",
+   "subject": "a snow hare, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 168065
+  }
+ },
+ {
+  "id": "res-squirrel-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-squirrel.png",
+  "w": 560,
+  "h": 516,
+  "meta": {
+   "resident": "res-squirrel",
+   "frame": "idle",
+   "scroll": "s09-autumn-maples",
+   "subject": "a squirrel, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 321287
+  }
+ },
+ {
+  "id": "res-tortoise-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-tortoise.png",
+  "w": 560,
+  "h": 333,
+  "meta": {
+   "resident": "res-tortoise",
+   "frame": "idle",
+   "scroll": "stone-garden",
+   "subject": "a tortoise, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 206165
+  }
+ },
+ {
+  "id": "res-tree-frog-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-tree-frog.png",
+  "w": 560,
+  "h": 526,
+  "meta": {
+   "resident": "res-tree-frog",
+   "frame": "idle",
+   "scroll": "s04-rain-canal",
+   "subject": "a tree frog, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 287160
+  }
+ },
+ {
+  "id": "res-whale-wash",
+  "kind": "resident",
+  "file": "/art/residents/wash/res-whale.png",
+  "w": 560,
+  "h": 437,
+  "meta": {
+   "resident": "res-whale",
+   "frame": "idle",
+   "scroll": "s12-sea-sunrise",
+   "subject": "a whale, flat two-wash with a thin warm-brown outline (puzzle scrolls phase 2)",
+   "anchor": "bottom-center",
+   "bytes": 186029
+  }
+ },
+ {
+  "id": "lantern-wash-lit",
+  "kind": "meta",
+  "file": "/art/meta/lantern-wash-lit.webp",
+  "w": 161,
+  "h": 202,
+  "meta": {
+   "use": "daily lantern row (Home card, Today, Rest): the tile lantern's flat watercolour, puzzle r4",
+   "anchor": "top-center",
+   "lit": true,
+   "pair": "lantern-wash-unlit",
+   "bytes": 11830
+  }
+ },
+ {
+  "id": "lantern-wash-unlit",
+  "kind": "meta",
+  "file": "/art/meta/lantern-wash-unlit.webp",
+  "w": 161,
+  "h": 202,
+  "meta": {
+   "use": "daily lantern row (Home card, Today, Rest): the tile lantern's flat watercolour, puzzle r4",
+   "anchor": "top-center",
+   "lit": false,
+   "pair": "lantern-wash-lit",
+   "bytes": 10724
+  }
+ }
+]

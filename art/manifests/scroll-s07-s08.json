@@ -10,7 +10,7 @@
    "scrollName": "Moon Bridge",
    "panel": 1,
    "panels": 10,
-   "beat": "a willow at night",
+   "beat": "the stars",
    "ink": [
     "indigo",
     "silver-violet",
@@ -22,35 +22,34 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "luminous blue-hour dusk, a soft rose-grey glow low at the horizon",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.349,
-   "quietAbs": 9.04,
    "lowerSat": 28.5,
    "lowerPaperFrac": 0.87,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/01.webp",
-   "cropTop": 0,
-   "take": "s07-01m_00",
+   "master": "scrolls/s07-moon-bridge/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v4 DL r4 painted mist",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl4-takes/s07/01-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 01 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a weeping willow by the stream, its long strands silvered by moonlight",
-   "scale": "mid"
+   "subject": "the stars",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
   },
-  "bytes": 205622
+  "bytes": 67456
  },
  {
   "id": "panel-s07-moon-bridge-02",
@@ -63,7 +62,7 @@
    "scrollName": "Moon Bridge",
    "panel": 2,
    "panels": 10,
-   "beat": "the moon rising",
+   "beat": "the stepping stones",
    "ink": [
     "indigo",
     "silver-violet",
@@ -75,36 +74,35 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "the moon ivory, a soft blue-grey dusk sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.508,
-   "quietAbs": 10.37,
    "lowerSat": 32.0,
    "lowerPaperFrac": 0.88,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/02.webp",
-   "cropTop": 0,
-   "take": "s07-02_00",
+   "master": "scrolls/s07-moon-bridge/master",
    "night": "ink washes on cream paper (no black fills)",
    "note": "the only panel with the moon disc (the beat); moon removed from all other panels so the mounted scroll shows one moon",
-   "look": "v4 DL r4 painted mist",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl4-takes/s07/02-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 02 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a large soft full moon rising above pine-covered hills in silver mist",
-   "scale": "wide"
+   "subject": "the stepping stones",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
   },
-  "bytes": 142458
+  "bytes": 73696
  },
  {
   "id": "panel-s07-moon-bridge-03",
@@ -117,7 +115,7 @@
    "scrollName": "Moon Bridge",
    "panel": 3,
    "panels": 10,
-   "beat": "a stream with moon glitter",
+   "beat": "the irises",
    "ink": [
     "indigo",
     "silver-violet",
@@ -129,35 +127,34 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "high soft moonlight",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.44,
-   "quietAbs": 10.26,
    "lowerSat": 27.4,
    "lowerPaperFrac": 0.83,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/03.webp",
-   "cropTop": 0,
-   "take": "s07-03m_00",
+   "master": "scrolls/s07-moon-bridge/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v4 DL r4 painted mist",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl4-takes/s07/03-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 03 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small stream glittering with silver moonlight between soft grassy banks",
-   "scale": "mid"
+   "subject": "the irises",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
   },
-  "bytes": 201166
+  "bytes": 86480
  },
  {
   "id": "panel-s07-moon-bridge-04",
@@ -170,7 +167,7 @@
    "scrollName": "Moon Bridge",
    "panel": 4,
    "panels": 10,
-   "beat": "the arched bridge's first half",
+   "beat": "the shooting star",
    "ink": [
     "indigo",
     "silver-violet",
@@ -182,35 +179,34 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "soft moonlight from the upper left",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.39,
-   "quietAbs": 9.61,
    "lowerSat": 28.0,
    "lowerPaperFrac": 0.86,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/04.webp",
-   "cropTop": 0,
-   "take": "s07-04m_00",
+   "master": "scrolls/s07-moon-bridge/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v4 DL r4 painted mist",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl4-takes/s07/04-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 04 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "the near end of a tall arched stone bridge, its pale stones silvered by moonlight",
-   "scale": "mid"
+   "subject": "the shooting star",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
   },
-  "bytes": 189522
+  "bytes": 56826
  },
  {
   "id": "panel-s07-moon-bridge-05",
@@ -222,6 +218,110 @@
    "scroll": "s07-moon-bridge",
    "scrollName": "Moon Bridge",
    "panel": 5,
+   "panels": 10,
+   "beat": "the cloud",
+   "ink": [
+    "indigo",
+    "silver-violet",
+    "pale gold"
+   ],
+   "inkHex": [
+    "#2E3A78",
+    "#9A93C4",
+    "#E9CF86"
+   ],
+   "ground": "moonlit stream",
+   "horizon": 0.55,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.318,
+   "lowerSat": 27.6,
+   "lowerPaperFrac": 0.87,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "scrolls/s07-moon-bridge/master",
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v8 puzzle wash",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
+   },
+   "subject": "the cloud",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
+  },
+  "bytes": 38578
+ },
+ {
+  "id": "panel-s07-moon-bridge-06",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s07-moon-bridge/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "scrollName": "Moon Bridge",
+   "panel": 6,
+   "panels": 10,
+   "beat": "the bridge",
+   "ink": [
+    "indigo",
+    "silver-violet",
+    "pale gold"
+   ],
+   "inkHex": [
+    "#2E3A78",
+    "#9A93C4",
+    "#E9CF86"
+   ],
+   "ground": "moonlit stream",
+   "horizon": 0.55,
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "quietRatio": 0.361,
+   "lowerSat": 31.1,
+   "lowerPaperFrac": 0.86,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "master": "scrolls/s07-moon-bridge/master",
+   "night": "ink washes on cream paper (no black fills)",
+   "look": "v8 puzzle wash",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
+   },
+   "subject": "the bridge",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
+  },
+  "bytes": 73124
+ },
+ {
+  "id": "panel-s07-moon-bridge-07",
+  "kind": "scroll-panel",
+  "file": "/art/panels/s07-moon-bridge/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "scrollName": "Moon Bridge",
+   "panel": 7,
    "panels": 10,
    "beat": "the arch",
    "ink": [
@@ -235,141 +335,34 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "full soft moonlight, a thin mist on the water",
-   "horizon": 0.55,
-   "quietZone": {
-    "from": 0.6,
-    "to": 1.0
-   },
-   "quietRatio": 0.318,
-   "quietAbs": 9.28,
-   "lowerSat": 27.6,
-   "lowerPaperFrac": 0.87,
-   "model": "gpt-image-2.5-sunburst",
-   "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/05.webp",
-   "cropTop": 0,
-   "take": "s07-05m_00",
-   "night": "ink washes on cream paper (no black fills)",
-   "look": "v4 DL r4 painted mist",
-   "noPeople": true,
-   "noText": true,
-   "source": {
-    "take": "docs/art/masters/dl4-takes/s07/05-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 05 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
-   },
-   "subject": "the high round arch of a stone bridge mirrored as a full circle in the calm stream",
-   "scale": "wide"
-  },
-  "bytes": 145208
- },
- {
-  "id": "panel-s07-moon-bridge-06",
-  "kind": "scroll-panel",
-  "file": "/art/panels/s07-moon-bridge/06.webp",
-  "w": 1080,
-  "h": 1350,
-  "meta": {
-   "scroll": "s07-moon-bridge",
-   "scrollName": "Moon Bridge",
-   "panel": 6,
-   "panels": 10,
-   "beat": "the arch's far side",
-   "ink": [
-    "indigo",
-    "silver-violet",
-    "pale gold"
-   ],
-   "inkHex": [
-    "#2E3A78",
-    "#9A93C4",
-    "#E9CF86"
-   ],
-   "ground": "moonlit stream",
-   "light": "moonlit mist with one small warm lantern glow",
-   "horizon": 0.55,
-   "quietZone": {
-    "from": 0.6,
-    "to": 1.0
-   },
-   "quietRatio": 0.361,
-   "quietAbs": 10.43,
-   "lowerSat": 31.1,
-   "lowerPaperFrac": 0.86,
-   "model": "gpt-image-2.5-sunburst",
-   "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/06.webp",
-   "cropTop": 0,
-   "take": "s07-06m_00",
-   "night": "ink washes on cream paper (no black fills)",
-   "look": "v4 DL r4 painted mist",
-   "noPeople": true,
-   "noText": true,
-   "source": {
-    "take": "docs/art/masters/dl4-takes/s07/06-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 06 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
-   },
-   "subject": "the far side of a stone bridge descending into the misty garden with one small warm amber lantern",
-   "scale": "mid"
-  },
-  "bytes": 177320
- },
- {
-  "id": "panel-s07-moon-bridge-07",
-  "kind": "scroll-panel",
-  "file": "/art/panels/s07-moon-bridge/07.webp",
-  "w": 1080,
-  "h": 1350,
-  "meta": {
-   "scroll": "s07-moon-bridge",
-   "scrollName": "Moon Bridge",
-   "panel": 7,
-   "panels": 10,
-   "beat": "night irises",
-   "ink": [
-    "indigo",
-    "silver-violet",
-    "pale gold"
-   ],
-   "inkHex": [
-    "#2E3A78",
-    "#9A93C4",
-    "#E9CF86"
-   ],
-   "ground": "moonlit stream",
-   "light": "moonlight raking from the side",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.442,
-   "quietAbs": 11.7,
    "lowerSat": 33.7,
    "lowerPaperFrac": 0.84,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/07.webp",
-   "cropTop": 0,
-   "take": "s07-07m_00",
+   "master": "scrolls/s07-moon-bridge/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v4 DL r4 painted mist",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl4-takes/s07/07-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 07 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "tall pale blue irises, their petals edged with silver light",
-   "scale": "close"
+   "subject": "the arch",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
   },
-  "bytes": 157852
+  "bytes": 66924
  },
  {
   "id": "panel-s07-moon-bridge-08",
@@ -382,7 +375,7 @@
    "scrollName": "Moon Bridge",
    "panel": 8,
    "panels": 10,
-   "beat": "a stone lantern lit",
+   "beat": "the moon",
    "ink": [
     "indigo",
     "silver-violet",
@@ -394,35 +387,34 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "a luminous blue moonlit night",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.444,
-   "quietAbs": 11.05,
    "lowerSat": 30.8,
    "lowerPaperFrac": 0.82,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/08.webp",
-   "cropTop": 0,
-   "take": "s07-08m_00",
+   "master": "scrolls/s07-moon-bridge/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v4 DL r4 painted mist",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl4-takes/s07/08-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 08 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old stone lantern lit from within, warm amber light on soft green moss",
-   "scale": "close"
+   "subject": "the moon",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
   },
-  "bytes": 213478
+  "bytes": 40410
  },
  {
   "id": "panel-s07-moon-bridge-09",
@@ -435,7 +427,7 @@
    "scrollName": "Moon Bridge",
    "panel": 9,
    "panels": 10,
-   "beat": "fireflies over grass",
+   "beat": "the far pine",
    "ink": [
     "indigo",
     "silver-violet",
@@ -447,35 +439,34 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "a warm summer night under a soft blue moonlit sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.512,
-   "quietAbs": 10.56,
    "lowerSat": 32.8,
    "lowerPaperFrac": 0.81,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/09.webp",
-   "cropTop": 0,
-   "take": "s07-09f_01",
+   "master": "scrolls/s07-moon-bridge/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v4 DL r4 painted mist",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl4-takes/s07/09-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 09 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "soft gold fireflies drifting over tall summer grass",
-   "scale": "wide"
+   "subject": "the far pine",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
   },
-  "bytes": 186848
+  "bytes": 53136
  },
  {
   "id": "panel-s07-moon-bridge-10",
@@ -488,7 +479,7 @@
    "scrollName": "Moon Bridge",
    "panel": 10,
    "panels": 10,
-   "beat": "a pine bough",
+   "beat": "the pine bough",
    "ink": [
     "indigo",
     "silver-violet",
@@ -500,21 +491,17 @@
     "#E9CF86"
    ],
    "ground": "moonlit stream",
-   "light": "soft silver moonlight",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.334,
-   "quietAbs": 10.1,
    "lowerSat": 28.7,
    "lowerPaperFrac": 0.87,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s07-moon-bridge/10.webp",
-   "cropTop": 0,
-   "take": "s07-10m_00",
+   "master": "scrolls/s07-moon-bridge/master",
    "night": "ink washes on cream paper (no black fills)",
    "showpiece": true,
    "perch": {
@@ -525,19 +512,22 @@
     "branchTop": 0.39,
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v4 DL r4 painted mist",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl4-takes/s07/10-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r4-s07 10 take 11)",
-    "script": "docs/art/dl3/_scripts/gen4.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop; night(): L* floor 18.5, chroma x0.8"
+    "slices": "docs/art/puzzle/s07-moon-bridge/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "one small owl resting calmly on a moonlit pine bough; the owl is whole, clearly visible and the clear centre of attention, placed exactly in the horizontal centre of the frame in the upper third, with open calm space on both sides of it",
-   "scale": "mid"
+   "subject": "the pine bough",
+   "master_file": "docs/art/puzzle/s07-moon-bridge/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s07-moon-bridge/r1/spec-r1d.json"
   },
-  "bytes": 179256
+  "bytes": 80696
  },
  {
   "id": "panel-s08-lantern-night-01",
@@ -550,7 +540,7 @@
    "scrollName": "Lantern Night",
    "panel": 1,
    "panels": 10,
-   "beat": "strings of paper lanterns",
+   "beat": "the sky lanterns",
    "ink": [
     "orange",
     "plum",
@@ -562,35 +552,34 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "warm lantern light against a deep plum sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.313,
-   "quietAbs": 8.02,
    "lowerSat": 36.4,
    "lowerPaperFrac": 0.84,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/01.webp",
-   "cropTop": 0,
-   "take": "s08-01m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "long strings of glowing round paper lanterns criss-crossing above a lane",
-   "scale": "wide"
+   "subject": "the sky lanterns",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 158188
+  "bytes": 69612
  },
  {
   "id": "panel-s08-lantern-night-02",
@@ -603,7 +592,7 @@
    "scrollName": "Lantern Night",
    "panel": 2,
    "panels": 10,
-   "beat": "a lantern boat",
+   "beat": "the water lantern",
    "ink": [
     "orange",
     "plum",
@@ -615,35 +604,34 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "night, the lanterns the only light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.36,
-   "quietAbs": 9.52,
    "lowerSat": 40.1,
    "lowerPaperFrac": 0.8,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/02.webp",
-   "cropTop": 0,
-   "take": "s08-02m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small wooden boat hung with lanterns drifting on dark water",
-   "scale": "mid"
+   "subject": "the water lantern",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 151784
+  "bytes": 80724
  },
  {
   "id": "panel-s08-lantern-night-03",
@@ -656,7 +644,7 @@
    "scrollName": "Lantern Night",
    "panel": 3,
    "panels": 10,
-   "beat": "steam from a stall roof",
+   "beat": "the boat",
    "ink": [
     "orange",
     "plum",
@@ -668,35 +656,34 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "night, warm glow from below",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.358,
-   "quietAbs": 9.2,
    "lowerSat": 37.4,
    "lowerPaperFrac": 0.81,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/03.webp",
-   "cropTop": 0,
-   "take": "s08-03m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "steam rising from a wooden food stall roof, lit gold by lanterns",
-   "scale": "mid"
+   "subject": "the boat",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 170482
+  "bytes": 90186
  },
  {
   "id": "panel-s08-lantern-night-04",
@@ -709,7 +696,7 @@
    "scrollName": "Lantern Night",
    "panel": 4,
    "panels": 10,
-   "beat": "a red bridge",
+   "beat": "the pagoda",
    "ink": [
     "orange",
     "plum",
@@ -721,35 +708,34 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "deep blue night",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.358,
-   "quietAbs": 8.53,
    "lowerSat": 40.3,
    "lowerPaperFrac": 0.81,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/04.webp",
-   "cropTop": 0,
-   "take": "s08-04m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a vermilion lacquered bridge glowing with a row of lanterns",
-   "scale": "mid"
+   "subject": "the pagoda",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 172704
+  "bytes": 63224
  },
  {
   "id": "panel-s08-lantern-night-05",
@@ -762,7 +748,7 @@
    "scrollName": "Lantern Night",
    "panel": 5,
    "panels": 10,
-   "beat": "floating lanterns on water",
+   "beat": "the lantern string",
    "ink": [
     "orange",
     "plum",
@@ -774,35 +760,34 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "night, warm reflections on black water",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.373,
-   "quietAbs": 7.91,
    "lowerSat": 37.0,
    "lowerPaperFrac": 0.79,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/05.webp",
-   "cropTop": 0,
-   "take": "s08-05f_01",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "dozens of small floating paper lanterns on a dark river",
-   "scale": "wide"
+   "subject": "the lantern string",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 151664
+  "bytes": 64146
  },
  {
   "id": "panel-s08-lantern-night-06",
@@ -815,7 +800,7 @@
    "scrollName": "Lantern Night",
    "panel": 6,
    "panels": 10,
-   "beat": "a lantern tree",
+   "beat": "the bridge",
    "ink": [
     "orange",
     "plum",
@@ -827,35 +812,34 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "night, warm light within the canopy",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.339,
-   "quietAbs": 9.93,
    "lowerSat": 39.6,
    "lowerPaperFrac": 0.77,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/06.webp",
-   "cropTop": 0,
-   "take": "s08-06m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old tree hung with many glowing lanterns among its leaves",
-   "scale": "mid"
+   "subject": "the bridge",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 232336
+  "bytes": 89144
  },
  {
   "id": "panel-s08-lantern-night-07",
@@ -868,7 +852,7 @@
    "scrollName": "Lantern Night",
    "panel": 7,
    "panels": 10,
-   "beat": "a pagoda silhouette",
+   "beat": "the candle lights",
    "ink": [
     "orange",
     "plum",
@@ -880,35 +864,34 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "late night, stars and a thin moon",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.367,
-   "quietAbs": 9.18,
    "lowerSat": 39.2,
    "lowerPaperFrac": 0.81,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/07.webp",
-   "cropTop": 0,
-   "take": "s08-07m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a tall pagoda silhouette against a starry violet sky, its eaves lit",
-   "scale": "wide"
+   "subject": "the candle lights",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 116796
+  "bytes": 101136
  },
  {
   "id": "panel-s08-lantern-night-08",
@@ -921,7 +904,7 @@
    "scrollName": "Lantern Night",
    "panel": 8,
    "panels": 10,
-   "beat": "drifting embers",
+   "beat": "the stars",
    "ink": [
     "orange",
     "plum",
@@ -933,36 +916,35 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "late night, warm lantern glow against deep sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.331,
-   "quietAbs": 8.51,
    "lowerSat": 37.0,
    "lowerPaperFrac": 0.85,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/08.webp",
-   "cropTop": 0,
-   "take": "s08-08m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
    "note": "embers read as small sky lanterns and sparks",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/08-2.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 08 take 2)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a few glowing paper sky lanterns rising slowly into a starry violet sky above dark tiled rooftops",
-   "scale": "wide"
+   "subject": "the stars",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 111838
+  "bytes": 73232
  },
  {
   "id": "panel-s08-lantern-night-09",
@@ -975,7 +957,7 @@
    "scrollName": "Lantern Night",
    "panel": 9,
    "panels": 10,
-   "beat": "a quiet alley of lanterns",
+   "beat": "the moon",
    "ink": [
     "orange",
     "plum",
@@ -987,35 +969,34 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "night, warm lantern glow on wet stones",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.36,
-   "quietAbs": 9.81,
    "lowerSat": 40.1,
    "lowerPaperFrac": 0.79,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/09.webp",
-   "cropTop": 0,
-   "take": "s08-09m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a narrow quiet alley of wooden houses lined with hanging lanterns",
-   "scale": "mid"
+   "subject": "the moon",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 194054
+  "bytes": 68954
  },
  {
   "id": "panel-s08-lantern-night-10",
@@ -1028,7 +1009,7 @@
    "scrollName": "Lantern Night",
    "panel": 10,
    "panels": 10,
-   "beat": "a lantern-lit garden rock",
+   "beat": "the mossy rock",
    "ink": [
     "orange",
     "plum",
@@ -1040,21 +1021,17 @@
     "#F2C25A"
    ],
    "ground": "dark water with reflections",
-   "light": "soft warm light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.317,
-   "quietAbs": 9.55,
    "lowerSat": 41.6,
    "lowerPaperFrac": 0.78,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s08-lantern-night/10.webp",
-   "cropTop": 0,
-   "take": "s08-10m_00",
+   "master": "scrolls/s08-lantern-night/master",
    "night": "ink washes on cream paper (no black fills)",
    "showpiece": true,
    "perch": {
@@ -1065,18 +1042,21 @@
     "rockTop": 0.425,
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl3-takes/s08/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s08 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s08-lantern-night/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "red fox resting on a lantern-lit mossy garden rock",
-   "scale": "mid"
+   "subject": "the mossy rock",
+   "master_file": "docs/art/puzzle/s08-lantern-night/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s08-lantern-night/r1/spec-c0r1b.json"
   },
-  "bytes": 140338
+  "bytes": 90958
  }
 ]

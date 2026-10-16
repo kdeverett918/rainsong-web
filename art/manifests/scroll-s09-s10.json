@@ -10,7 +10,7 @@
    "scrollName": "Autumn Maples",
    "panel": 1,
    "panels": 10,
-   "beat": "the first maple",
+   "beat": "maple canopy",
    "ink": [
     "vermilion",
     "ochre",
@@ -22,33 +22,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "low golden-hour sun behind it, the leaves backlit",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.146,
-   "quietAbs": 3.59,
    "lowerSat": 34.5,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/01.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/01-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 01 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "one magnificent crimson maple tree glowing in a clearing",
-   "scale": "mid"
+   "subject": "maple canopy",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 325872
+  "bytes": 61150
  },
  {
   "id": "panel-s09-autumn-maples-02",
@@ -61,7 +61,7 @@
    "scrollName": "Autumn Maples",
    "panel": 2,
    "panels": 10,
-   "beat": "a creek with floating leaves",
+   "beat": "stepping stones",
    "ink": [
     "vermilion",
     "ochre",
@@ -73,33 +73,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "dappled bright noon light through the canopy",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.107,
-   "quietAbs": 2.87,
    "lowerSat": 34.6,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/02.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/02-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 02 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a small creek running over rocks, carrying floating red leaves",
-   "scale": "close"
+   "subject": "stepping stones",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 253160
+  "bytes": 70088
  },
  {
   "id": "panel-s09-autumn-maples-03",
@@ -112,7 +112,7 @@
    "scrollName": "Autumn Maples",
    "panel": 3,
    "panels": 10,
-   "beat": "stone steps with leaves",
+   "beat": "water wheel",
    "ink": [
     "vermilion",
     "ochre",
@@ -124,33 +124,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "soft warm afternoon light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.141,
-   "quietAbs": 3.91,
    "lowerSat": 35.7,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/03.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/03-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 03 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "mossy stone steps climbing into a tunnel of red maples",
-   "scale": "mid"
+   "subject": "water wheel",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 347140
+  "bytes": 80434
  },
  {
   "id": "panel-s09-autumn-maples-04",
@@ -163,7 +163,7 @@
    "scrollName": "Autumn Maples",
    "panel": 4,
    "panels": 10,
-   "beat": "a mossy shrine roof (no symbols or script)",
+   "beat": "shrine roof",
    "ink": [
     "vermilion",
     "ochre",
@@ -175,33 +175,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "light autumn drizzle, saturated colour",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.155,
-   "quietAbs": 4.08,
    "lowerSat": 36.8,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/04.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/04-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 04 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a small moss-covered shrine roof under scarlet maples, plain with no symbols",
-   "scale": "mid"
+   "subject": "shrine roof",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 291464
+  "bytes": 32198
  },
  {
   "id": "panel-s09-autumn-maples-05",
@@ -214,7 +214,7 @@
    "scrollName": "Autumn Maples",
    "panel": 5,
    "panels": 10,
-   "beat": "a wooden water wheel",
+   "beat": "falling leaves",
    "ink": [
     "vermilion",
     "ochre",
@@ -226,33 +226,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "warm late-afternoon sun",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.115,
-   "quietAbs": 3.22,
    "lowerSat": 35.0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/05.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/05-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 05 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "an old wooden water wheel turning beside a mill pond, maples behind",
-   "scale": "mid"
+   "subject": "falling leaves",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 329530
+  "bytes": 48512
  },
  {
   "id": "panel-s09-autumn-maples-06",
@@ -265,7 +265,7 @@
    "scrollName": "Autumn Maples",
    "panel": 6,
    "panels": 10,
-   "beat": "a maple over a pool",
+   "beat": "still pool with leaves",
    "ink": [
     "vermilion",
     "ochre",
@@ -277,33 +277,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "soft overcast light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.133,
-   "quietAbs": 3.83,
    "lowerSat": 35.9,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/06.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/06-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 06 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "maple branches arching over a dark forest pool full of red reflections",
-   "scale": "close"
+   "subject": "still pool with leaves",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 240910
+  "bytes": 70292
  },
  {
   "id": "panel-s09-autumn-maples-07",
@@ -316,7 +316,7 @@
    "scrollName": "Autumn Maples",
    "panel": 7,
    "panels": 10,
-   "beat": "acorns and mushrooms on a log",
+   "beat": "fallen log",
    "ink": [
     "vermilion",
     "ochre",
@@ -328,33 +328,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "a sunbeam on the log in shadowy woods",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.13,
-   "quietAbs": 3.56,
    "lowerSat": 36.9,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/07.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/07-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 07 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "acorns and red-capped mushrooms on a mossy fallen log",
-   "scale": "close"
+   "subject": "fallen log",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 234598
+  "bytes": 72576
  },
  {
   "id": "panel-s09-autumn-maples-08",
@@ -367,7 +367,7 @@
    "scrollName": "Autumn Maples",
    "panel": 8,
    "panels": 10,
-   "beat": "a gold ginkgo",
+   "beat": "ginkgo tree",
    "ink": [
     "vermilion",
     "ochre",
@@ -379,33 +379,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "bright clear midday sun, blue sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.152,
-   "quietAbs": 3.89,
    "lowerSat": 35.7,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/08.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/08-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 08 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a towering golden ginkgo tree among red maples",
-   "scale": "wide"
+   "subject": "ginkgo tree",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 368514
+  "bytes": 38298
  },
  {
   "id": "panel-s09-autumn-maples-09",
@@ -418,7 +418,7 @@
    "scrollName": "Autumn Maples",
    "panel": 9,
    "panels": 10,
-   "beat": "a misty hillside",
+   "beat": "low sun with rays",
    "ink": [
     "vermilion",
     "ochre",
@@ -430,33 +430,33 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "dramatic sunset, clouds lit pink and orange",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.165,
-   "quietAbs": 3.87,
    "lowerSat": 36.2,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/09.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/09-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 09 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a whole hillside of red, orange and gold forest",
-   "scale": "wide"
+   "subject": "low sun with rays",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 283230
+  "bytes": 29028
  },
  {
   "id": "panel-s09-autumn-maples-10",
@@ -469,7 +469,7 @@
    "scrollName": "Autumn Maples",
    "panel": 10,
    "panels": 10,
-   "beat": "a hollow tree stump (squirrel perch)",
+   "beat": "hollow stump (home, squirrel)",
    "ink": [
     "vermilion",
     "ochre",
@@ -481,24 +481,19 @@
     "#7A3B69"
    ],
    "ground": "leaf-covered stream",
-   "light": "soft warm light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.14,
-   "quietAbs": 3.66,
    "lowerSat": 36.3,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s09-autumn-maples/10.webp",
-   "cropTop": 0,
+   "master": "scrolls/s09-autumn-maples/master",
    "source": {
-    "take": "docs/art/masters/dl5-takes/s09/10-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s09 10 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s09-autumn-maples/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s09-autumn-maples panel 1 (style)",
    "perch": {
@@ -514,13 +509,18 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "showpiece": true,
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "red squirrel resting on a hollow moss-covered tree stump",
-   "scale": "mid"
+   "subject": "hollow stump (home, squirrel)",
+   "master_file": "docs/art/puzzle/s09-autumn-maples/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s09-autumn-maples/r3/spec-r3.json"
   },
-  "bytes": 209380
+  "bytes": 69090
  },
  {
   "id": "panel-s10-snow-temple-01",
@@ -533,7 +533,7 @@
    "scrollName": "First Snow Temple",
    "panel": 1,
    "panels": 10,
-   "beat": "snow on pines",
+   "beat": "falling snow",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -545,33 +545,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "soft pearl-grey overcast light, snow falling",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.164,
-   "quietAbs": 3.56,
    "lowerSat": 22.3,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/01.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s01-first-light/02 + s03-tea-hills/02 (house style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "snow-laden pine trees bowing under heavy snow",
-   "scale": "mid"
+   "subject": "falling snow",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 186200
+  "bytes": 47962
  },
  {
   "id": "panel-s10-snow-temple-02",
@@ -584,7 +584,7 @@
    "scrollName": "First Snow Temple",
    "panel": 2,
    "panels": 10,
-   "beat": "a gate in snow",
+   "beat": "the frozen pond",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -596,33 +596,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "clear blue morning after snowfall, sparkling snow",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.169,
-   "quietAbs": 3.6,
    "lowerSat": 23.0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/02.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a simple wooden gate half buried in snow",
-   "scale": "mid"
+   "subject": "the frozen pond",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 229130
+  "bytes": 61512
  },
  {
   "id": "panel-s10-snow-temple-03",
@@ -635,7 +635,7 @@
    "scrollName": "First Snow Temple",
    "panel": 3,
    "panels": 10,
-   "beat": "a bell under a roof",
+   "beat": "the stone lantern",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -647,33 +647,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "warm low winter sun from the left",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.161,
-   "quietAbs": 3.61,
    "lowerSat": 22.4,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/03.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a large bronze temple bell hanging under a snowy roof",
-   "scale": "close"
+   "subject": "the stone lantern",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 153576
+  "bytes": 46636
  },
  {
   "id": "panel-s10-snow-temple-04",
@@ -686,7 +686,7 @@
    "scrollName": "First Snow Temple",
    "panel": 4,
    "panels": 10,
-   "beat": "a frozen pond",
+   "beat": "the snowy pine",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -698,33 +698,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "cold blue twilight",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.191,
-   "quietAbs": 4.06,
    "lowerSat": 22.4,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/04.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a frozen pond with snow drifts and a single frozen reed",
-   "scale": "wide"
+   "subject": "the snowy pine",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 149204
+  "bytes": 57890
  },
  {
   "id": "panel-s10-snow-temple-05",
@@ -737,7 +737,7 @@
    "scrollName": "First Snow Temple",
    "panel": 5,
    "panels": 10,
-   "beat": "snow-capped lanterns",
+   "beat": "the temple gate",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -749,33 +749,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "blue hour, warm glow from the lit lantern",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.148,
-   "quietAbs": 3.23,
    "lowerSat": 22.4,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/05.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "three small stone lanterns wearing caps of snow, one lit warm",
-   "scale": "mid"
+   "subject": "the temple gate",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 148864
+  "bytes": 40366
  },
  {
   "id": "panel-s10-snow-temple-06",
@@ -788,7 +788,7 @@
    "scrollName": "First Snow Temple",
    "panel": 6,
    "panels": 10,
-   "beat": "a red camellia in snow",
+   "beat": "the camellia",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -800,33 +800,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "soft diffuse winter light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.158,
-   "quietAbs": 3.72,
    "lowerSat": 21.1,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/06.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "one red camellia flower on a dark green branch dusted with snow",
-   "scale": "close"
+   "subject": "the camellia",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 109684
+  "bytes": 53970
  },
  {
   "id": "panel-s10-snow-temple-07",
@@ -839,7 +839,7 @@
    "scrollName": "First Snow Temple",
    "panel": 7,
    "panels": 10,
-   "beat": "a stone path swept",
+   "beat": "the snowy path",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -851,33 +851,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "bright clear noon sun, crisp shadows",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.16,
-   "quietAbs": 3.66,
    "lowerSat": 22.6,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/07.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a swept stone path between high banks of snow leading to a temple door",
-   "scale": "mid"
+   "subject": "the snowy path",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 226424
+  "bytes": 43338
  },
  {
   "id": "panel-s10-snow-temple-08",
@@ -890,7 +890,7 @@
    "scrollName": "First Snow Temple",
    "panel": 8,
    "panels": 10,
-   "beat": "temple eaves with icicles",
+   "beat": "the bell",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -902,33 +902,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "low golden winter sunset light through the icicles",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.158,
-   "quietAbs": 3.51,
    "lowerSat": 22.1,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/08.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "icicles hanging from curved temple eaves, glittering",
-   "scale": "close"
+   "subject": "the bell",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 141712
+  "bytes": 44720
  },
  {
   "id": "panel-s10-snow-temple-09",
@@ -941,7 +941,7 @@
    "scrollName": "First Snow Temple",
    "panel": 9,
    "panels": 10,
-   "beat": "falling snow over hills",
+   "beat": "the pale sun",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -953,33 +953,33 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "dim snowy dusk",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.203,
-   "quietAbs": 3.74,
    "lowerSat": 22.6,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/09.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "heavy snow falling over quiet white hills and dark forest",
-   "scale": "wide"
+   "subject": "the pale sun",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 166914
+  "bytes": 31214
  },
  {
   "id": "panel-s10-snow-temple-10",
@@ -992,7 +992,7 @@
    "scrollName": "First Snow Temple",
    "panel": 10,
    "panels": 10,
-   "beat": "a snow-covered rock (snow hare perch)",
+   "beat": "the snow drift",
    "ink": [
     "ice blue",
     "grey-violet",
@@ -1004,24 +1004,19 @@
     "#E2462B"
    ],
    "ground": "fresh snow",
-   "light": "soft warm light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.165,
-   "quietAbs": 3.69,
    "lowerSat": 22.2,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/public/art/panels/s10-snow-temple/10.webp",
-   "cropTop": 0,
+   "master": "scrolls/s10-snow-temple/master",
    "source": {
-    "take": "docs/art/masters/dl3-takes/s10/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (s10 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s10-snow-temple/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "refs": "s10-snow-temple panel 1 (style)",
    "perch": {
@@ -1037,12 +1032,17 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "showpiece": true,
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "white snow hare resting on a snow-covered rounded rock",
-   "scale": "mid"
+   "subject": "the snow drift",
+   "master_file": "docs/art/puzzle/s10-snow-temple/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s10-snow-temple/r1/spec-r1c.json"
   },
-  "bytes": 147244
+  "bytes": 44966
  }
 ]

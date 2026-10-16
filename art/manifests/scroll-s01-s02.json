@@ -10,44 +10,44 @@
    "scrollName": "First Light Pond",
    "panels": 8,
    "ink": [
-    "moss green",
-    "wet slate",
-    "pale gold",
-    "vermilion"
+    "lotus pink",
+    "pond teal",
+    "first-sun gold",
+    "mint"
    ],
    "inkHex": [
-    "#56603F",
-    "#4B5A5F",
-    "#D6B46E",
-    "#C8432B"
+    "#F6A9C8",
+    "#9ED3D3",
+    "#F7D58A",
+    "#A9D9B8"
    ],
    "ground": "still pond",
    "panel": 1,
-   "beat": "a moored wooden post and the wren",
-   "subject": "a small brown wren perched on top of a single weathered wooden mooring post standing in still, glassy water; the post's reflection runs straight down",
-   "accent": "a faint gold rim on the wren's breast",
-   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
-   "horizon": 0.5,
+   "beat": "lily pad with ripple rings and dragonfly",
+   "subject": "lily pad with ripple rings and dragonfly",
+   "horizon": 0.0,
    "quietZone": {
     "from": 0.45,
     "to": 1.0
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s01-first-light/01.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s01-first-light/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s01/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s01 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s01-first-light/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
+   "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 198290
+  "bytes": 61736
  },
  {
   "id": "panel-s01-first-light-02",
@@ -60,44 +60,44 @@
    "scrollName": "First Light Pond",
    "panels": 8,
    "ink": [
-    "moss green",
-    "wet slate",
-    "pale gold",
-    "vermilion"
+    "lotus pink",
+    "pond teal",
+    "first-sun gold",
+    "mint"
    ],
    "inkHex": [
-    "#56603F",
-    "#4B5A5F",
-    "#D6B46E",
-    "#C8432B"
+    "#F6A9C8",
+    "#9ED3D3",
+    "#F7D58A",
+    "#A9D9B8"
    ],
    "ground": "still pond",
    "panel": 2,
-   "beat": "a lotus in rain",
-   "subject": "a single cream-white lotus flower, fully open, with raindrops on its petals, on one slender stem above still water; one round leaf floats beside it",
-   "accent": "the faintest blush of coral at the petal tips",
-   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
-   "horizon": 0.5,
+   "beat": "crescent moon, star dabs, cloud wisp",
+   "subject": "crescent moon, star dabs, cloud wisp",
+   "horizon": 0.46,
    "quietZone": {
     "from": 0.45,
     "to": 1.0
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s01-first-light/02.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s01-first-light/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s01/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s01 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s01-first-light/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
+   "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 188756
+  "bytes": 59914
  },
  {
   "id": "panel-s01-first-light-03",
@@ -110,44 +110,44 @@
    "scrollName": "First Light Pond",
    "panels": 8,
    "ink": [
-    "moss green",
-    "wet slate",
-    "pale gold",
-    "vermilion"
+    "lotus pink",
+    "pond teal",
+    "first-sun gold",
+    "mint"
    ],
    "inkHex": [
-    "#56603F",
-    "#4B5A5F",
-    "#D6B46E",
-    "#C8432B"
+    "#F6A9C8",
+    "#9ED3D3",
+    "#F7D58A",
+    "#A9D9B8"
    ],
    "ground": "still pond",
    "panel": 3,
-   "beat": "a pine on a granite rock",
-   "subject": "one small wind-bent pine growing from a lone rounded granite boulder that rises out of a misty, perfectly still lake",
-   "accent": "a single red maple leaf resting on the boulder",
-   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
-   "horizon": 0.5,
+   "beat": "cumulus cloud",
+   "subject": "cumulus cloud",
+   "horizon": 0.46,
    "quietZone": {
     "from": 0.45,
     "to": 1.0
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s01-first-light/03.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s01-first-light/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s01/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s01 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s01-first-light/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
+   "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 192480
+  "bytes": 46716
  },
  {
   "id": "panel-s01-first-light-04",
@@ -160,44 +160,44 @@
    "scrollName": "First Light Pond",
    "panels": 8,
    "ink": [
-    "moss green",
-    "wet slate",
-    "pale gold",
-    "vermilion"
+    "lotus pink",
+    "pond teal",
+    "first-sun gold",
+    "mint"
    ],
    "inkHex": [
-    "#56603F",
-    "#4B5A5F",
-    "#D6B46E",
-    "#C8432B"
+    "#F6A9C8",
+    "#9ED3D3",
+    "#F7D58A",
+    "#A9D9B8"
    ],
    "ground": "still pond",
    "panel": 4,
-   "beat": "a frog on a lily pad",
-   "subject": "one glossy green frog with a golden eye sitting on a single round lily pad on dark still water, rain rings spreading softly",
-   "accent": "one small pink water-lily bud beside the pad",
-   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
-   "horizon": 0.5,
+   "beat": "koi",
+   "subject": "koi",
+   "horizon": 0.0,
    "quietZone": {
     "from": 0.45,
     "to": 1.0
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s01-first-light/04.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s01-first-light/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s01/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s01 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s01-first-light/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
+   "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 195342
+  "bytes": 64136
  },
  {
   "id": "panel-s01-first-light-05",
@@ -210,44 +210,44 @@
    "scrollName": "First Light Pond",
    "panels": 8,
    "ink": [
-    "moss green",
-    "wet slate",
-    "pale gold",
-    "vermilion"
+    "lotus pink",
+    "pond teal",
+    "first-sun gold",
+    "mint"
    ],
    "inkHex": [
-    "#56603F",
-    "#4B5A5F",
-    "#D6B46E",
-    "#C8432B"
+    "#F6A9C8",
+    "#9ED3D3",
+    "#F7D58A",
+    "#A9D9B8"
    ],
    "ground": "still pond",
    "panel": 5,
-   "beat": "a dragonfly on a reed",
-   "subject": "a single vermilion dragonfly with glinting veined wings resting on the tip of one slender bent reed over still water",
-   "accent": "the dragonfly itself is the warm accent",
-   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
-   "horizon": 0.5,
+   "beat": "lotus bloom on its pads",
+   "subject": "lotus bloom on its pads",
+   "horizon": 0.0,
    "quietZone": {
     "from": 0.45,
     "to": 1.0
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s01-first-light/05.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s01-first-light/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s01/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s01 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s01-first-light/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
+   "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 189364
+  "bytes": 63860
  },
  {
   "id": "panel-s01-first-light-06",
@@ -260,44 +260,44 @@
    "scrollName": "First Light Pond",
    "panels": 8,
    "ink": [
-    "moss green",
-    "wet slate",
-    "pale gold",
-    "vermilion"
+    "lotus pink",
+    "pond teal",
+    "first-sun gold",
+    "mint"
    ],
    "inkHex": [
-    "#56603F",
-    "#4B5A5F",
-    "#D6B46E",
-    "#C8432B"
+    "#F6A9C8",
+    "#9ED3D3",
+    "#F7D58A",
+    "#A9D9B8"
    ],
    "ground": "still pond",
    "panel": 6,
-   "beat": "a willow bough over the water",
-   "subject": "one long willow bough with fine new leaves hanging down from the top edge, its tips just touching mirror-still water and making three soft rings",
-   "accent": "a pale gold glow in the leaves",
-   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
-   "horizon": 0.5,
+   "beat": "sun disc with halo and rays",
+   "subject": "sun disc with halo and rays",
+   "horizon": 0.46,
    "quietZone": {
     "from": 0.45,
     "to": 1.0
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s01-first-light/06.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s01-first-light/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s01/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s01 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s01-first-light/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
+   "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 216458
+  "bytes": 40758
  },
  {
   "id": "panel-s01-first-light-07",
@@ -310,44 +310,44 @@
    "scrollName": "First Light Pond",
    "panels": 8,
    "ink": [
-    "moss green",
-    "wet slate",
-    "pale gold",
-    "vermilion"
+    "lotus pink",
+    "pond teal",
+    "first-sun gold",
+    "mint"
    ],
    "inkHex": [
-    "#56603F",
-    "#4B5A5F",
-    "#D6B46E",
-    "#C8432B"
+    "#F6A9C8",
+    "#9ED3D3",
+    "#F7D58A",
+    "#A9D9B8"
    ],
    "ground": "still pond",
    "panel": 7,
-   "beat": "a jetty into the mist",
-   "subject": "an old narrow wooden jetty, silvered planks wet with rain, leading straight out into dawn mist over still water and vanishing softly",
-   "accent": "a coil of faded red rope on the first post",
-   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
-   "horizon": 0.5,
+   "beat": "three birds before the gold glow",
+   "subject": "three birds before the gold glow",
+   "horizon": 0.46,
    "quietZone": {
     "from": 0.45,
     "to": 1.0
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s01-first-light/07.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s01-first-light/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s01/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s01 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s01-first-light/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "the dawn sun breaking through behind the subject, a glowing gold halo and a bright gold path on the water"
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
+   "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 199970
+  "bytes": 48660
  },
  {
   "id": "panel-s01-first-light-08",
@@ -368,44 +368,44 @@
    "scrollName": "First Light Pond",
    "panels": 8,
    "ink": [
-    "moss green",
-    "wet slate",
-    "pale gold",
-    "vermilion"
+    "lotus pink",
+    "pond teal",
+    "first-sun gold",
+    "mint"
    ],
    "inkHex": [
-    "#56603F",
-    "#4B5A5F",
-    "#D6B46E",
-    "#C8432B"
+    "#F6A9C8",
+    "#9ED3D3",
+    "#F7D58A",
+    "#A9D9B8"
    ],
    "ground": "still pond",
    "panel": 8,
-   "beat": "the wren's nest in the reeds",
-   "subject": "a small round wren's nest woven into a single cluster of tall golden reeds at the water's edge, the brown wren perched beside it",
-   "accent": "warm straw gold of the reeds",
-   "light": "low dawn sun hidden in the mist at the upper left, a pale gold glow",
-   "horizon": 0.5,
+   "beat": "woven nest with eggs among cattails (home)",
+   "subject": "woven nest with eggs among cattails (home)",
+   "horizon": 0.0,
    "quietZone": {
     "from": 0.45,
     "to": 1.0
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
-   "master": "docs/art/masters/public/art/panels/s01-first-light/08.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s01-first-light/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s01/08-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s01, panel 8, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "slices": "docs/art/puzzle/s01-first-light/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
+   },
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
+   "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 150188
+  "bytes": 69186
  },
  {
   "id": "panel-s02-bamboo-01",
@@ -433,10 +433,9 @@
    ],
    "ground": "wet stone path",
    "panel": 1,
-   "beat": "a stone lantern in the bamboo",
-   "subject": "one old moss-covered stone garden lantern standing among slender bamboo stems in light rain",
+   "beat": "the bamboo leaves",
+   "subject": "the bamboo leaves",
    "accent": "a faint amber glow inside the lantern window",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -444,20 +443,22 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/01.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 314508
+  "bytes": 38998
  },
  {
   "id": "panel-s02-bamboo-02",
@@ -485,10 +486,9 @@
    ],
    "ground": "wet stone path",
    "panel": 2,
-   "beat": "a path into the grove",
-   "subject": "a single narrow stone path curving gently into a tall bamboo grove that fades into pale mist",
+   "beat": "the stepping stones",
+   "subject": "the stepping stones",
    "accent": "one fallen amber leaf on the wet stones",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -496,20 +496,22 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/02.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 319416
+  "bytes": 52168
  },
  {
   "id": "panel-s02-bamboo-03",
@@ -537,10 +539,9 @@
    ],
    "ground": "wet stone path",
    "panel": 3,
-   "beat": "a mossy stone bridge",
-   "subject": "a small arched stone bridge covered in moss over a quiet stream, bamboo dissolving in mist behind it",
+   "beat": "the stone basin",
+   "subject": "the stone basin",
    "accent": "a few amber leaves on the bridge",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -548,20 +549,22 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/03.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 290716
+  "bytes": 57452
  },
  {
   "id": "panel-s02-bamboo-04",
@@ -589,10 +592,9 @@
    ],
    "ground": "wet stone path",
    "panel": 4,
-   "beat": "a bamboo water spout",
-   "subject": "a single bamboo water spout dripping a thin stream of water into a round stone basin, rain-beaded",
+   "beat": "the lantern",
+   "subject": "the lantern",
    "accent": "one red camellia floating in the basin; DL r4: a low morning sun in the mist at the upper right and its gold path on the water",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -600,25 +602,27 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/04.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/04-2.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 04 take 2)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
    "lightPass": {
     "script": "docs/art/dl3/_scripts/home4.py",
     "why": "JUDGE-r3-3 spec 11: one warm accent at clear strength on the day Home hero",
     "geometry": "unchanged (ui/nightlamp.ts fractions hold)"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 273100
+  "bytes": 34662
  },
  {
   "id": "panel-s02-bamboo-05",
@@ -646,10 +650,9 @@
    ],
    "ground": "wet stone path",
    "panel": 5,
-   "beat": "a snail on a broad leaf",
-   "subject": "one small snail with an amber shell climbing a single broad, rain-beaded green leaf",
+   "beat": "the falling leaves",
+   "subject": "the falling leaves",
    "accent": "the snail's amber shell",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -657,20 +660,22 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/05.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 233936
+  "bytes": 32488
  },
  {
   "id": "panel-s02-bamboo-06",
@@ -698,10 +703,9 @@
    ],
    "ground": "wet stone path",
    "panel": 6,
-   "beat": "a stone stair in the grove",
-   "subject": "a short flight of worn, moss-edged stone steps rising into tall bamboo and pale mist",
+   "beat": "the footbridge",
+   "subject": "the footbridge",
    "accent": "a single amber lamp glow at the top of the steps",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -709,20 +713,22 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/06.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 408104
+  "bytes": 47676
  },
  {
   "id": "panel-s02-bamboo-07",
@@ -750,10 +756,9 @@
    ],
    "ground": "wet stone path",
    "panel": 7,
-   "beat": "a wooden bench under bamboo",
-   "subject": "one empty weathered wooden bench beneath arching bamboo, rain dripping from the leaves",
+   "beat": "the snail",
+   "subject": "the snail",
    "accent": "a folded amber cloth on the bench",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -761,20 +766,22 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/07.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 352070
+  "bytes": 49830
  },
  {
   "id": "panel-s02-bamboo-08",
@@ -802,10 +809,9 @@
    ],
    "ground": "wet stone path",
    "panel": 8,
-   "beat": "amber lanterns at dusk",
-   "subject": "a single round paper lantern glowing amber, hanging from one bamboo stem at blue dusk in light rain",
+   "beat": "the sun",
+   "subject": "the sun",
    "accent": "the lantern's warm glow",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -813,20 +819,22 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/08.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 274686
+  "bytes": 24788
  },
  {
   "id": "panel-s02-bamboo-09",
@@ -854,10 +862,9 @@
    ],
    "ground": "wet stone path",
    "panel": 9,
-   "beat": "a stream through the bamboo",
-   "subject": "a clear shallow stream running over smooth pebbles between bamboo stems, its surface catching soft light",
+   "beat": "the bell",
+   "subject": "the bell",
    "accent": "a single amber leaf drifting on the water",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -865,20 +872,22 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/09.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl6-takes/s02/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-s02 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "focal": "shafts of warm golden sunlight slanting through the bamboo and catching the subject, the brightest, warmest area of the picture"
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 303394
+  "bytes": 33420
  },
  {
   "id": "panel-s02-bamboo-10",
@@ -915,10 +924,9 @@
    ],
    "ground": "wet stone path",
    "panel": 10,
-   "beat": "the red panda on a branch",
-   "subject": "one red panda with a ringed tail resting along a mossy branch among bamboo leaves, looking calmly at the viewer",
+   "beat": "the hollow log",
+   "subject": "the hollow log",
    "accent": "the red panda's russet fur",
-   "light": "soft overcast light after summer rain, a warm amber glow from the upper right",
    "horizon": 0.5,
    "quietZone": {
     "from": 0.45,
@@ -926,19 +934,21 @@
    },
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL single-subject",
-   "master": "docs/art/masters/public/art/panels/s02-bamboo/10.webp",
-   "cropTop": 0,
+   "look": "v8 puzzle wash",
+   "master": "scrolls/s02-bamboo/master",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl-takes/s02/10-1.png",
-    "prompt": "docs/art/dl/prompts.json (scroll s02, panel 10, take 1)",
-    "script": "docs/art/dl/_scripts/gen_dl.py",
-    "size": "1728x2160",
-    "seed": null
-   }
+    "slices": "docs/art/puzzle/s02-bamboo/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
+   },
+   "master_file": "docs/art/puzzle/s02-bamboo/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 178514
+  "bytes": 45496
  }
 ]

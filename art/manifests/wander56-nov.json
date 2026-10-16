@@ -10,14 +10,13 @@
    "suite": "Island Lighthouse",
    "panel": 1,
    "panels": 10,
-   "beat": "cliffs",
+   "beat": "the cloud",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "bright morning sun",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -26,26 +25,26 @@
     "to": 1.0
    },
    "quietRatio": 0.42,
-   "quietAbs": 6.08,
-   "master": "docs/art/masters/wander/w05-lighthouse/01.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w05-01_02.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "tall chalk-white sea cliffs topped with green grass",
-   "scale": "wide"
+   "subject": "the cloud",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 228306
+  "bytes": 52816
  },
  {
   "id": "wander.w05-lighthouse.02",
@@ -58,14 +57,13 @@
    "suite": "Island Lighthouse",
    "panel": 2,
    "panels": 10,
-   "beat": "a winding path",
+   "beat": "the dune grass",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "warm afternoon sun",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -74,26 +72,26 @@
     "to": 1.0
    },
    "quietRatio": 0.473,
-   "quietAbs": 7.39,
-   "master": "docs/art/masters/wander/w05-lighthouse/02.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w05-02_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a winding footpath along the clifftop",
-   "scale": "wide"
+   "subject": "the dune grass",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 206032
+  "bytes": 106252
  },
  {
   "id": "wander.w05-lighthouse.03",
@@ -106,14 +104,13 @@
    "suite": "Island Lighthouse",
    "panel": 3,
    "panels": 10,
-   "beat": "the lighthouse",
+   "beat": "the shells",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "clear midday light, deep blue sky",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -122,26 +119,26 @@
     "to": 1.0
    },
    "quietRatio": 0.427,
-   "quietAbs": 6.3,
-   "master": "docs/art/masters/wander/w05-lighthouse/03.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w05-03_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a red-and-white striped lighthouse on the headland",
-   "scale": "mid"
+   "subject": "the shells",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 194686
+  "bytes": 56054
  },
  {
   "id": "wander.w05-lighthouse.04",
@@ -154,14 +151,13 @@
    "suite": "Island Lighthouse",
    "panel": 4,
    "panels": 10,
-   "beat": "gulls",
+   "beat": "the gulls",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "bright breezy light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -170,26 +166,26 @@
     "to": 1.0
    },
    "quietRatio": 0.525,
-   "quietAbs": 6.84,
-   "master": "docs/art/masters/wander/w05-lighthouse/04.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w05-04_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "two gulls hanging in the wind beside the cliff",
-   "scale": "close"
+   "subject": "the gulls",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 143596
+  "bytes": 41128
  },
  {
   "id": "wander.w05-lighthouse.05",
@@ -202,14 +198,13 @@
    "suite": "Island Lighthouse",
    "panel": 5,
    "panels": 10,
-   "beat": "a cove",
+   "beat": "the lighthouse",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "high noon",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -218,26 +213,26 @@
     "to": 1.0
    },
    "quietRatio": 0.5,
-   "quietAbs": 7.67,
-   "master": "docs/art/masters/wander/w05-lighthouse/05.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w05-05_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a small sheltered cove of turquoise water and pebbles",
-   "scale": "wide"
+   "subject": "the lighthouse",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 224302
+  "bytes": 35808
  },
  {
   "id": "wander.w05-lighthouse.06",
@@ -250,14 +245,13 @@
    "suite": "Island Lighthouse",
    "panel": 6,
    "panels": 10,
-   "beat": "a rowboat",
+   "beat": "the wave",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "golden-hour light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -266,26 +260,26 @@
     "to": 1.0
    },
    "quietRatio": 0.437,
-   "quietAbs": 5.76,
-   "master": "docs/art/masters/wander/w05-lighthouse/06.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w05-06_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a blue wooden rowboat pulled up on pebbles",
-   "scale": "close"
+   "subject": "the wave",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 219686
+  "bytes": 58810
  },
  {
   "id": "wander.w05-lighthouse.07",
@@ -298,14 +292,13 @@
    "suite": "Island Lighthouse",
    "panel": 7,
    "panels": 10,
-   "beat": "rocks with foam",
+   "beat": "the rock pool",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "dramatic stormy light with sun breaking through",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -314,26 +307,26 @@
     "to": 1.0
    },
    "quietRatio": 0.524,
-   "quietAbs": 5.94,
-   "master": "docs/art/masters/wander/w05-lighthouse/07.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w05-07_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "waves bursting white against dark rocks",
-   "scale": "mid"
+   "subject": "the rock pool",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 214544
+  "bytes": 82980
  },
  {
   "id": "wander.w05-lighthouse.08",
@@ -346,14 +339,13 @@
    "suite": "Island Lighthouse",
    "panel": 8,
    "panels": 10,
-   "beat": "wildflowers",
+   "beat": "the sail",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "soft bright light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -362,26 +354,26 @@
     "to": 1.0
    },
    "quietRatio": 0.313,
-   "quietAbs": 5.23,
-   "master": "docs/art/masters/wander/w05-lighthouse/08.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w05-08_02.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "sea pinks and yellow wildflowers on the cliff edge",
-   "scale": "close"
+   "subject": "the sail",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 214744
+  "bytes": 34966
  },
  {
   "id": "wander.w05-lighthouse.09",
@@ -394,14 +386,13 @@
    "suite": "Island Lighthouse",
    "panel": 9,
    "panels": 10,
-   "beat": "the beam at dusk",
+   "beat": "the evening sun",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "deep blue dusk",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -410,18 +401,13 @@
     "to": 1.0
    },
    "quietRatio": 0.362,
-   "quietAbs": 5.66,
-   "master": "docs/art/masters/wander/w05-lighthouse/09.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "lh09_01",
    "group": "wander56-nov",
    "regen": {
     "by": "wave34 launch gate",
@@ -435,13 +421,18 @@
      "old 09 for composition"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "the lighthouse beam sweeping across a dusky sky",
-   "scale": "mid"
+   "subject": "the evening sun",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 180436
+  "bytes": 37862
  },
  {
   "id": "wander.w05-lighthouse.10",
@@ -454,14 +445,13 @@
    "suite": "Island Lighthouse",
    "panel": 10,
    "panels": 10,
-   "beat": "open water",
+   "beat": "the cove",
    "ink": [
     "navy",
     "sunflower",
     "coral"
    ],
    "ground": "calm pale sea",
-   "light": "late-afternoon silver light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "far sea horizon",
@@ -470,18 +460,13 @@
     "to": 1.0
    },
    "quietRatio": 0.372,
-   "quietAbs": 3.9,
-   "master": "docs/art/masters/wander/w05-lighthouse/10.webp",
+   "master": "scrolls/w05-lighthouse/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w05/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w05 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w05-lighthouse/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "lh10_00",
    "group": "wander56-nov",
    "regen": {
     "by": "wave34 launch gate",
@@ -494,13 +479,18 @@
      "wander/w05-lighthouse/01"
     ]
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "open sea under towering clouds",
-   "scale": "wide"
+   "subject": "the cove",
+   "master_file": "docs/art/puzzle/w05-lighthouse/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w05-lighthouse/f3/spec-f3.json"
   },
-  "bytes": 202586
+  "bytes": 65886
  },
  {
   "id": "wander.w06-cloud-garden.01",
@@ -513,14 +503,13 @@
    "suite": "Cloud Garden",
    "panel": 1,
    "panels": 10,
-   "beat": "floating islands with trees",
+   "beat": "the sun",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "bright morning light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -529,26 +518,26 @@
     "to": 1.0
    },
    "quietRatio": 0.285,
-   "quietAbs": 4.17,
-   "master": "docs/art/masters/wander/w06-cloud-garden/01.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-01_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "small floating islands with trees above a sea of clouds",
-   "scale": "wide"
+   "subject": "the sun",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 141642
+  "bytes": 36428
  },
  {
   "id": "wander.w06-cloud-garden.02",
@@ -561,14 +550,13 @@
    "suite": "Cloud Garden",
    "panel": 2,
    "panels": 10,
-   "beat": "a waterfall into cloud",
+   "beat": "the waterfall",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "golden afternoon light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -577,26 +565,26 @@
     "to": 1.0
    },
    "quietRatio": 0.285,
-   "quietAbs": 4.33,
-   "master": "docs/art/masters/wander/w06-cloud-garden/02.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-02_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a waterfall pouring off a floating island into the clouds",
-   "scale": "mid"
+   "subject": "the waterfall",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 193016
+  "bytes": 52950
  },
  {
   "id": "wander.w06-cloud-garden.03",
@@ -609,14 +597,13 @@
    "suite": "Cloud Garden",
    "panel": 3,
    "panels": 10,
-   "beat": "a bridge between islands",
+   "beat": "the bridge",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft noon light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -625,26 +612,26 @@
     "to": 1.0
    },
    "quietRatio": 0.289,
-   "quietAbs": 5.05,
-   "master": "docs/art/masters/wander/w06-cloud-garden/03.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-03_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a wooden rope bridge between two floating islands",
-   "scale": "mid"
+   "subject": "the bridge",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 186108
+  "bytes": 50710
  },
  {
   "id": "wander.w06-cloud-garden.04",
@@ -657,14 +644,13 @@
    "suite": "Cloud Garden",
    "panel": 4,
    "panels": 10,
-   "beat": "kites",
+   "beat": "the crane",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "bright breezy light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -673,26 +659,26 @@
     "to": 1.0
    },
    "quietRatio": 0.363,
-   "quietAbs": 4.14,
-   "master": "docs/art/masters/wander/w06-cloud-garden/04.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-04_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "three colourful kites flying high in the clear air",
-   "scale": "mid"
+   "subject": "the crane",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 146542
+  "bytes": 55342
  },
  {
   "id": "wander.w06-cloud-garden.05",
@@ -705,14 +691,13 @@
    "suite": "Cloud Garden",
    "panel": 5,
    "panels": 10,
-   "beat": "a cloud pond",
+   "beat": "the lantern",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "soft pastel morning",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -721,26 +706,26 @@
     "to": 1.0
    },
    "quietRatio": 0.247,
-   "quietAbs": 3.99,
-   "master": "docs/art/masters/wander/w06-cloud-garden/05.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-05_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a small pond on a cloud island reflecting the sky",
-   "scale": "close"
+   "subject": "the lantern",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 229256
+  "bytes": 45282
  },
  {
   "id": "wander.w06-cloud-garden.06",
@@ -753,14 +738,13 @@
    "suite": "Cloud Garden",
    "panel": 6,
    "panels": 10,
-   "beat": "birds",
+   "beat": "the moon gate",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "golden-hour light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -769,26 +753,26 @@
     "to": 1.0
    },
    "quietRatio": 0.308,
-   "quietAbs": 4.01,
-   "master": "docs/art/masters/wander/w06-cloud-garden/06.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-06_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a flock of white birds gliding over the clouds",
-   "scale": "wide"
+   "subject": "the moon gate",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 134792
+  "bytes": 54018
  },
  {
   "id": "wander.w06-cloud-garden.07",
@@ -801,14 +785,13 @@
    "suite": "Cloud Garden",
    "panel": 7,
    "panels": 10,
-   "beat": "a tea house on a cloud",
+   "beat": "the lotus",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "warm sunset light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -817,26 +800,26 @@
     "to": 1.0
    },
    "quietRatio": 0.356,
-   "quietAbs": 5.07,
-   "master": "docs/art/masters/wander/w06-cloud-garden/07.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-07_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a tiny wooden tea house on a cloud island",
-   "scale": "mid"
+   "subject": "the lotus",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 156566
+  "bytes": 53434
  },
  {
   "id": "wander.w06-cloud-garden.08",
@@ -849,14 +832,13 @@
    "suite": "Cloud Garden",
    "panel": 8,
    "panels": 10,
-   "beat": "a glowing sky",
+   "beat": "the blossom tree",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "sunset",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -865,26 +847,26 @@
     "to": 1.0
    },
    "quietRatio": 0.343,
-   "quietAbs": 4.77,
-   "master": "docs/art/masters/wander/w06-cloud-garden/08.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-08_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a glowing sky of pink and gold cloud towers",
-   "scale": "wide"
+   "subject": "the blossom tree",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 137856
+  "bytes": 61264
  },
  {
   "id": "wander.w06-cloud-garden.09",
@@ -897,14 +879,13 @@
    "suite": "Cloud Garden",
    "panel": 9,
    "panels": 10,
-   "beat": "steps of cloud",
+   "beat": "the sunset clouds",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "bright luminous light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -913,26 +894,26 @@
     "to": 1.0
    },
    "quietRatio": 0.307,
-   "quietAbs": 4.12,
-   "master": "docs/art/masters/wander/w06-cloud-garden/09.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-09_01.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a stair of stepping stones rising through the clouds",
-   "scale": "mid"
+   "subject": "the sunset clouds",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 149860
+  "bytes": 43022
  },
  {
   "id": "wander.w06-cloud-garden.10",
@@ -945,14 +926,13 @@
    "suite": "Cloud Garden",
    "panel": 10,
    "panels": 10,
-   "beat": "a sunlit summit",
+   "beat": "the cloud nest",
    "ink": [
     "sky blue",
     "pink",
     "gold"
    ],
    "ground": "a calm sea of soft cloud",
-   "light": "clear high noon",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "horizonDef": "top of the cloud sea",
@@ -961,26 +941,26 @@
     "to": 1.0
    },
    "quietRatio": 0.331,
-   "quietAbs": 4.57,
-   "master": "docs/art/masters/wander/w06-cloud-garden/10.webp",
+   "master": "scrolls/w06-cloud-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "source": {
-    "take": "docs/art/masters/dl3-takes/w06/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w06 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w06-cloud-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "cropTop": 0,
-   "take": "w06-10_00.png",
    "group": "wander56-nov",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "subject": "a sunlit summit island above everything",
-   "scale": "wide"
+   "subject": "the cloud nest",
+   "master_file": "docs/art/puzzle/w06-cloud-garden/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w06-cloud-garden/f1/spec-f1.json"
   },
-  "bytes": 153874
+  "bytes": 41696
  },
  {
   "id": "daily-2026-11-01",
@@ -1002,16 +982,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.123,
-   "quietAbs": 1.34,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov01_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_01.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_01)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/01.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1028,15 +1003,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "red and brown leaves edged with white frost crystals",
    "light": "pale cold morning sun",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 248614
+  "bytes": 95670
  },
  {
   "id": "daily-2026-11-02",
@@ -1058,16 +1032,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.086,
-   "quietAbs": 1.24,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov02_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_02.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_02)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/02.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1084,15 +1053,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a small stone cottage with one warm amber window in a hollow",
    "light": "soft blue dusk",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 371234
+  "bytes": 68466
  },
  {
   "id": "daily-2026-11-03",
@@ -1114,16 +1082,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.195,
-   "quietAbs": 1.51,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov03_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_03.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_03)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/03.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1140,15 +1103,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a round cast-iron teapot with a curl of steam on a flat snowy stone",
    "light": "soft warm light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 241840
+  "bytes": 77980
  },
  {
   "id": "daily-2026-11-04",
@@ -1170,16 +1132,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.189,
-   "quietAbs": 1.1,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov04b_00",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_04.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_04)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/04.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1196,15 +1153,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a lone white birch tree, bare, on a frosty hill, near and clear",
    "light": "a pale pink dawn",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 327944
+  "bytes": 53832
  },
  {
   "id": "daily-2026-11-05",
@@ -1226,16 +1182,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.137,
-   "quietAbs": 1.17,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov05_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_05.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_05)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/05.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1252,15 +1203,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a sprig of white snowberries on bare twigs",
    "light": "soft grey light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 175064
+  "bytes": 52278
  },
  {
   "id": "daily-2026-11-06",
@@ -1282,16 +1232,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.084,
-   "quietAbs": 1.14,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov06_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_06.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_06)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/06.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1308,15 +1253,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a neat stack of split firewood under a small wooden shelter in snow",
    "light": "cold soft afternoon sun",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 314392
+  "bytes": 72360
  },
  {
   "id": "daily-2026-11-07",
@@ -1338,16 +1282,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.181,
-   "quietAbs": 1.34,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov07_00",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_07.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_07)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/07.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1364,15 +1303,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "an iron lantern glowing on a foggy country lane",
    "light": "soft foggy night with lifted shadows",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 290566
+  "bytes": 77976
  },
  {
   "id": "daily-2026-11-08",
@@ -1394,16 +1332,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.149,
-   "quietAbs": 1.09,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov08_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_08.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_08)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/08.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1420,15 +1353,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a robin with a red breast on a frosty fence post",
    "light": "low soft winter sun",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 269762
+  "bytes": 78458
  },
  {
   "id": "daily-2026-11-09",
@@ -1450,16 +1382,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.09,
-   "quietAbs": 1.38,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov09_00",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_09.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_09)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/09.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1476,15 +1403,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a frozen puddle with feathery ice patterns and one fallen leaf trapped in it",
    "light": "bright soft cold light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 309120
+  "bytes": 73600
  },
  {
   "id": "daily-2026-11-10",
@@ -1506,16 +1432,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.12,
-   "quietAbs": 1.47,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov10_00",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_10.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_10)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/10.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1532,15 +1453,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a small snow-covered stone bridge over a dark stream",
    "light": "soft morning light",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 334770
+  "bytes": 63440
  },
  {
   "id": "daily-2026-11-11",
@@ -1562,16 +1482,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.105,
-   "quietAbs": 1.2,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov11_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/11-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 11 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_11.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_11)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/11.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1588,15 +1503,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "snow-dusted pine branches",
    "light": "soft grey snowy light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 254758
+  "bytes": 69114
  },
  {
   "id": "daily-2026-11-12",
@@ -1618,16 +1532,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.19,
-   "quietAbs": 1.11,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov12_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/12-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 12 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_12.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_12)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/12.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1644,15 +1553,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "three small stone lanterns glowing in fresh snow",
    "light": "soft blue dusk",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 302984
+  "bytes": 68884
  },
  {
   "id": "daily-2026-11-13",
@@ -1674,16 +1582,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.123,
-   "quietAbs": 1.22,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov13_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/13-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 13 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_13.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_13)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/13.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1700,15 +1603,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "steam rising from a rocky hot spring pool in snow",
    "light": "soft blue twilight",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 287194
+  "bytes": 57556
  },
  {
   "id": "daily-2026-11-14",
@@ -1730,16 +1632,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.172,
-   "quietAbs": 1.27,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov14_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/14-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 14 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_14.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_14)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/14.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1756,15 +1653,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "two red-crowned cranes flying over a snowy field",
    "light": "bright soft winter morning",
-   "scale": "wide",
    "horizon": 0.55
   },
-  "bytes": 274212
+  "bytes": 57934
  },
  {
   "id": "daily-2026-11-15",
@@ -1786,16 +1682,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.12,
-   "quietAbs": 1.13,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov15b_03",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/15-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 15 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_15.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_15)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/15.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1812,15 +1703,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a small log cabin with a warm window in a snowy clearing, a thin thread of chimney smoke, near and clear",
    "light": "golden late sun",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 346020
+  "bytes": 64954
  },
  {
   "id": "daily-2026-11-16",
@@ -1842,16 +1732,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.221,
-   "quietAbs": 2.21,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov16_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/16-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 16 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_16.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_16)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/16.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1868,15 +1753,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a little wren on a snowy branch",
    "light": "soft daylight",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 262242
+  "bytes": 67500
  },
  {
   "id": "daily-2026-11-17",
@@ -1898,16 +1782,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.118,
-   "quietAbs": 1.21,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov17_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/17-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 17 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_17.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_17)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/17.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1924,15 +1803,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a sprig of holly with red berries",
    "light": "soft bright crisp light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 247144
+  "bytes": 56160
  },
  {
   "id": "daily-2026-11-18",
@@ -1954,16 +1832,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.076,
-   "quietAbs": 1.16,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov18_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/18-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 18 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_18.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_18)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/18.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -1980,15 +1853,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "frost-feathered reeds at the edge of a frozen pond",
    "light": "pale morning",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 308770
+  "bytes": 79990
  },
  {
   "id": "daily-2026-11-19",
@@ -2010,16 +1882,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.11,
-   "quietAbs": 1.2,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov19_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/19-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 19 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_19.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_19)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/19.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2036,15 +1903,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a small brass bell hanging from a frosted branch",
    "light": "cold soft blue morning",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 225394
+  "bytes": 45646
  },
  {
   "id": "daily-2026-11-20",
@@ -2066,16 +1932,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.133,
-   "quietAbs": 1.1,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov20_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/20-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 20 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_20.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_20)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/20.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2092,15 +1953,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a single snowy mountain peak lit pink by the first sun, large in the frame",
    "light": "dawn alpenglow above soft mist",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 276722
+  "bytes": 40826
  },
  {
   "id": "daily-2026-11-21",
@@ -2122,16 +1982,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.112,
-   "quietAbs": 1.24,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov21_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/21-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 21 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_21.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_21)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/21.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2148,15 +2003,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a red fox standing in a frosty meadow",
    "light": "low golden winter sun",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 299524
+  "bytes": 86052
  },
  {
   "id": "daily-2026-11-22",
@@ -2178,16 +2032,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.115,
-   "quietAbs": 0.96,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov22_00",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/22-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 22 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_22.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_22)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/22.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2204,15 +2053,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a waxwing bird on a branch of red rowan berries",
    "light": "soft winter light",
-   "scale": "close",
    "horizon": 0.55
   },
-  "bytes": 243248
+  "bytes": 56652
  },
  {
   "id": "daily-2026-11-23",
@@ -2234,16 +2082,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.199,
-   "quietAbs": 1.38,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov23_00",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/23-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 23 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_23.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_23)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/23.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2260,15 +2103,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a heron standing in a frosty grey river",
    "light": "pale silver morning",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 302908
+  "bytes": 68618
  },
  {
   "id": "daily-2026-11-24",
@@ -2290,16 +2132,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.183,
-   "quietAbs": 1.14,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov24b_00",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/24-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 24 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_24.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_24)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/24.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2316,15 +2153,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "an old iron street lamp lit in falling snow",
    "light": "soft snowy night with lifted shadows",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 294650
+  "bytes": 66844
  },
  {
   "id": "daily-2026-11-25",
@@ -2346,16 +2182,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.102,
-   "quietAbs": 1.34,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov25_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/25-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 25 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_25.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_25)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/25.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2372,15 +2203,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a small evergreen tree hung with snow standing alone in a white field",
    "light": "bright soft winter sun",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 229536
+  "bytes": 51274
  },
  {
   "id": "daily-2026-11-26",
@@ -2402,16 +2232,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.092,
-   "quietAbs": 1.36,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov26_01",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/26-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 26 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_26.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_26)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/26.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2428,15 +2253,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a small snow-capped wooden rowing boat pulled up on the bank of a frozen river",
    "light": "soft violet dusk",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 336666
+  "bytes": 75800
  },
  {
   "id": "daily-2026-11-27",
@@ -2458,16 +2282,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.19,
-   "quietAbs": 1.98,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov27_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/27-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 27 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_27.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_27)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/27.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2484,15 +2303,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a lone pine on a ridge under a bright moon",
    "light": "soft clear night with lifted, shadows",
-   "scale": "wide",
    "horizon": 0.55
   },
-  "bytes": 240410
+  "bytes": 63332
  },
  {
   "id": "daily-2026-11-28",
@@ -2514,16 +2332,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.082,
-   "quietAbs": 1.21,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov28_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/28-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 28 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_28.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_28)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/28.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2540,15 +2353,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a small wooden hut with a warm lit doorway at the edge of a snowy forest",
    "light": "soft blue dusk",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 315258
+  "bytes": 73518
  },
  {
   "id": "daily-2026-11-29",
@@ -2570,16 +2382,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.236,
-   "quietAbs": 2.05,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov29_02",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/29-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 29 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_29.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_29)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/29.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2596,15 +2403,14 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a deer standing in falling snow at a forest edge",
    "light": "soft snowy afternoon",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 308928
+  "bytes": 77734
  },
  {
   "id": "daily-2026-11-30",
@@ -2626,16 +2432,11 @@
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.105,
-   "quietAbs": 1.2,
    "group": "wander56-nov",
-   "cropTop": 0,
-   "take": "nov30_00",
    "source": {
-    "take": "docs/art/masters/dl7-takes/daily11/30-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r7-daily11 30 take 1)",
-    "script": "docs/art/dl3/_scripts/gen7.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "take": "docs/art/puzzle/_standalone/raw/raw/daily_2026-11_30.png",
+    "prompt": "docs/art/puzzle/_standalone/spec-standalone.json (daily_2026-11_30)",
+    "route": "GPT Image 2.5 Sunburst 3:4 -> 4:5 centre crop, house wash refs"
    },
    "master": "docs/art/masters/daily/2026-11/30.webp",
    "model": "gpt-image-2.5-sunburst",
@@ -2652,14 +2453,13 @@
      "daily/2026-10/01"
     ]
    },
-   "look": "v7 DL r4-3 one light",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "subject": "a stone lantern capped with the first snow beside a sprig of red berries",
    "light": "quiet grey morning",
-   "scale": "mid",
    "horizon": 0.55
   },
-  "bytes": 310920
+  "bytes": 59930
  }
 ]

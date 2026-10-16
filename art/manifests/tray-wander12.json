@@ -9,39 +9,39 @@
    "scroll": "stone-garden",
    "panel": 1,
    "panels": 12,
-   "beat": "raked sand ripples",
+   "beat": "the stone lantern",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "low warm morning sun raking across the ripples",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.278,
-   "master": "docs/art/masters/tray/stone-garden/01.webp",
+   "quietRatio": 0.259,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "perfect concentric raked ripples around a single dark stone",
-   "scale": "close",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the stone lantern",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    1,
+    2
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 318324
+  "bytes": 84244
  },
  {
   "id": "tray.stone-garden.02",
@@ -53,39 +53,39 @@
    "scroll": "stone-garden",
    "panel": 2,
    "panels": 12,
-   "beat": "a mossy rock island",
+   "beat": "the koi pond",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "bright soft noon light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.29,
-   "master": "docs/art/masters/tray/stone-garden/02.webp",
+   "quietRatio": 0.216,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a mossy rock island in a sea of raked gravel",
-   "scale": "mid",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the koi pond",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    2,
+    2
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 282452
+  "bytes": 93184
  },
  {
   "id": "tray.stone-garden.03",
@@ -97,39 +97,39 @@
    "scroll": "stone-garden",
    "panel": 3,
    "panels": 12,
-   "beat": "a maple over a wall",
+   "beat": "the moss island",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "warm afternoon sun casting the leaf shadows on the wall",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.2,
-   "master": "docs/art/masters/tray/stone-garden/03.webp",
+   "quietRatio": 0.285,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "one red maple branch leaning over a white plaster garden wall",
-   "scale": "mid",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the moss island",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 312800
+  "bytes": 71670
  },
  {
   "id": "tray.stone-garden.04",
@@ -141,39 +141,39 @@
    "scroll": "stone-garden",
    "panel": 4,
    "panels": 12,
-   "beat": "a bamboo fence",
+   "beat": "the stone basin",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "early dusk, soft lilac and apricot sky, the lantern lit warm",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.233,
-   "master": "docs/art/masters/tray/stone-garden/04.webp",
+   "quietRatio": 0.406,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "one small red maple and a stone lantern standing beside a mossy rock in a wide raked-gravel garden; the maple and lantern sit in the upper third of the frame",
-   "scale": "wide",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the stone basin",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 321122
+  "bytes": 93646
  },
  {
   "id": "tray.stone-garden.05",
@@ -185,14 +185,13 @@
    "scroll": "stone-garden",
    "panel": 5,
    "panels": 12,
-   "beat": "a stone basin",
+   "beat": "the stacked stones",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft shade with one shaft of sun",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -200,24 +199,25 @@
     "to": 1.0
    },
    "quietRatio": 0.284,
-   "master": "docs/art/masters/tray/stone-garden/05.webp",
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a round stone water basin with a bamboo ladle, water brimming",
-   "scale": "close",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the stacked stones",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 335560
+  "bytes": 68022
  },
  {
   "id": "tray.stone-garden.06",
@@ -229,39 +229,39 @@
    "scroll": "stone-garden",
    "panel": 6,
    "panels": 12,
-   "beat": "a gravel path",
+   "beat": "the stepping stones",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "overcast silver light, the moss glowing green",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.259,
-   "master": "docs/art/masters/tray/stone-garden/06.webp",
+   "quietRatio": 0.278,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a gravel path of stepping stones through moss",
-   "scale": "mid",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the stepping stones",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    0,
+    2
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 348354
+  "bytes": 90250
  },
  {
   "id": "tray.stone-garden.07",
@@ -273,39 +273,39 @@
    "scroll": "stone-garden",
    "panel": 7,
    "panels": 12,
-   "beat": "a pine pruned low",
+   "beat": "the raked wave",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "golden late-afternoon sun",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.216,
-   "master": "docs/art/masters/tray/stone-garden/07.webp",
+   "quietRatio": 0.29,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a low cloud-pruned pine spreading over the gravel",
-   "scale": "mid",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the raked wave",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 298804
+  "bytes": 86924
  },
  {
   "id": "tray.stone-garden.08",
@@ -317,39 +317,39 @@
    "scroll": "stone-garden",
    "panel": 8,
    "panels": 12,
-   "beat": "a lantern on moss",
+   "beat": "the maple branch",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "blue dusk with the lantern lit warm",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.285,
-   "master": "docs/art/masters/tray/stone-garden/08.webp",
+   "quietRatio": 0.2,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small stone lantern standing on a bed of moss",
-   "scale": "close",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the maple branch",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 297228
+  "bytes": 78292
  },
  {
   "id": "tray.stone-garden.09",
@@ -361,39 +361,39 @@
    "scroll": "stone-garden",
    "panel": 9,
    "panels": 12,
-   "beat": "a dry stream of stones",
+   "beat": "the pale sun",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft rain-washed light, dark wet stones",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.371,
-   "master": "docs/art/masters/tray/stone-garden/09.webp",
+   "quietRatio": 0.233,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a dry stream bed of smooth river stones winding through the garden",
-   "scale": "wide",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the pale sun",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 392682
+  "bytes": 41518
  },
  {
   "id": "tray.stone-garden.10",
@@ -405,39 +405,39 @@
    "scroll": "stone-garden",
    "panel": 10,
    "panels": 12,
-   "beat": "a wooden veranda edge",
+   "beat": "the pine",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "warm afternoon light, long shadows",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.293,
-   "master": "docs/art/masters/tray/stone-garden/10.webp",
+   "quietRatio": 0.371,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "the polished edge of a wooden veranda looking onto the garden",
-   "scale": "mid",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the pine",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 385710
+  "bytes": 57084
  },
  {
   "id": "tray.stone-garden.11",
@@ -449,39 +449,39 @@
    "scroll": "stone-garden",
    "panel": 11,
    "panels": 12,
-   "beat": "a koi pond corner",
+   "beat": "the bell",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "bright dappled noon light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
-   "quietRatio": 0.406,
-   "master": "docs/art/masters/tray/stone-garden/11.webp",
+   "quietRatio": 0.293,
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v6 DL r4-2 lit painted stage",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl6-takes/stone/11-1.png",
-    "prompt": "docs/art/dl3/prompts.json (r6-stone 11 take 1)",
-    "script": "docs/art/dl3/_scripts/gen6.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "the corner of a koi pond with two orange and white koi under a maple leaf",
-   "scale": "close",
-   "focal": "warm golden late-afternoon sunlight falling on the subject, with one glowing warm accent (a lit stone lantern or sunlit maple leaves) as the brightest point"
+   "subject": "the bell",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 361242
+  "bytes": 49464
  },
  {
   "id": "tray.stone-garden.12",
@@ -493,14 +493,13 @@
    "scroll": "stone-garden",
    "panel": 12,
    "panels": 12,
-   "beat": "a sunlit moss mound (tortoise perch)",
+   "beat": "the warm stone",
    "ink": [
     "moss green",
     "slate blue",
     "warm sand"
    ],
    "ground": "raked sand",
-   "light": "soft warm light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -508,7 +507,7 @@
     "to": 1.0
    },
    "quietRatio": 0.322,
-   "master": "docs/art/masters/tray/stone-garden/12.webp",
+   "master": "scrolls/stone-garden/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
    "perch": {
@@ -517,20 +516,22 @@
     "y": 0.3,
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/stone/12-1.png",
-    "prompt": "docs/art/dl3/prompts.json (stone 12 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/stone-garden/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "tortoise resting on a sunlit velvet moss mound in the raked gravel",
-   "scale": "mid"
+   "subject": "the warm stone",
+   "master_file": "docs/art/puzzle/stone-garden/master.webp",
+   "cell": [
+    3,
+    2
+   ],
+   "prompt source": "docs/art/puzzle/stone-garden/r1/spec-r1.json"
   },
-  "bytes": 162992
+  "bytes": 77330
  },
  {
   "id": "wander.w01-wisteria.01",
@@ -542,14 +543,13 @@
    "scroll": "w01-wisteria",
    "panel": 1,
    "panels": 10,
-   "beat": "hanging wisteria",
+   "beat": "the morning sun",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "bright dappled sun shining through the blooms",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -557,23 +557,25 @@
     "to": 1.0
    },
    "quietRatio": 0.305,
-   "master": "docs/art/masters/wander/w01-wisteria/01.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "long cascading racemes of lilac wisteria",
-   "scale": "close"
+   "subject": "the morning sun",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 201512
+  "bytes": 55498
  },
  {
   "id": "wander.w01-wisteria.02",
@@ -585,14 +587,13 @@
    "scroll": "w01-wisteria",
    "panel": 2,
    "panels": 10,
-   "beat": "a pergola",
+   "beat": "the stepping stones",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm late-afternoon sun",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -600,23 +601,25 @@
     "to": 1.0
    },
    "quietRatio": 0.319,
-   "master": "docs/art/masters/wander/w01-wisteria/02.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a wooden pergola tunnel heavy with wisteria",
-   "scale": "wide"
+   "subject": "the stepping stones",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 256416
+  "bytes": 77052
  },
  {
   "id": "wander.w01-wisteria.03",
@@ -628,14 +631,13 @@
    "scroll": "w01-wisteria",
    "panel": 3,
    "panels": 10,
-   "beat": "a stone well",
+   "beat": "the pond",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "soft morning light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -643,23 +645,25 @@
     "to": 1.0
    },
    "quietRatio": 0.275,
-   "master": "docs/art/masters/wander/w01-wisteria/03.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old stone well with wisteria trailing over its rim",
-   "scale": "mid"
+   "subject": "the pond",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 279524
+  "bytes": 60010
  },
  {
   "id": "wander.w01-wisteria.04",
@@ -671,14 +675,13 @@
    "scroll": "w01-wisteria",
    "panel": 4,
    "panels": 10,
-   "beat": "a sunny courtyard",
+   "beat": "the wisteria",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "bright midday sun, crisp shadows",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -686,23 +689,25 @@
     "to": 1.0
    },
    "quietRatio": 0.328,
-   "master": "docs/art/masters/wander/w01-wisteria/04.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a sunny sandstone courtyard with a lone potted lemon tree",
-   "scale": "mid"
+   "subject": "the wisteria",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 233654
+  "bytes": 85902
  },
  {
   "id": "wander.w01-wisteria.05",
@@ -714,14 +719,13 @@
    "scroll": "w01-wisteria",
    "panel": 5,
    "panels": 10,
-   "beat": "petals on water",
+   "beat": "the round window",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm reflected noon light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -729,23 +733,25 @@
     "to": 1.0
    },
    "quietRatio": 0.246,
-   "master": "docs/art/masters/wander/w01-wisteria/05.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "lilac petals floating on a small stone pool",
-   "scale": "close"
+   "subject": "the round window",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 188368
+  "bytes": 59962
  },
  {
   "id": "wander.w01-wisteria.06",
@@ -757,14 +763,13 @@
    "scroll": "w01-wisteria",
    "panel": 6,
    "panels": 10,
-   "beat": "a moon window",
+   "beat": "the bench",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "golden-hour light through the window",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -772,23 +777,25 @@
     "to": 1.0
    },
    "quietRatio": 0.3,
-   "master": "docs/art/masters/wander/w01-wisteria/06.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a round moon window in a plaster wall framing wisteria beyond",
-   "scale": "mid"
+   "subject": "the bench",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 236222
+  "bytes": 54856
  },
  {
   "id": "wander.w01-wisteria.07",
@@ -800,14 +807,13 @@
    "scroll": "w01-wisteria",
    "panel": 7,
    "panels": 10,
-   "beat": "a bench",
+   "beat": "the flower pot",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "soft overcast light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -815,23 +821,25 @@
     "to": 1.0
    },
    "quietRatio": 0.281,
-   "master": "docs/art/masters/wander/w01-wisteria/07.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an iron garden bench beneath hanging wisteria",
-   "scale": "mid"
+   "subject": "the flower pot",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 257404
+  "bytes": 86040
  },
  {
   "id": "wander.w01-wisteria.08",
@@ -843,14 +851,13 @@
    "scroll": "w01-wisteria",
    "panel": 8,
    "panels": 10,
-   "beat": "a lantern",
+   "beat": "the songbird",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "violet dusk",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -858,23 +865,25 @@
     "to": 1.0
    },
    "quietRatio": 0.296,
-   "master": "docs/art/masters/wander/w01-wisteria/08.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a brass lantern hanging among wisteria, softly lit",
-   "scale": "close"
+   "subject": "the songbird",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 194494
+  "bytes": 85694
  },
  {
   "id": "wander.w01-wisteria.09",
@@ -886,14 +895,13 @@
    "scroll": "w01-wisteria",
    "panel": 9,
    "panels": 10,
-   "beat": "a koi basin",
+   "beat": "the lantern",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "dappled afternoon light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -901,23 +909,25 @@
     "to": 1.0
    },
    "quietRatio": 0.264,
-   "master": "docs/art/masters/wander/w01-wisteria/09.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a basin with a single orange koi under wisteria reflections",
-   "scale": "close"
+   "subject": "the lantern",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 221678
+  "bytes": 95290
  },
  {
   "id": "wander.w01-wisteria.10",
@@ -929,14 +939,13 @@
    "scroll": "w01-wisteria",
    "panel": 10,
    "panels": 10,
-   "beat": "a gate",
+   "beat": "the shady basin",
    "ink": [
     "lilac",
     "sage",
     "cream-gold"
    ],
    "ground": "pale sunlit courtyard paving",
-   "light": "warm evening light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -944,23 +953,25 @@
     "to": 1.0
    },
    "quietRatio": 0.275,
-   "master": "docs/art/masters/wander/w01-wisteria/10.webp",
+   "master": "scrolls/w01-wisteria/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w01/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w01 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w01-wisteria/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old green wooden garden gate wrapped in wisteria",
-   "scale": "mid"
+   "subject": "the shady basin",
+   "master_file": "docs/art/puzzle/w01-wisteria/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w01-wisteria/r2/spec-r2.json"
   },
-  "bytes": 262520
+  "bytes": 94012
  },
  {
   "id": "wander.w02-kelp.01",
@@ -972,14 +983,13 @@
    "scroll": "w02-kelp",
    "panel": 1,
    "panels": 10,
-   "beat": "shafts of light through kelp",
+   "beat": "the jellyfish",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "sunlight from the surface above",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -987,23 +997,25 @@
     "to": 1.0
    },
    "quietRatio": 0.424,
-   "master": "docs/art/masters/wander/w02-kelp/01.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/01-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 01 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "golden shafts of sunlight slanting down through tall kelp",
-   "scale": "wide"
+   "subject": "the jellyfish",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 173982
+  "bytes": 51250
  },
  {
   "id": "wander.w02-kelp.02",
@@ -1015,14 +1027,13 @@
    "scroll": "w02-kelp",
    "panel": 2,
    "panels": 10,
-   "beat": "a turtle far off",
+   "beat": "the kelp",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "bright blue-green light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1030,23 +1041,25 @@
     "to": 1.0
    },
    "quietRatio": 0.438,
-   "master": "docs/art/masters/wander/w02-kelp/02.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/02-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 02 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a green sea turtle gliding past the kelp",
-   "scale": "mid"
+   "subject": "the kelp",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 173914
+  "bytes": 100466
  },
  {
   "id": "wander.w02-kelp.03",
@@ -1058,14 +1071,13 @@
    "scroll": "w02-kelp",
    "panel": 3,
    "panels": 10,
-   "beat": "shells on sand",
+   "beat": "the shells",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "dancing caustic light patterns",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1073,23 +1085,25 @@
     "to": 1.0
    },
    "quietRatio": 0.397,
-   "master": "docs/art/masters/wander/w02-kelp/03.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/03-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 03 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "spiral and scallop shells on rippled sand",
-   "scale": "close"
+   "subject": "the shells",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 166144
+  "bytes": 76540
  },
  {
   "id": "wander.w02-kelp.04",
@@ -1101,14 +1115,13 @@
    "scroll": "w02-kelp",
    "panel": 4,
    "panels": 10,
-   "beat": "a reef arch",
+   "beat": "the bubbles",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "soft blue light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1116,23 +1129,25 @@
     "to": 1.0
    },
    "quietRatio": 0.362,
-   "master": "docs/art/masters/wander/w02-kelp/04.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/04-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 04 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a natural rock arch covered in soft coral and sponges",
-   "scale": "mid"
+   "subject": "the bubbles",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 210186
+  "bytes": 62226
  },
  {
   "id": "wander.w02-kelp.05",
@@ -1144,14 +1159,13 @@
    "scroll": "w02-kelp",
    "panel": 5,
    "panels": 10,
-   "beat": "jellyfish drifting",
+   "beat": "the turtle",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "deep blue water with light from above",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1159,23 +1173,25 @@
     "to": 1.0
    },
    "quietRatio": 0.424,
-   "master": "docs/art/masters/wander/w02-kelp/05.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/05-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 05 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "translucent moon jellyfish drifting, glowing softly",
-   "scale": "mid"
+   "subject": "the turtle",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 131012
+  "bytes": 78836
  },
  {
   "id": "wander.w02-kelp.06",
@@ -1187,14 +1203,13 @@
    "scroll": "w02-kelp",
    "panel": 6,
    "panels": 10,
-   "beat": "a sunken bell",
+   "beat": "the sea star",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "shafts of light",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1202,23 +1217,25 @@
     "to": 1.0
    },
    "quietRatio": 0.369,
-   "master": "docs/art/masters/wander/w02-kelp/06.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/06-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 06 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old bronze ship's bell lying in the sand, green with age",
-   "scale": "close"
+   "subject": "the sea star",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 168648
+  "bytes": 78830
  },
  {
   "id": "wander.w02-kelp.07",
@@ -1230,14 +1247,13 @@
    "scroll": "w02-kelp",
    "panel": 7,
    "panels": 10,
-   "beat": "a ray's shadow",
+   "beat": "the coral",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "bright shallow water",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1245,23 +1261,25 @@
     "to": 1.0
    },
    "quietRatio": 0.407,
-   "master": "docs/art/masters/wander/w02-kelp/07.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/07-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 07 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "the shadow of a large ray gliding over the sand",
-   "scale": "wide"
+   "subject": "the coral",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 160890
+  "bytes": 82980
  },
  {
   "id": "wander.w02-kelp.08",
@@ -1273,14 +1291,13 @@
    "scroll": "w02-kelp",
    "panel": 8,
    "panels": 10,
-   "beat": "sea grass",
+   "beat": "the fish",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "warm afternoon light filtering down",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1288,23 +1305,25 @@
     "to": 1.0
    },
    "quietRatio": 0.385,
-   "master": "docs/art/masters/wander/w02-kelp/08.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/08-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 08 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "sea grass swaying in a meadow with tiny silver fish",
-   "scale": "mid"
+   "subject": "the fish",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 204886
+  "bytes": 78764
  },
  {
   "id": "wander.w02-kelp.09",
@@ -1316,14 +1335,13 @@
    "scroll": "w02-kelp",
    "panel": 9,
    "panels": 10,
-   "beat": "bubbles",
+   "beat": "the ray",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "light from directly above",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1331,23 +1349,25 @@
     "to": 1.0
    },
    "quietRatio": 0.37,
-   "master": "docs/art/masters/wander/w02-kelp/09.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/09-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 09 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "silver bubbles rising toward a bright surface",
-   "scale": "close"
+   "subject": "the ray",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 142144
+  "bytes": 75902
  },
  {
   "id": "wander.w02-kelp.10",
@@ -1359,14 +1379,13 @@
    "scroll": "w02-kelp",
    "panel": 10,
    "panels": 10,
-   "beat": "the surface glow",
+   "beat": "the rock shelf",
    "ink": [
     "sea green",
     "coral",
     "sand"
    ],
    "ground": "pale sandy sea floor",
-   "light": "noon sun as a bright blur",
    "horizon": 0.55,
    "horizonTarget": 0.58,
    "quietZone": {
@@ -1374,22 +1393,24 @@
     "to": 1.0
    },
    "quietRatio": 0.427,
-   "master": "docs/art/masters/wander/w02-kelp/10.webp",
+   "master": "scrolls/w02-kelp/master",
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "look": "v3 DL3 variety",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
-   "cropTop": 0,
    "source": {
-    "take": "docs/art/masters/dl3-takes/w02/10-1.png",
-    "prompt": "docs/art/dl3/prompts.json (w02 10 take 1)",
-    "script": "docs/art/dl3/_scripts/gen3.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/w02-kelp/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "the shimmering underside of the sea surface seen from below",
-   "scale": "wide"
+   "subject": "the rock shelf",
+   "master_file": "docs/art/puzzle/w02-kelp/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/w02-kelp/f1/spec-f1.json"
   },
-  "bytes": 204302
+  "bytes": 106232
  }
 ]

@@ -10,7 +10,7 @@
    "scrollName": "Heron Marsh",
    "panel": 1,
    "panels": 10,
-   "beat": "tall reeds",
+   "beat": "the mist sun",
    "ink": [
     "teal",
     "coral",
@@ -22,38 +22,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "low golden-hour sun behind the reeds, rim light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.18,
-   "quietAbs": 3.85,
    "lowSat": 28.8,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/01.webp",
-   "take": "s05-p01b_00",
-   "styleRefs": [
-    "/art/panels/s01-first-light/03.webp",
-    "/art/panels/s03-tea-hills/01.webp"
-   ],
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "style refs s01 + s03 panels",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/01-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 01 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "tall feathery reed plumes backlit by the sun, seed heads glowing",
-   "scale": "close"
+   "subject": "the mist sun",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 191998
+  "bytes": 49932
  },
  {
   "id": "panel-s05-heron-marsh-02",
@@ -66,7 +61,7 @@
    "scrollName": "Heron Marsh",
    "panel": 2,
    "panels": 10,
-   "beat": "a heron's reflection",
+   "beat": "the reeds",
    "ink": [
     "teal",
     "coral",
@@ -78,34 +73,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "warm late-afternoon light from the right",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.249,
-   "quietAbs": 4.05,
    "lowSat": 27.9,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/02.webp",
-   "take": "s05-p02_01",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/02-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 02 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a grey heron standing still in a shallow golden channel",
-   "scale": "mid"
+   "subject": "the reeds",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 142916
+  "bytes": 83160
  },
  {
   "id": "panel-s05-heron-marsh-03",
@@ -118,7 +112,7 @@
    "scrollName": "Heron Marsh",
    "panel": 3,
    "panels": 10,
-   "beat": "cattails",
+   "beat": "the cattails",
    "ink": [
     "teal",
     "coral",
@@ -130,34 +124,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "soft bright noon light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.203,
-   "quietAbs": 4.7,
    "lowSat": 30.2,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/03.webp",
-   "take": "s05-p03_01",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/03-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 03 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a cluster of brown cattails with their velvet heads, one bursting with seed fluff",
-   "scale": "close"
+   "subject": "the cattails",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 166026
+  "bytes": 98478
  },
  {
   "id": "panel-s05-heron-marsh-04",
@@ -170,7 +163,7 @@
    "scrollName": "Heron Marsh",
    "panel": 4,
    "panels": 10,
-   "beat": "a wooden walkway",
+   "beat": "the ducks",
    "ink": [
     "teal",
     "coral",
@@ -182,34 +175,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "warm evening light, a pale apricot sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.189,
-   "quietAbs": 4.42,
    "lowSat": 28.7,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/04.webp",
-   "take": "s05-p04_01",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/04-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 04 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a narrow wooden boardwalk zig-zagging away through the golden reeds",
-   "scale": "wide"
+   "subject": "the ducks",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 187566
+  "bytes": 48156
  },
  {
   "id": "panel-s05-heron-marsh-05",
@@ -222,7 +214,7 @@
    "scrollName": "Heron Marsh",
    "panel": 5,
    "panels": 10,
-   "beat": "lily pads in a channel",
+   "beat": "the reed plumes",
    "ink": [
     "teal",
     "coral",
@@ -234,34 +226,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "dappled midday sun",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.198,
-   "quietAbs": 4.72,
    "lowSat": 28.3,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/05.webp",
-   "take": "s05-p05_01",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/05-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 05 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "water lilies with one pink flower open in a dark channel between reeds",
-   "scale": "close"
+   "subject": "the reed plumes",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 178594
+  "bytes": 70464
  },
  {
   "id": "panel-s05-heron-marsh-06",
@@ -274,7 +265,7 @@
    "scrollName": "Heron Marsh",
    "panel": 6,
    "panels": 10,
-   "beat": "a flight of small birds",
+   "beat": "the walkway",
    "ink": [
     "teal",
     "coral",
@@ -286,34 +277,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "dramatic amber sunset sky with tall clouds",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.225,
-   "quietAbs": 4.68,
    "lowSat": 26.7,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/06.webp",
-   "take": "s05-p06_01",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/06-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 06 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a skein of small birds wheeling over the reed beds",
-   "scale": "wide"
+   "subject": "the walkway",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 121246
+  "bytes": 55638
  },
  {
   "id": "panel-s05-heron-marsh-07",
@@ -326,7 +316,7 @@
    "scrollName": "Heron Marsh",
    "panel": 7,
    "panels": 10,
-   "beat": "a half-sunk boat",
+   "beat": "the water lily",
    "ink": [
     "teal",
     "coral",
@@ -338,34 +328,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "soft overcast autumn light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.202,
-   "quietAbs": 5.03,
    "lowSat": 27.3,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/07.webp",
-   "take": "s05-p07_01",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/07-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 07 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old half-sunk wooden rowboat among the reeds, grass growing in it",
-   "scale": "mid"
+   "subject": "the water lily",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 214764
+  "bytes": 71552
  },
  {
   "id": "panel-s05-heron-marsh-08",
@@ -378,7 +367,7 @@
    "scrollName": "Heron Marsh",
    "panel": 8,
    "panels": 10,
-   "beat": "a reed island",
+   "beat": "the island",
    "ink": [
     "teal",
     "coral",
@@ -390,34 +379,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "pale golden morning after the fog has lifted, clear sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.194,
-   "quietAbs": 4.49,
    "lowSat": 24.4,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/08.webp",
-   "take": "s05-p08_01",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/08-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 08 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small reed island with a lone silver birch on it",
-   "scale": "mid"
+   "subject": "the island",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 153546
+  "bytes": 41286
  },
  {
   "id": "panel-s05-heron-marsh-09",
@@ -430,7 +418,7 @@
    "scrollName": "Heron Marsh",
    "panel": 9,
    "panels": 10,
-   "beat": "open water with clouds",
+   "beat": "the clouds",
    "ink": [
     "teal",
     "coral",
@@ -442,34 +430,33 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "bright clear afternoon, deep blue sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.218,
-   "quietAbs": 3.92,
    "lowSat": 23.2,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/09.webp",
-   "take": "s05-p09_01",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/09-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 09 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "towering white cumulus clouds over the flat marsh",
-   "scale": "wide"
+   "subject": "the clouds",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 122456
+  "bytes": 40470
  },
  {
   "id": "panel-s05-heron-marsh-10",
@@ -482,7 +469,7 @@
    "scrollName": "Heron Marsh",
    "panel": 10,
    "panels": 10,
-   "beat": "a driftwood post (heron perch)",
+   "beat": "the still pool",
    "ink": [
     "teal",
     "coral",
@@ -494,20 +481,16 @@
     "#D6A23E"
    ],
    "ground": "shallow marsh water",
-   "light": "soft warm light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.193,
-   "quietAbs": 4.05,
    "lowSat": 21.1,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s05-heron-marsh/10.webp",
-   "take": "s05-p10b_02",
+   "master": "scrolls/s05-heron-marsh/master",
    "refs": "previous panel + panel 1",
    "perch": {
     "kind": "driftwood post top",
@@ -518,19 +501,22 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "resident": "heron",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s05/10-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s05 10 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s05-heron-marsh/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "grey heron resting on a bleached driftwood stump standing among golden reeds",
-   "scale": "mid"
+   "subject": "the still pool",
+   "master_file": "docs/art/puzzle/s05-heron-marsh/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s05-heron-marsh/r1/spec-r1b.json"
   },
-  "bytes": 153856
+  "bytes": 71762
  },
  {
   "id": "panel-s06-orchard-01",
@@ -543,7 +529,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 1,
    "panels": 10,
-   "beat": "the first tree",
+   "beat": "blossom canopy",
    "ink": [
     "pink",
     "leaf green",
@@ -555,38 +541,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "bright morning backlight against a clear blue sky",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.236,
-   "quietAbs": 3.94,
    "lowSat": 34.8,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/01.webp",
-   "take": "s06-p01_01",
-   "styleRefs": [
-    "/art/panels/s01-first-light/01.webp",
-    "/art/panels/s03-tea-hills/01.webp"
-   ],
+   "master": "scrolls/s06-orchard/master",
    "refs": "style refs s01 + s03 panels",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/01-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 01 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a branch of white apple blossom with pink buds, petals glowing",
-   "scale": "close"
+   "subject": "blossom canopy",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    0,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 130872
+  "bytes": 63154
  },
  {
   "id": "panel-s06-orchard-02",
@@ -599,7 +580,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 2,
    "panels": 10,
-   "beat": "a beehive",
+   "beat": "stone wall with blossoms",
    "ink": [
     "pink",
     "leaf green",
@@ -611,34 +592,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "warm late-morning sun",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.21,
-   "quietAbs": 3.77,
    "lowSat": 32.0,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/02.webp",
-   "take": "s06-p02_01",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/02-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 02 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a white wooden beehive under blossoming branches, a few honeybees",
-   "scale": "close"
+   "subject": "stone wall with blossoms",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    0,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 185252
+  "bytes": 55752
  },
  {
   "id": "panel-s06-orchard-03",
@@ -651,7 +631,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 3,
    "panels": 10,
-   "beat": "petals on the wind",
+   "beat": "orchard step ladder and blossom basket",
    "ink": [
     "pink",
     "leaf green",
@@ -663,34 +643,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "warm late-morning sun",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.222,
-   "quietAbs": 4.01,
    "lowSat": 31.4,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/03.webp",
-   "take": "s06-p03_01",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/03-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 03 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a honeybee on a single pink cherry blossom",
-   "scale": "close"
+   "subject": "orchard step ladder and blossom basket",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    1,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 112046
+  "bytes": 64348
  },
  {
   "id": "panel-s06-orchard-04",
@@ -703,7 +682,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 4,
    "panels": 10,
-   "beat": "a wooden ladder against a trunk",
+   "beat": "hanging beehive box",
    "ink": [
     "pink",
     "leaf green",
@@ -715,34 +694,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "soft golden afternoon sun",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.184,
-   "quietAbs": 4.03,
    "lowSat": 32.5,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/04.webp",
-   "take": "s06-p04_01",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/04-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 04 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a wooden orchard ladder against a blossoming trunk with a wicker basket of the first green apples",
-   "scale": "mid"
+   "subject": "hanging beehive box",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    1,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 286496
+  "bytes": 56564
  },
  {
   "id": "panel-s06-orchard-05",
@@ -755,7 +733,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 5,
    "panels": 10,
-   "beat": "a stone wall with blossoms",
+   "beat": "butterfly in drifting petals",
    "ink": [
     "pink",
     "leaf green",
@@ -767,34 +745,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "dappled afternoon light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.2,
-   "quietAbs": 4.8,
    "lowSat": 33.0,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/05.webp",
-   "take": "s06-p05_00",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/05-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 05 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an old dry-stone wall with blossom spilling over it and petals resting on the stones",
-   "scale": "close"
+   "subject": "butterfly in drifting petals",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    2,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 292522
+  "bytes": 34996
  },
  {
   "id": "panel-s06-orchard-06",
@@ -807,7 +784,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 6,
    "panels": 10,
-   "beat": "a small pond with petals",
+   "beat": "pond with petals",
    "ink": [
     "pink",
     "leaf green",
@@ -819,34 +796,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "clear midday light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.217,
-   "quietAbs": 4.91,
    "lowSat": 31.8,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/06.webp",
-   "take": "s06-p06_01",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/06-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 06 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a small round pond mirroring blossom branches and a blue sky",
-   "scale": "mid"
+   "subject": "pond with petals",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    2,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 290936
+  "bytes": 52884
  },
  {
   "id": "panel-s06-orchard-07",
@@ -859,7 +835,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 7,
    "panels": 10,
-   "beat": "a bench under branches",
+   "beat": "garden gate",
    "ink": [
     "pink",
     "leaf green",
@@ -871,34 +847,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "blush and lilac dusk",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.167,
-   "quietAbs": 4.11,
    "lowSat": 30.2,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/07.webp",
-   "take": "s06-p07_00",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/07-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 07 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a single blossoming branch silhouetted against a lilac dusk sky with the first star",
-   "scale": "close"
+   "subject": "garden gate",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    3,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 158188
+  "bytes": 58002
  },
  {
   "id": "panel-s06-orchard-08",
@@ -911,7 +886,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 8,
    "panels": 10,
-   "beat": "rows of trees",
+   "beat": "far hill with three trees",
    "ink": [
     "pink",
     "leaf green",
@@ -923,34 +898,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "deep blue night, the lantern's glow on the blossom",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.239,
-   "quietAbs": 4.89,
    "lowSat": 32.1,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/08.webp",
-   "take": "s06-p08b_01",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/08-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 08 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "an orchard at night with one warm paper lantern hanging from a blossoming branch",
-   "scale": "mid"
+   "subject": "far hill with three trees",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    3,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 213870
+  "bytes": 25354
  },
  {
   "id": "panel-s06-orchard-09",
@@ -963,7 +937,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 9,
    "panels": 10,
-   "beat": "a gate to the meadow",
+   "beat": "pale sun",
    "ink": [
     "pink",
     "leaf green",
@@ -975,34 +949,33 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "soft silver-grey rain light, a brighter patch of sky far away",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.214,
-   "quietAbs": 4.31,
    "lowSat": 32.2,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/09.webp",
-   "take": "s06-p09_01",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/09-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 09 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "a spring rain shower over the orchard: glistening wet blossom branches, visible falling rain streaks and puddles rippling with drops on a mossy path",
-   "scale": "mid"
+   "subject": "pale sun",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    4,
+    0
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 386072
+  "bytes": 37222
  },
  {
   "id": "panel-s06-orchard-10",
@@ -1015,7 +988,7 @@
    "scrollName": "Orchard in Bloom",
    "panel": 10,
    "panels": 10,
-   "beat": "an old gnarled tree (deer stands below)",
+   "beat": "mossy hollow (home)",
    "ink": [
     "pink",
     "leaf green",
@@ -1027,20 +1000,16 @@
     "#FFB990"
    ],
    "ground": "blossom-strewn grass",
-   "light": "soft warm light",
    "horizon": 0.55,
    "quietZone": {
     "from": 0.6,
     "to": 1.0
    },
    "quietRatio": 0.179,
-   "quietAbs": 4.21,
    "lowSat": 32.0,
-   "cropTop": 0,
    "model": "gpt-image-2.5-sunburst",
    "quality": "max",
-   "master": "docs/art/masters/panels/s06-orchard/10.webp",
-   "take": "s06-p10_00",
+   "master": "scrolls/s06-orchard/master",
    "refs": "previous panel + panel 1",
    "perch": {
     "kind": "open grass under the old tree",
@@ -1052,18 +1021,21 @@
     "note": "DL3: the resident is painted in, centred in the upper third"
    },
    "resident": "deer",
-   "look": "v5 DL r4-1 painted mist scrolls",
+   "look": "v8 puzzle wash",
    "noPeople": true,
    "noText": true,
    "source": {
-    "take": "docs/art/masters/dl5-takes/s06/10-11.png",
-    "prompt": "docs/art/dl3/prompts.json (r41-s06 10 take 11)",
-    "script": "docs/art/dl3/_scripts/gen5.py",
-    "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
+    "slices": "docs/art/puzzle/s06-orchard/slices.json",
+    "route": "GPT Image 2.5 Sunburst, one master cut into 1080x1350 cells"
    },
-   "subject": "young deer resting on the grass beneath an old gnarled blossoming apple tree",
-   "scale": "mid"
+   "subject": "mossy hollow (home)",
+   "master_file": "docs/art/puzzle/s06-orchard/master.webp",
+   "cell": [
+    4,
+    1
+   ],
+   "prompt source": "docs/art/puzzle/s06-orchard/r3/spec-r3c.json"
   },
-  "bytes": 211118
+  "bytes": 65654
  }
 ]
