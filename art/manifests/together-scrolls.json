@@ -1,0 +1,1174 @@
+[
+ {
+  "id": "together-t1-lake-morning-01",
+  "kind": "together-panel",
+  "file": "/art/together/t1-lake-morning/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": 1,
+   "panels": 8,
+   "subject": "a wooden rowboat moored to the end of a small weathered dock",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/01.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 289594
+ },
+ {
+  "id": "together-t1-lake-morning-02",
+  "kind": "together-panel",
+  "file": "/art/together/t1-lake-morning/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": 2,
+   "panels": 8,
+   "subject": "a cluster of pink water lilies opening on still water",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/02.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 350150
+ },
+ {
+  "id": "together-t1-lake-morning-03",
+  "kind": "together-panel",
+  "file": "/art/together/t1-lake-morning/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": 3,
+   "panels": 8,
+   "subject": "a lone wind-shaped pine on a granite point",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/03.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 336932
+ },
+ {
+  "id": "together-t1-lake-morning-04",
+  "kind": "together-panel",
+  "file": "/art/together/t1-lake-morning/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": 4,
+   "panels": 8,
+   "subject": "a small stone cabin by the shore with a thin curl of chimney smoke",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/04.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 346338
+ },
+ {
+  "id": "together-t1-lake-morning-05",
+  "kind": "together-panel",
+  "file": "/art/together/t1-lake-morning/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": 5,
+   "panels": 8,
+   "subject": "an old brass lantern hanging from a dock post",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/05.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 303900
+ },
+ {
+  "id": "together-t1-lake-morning-06",
+  "kind": "together-panel",
+  "file": "/art/together/t1-lake-morning/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": 6,
+   "panels": 8,
+   "subject": "purple lupins and yellow buttercups along the shore",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/06.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 352418
+ },
+ {
+  "id": "together-t1-lake-morning-07",
+  "kind": "together-panel",
+  "file": "/art/together/t1-lake-morning/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": 7,
+   "panels": 8,
+   "subject": "a pair of wooden canoe paddles leaning on a rock beside a folded wool blanket",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/07.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 383064
+ },
+ {
+  "id": "together-t1-lake-morning-08",
+  "kind": "together-panel",
+  "file": "/art/together/t1-lake-morning/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": 8,
+   "panels": 8,
+   "subject": "distant blue mountains mirrored perfectly in the lake",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/08.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 306126
+ },
+ {
+  "id": "together-t1-lake-morning-wide",
+  "kind": "together-wide",
+  "file": "/art/together/t1-lake-morning/wide.webp",
+  "w": 1536,
+  "h": 658,
+  "meta": {
+   "scroll": "t1-lake-morning",
+   "name": "Lake Morning",
+   "panel": null,
+   "panels": 8,
+   "subject": "the whole place",
+   "light": "soft gold early-morning sun, long gentle shadows, a little mist only far across the water",
+   "palette": "teal water, rose-pink dawn sky, warm honey gold, deep pine green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t1-lake-morning/wide.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 333654
+ },
+ {
+  "id": "together-t2-orchard-path-01",
+  "kind": "together-panel",
+  "file": "/art/together/t2-orchard-path/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": 1,
+   "panels": 8,
+   "subject": "a branch heavy with pink apple blossom against a clear sky",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/01.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 336808
+ },
+ {
+  "id": "together-t2-orchard-path-02",
+  "kind": "together-panel",
+  "file": "/art/together/t2-orchard-path/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": 2,
+   "panels": 8,
+   "subject": "a white-painted wooden field gate half open onto a grassy path",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/02.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 355680
+ },
+ {
+  "id": "together-t2-orchard-path-03",
+  "kind": "together-panel",
+  "file": "/art/together/t2-orchard-path/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": 3,
+   "panels": 8,
+   "subject": "a woven wicker basket of early green apples on the grass",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/03.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 354878
+ },
+ {
+  "id": "together-t2-orchard-path-04",
+  "kind": "together-panel",
+  "file": "/art/together/t2-orchard-path/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": 4,
+   "panels": 8,
+   "subject": "a wooden ladder leaning against a blossoming tree",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/04.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 357698
+ },
+ {
+  "id": "together-t2-orchard-path-05",
+  "kind": "together-panel",
+  "file": "/art/together/t2-orchard-path/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": 5,
+   "panels": 8,
+   "subject": "three painted wooden beehives at the orchard's edge",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/05.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 359154
+ },
+ {
+  "id": "together-t2-orchard-path-06",
+  "kind": "together-panel",
+  "file": "/art/together/t2-orchard-path/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": 6,
+   "panels": 8,
+   "subject": "a dry-stone wall with a small pear tree trained flat against it",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/06.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 356444
+ },
+ {
+  "id": "together-t2-orchard-path-07",
+  "kind": "together-panel",
+  "file": "/art/together/t2-orchard-path/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": 7,
+   "panels": 8,
+   "subject": "a stone well with a wooden bucket and roof",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/07.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 369526
+ },
+ {
+  "id": "together-t2-orchard-path-08",
+  "kind": "together-panel",
+  "file": "/art/together/t2-orchard-path/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": 8,
+   "panels": 8,
+   "subject": "a little red barn at the top of the orchard path",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/08.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 360488
+ },
+ {
+  "id": "together-t2-orchard-path-wide",
+  "kind": "together-wide",
+  "file": "/art/together/t2-orchard-path/wide.webp",
+  "w": 1536,
+  "h": 658,
+  "meta": {
+   "scroll": "t2-orchard-path",
+   "name": "Orchard Path",
+   "panel": null,
+   "panels": 8,
+   "subject": "the whole place",
+   "light": "bright clear late-morning sun, soft dappled shade under the trees",
+   "palette": "blossom pink, fresh leaf green, buttery yellow, warm stone",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t2-orchard-path/wide.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 392590
+ },
+ {
+  "id": "together-t3-harbour-lights-01",
+  "kind": "together-panel",
+  "file": "/art/together/t3-harbour-lights/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": 1,
+   "panels": 8,
+   "subject": "a white lighthouse on the harbour wall with its lamp just lit",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/01.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 332196
+ },
+ {
+  "id": "together-t3-harbour-lights-02",
+  "kind": "together-panel",
+  "file": "/art/together/t3-harbour-lights/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": 2,
+   "panels": 8,
+   "subject": "two painted wooden fishing boats moored side by side",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/02.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 331336
+ },
+ {
+  "id": "together-t3-harbour-lights-03",
+  "kind": "together-panel",
+  "file": "/art/together/t3-harbour-lights/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": 3,
+   "panels": 8,
+   "subject": "an iron lamp post glowing at the end of a stone pier",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/03.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 307732
+ },
+ {
+  "id": "together-t3-harbour-lights-04",
+  "kind": "together-panel",
+  "file": "/art/together/t3-harbour-lights/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": 4,
+   "panels": 8,
+   "subject": "a stack of rope lobster pots and a coil of rope on the quay",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/04.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 367808
+ },
+ {
+  "id": "together-t3-harbour-lights-05",
+  "kind": "together-panel",
+  "file": "/art/together/t3-harbour-lights/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": 5,
+   "panels": 8,
+   "subject": "a row of harbour cottages with warm lit windows",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/05.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 308188
+ },
+ {
+  "id": "together-t3-harbour-lights-06",
+  "kind": "together-panel",
+  "file": "/art/together/t3-harbour-lights/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": 6,
+   "panels": 8,
+   "subject": "a red and white buoy floating on calm water",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/06.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 313772
+ },
+ {
+  "id": "together-t3-harbour-lights-07",
+  "kind": "together-panel",
+  "file": "/art/together/t3-harbour-lights/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": 7,
+   "panels": 8,
+   "subject": "a ship's brass bell hanging on a wooden post",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/07.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 366074
+ },
+ {
+  "id": "together-t3-harbour-lights-08",
+  "kind": "together-panel",
+  "file": "/art/together/t3-harbour-lights/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": 8,
+   "panels": 8,
+   "subject": "a full moon rising over the harbour mouth",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/08.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 315986
+ },
+ {
+  "id": "together-t3-harbour-lights-wide",
+  "kind": "together-wide",
+  "file": "/art/together/t3-harbour-lights/wide.webp",
+  "w": 1536,
+  "h": 658,
+  "meta": {
+   "scroll": "t3-harbour-lights",
+   "name": "Harbour Lights",
+   "panel": null,
+   "panels": 8,
+   "subject": "the whole place",
+   "light": "deep blue dusk with warm golden lamp light and lit windows reflecting in calm water",
+   "palette": "deep cobalt blue, warm lamp gold, coral pink, sea green",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t3-harbour-lights/wide.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 346848
+ },
+ {
+  "id": "together-t4-tea-table-01",
+  "kind": "together-panel",
+  "file": "/art/together/t4-tea-table/01.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": 1,
+   "panels": 8,
+   "subject": "a porcelain teapot with a wisp of steam from the spout",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/01.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 263866
+ },
+ {
+  "id": "together-t4-tea-table-02",
+  "kind": "together-panel",
+  "file": "/art/together/t4-tea-table/02.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": 2,
+   "panels": 8,
+   "subject": "two delicate teacups with saucers, tea poured",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/02.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 313246
+ },
+ {
+  "id": "together-t4-tea-table-03",
+  "kind": "together-panel",
+  "file": "/art/together/t4-tea-table/03.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": 3,
+   "panels": 8,
+   "subject": "a cake stand with small lemon cakes and strawberries",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/03.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 265420
+ },
+ {
+  "id": "together-t4-tea-table-04",
+  "kind": "together-panel",
+  "file": "/art/together/t4-tea-table/04.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": 4,
+   "panels": 8,
+   "subject": "a glass vase of pink peonies",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/04.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 311962
+ },
+ {
+  "id": "together-t4-tea-table-05",
+  "kind": "together-panel",
+  "file": "/art/together/t4-tea-table/05.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": 5,
+   "panels": 8,
+   "subject": "a jar of golden honey with a wooden dipper",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/05.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 265542
+ },
+ {
+  "id": "together-t4-tea-table-06",
+  "kind": "together-panel",
+  "file": "/art/together/t4-tea-table/06.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": 6,
+   "panels": 8,
+   "subject": "a blue and white bowl of dark cherries",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/06.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 329334
+ },
+ {
+  "id": "together-t4-tea-table-07",
+  "kind": "together-panel",
+  "file": "/art/together/t4-tea-table/07.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": 7,
+   "panels": 8,
+   "subject": "a sugar bowl and silver spoons on a folded napkin",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/07.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 277852
+ },
+ {
+  "id": "together-t4-tea-table-08",
+  "kind": "together-panel",
+  "file": "/art/together/t4-tea-table/08.webp",
+  "w": 1080,
+  "h": 1350,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": 8,
+   "panels": 8,
+   "subject": "the open window with a light curtain and a summer garden beyond",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/08.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 303062
+ },
+ {
+  "id": "together-t4-tea-table-wide",
+  "kind": "together-wide",
+  "file": "/art/together/t4-tea-table/wide.webp",
+  "w": 1536,
+  "h": 658,
+  "meta": {
+   "scroll": "t4-tea-table",
+   "name": "The Tea Table",
+   "panel": null,
+   "panels": 8,
+   "subject": "the whole place",
+   "light": "warm afternoon sun through the window, soft clean shadows",
+   "palette": "duck-egg teal, warm terracotta, blush pink, cream linen",
+   "quietZone": {
+    "from": 0.6,
+    "to": 1.0
+   },
+   "horizon": 0.55,
+   "model": "gpt-image-2.5-sunburst",
+   "quality": "max",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/t4-tea-table/wide.png",
+    "prompt": "docs/art/together/watercolor.json",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   },
+   "style": "watercolour"
+  },
+  "bytes": 299500
+ },
+ {
+  "id": "together-scroll-icon",
+  "kind": "meta",
+  "file": "/art/together/scroll-icon.png",
+  "w": 440,
+  "h": 336,
+  "meta": {
+   "use": "Letters tab Paint together card",
+   "pair": "envelope-open",
+   "noPeople": true,
+   "noText": true,
+   "source": {
+    "take": "docs/art/masters/together-wc/scroll-icon.png",
+    "model": "openai/gpt-5.4-image-2",
+    "script": "docs/art/together/_scripts/watercolor_together.py"
+   }
+  },
+  "bytes": 219756,
+  "group": "together-scrolls"
+ }
+]

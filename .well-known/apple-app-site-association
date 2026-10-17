@@ -4,6 +4,8 @@
       {
         "appIDs": ["UH99QQFW52.com.dizzywalk.risodream"],
         "components": [
+          { "/": "/f", "comment": "Accept a Friends invitation" },
+          { "/": "/f/" },
           { "/": "/g/*", "comment": "A letter: /g/<painting>/#<code>" },
           { "/": "/d", "comment": "Today's Ink: today's Daily Garden" },
           { "/": "/d/" }
