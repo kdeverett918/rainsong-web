@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; connect-src https://rainsong-friends-api.onrender.com; base-uri 'none'; form-action 'none'">
+  <title>Delete your Rainsong Friends account</title>
+  <link rel="stylesheet" href="account.css">
+</head>
+<body><main>
+  <a href="/">Rainsong</a>
+  <h1>Delete your Friends account</h1>
+  <p>You can delete it in the app under <strong>With friends → Friends account → Delete Friends account</strong>, or here with your private recovery key.</p>
+  <p>Deletion removes your profile, friendships, invitations and notes from our active service. Shared paintings keep their revealed artwork with your name removed. Unfinished paintings close. Your solo progress and store purchases are separate.</p>
+  <form id="account-form">
+    <label for="recovery">Friends recovery key</label>
+    <p class="hint" id="key-help">Find it under With friends → Friends account → Move to another device. Never send this key to another person.</p>
+    <input id="recovery" name="recovery" type="password" autocomplete="off" spellcheck="false" aria-describedby="key-help" required maxlength="200" placeholder="RAINSONG-FRIENDS-1:…">
+    <button id="check" type="submit">Find my account</button>
+  </form>
+  <section id="confirm" hidden aria-labelledby="confirm-title">
+    <h2 id="confirm-title">Confirm deletion</h2>
+    <p id="account-name"></p>
+    <p>This permanently removes access to your Friends account.</p>
+    <button id="delete" class="danger" type="button">Delete my Friends account</button>
+    <button id="cancel" class="secondary" type="button">Keep my account</button>
+  </section>
+  <p id="status" role="status" aria-live="polite"></p>
+  <h2>Need help?</h2>
+  <p>If you cannot access your recovery key, <a href="mailto:kristine@dizzywalk.com?subject=Rainsong%20Friends%20account%20deletion">request deletion by email</a>. Include your display name and, if available, player ID. We may need more information to verify ownership. Do not email your recovery key.</p>
+  <p>Moderation reports may be kept for up to 90 days. Backups expire under our hosting provider's retention schedule. Read our <a href="/privacy/#delete-friends">privacy policy</a> for the data retained in anonymous shared paintings.</p>
+  <footer>Dizzywalk Records LLC</footer>
+</main><script src="account.js" defer></script></body>
+</html>
