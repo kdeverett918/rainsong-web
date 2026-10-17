@@ -1,0 +1,291 @@
+[
+ {
+  "id": "together-gift-boat",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/boat.webp",
+  "w": 400,
+  "h": 480,
+  "meta": {
+   "take": "boat-2",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 35366
+ },
+ {
+  "id": "together-gift-butterfly",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/butterfly.webp",
+  "w": 480,
+  "h": 322,
+  "meta": {
+   "take": "butterfly-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 38138
+ },
+ {
+  "id": "together-gift-cloud",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/cloud.webp",
+  "w": 480,
+  "h": 265,
+  "meta": {
+   "take": "cloud-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 23518
+ },
+ {
+  "id": "together-gift-crane",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/crane.webp",
+  "w": 480,
+  "h": 429,
+  "meta": {
+   "take": "crane-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 38632
+ },
+ {
+  "id": "together-gift-dragonfly",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/dragonfly.webp",
+  "w": 480,
+  "h": 355,
+  "meta": {
+   "take": "dragonfly-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 39620
+ },
+ {
+  "id": "together-gift-ducks",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/ducks.webp",
+  "w": 480,
+  "h": 182,
+  "meta": {
+   "take": "ducks-2",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 23834
+ },
+ {
+  "id": "together-gift-fern",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/fern.webp",
+  "w": 480,
+  "h": 442,
+  "meta": {
+   "take": "fern-2",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 106112
+ },
+ {
+  "id": "together-gift-fireflies",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/fireflies.webp",
+  "w": 434,
+  "h": 480,
+  "meta": {
+   "take": "fireflies-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 50178
+ },
+ {
+  "id": "together-gift-frog",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/frog.webp",
+  "w": 480,
+  "h": 375,
+  "meta": {
+   "take": "frog-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 36304
+ },
+ {
+  "id": "together-gift-ginkgo",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/ginkgo.webp",
+  "w": 480,
+  "h": 444,
+  "meta": {
+   "take": "ginkgo-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 42726
+ },
+ {
+  "id": "together-gift-hare",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/hare.webp",
+  "w": 292,
+  "h": 480,
+  "meta": {
+   "take": "hare-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 25130
+ },
+ {
+  "id": "together-gift-heron",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/heron.webp",
+  "w": 375,
+  "h": 480,
+  "meta": {
+   "take": "heron-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 36164
+ },
+ {
+  "id": "together-gift-iris",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/iris.webp",
+  "w": 381,
+  "h": 480,
+  "meta": {
+   "take": "iris-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 65150
+ },
+ {
+  "id": "together-gift-lantern",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/lantern.webp",
+  "w": 473,
+  "h": 480,
+  "meta": {
+   "take": "lantern-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true,
+   "calm": "straw (calm-wow r2)"
+  },
+  "bytes": 39810
+ },
+ {
+  "id": "together-gift-lotus",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/lotus.webp",
+  "w": 454,
+  "h": 480,
+  "meta": {
+   "take": "lotus-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 41826
+ },
+ {
+  "id": "together-gift-petals",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/petals.webp",
+  "w": 480,
+  "h": 474,
+  "meta": {
+   "take": "petals-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 33240
+ },
+ {
+  "id": "together-gift-sprig",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/sprig.webp",
+  "w": 480,
+  "h": 331,
+  "meta": {
+   "take": "sprig-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 56408
+ },
+ {
+  "id": "together-gift-swallows",
+  "kind": "together-gift",
+  "file": "/art/together/gifts/swallows.webp",
+  "w": 480,
+  "h": 414,
+  "meta": {
+   "take": "swallows-1",
+   "model": "gpt-image-2.5-sunburst",
+   "prompt": "docs/art/together-gifts/jobs.json",
+   "refs": "the scroll paintings s03, s05",
+   "noPeople": true,
+   "noText": true
+  },
+  "bytes": 36706
+ }
+]

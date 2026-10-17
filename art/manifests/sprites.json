@@ -608,7 +608,7 @@
    "baseHue": "neutral red",
    "hueShiftable": true,
    "anchor": "center",
-   "bytes": 118350
+   "bytes": 109069
   }
  },
  {
@@ -647,7 +647,7 @@
    "framesAligned": true,
    "lit": true,
    "pair": "lantern-unlit",
-   "bytes": 18633
+   "bytes": 12909
   }
  },
  {
@@ -662,7 +662,7 @@
    "framesAligned": true,
    "lit": false,
    "pair": "lantern-lit",
-   "bytes": 18541
+   "bytes": 14311
   }
  },
  {
@@ -676,7 +676,7 @@
    "anchor": "bottom-center",
    "bodyWidthPx": 481,
    "pair": "envelope-open",
-   "bytes": 236882
+   "bytes": 237211
   }
  },
  {
@@ -712,11 +712,12 @@
     "script": "docs/art/dl3/_scripts/gen7.py",
     "route": "OpenRouter openai/gpt-image-2.5-sunburst 3:4 -> 4:5 crop"
    },
-   "bytes": 47148,
+   "bytes": 36004,
    "subject": "one sealed cream paper envelope with a small round red wax seal, resting slightly tilted on a flat mossy stone in a sunlit garden meadow, a sprig of tiny white flowers beside it",
-   "light": "warm golden morning light"
+   "light": "warm golden morning light",
+   "calm": "seal recoloured to the wisteria chop #6E5288 (calm-wow r2)"
   },
-  "bytes": 56508
+  "bytes": 36004
  },
  {
   "id": "cairn-stone-01",

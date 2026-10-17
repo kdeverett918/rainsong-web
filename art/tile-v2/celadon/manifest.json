@@ -269,8 +269,8 @@
     54,
     67
    ],
-   "bytes": 2418,
-   "sha256": "d88e61e3450d210128ee11efd5f1987542381e8d01b0e24e1aea8d6be10e5d8e",
+   "bytes": 2256,
+   "sha256": "89788bd4af4f7c142d774a1e733cb2ae8fe719f5c25d653ec5b8d69637d63354",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lotus.png"
   },
   "sym/2x/lotus.webp": {
@@ -279,8 +279,8 @@
     108,
     134
    ],
-   "bytes": 6150,
-   "sha256": "9c2b7a7d1df82103e6ad7c02a3e8327d0b3f386dda090b83a2e281c1faecc2a7",
+   "bytes": 5866,
+   "sha256": "e87d1706bb8ab11acc125611614d2ad5a870600cf6ac05549c121f0825748000",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lotus.png"
   },
   "sym/3x/lotus.webp": {
@@ -289,8 +289,8 @@
     161,
     202
    ],
-   "bytes": 10892,
-   "sha256": "a40d5776c56dd9896834d304e58593095593f8e4334f0642ce3865e8757028e3",
+   "bytes": 10286,
+   "sha256": "6a399a9adf0b98ae1a32dbde52161c08c4213f37f7b7f6d0e7f30f7ad7c49602",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lotus.png"
   },
   "sym/1x/moon.webp": {
@@ -299,8 +299,8 @@
     54,
     67
    ],
-   "bytes": 2268,
-   "sha256": "1d885d51df13e65651ae44b75c737dcbd29efe073d7136e2f1eb803f8eec3385",
+   "bytes": 2192,
+   "sha256": "e8050ee611e7d86b1506d4fbbc6e7824f1028a0f61f09ae38656acd3d9c1f700",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/moon.png"
   },
   "sym/2x/moon.webp": {
@@ -309,8 +309,8 @@
     108,
     134
    ],
-   "bytes": 5634,
-   "sha256": "c72c5bfe3f9f4c9f586639c6758d61fa48b2e1a71ea35a9b7fd489fc6959d45e",
+   "bytes": 5426,
+   "sha256": "588f35feace004fc59f5419bfa9ac41700b4f9eabe79eb933b5931bbce7dbff8",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/moon.png"
   },
   "sym/3x/moon.webp": {
@@ -319,8 +319,8 @@
     161,
     202
    ],
-   "bytes": 10110,
-   "sha256": "395877f514022bb88414584dc6442ca56b6a1be36ada1714ebfeb3d243a61075",
+   "bytes": 9790,
+   "sha256": "afb6b9ad5a4b37e54b95f6689dd3c94105bf4dd6b74cc7cb3847529633ea98c7",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/moon.png"
   },
   "sym/1x/sun.webp": {
@@ -329,9 +329,9 @@
     54,
     67
    ],
-   "bytes": 3028,
-   "sha256": "4dddeb6ad879664765b62698041e82c54008c075f5efd1e6e97fdb3334c3067c",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/sun.png"
+   "bytes": 2548,
+   "sha256": "285b3843e7487e7d772a75c057a99d1330767ff9a6515906a6c2f6cc8ce22c96",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/sun.webp": {
    "kind": "symbol",
@@ -339,9 +339,9 @@
     108,
     134
    ],
-   "bytes": 7022,
-   "sha256": "21d6408f97443f6856cd8b15071978c9b79e58337c7a646adc1984b7ffbb7d4b",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/sun.png"
+   "bytes": 5644,
+   "sha256": "6c04d9734b79746e42f6fa2901d85c0e1f8783e106403826493b8818f1f4ef6c",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/sun.webp": {
    "kind": "symbol",
@@ -349,9 +349,9 @@
     161,
     202
    ],
-   "bytes": 12566,
-   "sha256": "c3c1bc5c76694d2930a6bbae8c33237af1a417d993e45d0b59a5bf7e84b00eed",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/sun.png"
+   "bytes": 9090,
+   "sha256": "676e67a4627289808e5ecfda894848e902523541ee4a34cf9a1069f55e7ada38",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/leaf.webp": {
    "kind": "symbol",
@@ -359,8 +359,8 @@
     54,
     67
    ],
-   "bytes": 2296,
-   "sha256": "0f2b7c732a7a854d2f0f269148382d25d37e26d8712f7b2539ac03785820a840",
+   "bytes": 2242,
+   "sha256": "439138731997725f4bfa36a718c44a1c97ea8c3c5d6eb2e65f29236fb615b5ee",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/leaf.png"
   },
   "sym/2x/leaf.webp": {
@@ -369,8 +369,8 @@
     108,
     134
    ],
-   "bytes": 5906,
-   "sha256": "de574341d6ae180344b206aad9fd6917d164ac14310d6755d2fd5fc16e9b5946",
+   "bytes": 5726,
+   "sha256": "67ab785bb635f9f7799624e3ff8f48290c1d51c56004beeca376f81df3bb1ca4",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/leaf.png"
   },
   "sym/3x/leaf.webp": {
@@ -379,8 +379,8 @@
     161,
     202
    ],
-   "bytes": 11042,
-   "sha256": "560fa59a1c5683af0ed545475f41e6ecd8856efda7d51ae6d799e54c0b8b93fd",
+   "bytes": 10770,
+   "sha256": "706183dcfc331f3afb586b018436b6e47f913065cec4d207b2c761fd8bb7e473",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/leaf.png"
   },
   "sym/1x/drop.webp": {
@@ -389,8 +389,8 @@
     54,
     67
    ],
-   "bytes": 2150,
-   "sha256": "3e48b83c54dfd7219bde38452fc7946a5dd130bb240ef2aaad64851449ffdde1",
+   "bytes": 2078,
+   "sha256": "76e51cedfe778ceff01b978694d1bad45b8e59138a83cf67a0ba29f9dc1268fd",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/drop.png"
   },
   "sym/2x/drop.webp": {
@@ -399,8 +399,8 @@
     108,
     134
    ],
-   "bytes": 5288,
-   "sha256": "1441b0d7fedcc3cdbf7ec4dc90175b766fab3440e1d66465bd2016635c505987",
+   "bytes": 5144,
+   "sha256": "1a9fb8806b864fb248fcd51d15992690c4f9dcc1032b7b370daf70775f47080e",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/drop.png"
   },
   "sym/3x/drop.webp": {
@@ -409,8 +409,8 @@
     161,
     202
    ],
-   "bytes": 9906,
-   "sha256": "ebd12ebea30dcaf1b5e74c32e90589d29a2a9b769679fe1d5d5330fd4c84d2b8",
+   "bytes": 9722,
+   "sha256": "328574afa57e6b7825890acb47c43edffbf012408e3bb786c83a189984c23d8b",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/drop.png"
   },
   "sym/1x/cairn.webp": {
@@ -419,9 +419,9 @@
     54,
     67
    ],
-   "bytes": 2272,
-   "sha256": "49a8da11cacd45a1640a7e56419166e031bffb2ced624b32b491f5196e4c4364",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cairn.png"
+   "bytes": 1906,
+   "sha256": "43de7421b4f3abbd556f0358571a72b8fbc68816f1f3a337f55885d89d8b3471",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/cairn.webp": {
    "kind": "symbol",
@@ -429,9 +429,9 @@
     108,
     134
    ],
-   "bytes": 6098,
-   "sha256": "26c5ddc53764bcae351e34be91f2b3941519b52c3be90988661931f4c28b06bf",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cairn.png"
+   "bytes": 3848,
+   "sha256": "91c6d6650af103551f75e5a09e467b3b344770a337d46e55e31900e75d372483",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/cairn.webp": {
    "kind": "symbol",
@@ -439,9 +439,9 @@
     161,
     202
    ],
-   "bytes": 11344,
-   "sha256": "368822cfb5bbbb748fda3d326428f780d30d3686429dd03c7091fa50857ccf50",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cairn.png"
+   "bytes": 6186,
+   "sha256": "6fb623f2637784604a363a159d540cc386d6a0ae4eeb38db2b0504a951bee5c0",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/crane.webp": {
    "kind": "symbol",
@@ -449,9 +449,9 @@
     54,
     67
    ],
-   "bytes": 2372,
-   "sha256": "d5128acbc5cbbdece1b314a280fadf57e57f31977c4ec2dbf9ffd8e6a23deb33",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/crane.png"
+   "bytes": 2238,
+   "sha256": "b5e5643246565ae2eed1044d22433467c785471cc4f711f3dde4f287e79e0ca4",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/crane.webp": {
    "kind": "symbol",
@@ -459,9 +459,9 @@
     108,
     134
    ],
-   "bytes": 5760,
-   "sha256": "5cdea4ba4efdc93baf035f87ae6f94af810b482d0a7b69a07b7490664bf69e05",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/crane.png"
+   "bytes": 4686,
+   "sha256": "b0702c6424d290080e48be38f4c6607cd71db0bbda2a6687b42a1f7f217ecd97",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/crane.webp": {
    "kind": "symbol",
@@ -469,9 +469,9 @@
     161,
     202
    ],
-   "bytes": 9654,
-   "sha256": "b11e29d7f37309015af8299838fcc2c44963e188cb50397cf704541291562ff7",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/crane.png"
+   "bytes": 7614,
+   "sha256": "31b542de850dfd621390735353ff877180a25c739d38daab4d1e341f19da1d0f",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/mushroom.webp": {
    "kind": "symbol",
@@ -479,9 +479,9 @@
     54,
     67
    ],
-   "bytes": 2214,
-   "sha256": "3250754ce9eb0cf5260e9ad40cc2f059f4c715fe843e6a02a5ab85a56d7340db",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mushroom.png"
+   "bytes": 1924,
+   "sha256": "f68129fd83e739320eb6bd1eeeba7badcdc1b21827703b999d82bdc53fd6df31",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/mushroom.webp": {
    "kind": "symbol",
@@ -489,9 +489,9 @@
     108,
     134
    ],
-   "bytes": 5520,
-   "sha256": "9a0f8f5ef7cbe734c50e54a4a7bcd43d1ded617295aadd91ffc5b3b08166e4fb",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mushroom.png"
+   "bytes": 3740,
+   "sha256": "5b1dd2fad6d2fb79b9ed30d47943200dc53c03ef328d9969e3a16159b4bf35f2",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/mushroom.webp": {
    "kind": "symbol",
@@ -499,9 +499,9 @@
     161,
     202
    ],
-   "bytes": 10056,
-   "sha256": "84ded044e9d4f36d2658f01de97baccef4b5370036f8b694bbcb73d35d7b1269",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mushroom.png"
+   "bytes": 5712,
+   "sha256": "e50c200fb1707f98e68433d45bcb8acc6165abffbabb59abebec2c0d0799f75e",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/butterfly.webp": {
    "kind": "symbol",
@@ -509,9 +509,9 @@
     54,
     67
    ],
-   "bytes": 2618,
-   "sha256": "a3c89ad49e9bbb7a9acef8f54d6ec670c86708c9fcce7852fbe62a01b4dfcbe5",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/butterfly.png"
+   "bytes": 2642,
+   "sha256": "c2e262f6aa1b7e6dc27bd8bf796cafddec84383e33a95f6bfa70d46fe249558f",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/butterfly.webp": {
    "kind": "symbol",
@@ -519,9 +519,9 @@
     108,
     134
    ],
-   "bytes": 6904,
-   "sha256": "9f563097c65d54b0694ec28334dc694c376b3cc7174f8d67b1d47c2b987994fa",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/butterfly.png"
+   "bytes": 5800,
+   "sha256": "fdeae9a38f0e0440b26c5b17acf3572e2539df4c266e6dae3ae297d69a7af58a",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/butterfly.webp": {
    "kind": "symbol",
@@ -529,9 +529,9 @@
     161,
     202
    ],
-   "bytes": 12698,
-   "sha256": "81df4ee9a4554263d42e548fed53362147c7e1d48e478faaa8672f35cb766011",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/butterfly.png"
+   "bytes": 9412,
+   "sha256": "c835ba8a6de6278f956e5169d03c753c26e6989daf21e0fa62853b0029f7ef6a",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/tulip.webp": {
    "kind": "symbol",
@@ -539,9 +539,9 @@
     54,
     67
    ],
-   "bytes": 2870,
-   "sha256": "bbba29ebff41f392f8cc50e199d48c6b1bf365311d365b6c92f92287ce727b7c",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/tulip.png"
+   "bytes": 2446,
+   "sha256": "f8d9de4d41b2af46ba44eefcfa265ea187924db10581704c405d365a6e455a4a",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/tulip.webp": {
    "kind": "symbol",
@@ -549,9 +549,9 @@
     108,
     134
    ],
-   "bytes": 7220,
-   "sha256": "21d16372095464fd3c472ee3120593d604e4f2ebb07c90f9b357f0faa778a333",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/tulip.png"
+   "bytes": 5296,
+   "sha256": "afdbb39562b22ec2801436a3ecdc03bab7b1c610b2ce1d7d8308d928e0247e6b",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/tulip.webp": {
    "kind": "symbol",
@@ -559,9 +559,9 @@
     161,
     202
    ],
-   "bytes": 12794,
-   "sha256": "e5bf782404d73be4546c15228589877ace41a0b6a8182c2cce4e7df3842a75dc",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/tulip.png"
+   "bytes": 8616,
+   "sha256": "3169b40d8e4b4d1c4de8980a2b99e00e89cd6c012e47b824f03d30c22b14fca8",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/enso.webp": {
    "kind": "symbol",
@@ -569,9 +569,9 @@
     54,
     67
    ],
-   "bytes": 2714,
-   "sha256": "23ae51b167f49698675f3e15bffbd98a40d1996ef12597383909bdda6c4c3547",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/enso.png"
+   "bytes": 2186,
+   "sha256": "64d682bb282bb6e97f7a7a464c2850efd56ce165259907f4ac1aa04c2458afbd",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/enso.webp": {
    "kind": "symbol",
@@ -579,9 +579,9 @@
     108,
     134
    ],
-   "bytes": 6758,
-   "sha256": "dcb4e6af1c622f801d774302c38ecb13e2933abc982058b1eda66b33381ed276",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/enso.png"
+   "bytes": 4462,
+   "sha256": "1e96dd14e0ce5bd3e4723823a33ce1522ca3e2c8b05ab12fd27991c9e1a876a3",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/enso.webp": {
    "kind": "symbol",
@@ -589,9 +589,9 @@
     161,
     202
    ],
-   "bytes": 11512,
-   "sha256": "376029b02a993b37183c7e96b49e23eab7745096e3e74b86845b71ae9897b2a5",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/enso.png"
+   "bytes": 6994,
+   "sha256": "0ccf727e070b8e42ae225c17266a270a403ccfb1d3aef92a7b9cef168370dafd",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/feather.webp": {
    "kind": "symbol",
@@ -599,9 +599,9 @@
     54,
     67
    ],
-   "bytes": 2462,
-   "sha256": "1c4a269d7564bc1aea6f8f782c894e554afc0bbcf87417945905a1b5b038f502",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/feather.png"
+   "bytes": 1922,
+   "sha256": "517a4ca0673925f3da0168150497747e21bbc304d73464b53d80648c4705b3e4",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/feather.webp": {
    "kind": "symbol",
@@ -609,9 +609,9 @@
     108,
     134
    ],
-   "bytes": 6280,
-   "sha256": "65dc7fa7b43e05fe46095a2864228b3b31f0ad895369a9a79bbd80096dca3496",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/feather.png"
+   "bytes": 4214,
+   "sha256": "5eea98c17832c593a451e7e85452ffa21d478790410a3db25799f84d1bd57145",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/feather.webp": {
    "kind": "symbol",
@@ -619,9 +619,9 @@
     161,
     202
    ],
-   "bytes": 11344,
-   "sha256": "7026198e0f1f9ec812a2c425d77a28f262abd22a82a895142cedfe5c83c8c1bd",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/feather.png"
+   "bytes": 6806,
+   "sha256": "f6a4274c597493782e48861001d20bf08ad987f9526298a627b1af126fb92325",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/ginkgo.webp": {
    "kind": "symbol",
@@ -629,9 +629,9 @@
     54,
     67
    ],
-   "bytes": 2058,
-   "sha256": "a138725009f2ec11f1a6125f43cb9089fd359efcf6b41da048b2c40747cd728e",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/ginkgo.png"
+   "bytes": 2010,
+   "sha256": "7a3085f39c28629b0762b281f4b445d892b64a60ff404f8d035972bf4d72543d",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/ginkgo.webp": {
    "kind": "symbol",
@@ -639,9 +639,9 @@
     108,
     134
    ],
-   "bytes": 4818,
-   "sha256": "de8cab332c8e6e309627508cf82ed1e3be2b8b6a83e89cc7b2bab07bdec50095",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/ginkgo.png"
+   "bytes": 4476,
+   "sha256": "514906b6dd3deec5fd81734eaa66239326311f095f4bf1078b769f224c5518bc",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/ginkgo.webp": {
    "kind": "symbol",
@@ -649,9 +649,9 @@
     161,
     202
    ],
-   "bytes": 8374,
-   "sha256": "576a68e34866c32c06e4564cf268a83d00b6f50ad8eb86296ec1bbf61f94cc94",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/ginkgo.png"
+   "bytes": 7158,
+   "sha256": "b310176bc52f257e1f46dcb08f1424a29aa55bf475487c45f3c0935fde98d3b3",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/acorn.webp": {
    "kind": "symbol",
@@ -659,9 +659,9 @@
     54,
     67
    ],
-   "bytes": 2458,
-   "sha256": "b95565d8fd7aad1b2c9780dd378f1c2e572a8959c6451178e86fbdbaf68e317c",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/acorn.png"
+   "bytes": 1906,
+   "sha256": "9f3123b1e706ac69473ac8e293ce669af7d3ad816e9add40e472984cc9182cbd",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/acorn.webp": {
    "kind": "symbol",
@@ -669,9 +669,9 @@
     108,
     134
    ],
-   "bytes": 6106,
-   "sha256": "da6a3f0c49a5f8bcd8ee656d37dbf3bbe82dcc18537a2a8c23b5ddfaf5c5df0b",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/acorn.png"
+   "bytes": 3838,
+   "sha256": "585c364e39a608cadb0f48e243eac97b5b93bfd25e98f7b003157710c5dccffd",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/acorn.webp": {
    "kind": "symbol",
@@ -679,9 +679,9 @@
     161,
     202
    ],
-   "bytes": 10946,
-   "sha256": "1b75e18adc86ea3221bc39379ee57783abe68f0dcd2a81087aa6da98396bbefe",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/acorn.png"
+   "bytes": 6154,
+   "sha256": "bcfae6f36d1b6aa586453c07a33806e81a601a1b40decc3efa3fab72934db129",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/dragonfly.webp": {
    "kind": "symbol",
@@ -689,9 +689,9 @@
     54,
     67
    ],
-   "bytes": 2220,
-   "sha256": "7f6e97ea178d1e06aa6cf12b51bfc06acb5086a3572e2cec2ea25a6a85ed1b4b",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/dragonfly.png"
+   "bytes": 2278,
+   "sha256": "02e55332d5243bb8090ab165402086db6ada1b657761d522f110e54c58f84ca4",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/dragonfly.webp": {
    "kind": "symbol",
@@ -699,9 +699,9 @@
     108,
     134
    ],
-   "bytes": 5614,
-   "sha256": "2eb42ff41374364ad96b3a1257fd6a9e05d21ed9f04cd0deab7c7233e8b9dfd0",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/dragonfly.png"
+   "bytes": 5042,
+   "sha256": "4480941f7d24be7d756f1b36443c7e7395b361c62a51615c48e4dec9bdc412b6",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/dragonfly.webp": {
    "kind": "symbol",
@@ -709,9 +709,9 @@
     161,
     202
    ],
-   "bytes": 9532,
-   "sha256": "0d29d2f7a9d390d33e4158fc7a040f2e0618c4278d7f768c4ca7b578e8e4faca",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/dragonfly.png"
+   "bytes": 8382,
+   "sha256": "1175117f95787a3a85d13e22f55c28ad305c09e089d5535c515d577d96c7e624",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/shell.webp": {
    "kind": "symbol",
@@ -719,9 +719,9 @@
     54,
     67
    ],
-   "bytes": 2314,
-   "sha256": "0500c045d0c7a8bb3278b7b95b0ca5c8c67e4de5b5284058440209a59e80b508",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/shell.png"
+   "bytes": 2316,
+   "sha256": "54b917bc81c2a0dce4d14d69280129cbfd1a06bf87b3def89dade1ecd2e4a2d7",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/shell.webp": {
    "kind": "symbol",
@@ -729,9 +729,9 @@
     108,
     134
    ],
-   "bytes": 5646,
-   "sha256": "3a2d3bebe5f45458fd0c45b8e5f7adcd419412304d0ffea045ab056d5ac6d11d",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/shell.png"
+   "bytes": 5302,
+   "sha256": "ee02498b668d843f73fe71e776db56b9318949294efe8cc7037dc37b7df832b1",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/shell.webp": {
    "kind": "symbol",
@@ -739,9 +739,9 @@
     161,
     202
    ],
-   "bytes": 9874,
-   "sha256": "9252dca264563f0b36269d93d090e97dbc6defaa5f0ec66d4fad7d93697733ee",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/shell.png"
+   "bytes": 8904,
+   "sha256": "8af707047d74fe7c18db6f4ced8d8574c7432c84d7390a7e1063473c5ff157d0",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/wave.webp": {
    "kind": "symbol",
@@ -749,9 +749,9 @@
     54,
     67
    ],
-   "bytes": 2684,
-   "sha256": "cb9e250dba16fe6df20db1623b8aaed406b54fbab3eeccc2c70fd47afa096e73",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/wave.png"
+   "bytes": 2402,
+   "sha256": "c3666cacbd6639b3854bb01b61f270d01ace302d817edac41fb2424aaa9ffe3d",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/wave.webp": {
    "kind": "symbol",
@@ -759,9 +759,9 @@
     108,
     134
    ],
-   "bytes": 6718,
-   "sha256": "139adba5a50049ba56ea5b13fcfdfc0138c1cd5e0787d882f5bf258eabe26f84",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/wave.png"
+   "bytes": 4948,
+   "sha256": "de37e08da98ee03f00eac147a8c5a5d3a2a97ce0f25c3e7631b5102a145c6d97",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/wave.webp": {
    "kind": "symbol",
@@ -769,9 +769,9 @@
     161,
     202
    ],
-   "bytes": 11760,
-   "sha256": "586c562dad417baee6d6e5095cc62d5bd5b7e55fe3cf5b95d0f95304f9d3cced",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/wave.png"
+   "bytes": 7678,
+   "sha256": "51b134270e7f9f51103bb6c055f81baf02210fda796488f8ce4adfaf4b6e1874",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/star.webp": {
    "kind": "symbol",
@@ -779,9 +779,9 @@
     54,
     67
    ],
-   "bytes": 2364,
-   "sha256": "ee6f196d899c203062bee3a0dc7474b562f572b84368a14497956f2b5f33771f",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/star.png"
+   "bytes": 2124,
+   "sha256": "2bae00d07ad92e4f34f757672a4cfbc95354dd1f306e0793cc6be97a18bdebb0",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/star.webp": {
    "kind": "symbol",
@@ -789,9 +789,9 @@
     108,
     134
    ],
-   "bytes": 5400,
-   "sha256": "94f0fd0cbf9f411f38a62328621aa2a267886faa9b254a8c79c5d5785ff3bc54",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/star.png"
+   "bytes": 4356,
+   "sha256": "cd3f83af151fadcb577f1c3dd296ca339ad4860c29a59632e09c684af4052e60",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/star.webp": {
    "kind": "symbol",
@@ -799,9 +799,9 @@
     161,
     202
    ],
-   "bytes": 8998,
-   "sha256": "f1f52c08a9da894b268ae884c022aebbafad4512fce02912bf0767ccc2bbcbe2",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/star.png"
+   "bytes": 6726,
+   "sha256": "6270702fd08d481ad18c26bc9a24b33c1fb899e50b73c3b74023dd939d2fbf11",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/bonsai.webp": {
    "kind": "symbol",
@@ -809,9 +809,9 @@
     54,
     67
    ],
-   "bytes": 2652,
-   "sha256": "4a7441037a4cb6d4bbe4853dcd5e05570406bd2c669f03c03cfae068628ad969",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bonsai.png"
+   "bytes": 2486,
+   "sha256": "ed28b5be093f72fa3b463e14c44f3e500ee2ca637dbc21043abccecc199b54ca",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/bonsai.webp": {
    "kind": "symbol",
@@ -819,9 +819,9 @@
     108,
     134
    ],
-   "bytes": 6850,
-   "sha256": "557a8f7c96b7478b88312d7e8a1f3c30386c3ea2d3681a27d5db6617c8f46209",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bonsai.png"
+   "bytes": 5742,
+   "sha256": "b4cc3f84faf21d554019309fa36e77146619d62a66516336a0a9a670a5fc07a3",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/bonsai.webp": {
    "kind": "symbol",
@@ -829,9 +829,9 @@
     161,
     202
    ],
-   "bytes": 11970,
-   "sha256": "2f5468cb3d0d0f76ecb035f25cb7c20df3b6801a712d50150649930dc4486c65",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bonsai.png"
+   "bytes": 8678,
+   "sha256": "221cd75e06a4d70ad65fcfdbc8499267ad4bb37ede47ca4e3c32e4097c3078f2",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/koi.webp": {
    "kind": "symbol",
@@ -839,9 +839,9 @@
     54,
     67
    ],
-   "bytes": 2904,
-   "sha256": "5a3f2c85b8c0f0c9f1d235e8e87d85b5caa6db07fb32861e1bd22a5da84b8f47",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/koi.png"
+   "bytes": 2452,
+   "sha256": "b652dc6942d79432ee6344e6096fece10ad914ea9607ce267b5187a693df0070",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/koi.webp": {
    "kind": "symbol",
@@ -849,9 +849,9 @@
     108,
     134
    ],
-   "bytes": 7220,
-   "sha256": "9bdb74bfb3cba009b96cdbde86da4df11a6c35c751f27a510cd0445b52bf3fde",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/koi.png"
+   "bytes": 5334,
+   "sha256": "871088fce11f715ae001f5b6042be713d3b6733d0a2715ac9eddc31f5df62859",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/koi.webp": {
    "kind": "symbol",
@@ -859,9 +859,9 @@
     161,
     202
    ],
-   "bytes": 12718,
-   "sha256": "58e24e579fe1dd187e0180140a1c0805a812ec9c73a556573ce94f1635f1bd67",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/koi.png"
+   "bytes": 8308,
+   "sha256": "422e1c159875263de02591254fd3a085b357c85cdbab5bb526bec5911e8c701c",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/turtle.webp": {
    "kind": "symbol",
@@ -869,9 +869,9 @@
     54,
     67
    ],
-   "bytes": 2552,
-   "sha256": "27a4ce2ecc211ff2a789cae59e13aea82680a6e03f4d5aa783c0a1be40fd1cbe",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/turtle.png"
+   "bytes": 2460,
+   "sha256": "2ae623161e89959489835c75b51aa0b7b2fa4cba3727f627cd191187786d4137",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/turtle.webp": {
    "kind": "symbol",
@@ -879,9 +879,9 @@
     108,
     134
    ],
-   "bytes": 6474,
-   "sha256": "25bd62004f022b57b8811bd53b5386165f8fb7cfcb86967e200895919d2b57ab",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/turtle.png"
+   "bytes": 5654,
+   "sha256": "ab410ff8d49d3c3d0e07d50b94be00f3d525b042864ffb184948cc280f46d024",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/turtle.webp": {
    "kind": "symbol",
@@ -889,9 +889,9 @@
     161,
     202
    ],
-   "bytes": 11390,
-   "sha256": "b009d100865625588ddb06882f8bf63c963d71b79dd6afca3d617ca21d053c92",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/turtle.png"
+   "bytes": 8966,
+   "sha256": "4e2b738fbd04276d67ec68de2204dd0b08740ac6ce63f86ac5521f859adc5cd4",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/cloud.webp": {
    "kind": "symbol",
@@ -899,8 +899,8 @@
     54,
     67
    ],
-   "bytes": 1722,
-   "sha256": "4461a735f48ae041ab924a7049025bfee1ad8e50e3ac082b70609276f24096de",
+   "bytes": 1400,
+   "sha256": "808dcf68151a834d3b4be0052848584100cfddc6f08c23750fb1f590f8295dbb",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cloud.png"
   },
   "sym/2x/cloud.webp": {
@@ -909,8 +909,8 @@
     108,
     134
    ],
-   "bytes": 4240,
-   "sha256": "0feaed4c0c8e9304761a31369a9523adbeaea7b68dead2a8ddbb1e82d58d4b84",
+   "bytes": 3558,
+   "sha256": "4e6f0f9fbc5f8f81480dad884122095d7d5594a2926f533251fbe66f509750f5",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cloud.png"
   },
   "sym/3x/cloud.webp": {
@@ -919,8 +919,8 @@
     161,
     202
    ],
-   "bytes": 7338,
-   "sha256": "8684d9b3d72b0f08c679593dfbbe31db7d5a5306711a36656d2250ebc90b7dd2",
+   "bytes": 6034,
+   "sha256": "f0a2df0b6ba5e75272a93c442f1c49d45f92493e19d36ef5c4fb7f51cd10c5eb",
    "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/cloud.png"
   },
   "sym/1x/lantern.webp": {
@@ -929,9 +929,9 @@
     54,
     67
    ],
-   "bytes": 2494,
-   "sha256": "a57744a2a2de48c5cdd9ea19c10b13a51c11765db3ac1bd783683359d099cb11",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lantern.png"
+   "bytes": 2280,
+   "sha256": "63f0fe3f8d1bb744ec99b2e09acf17ca36c0da595a14617172b84ae557f15eca",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/lantern.webp": {
    "kind": "symbol",
@@ -939,9 +939,9 @@
     108,
     134
    ],
-   "bytes": 6558,
-   "sha256": "5dc89c03e566706ba519bd00bcbb5452e972b3a9d2c0c3cfd570168b09c6ce57",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lantern.png"
+   "bytes": 5328,
+   "sha256": "e9321097e57b4f32fdd2d636f99746c31f92fb7ae73b6777ead4d018bc877e06",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/lantern.webp": {
    "kind": "symbol",
@@ -949,9 +949,9 @@
     161,
     202
    ],
-   "bytes": 12002,
-   "sha256": "5a44f495ecbe4245d7d487761866804e27cdbbf5a308903890932cdb24b9e890",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/lantern.png"
+   "bytes": 8676,
+   "sha256": "b569084a832bda8435ddd07e13287ae4a125ed4f9e97fc4147a9bfa1766ca01c",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/bamboo.webp": {
    "kind": "symbol",
@@ -959,9 +959,9 @@
     54,
     67
    ],
-   "bytes": 2562,
-   "sha256": "b616a6647dd27e11d815f147b7a9e9e792d443ade796f2a576301bb185ef7eed",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bamboo.png"
+   "bytes": 3146,
+   "sha256": "80eb024a2dbed61b84ec64e5baa128188f5f1b8d11be45e51c6b1fefd4364183",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/bamboo.webp": {
    "kind": "symbol",
@@ -969,9 +969,9 @@
     108,
     134
    ],
-   "bytes": 6410,
-   "sha256": "ae33e665399e11062d007e4d9365b4d1e6b4c1898615dc39c156ba1d12fc2f09",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bamboo.png"
+   "bytes": 7384,
+   "sha256": "79030192249fe4918fe7bf5fc0385f074a271005ecaf8fc50b92f3247c18f164",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/bamboo.webp": {
    "kind": "symbol",
@@ -979,9 +979,9 @@
     161,
     202
    ],
-   "bytes": 11350,
-   "sha256": "2bc437ce860c2b4284d2cc1e406885acc04d3ee712437ed056a86899a5453b17",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bamboo.png"
+   "bytes": 11960,
+   "sha256": "b73f3359331c722ff1fe2027333aedcfb37cd572e1f97b8d5ca5afc2acea48ed",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/mountain.webp": {
    "kind": "symbol",
@@ -989,9 +989,9 @@
     54,
     67
    ],
-   "bytes": 1962,
-   "sha256": "e0fc596ca4cc521050b22ffa35d90b669c3ec5f88db8f52f22b2bf59cc05b7f8",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mountain.png"
+   "bytes": 1590,
+   "sha256": "382afd2c50caef1534f20366e63328b5bae43f16fef20e4fa698b57b6762bb8b",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/mountain.webp": {
    "kind": "symbol",
@@ -999,9 +999,9 @@
     108,
     134
    ],
-   "bytes": 4890,
-   "sha256": "02dc7bfd56f47680b369d971e90e6fca2b85f04b089937591b6b2a1fa29c02bf",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mountain.png"
+   "bytes": 3164,
+   "sha256": "0f22f1259913df122a2ddfa05554fee0cf17f41093c54eadbdc5a3193d7c4df8",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/mountain.webp": {
    "kind": "symbol",
@@ -1009,9 +1009,9 @@
     161,
     202
    ],
-   "bytes": 8774,
-   "sha256": "320bf895d6a08acca500982c871b97c6e647beed24ac70f7b612dac47be78750",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/mountain.png"
+   "bytes": 4798,
+   "sha256": "f058a690a40933d6637eaff76a74612d7ae1e9d850ec54844fd37fbd364e793d",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/bell.webp": {
    "kind": "symbol",
@@ -1019,9 +1019,9 @@
     54,
     67
    ],
-   "bytes": 2180,
-   "sha256": "cba6261539cf95a1eaa25f93ba8347fc406ee7a84d5df83f5777d64649df3734",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/bell.png"
+   "bytes": 2332,
+   "sha256": "ec8f666173590cf2321dcbbe87a90bb04cabd1c15e7b519334c4999c6918d0c9",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/bell.webp": {
    "kind": "symbol",
@@ -1029,9 +1029,9 @@
     108,
     134
    ],
-   "bytes": 5094,
-   "sha256": "b25a34547e7956da282c5f7cae7024ef65ba2377a9b2cf1c6146a633c36c7049",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/bell.png"
+   "bytes": 5212,
+   "sha256": "0c72246fc6a475ab5aa97bc64148a6276e5bdde7ce5d9256aeaef09d108d4c8a",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/bell.webp": {
    "kind": "symbol",
@@ -1039,9 +1039,9 @@
     161,
     202
    ],
-   "bytes": 8382,
-   "sha256": "3d4c9403fdc42ef7835a4eef38c0a15d5556adbc0bec10f7a5e3e8c9f0300f24",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/bell.png"
+   "bytes": 7982,
+   "sha256": "8a35f301e8c5164f9ffd40a4411db3d66a237f0b7a17077357f214995aba0ef4",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/hummingbird.webp": {
    "kind": "symbol",
@@ -1049,9 +1049,9 @@
     54,
     67
    ],
-   "bytes": 2348,
-   "sha256": "237f621c416bd143e771e431c56e68de26d146d7fac2886b59959ceb0c62af3d",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/hummingbird.png"
+   "bytes": 2260,
+   "sha256": "aeb1ab98e18f8e1d7c255d238086b0a7c79d6ff01d5f991134f912792bb6c0a3",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/hummingbird.webp": {
    "kind": "symbol",
@@ -1059,9 +1059,9 @@
     108,
     134
    ],
-   "bytes": 5492,
-   "sha256": "1e06f654094f9c5c2853ba4ceb5bf8c30e2d22f99d54ee5e870cafa93f612536",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/hummingbird.png"
+   "bytes": 4718,
+   "sha256": "7951426832a7a7e1d008abe197a495b9c6436fcd1de214ea75484926a7a9289a",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/hummingbird.webp": {
    "kind": "symbol",
@@ -1069,9 +1069,9 @@
     161,
     202
    ],
-   "bytes": 9356,
-   "sha256": "a98ffaa756f8e252b5ff3917b9b9db8b4b5ed41156c81c277aa5152e51d961f4",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/hummingbird.png"
+   "bytes": 7702,
+   "sha256": "4e0d665877986939a5f6783e2915a96760224e1c41c62f253fbb1c2bc3859f70",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/teacup.webp": {
    "kind": "symbol",
@@ -1079,9 +1079,9 @@
     54,
     67
    ],
-   "bytes": 2642,
-   "sha256": "7cfbef251ad3aba46e4ea92ad9a0722d2e488b9dc1ef8400a7517d6012e4dbc7",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/teacup.png"
+   "bytes": 2326,
+   "sha256": "b5369c8ce81e12d1a0a79f36f7a33609e4e6041247e391e1209f1121c520df01",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/teacup.webp": {
    "kind": "symbol",
@@ -1089,9 +1089,9 @@
     108,
     134
    ],
-   "bytes": 6646,
-   "sha256": "de297abd5275e0f9b3b14fae7ae656f94e8f2b0ad7f95b593d7ea40a86168292",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/teacup.png"
+   "bytes": 5254,
+   "sha256": "5b854805e59de40ba8aee5707fef60daf7873d73b34276bfe6e69969da12e523",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/teacup.webp": {
    "kind": "symbol",
@@ -1099,9 +1099,9 @@
     161,
     202
    ],
-   "bytes": 11746,
-   "sha256": "f1f14e0b55c7aacf00f6b7f264a07d2de9741f1d14517994c1d1e0ba6f5f33a1",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/teacup.png"
+   "bytes": 8406,
+   "sha256": "d8479ebf571af8e6f497d0c9e3e1e97e1152a252fc57c46508460a79e9ee019e",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/bowl.webp": {
    "kind": "symbol",
@@ -1109,9 +1109,9 @@
     54,
     67
    ],
-   "bytes": 2584,
-   "sha256": "d29d9f8097451accdfca658ae46ad3ce47118aef541d8d3ef01b560bf157c5d9",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bowl.png"
+   "bytes": 2130,
+   "sha256": "63db7eb34646dac0d9d9bf7ba2319dfa364260319cd2a13f4b5a1a27b251d288",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/bowl.webp": {
    "kind": "symbol",
@@ -1119,9 +1119,9 @@
     108,
     134
    ],
-   "bytes": 6396,
-   "sha256": "a3ed9cacb7e6a002c174a6a02dcf33f3010e28bb9653a67a9d69ccbfb96338e7",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bowl.png"
+   "bytes": 4830,
+   "sha256": "626211a2201b822c83c5f102b2dfa9da47468cf5f6d4d0846268008b2a17ea9c",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/bowl.webp": {
    "kind": "symbol",
@@ -1129,9 +1129,9 @@
     161,
     202
    ],
-   "bytes": 11610,
-   "sha256": "a9d3f047e4d2773876b5964013fab63b797db54c8845839f3cf47f11596bdedd",
-   "note": "enamel shadow; symbol pixels from public/tiles/zen-pressed/bowl.png"
+   "bytes": 7980,
+   "sha256": "94a12c69cc4f54a276963fd680e99092b60e9fdcbc3929fed29ff2501d82c80e",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/1x/snowflake.webp": {
    "kind": "symbol",
@@ -1139,9 +1139,9 @@
     54,
     67
    ],
-   "bytes": 3198,
-   "sha256": "853bb2e5d657cbae874c03eafe071f1c4bb86b81586af627dc27006abf88ab32",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/snowflake.png"
+   "bytes": 3544,
+   "sha256": "4803fa8b572396332bc5853a9cf0218d0b791be896a190f3df86cb7d41c3f2e3",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/2x/snowflake.webp": {
    "kind": "symbol",
@@ -1149,9 +1149,9 @@
     108,
     134
    ],
-   "bytes": 7962,
-   "sha256": "6d1ee5175c5466522df71a30d34f61031fc244d494b8bb32d2fc7d8692e9e55c",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/snowflake.png"
+   "bytes": 8442,
+   "sha256": "e257b81af435d361d8b2f46275e5e68a7dc732fa6792c16b01b28e7e0bc3a7d0",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "sym/3x/snowflake.webp": {
    "kind": "symbol",
@@ -1159,9 +1159,9 @@
     161,
     202
    ],
-   "bytes": 13498,
-   "sha256": "25f589f62cb46837d7cd9c3266c91a84108bd512865e90691ce777aa45e75c07",
-   "note": "keyline+enamel shadow; symbol pixels from public/tiles/zen-pressed/snowflake.png"
+   "bytes": 13926,
+   "sha256": "ac0d9c529b683f7396e4b58de2e58ca5db60bf9399a465382ae734d8e7ba62f8",
+   "note": "calm wash symbol (2026-10-16), same drawing as tile-v3/porcelain3d"
   },
   "ring-grain.webp": {
    "kind": "ring-grain",

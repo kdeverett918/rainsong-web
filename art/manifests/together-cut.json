@@ -1,0 +1,2140 @@
+[
+ {
+  "id": "together-cut-s01-first-light-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s01-first-light/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1350,
+  "meta": {
+   "scroll": "s01-first-light",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s01-first-light-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s01-first-light/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s01-first-light",
+   "panel": 1,
+   "panels": 8,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 20808
+ },
+ {
+  "id": "together-cut-s01-first-light-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s01-first-light/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s01-first-light",
+   "panel": 2,
+   "panels": 8,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 17146
+ },
+ {
+  "id": "together-cut-s01-first-light-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s01-first-light/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s01-first-light",
+   "panel": 3,
+   "panels": 8,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 15090
+ },
+ {
+  "id": "together-cut-s01-first-light-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s01-first-light/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s01-first-light",
+   "panel": 4,
+   "panels": 8,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 18486
+ },
+ {
+  "id": "together-cut-s01-first-light-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s01-first-light/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s01-first-light",
+   "panel": 5,
+   "panels": 8,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 23006
+ },
+ {
+  "id": "together-cut-s01-first-light-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s01-first-light/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s01-first-light",
+   "panel": 6,
+   "panels": 8,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 23216
+ },
+ {
+  "id": "together-cut-s01-first-light-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s01-first-light/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s01-first-light",
+   "panel": 7,
+   "panels": 8,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 23948
+ },
+ {
+  "id": "together-cut-s01-first-light-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s01-first-light/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s01-first-light",
+   "panel": 8,
+   "panels": 8,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 27530
+ },
+ {
+  "id": "together-cut-s02-bamboo-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s02-bamboo/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s02-bamboo-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 15872
+ },
+ {
+  "id": "together-cut-s02-bamboo-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 15350
+ },
+ {
+  "id": "together-cut-s02-bamboo-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 13444
+ },
+ {
+  "id": "together-cut-s02-bamboo-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 10204
+ },
+ {
+  "id": "together-cut-s02-bamboo-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 14436
+ },
+ {
+  "id": "together-cut-s02-bamboo-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 20662
+ },
+ {
+  "id": "together-cut-s02-bamboo-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 23048
+ },
+ {
+  "id": "together-cut-s02-bamboo-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 19876
+ },
+ {
+  "id": "together-cut-s02-bamboo-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 20264
+ },
+ {
+  "id": "together-cut-s02-bamboo-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s02-bamboo/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s02-bamboo",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 18446
+ },
+ {
+  "id": "together-cut-s03-tea-hills-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s03-tea-hills/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s03-tea-hills-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 15866
+ },
+ {
+  "id": "together-cut-s03-tea-hills-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 19288
+ },
+ {
+  "id": "together-cut-s03-tea-hills-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 9110
+ },
+ {
+  "id": "together-cut-s03-tea-hills-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 11628
+ },
+ {
+  "id": "together-cut-s03-tea-hills-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 11312
+ },
+ {
+  "id": "together-cut-s03-tea-hills-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 20840
+ },
+ {
+  "id": "together-cut-s03-tea-hills-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 17742
+ },
+ {
+  "id": "together-cut-s03-tea-hills-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 21124
+ },
+ {
+  "id": "together-cut-s03-tea-hills-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 18172
+ },
+ {
+  "id": "together-cut-s03-tea-hills-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s03-tea-hills/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s03-tea-hills",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 21548
+ },
+ {
+  "id": "together-cut-s04-rain-canal-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s04-rain-canal/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s04-rain-canal-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 13970
+ },
+ {
+  "id": "together-cut-s04-rain-canal-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 12880
+ },
+ {
+  "id": "together-cut-s04-rain-canal-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 9422
+ },
+ {
+  "id": "together-cut-s04-rain-canal-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 13104
+ },
+ {
+  "id": "together-cut-s04-rain-canal-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 13954
+ },
+ {
+  "id": "together-cut-s04-rain-canal-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 15656
+ },
+ {
+  "id": "together-cut-s04-rain-canal-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 17576
+ },
+ {
+  "id": "together-cut-s04-rain-canal-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 14866
+ },
+ {
+  "id": "together-cut-s04-rain-canal-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 18026
+ },
+ {
+  "id": "together-cut-s04-rain-canal-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s04-rain-canal/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s04-rain-canal",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 18156
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s05-heron-marsh/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 14490
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 14860
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 23298
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 12662
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 11660
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 27500
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 32172
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 16168
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 22960
+ },
+ {
+  "id": "together-cut-s05-heron-marsh-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s05-heron-marsh/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s05-heron-marsh",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 22892
+ },
+ {
+  "id": "together-cut-s06-orchard-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s06-orchard/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s06-orchard",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s06-orchard-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 17858
+ },
+ {
+  "id": "together-cut-s06-orchard-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 17632
+ },
+ {
+  "id": "together-cut-s06-orchard-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 10838
+ },
+ {
+  "id": "together-cut-s06-orchard-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 7028
+ },
+ {
+  "id": "together-cut-s06-orchard-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 10738
+ },
+ {
+  "id": "together-cut-s06-orchard-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 16570
+ },
+ {
+  "id": "together-cut-s06-orchard-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 20494
+ },
+ {
+  "id": "together-cut-s06-orchard-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 16126
+ },
+ {
+  "id": "together-cut-s06-orchard-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 18146
+ },
+ {
+  "id": "together-cut-s06-orchard-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s06-orchard/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s06-orchard",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 19220
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s07-moon-bridge/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 17996
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 15952
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 10804
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 11800
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 15756
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 22530
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 28858
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 24008
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 21286
+ },
+ {
+  "id": "together-cut-s07-moon-bridge-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s07-moon-bridge/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s07-moon-bridge",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 26392
+ },
+ {
+  "id": "together-cut-s08-lantern-night-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s08-lantern-night/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s08-lantern-night-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 19030
+ },
+ {
+  "id": "together-cut-s08-lantern-night-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 18136
+ },
+ {
+  "id": "together-cut-s08-lantern-night-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 18832
+ },
+ {
+  "id": "together-cut-s08-lantern-night-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 20126
+ },
+ {
+  "id": "together-cut-s08-lantern-night-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 18798
+ },
+ {
+  "id": "together-cut-s08-lantern-night-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 24062
+ },
+ {
+  "id": "together-cut-s08-lantern-night-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 26878
+ },
+ {
+  "id": "together-cut-s08-lantern-night-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 25262
+ },
+ {
+  "id": "together-cut-s08-lantern-night-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 29432
+ },
+ {
+  "id": "together-cut-s08-lantern-night-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s08-lantern-night/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s08-lantern-night",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 26298
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s09-autumn-maples/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 16648
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 8404
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 15316
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 10868
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 7488
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 19194
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 25590
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 21678
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 22642
+ },
+ {
+  "id": "together-cut-s09-autumn-maples-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s09-autumn-maples/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s09-autumn-maples",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 20778
+ },
+ {
+  "id": "together-cut-s10-snow-temple-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s10-snow-temple/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s10-snow-temple-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 14348
+ },
+ {
+  "id": "together-cut-s10-snow-temple-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 18626
+ },
+ {
+  "id": "together-cut-s10-snow-temple-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 12532
+ },
+ {
+  "id": "together-cut-s10-snow-temple-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 14094
+ },
+ {
+  "id": "together-cut-s10-snow-temple-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 9504
+ },
+ {
+  "id": "together-cut-s10-snow-temple-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 18960
+ },
+ {
+  "id": "together-cut-s10-snow-temple-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 14702
+ },
+ {
+  "id": "together-cut-s10-snow-temple-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 18176
+ },
+ {
+  "id": "together-cut-s10-snow-temple-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 13540
+ },
+ {
+  "id": "together-cut-s10-snow-temple-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s10-snow-temple/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s10-snow-temple",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 13974
+ },
+ {
+  "id": "together-cut-s11-high-meadow-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s11-high-meadow/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s11-high-meadow-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 15562
+ },
+ {
+  "id": "together-cut-s11-high-meadow-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 13864
+ },
+ {
+  "id": "together-cut-s11-high-meadow-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 11758
+ },
+ {
+  "id": "together-cut-s11-high-meadow-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 13134
+ },
+ {
+  "id": "together-cut-s11-high-meadow-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 10822
+ },
+ {
+  "id": "together-cut-s11-high-meadow-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 32604
+ },
+ {
+  "id": "together-cut-s11-high-meadow-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 19666
+ },
+ {
+  "id": "together-cut-s11-high-meadow-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 18708
+ },
+ {
+  "id": "together-cut-s11-high-meadow-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 31052
+ },
+ {
+  "id": "together-cut-s11-high-meadow-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s11-high-meadow/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s11-high-meadow",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 20236
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-sketch",
+  "kind": "together-sketch",
+  "file": "/art/scrolls/s12-sea-sunrise/full.sketch-2k.webp",
+  "w": 2160,
+  "h": 1080,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "source": "the scroll's pencil underdrawing"
+  }
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-01",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/01.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 1,
+   "panels": 10,
+   "cell": [
+    0,
+    0
+   ]
+  },
+  "bytes": 19714
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-02",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/02.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 2,
+   "panels": 10,
+   "cell": [
+    1,
+    0
+   ]
+  },
+  "bytes": 16974
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-03",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/03.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 3,
+   "panels": 10,
+   "cell": [
+    2,
+    0
+   ]
+  },
+  "bytes": 11304
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-04",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/04.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 4,
+   "panels": 10,
+   "cell": [
+    3,
+    0
+   ]
+  },
+  "bytes": 10698
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-05",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/05.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 5,
+   "panels": 10,
+   "cell": [
+    4,
+    0
+   ]
+  },
+  "bytes": 15064
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-06",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/06.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 6,
+   "panels": 10,
+   "cell": [
+    0,
+    1
+   ]
+  },
+  "bytes": 24458
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-07",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/07.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 7,
+   "panels": 10,
+   "cell": [
+    1,
+    1
+   ]
+  },
+  "bytes": 27266
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-08",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/08.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 8,
+   "panels": 10,
+   "cell": [
+    2,
+    1
+   ]
+  },
+  "bytes": 23908
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-09",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/09.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 9,
+   "panels": 10,
+   "cell": [
+    3,
+    1
+   ]
+  },
+  "bytes": 19352
+ },
+ {
+  "id": "together-cut-s12-sea-sunrise-10",
+  "kind": "together-section",
+  "file": "/art/together/cut/s12-sea-sunrise/10.webp",
+  "w": 648,
+  "h": 810,
+  "meta": {
+   "scroll": "s12-sea-sunrise",
+   "panel": 10,
+   "panels": 10,
+   "cell": [
+    4,
+    1
+   ]
+  },
+  "bytes": 20438
+ }
+]

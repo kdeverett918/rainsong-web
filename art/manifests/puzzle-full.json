@@ -1,119 +1,119 @@
 [
-  {
-    "id": "puzzle-full-s01-first-light",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s01-first-light/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s02-bamboo",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s02-bamboo/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s03-tea-hills",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s03-tea-hills/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s04-rain-canal",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s04-rain-canal/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s05-heron-marsh",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s05-heron-marsh/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s06-orchard",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s06-orchard/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s07-moon-bridge",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s07-moon-bridge/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s08-lantern-night",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s08-lantern-night/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s09-autumn-maples",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s09-autumn-maples/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s10-snow-temple",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s10-snow-temple/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s11-high-meadow",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s11-high-meadow/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-s12-sea-sunrise",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/s12-sea-sunrise/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
-  },
-  {
-    "id": "puzzle-full-stone-garden",
-    "kind": "campaign-puzzle",
-    "file": "/art/scrolls/stone-garden/full.webp",
-    "meta": {
-      "source": "existing connected campaign artwork",
-      "group": "puzzle-full"
-    }
+ {
+  "id": "puzzle-full-s01-first-light",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s01-first-light/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
   }
+ },
+ {
+  "id": "puzzle-full-s02-bamboo",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s02-bamboo/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s03-tea-hills",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s03-tea-hills/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s04-rain-canal",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s04-rain-canal/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s05-heron-marsh",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s05-heron-marsh/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s06-orchard",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s06-orchard/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s07-moon-bridge",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s07-moon-bridge/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s08-lantern-night",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s08-lantern-night/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s09-autumn-maples",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s09-autumn-maples/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s10-snow-temple",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s10-snow-temple/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s11-high-meadow",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s11-high-meadow/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-s12-sea-sunrise",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/s12-sea-sunrise/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ },
+ {
+  "id": "puzzle-full-stone-garden",
+  "kind": "campaign-puzzle",
+  "file": "/art/scrolls/stone-garden/full.webp",
+  "meta": {
+   "source": "existing connected campaign artwork",
+   "group": "puzzle-full"
+  }
+ }
 ]

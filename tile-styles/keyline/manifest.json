@@ -26,1260 +26,1260 @@
  },
  "files": {
   "1x/lotus.webp": {
-   "bytes": 1696,
+   "bytes": 1744,
    "px": [
     64,
     80
    ]
   },
   "1x/lotus-l.webp": {
-   "bytes": 1594,
+   "bytes": 1728,
    "px": [
     64,
     80
    ]
   },
   "1x/moon.webp": {
-   "bytes": 1674,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/moon-l.webp": {
-   "bytes": 1588,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/sun.webp": {
-   "bytes": 1878,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/sun-l.webp": {
-   "bytes": 1792,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/leaf.webp": {
-   "bytes": 1572,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/leaf-l.webp": {
-   "bytes": 1492,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/drop.webp": {
-   "bytes": 1552,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/drop-l.webp": {
-   "bytes": 1466,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/cairn.webp": {
-   "bytes": 1600,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/cairn-l.webp": {
-   "bytes": 1564,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/crane.webp": {
-   "bytes": 1812,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/crane-l.webp": {
-   "bytes": 1734,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/mushroom.webp": {
-   "bytes": 1738,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/mushroom-l.webp": {
-   "bytes": 1652,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/butterfly.webp": {
-   "bytes": 1892,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/butterfly-l.webp": {
-   "bytes": 1754,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/tulip.webp": {
-   "bytes": 1790,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/tulip-l.webp": {
-   "bytes": 1652,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/enso.webp": {
-   "bytes": 1762,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/enso-l.webp": {
-   "bytes": 1718,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/feather.webp": {
-   "bytes": 1624,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/feather-l.webp": {
-   "bytes": 1556,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/ginkgo.webp": {
-   "bytes": 1556,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/ginkgo-l.webp": {
-   "bytes": 1504,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/acorn.webp": {
-   "bytes": 1678,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/acorn-l.webp": {
-   "bytes": 1582,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/dragonfly.webp": {
-   "bytes": 1708,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/dragonfly-l.webp": {
-   "bytes": 1584,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/shell.webp": {
-   "bytes": 1698,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/shell-l.webp": {
-   "bytes": 1598,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/wave.webp": {
-   "bytes": 1924,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/wave-l.webp": {
-   "bytes": 1864,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/star.webp": {
-   "bytes": 1538,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/star-l.webp": {
-   "bytes": 1454,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/bonsai.webp": {
-   "bytes": 1940,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/bonsai-l.webp": {
-   "bytes": 1898,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/koi.webp": {
-   "bytes": 1682,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/koi-l.webp": {
-   "bytes": 1638,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/turtle.webp": {
-   "bytes": 1834,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/turtle-l.webp": {
-   "bytes": 1698,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/cloud.webp": {
-   "bytes": 1560,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/cloud-l.webp": {
-   "bytes": 1478,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/lantern.webp": {
-   "bytes": 1798,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/lantern-l.webp": {
-   "bytes": 1672,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/bamboo.webp": {
-   "bytes": 1832,
-   "px": [
-    64,
-    80
-   ]
-  },
-  "1x/bamboo-l.webp": {
    "bytes": 1748,
    "px": [
     64,
     80
    ]
   },
-  "1x/mountain.webp": {
-   "bytes": 1692,
+  "1x/moon-l.webp": {
+   "bytes": 1720,
    "px": [
     64,
     80
    ]
   },
-  "1x/mountain-l.webp": {
-   "bytes": 1586,
+  "1x/sun.webp": {
+   "bytes": 1946,
    "px": [
     64,
     80
    ]
   },
-  "1x/bell.webp": {
-   "bytes": 1440,
+  "1x/sun-l.webp": {
+   "bytes": 1906,
    "px": [
     64,
     80
    ]
   },
-  "1x/bell-l.webp": {
-   "bytes": 1408,
+  "1x/leaf.webp": {
+   "bytes": 1660,
    "px": [
     64,
     80
    ]
   },
-  "1x/hummingbird.webp": {
+  "1x/leaf-l.webp": {
+   "bytes": 1604,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/drop.webp": {
+   "bytes": 1626,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/drop-l.webp": {
+   "bytes": 1598,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/cairn.webp": {
+   "bytes": 1676,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/cairn-l.webp": {
+   "bytes": 1680,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/crane.webp": {
+   "bytes": 1858,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/crane-l.webp": {
+   "bytes": 1840,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/mushroom.webp": {
+   "bytes": 1726,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/mushroom-l.webp": {
    "bytes": 1704,
    "px": [
     64,
     80
    ]
   },
+  "1x/butterfly.webp": {
+   "bytes": 1924,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/butterfly-l.webp": {
+   "bytes": 1872,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/tulip.webp": {
+   "bytes": 1808,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/tulip-l.webp": {
+   "bytes": 1776,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/enso.webp": {
+   "bytes": 1840,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/enso-l.webp": {
+   "bytes": 1788,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/feather.webp": {
+   "bytes": 1616,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/feather-l.webp": {
+   "bytes": 1570,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/ginkgo.webp": {
+   "bytes": 1590,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/ginkgo-l.webp": {
+   "bytes": 1556,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/acorn.webp": {
+   "bytes": 1654,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/acorn-l.webp": {
+   "bytes": 1634,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/dragonfly.webp": {
+   "bytes": 1836,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/dragonfly-l.webp": {
+   "bytes": 1812,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/shell.webp": {
+   "bytes": 1646,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/shell-l.webp": {
+   "bytes": 1530,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/wave.webp": {
+   "bytes": 2034,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/wave-l.webp": {
+   "bytes": 1988,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/star.webp": {
+   "bytes": 1504,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/star-l.webp": {
+   "bytes": 1500,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/bonsai.webp": {
+   "bytes": 2044,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/bonsai-l.webp": {
+   "bytes": 2010,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/koi.webp": {
+   "bytes": 1726,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/koi-l.webp": {
+   "bytes": 1714,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/turtle.webp": {
+   "bytes": 1874,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/turtle-l.webp": {
+   "bytes": 1804,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/cloud.webp": {
+   "bytes": 1468,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/cloud-l.webp": {
+   "bytes": 1476,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/lantern.webp": {
+   "bytes": 1668,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/lantern-l.webp": {
+   "bytes": 1594,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/bamboo.webp": {
+   "bytes": 1822,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/bamboo-l.webp": {
+   "bytes": 1790,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/mountain.webp": {
+   "bytes": 1684,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/mountain-l.webp": {
+   "bytes": 1628,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/bell.webp": {
+   "bytes": 1634,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/bell-l.webp": {
+   "bytes": 1596,
+   "px": [
+    64,
+    80
+   ]
+  },
+  "1x/hummingbird.webp": {
+   "bytes": 1746,
+   "px": [
+    64,
+    80
+   ]
+  },
   "1x/hummingbird-l.webp": {
-   "bytes": 1620,
+   "bytes": 1728,
    "px": [
     64,
     80
    ]
   },
   "1x/teacup.webp": {
-   "bytes": 1658,
+   "bytes": 1602,
    "px": [
     64,
     80
    ]
   },
   "1x/teacup-l.webp": {
-   "bytes": 1606,
+   "bytes": 1558,
    "px": [
     64,
     80
    ]
   },
   "1x/bowl.webp": {
-   "bytes": 1700,
+   "bytes": 1774,
    "px": [
     64,
     80
    ]
   },
   "1x/bowl-l.webp": {
-   "bytes": 1586,
+   "bytes": 1708,
    "px": [
     64,
     80
    ]
   },
   "1x/snowflake.webp": {
-   "bytes": 2050,
+   "bytes": 1984,
    "px": [
     64,
     80
    ]
   },
   "1x/snowflake-l.webp": {
-   "bytes": 1962,
+   "bytes": 1966,
    "px": [
     64,
     80
    ]
   },
   "2x/lotus.webp": {
-   "bytes": 3288,
+   "bytes": 3908,
    "px": [
     128,
     160
    ]
   },
   "2x/lotus-l.webp": {
-   "bytes": 3014,
+   "bytes": 3802,
    "px": [
     128,
     160
    ]
   },
   "2x/moon.webp": {
-   "bytes": 3198,
+   "bytes": 3836,
    "px": [
     128,
     160
    ]
   },
   "2x/moon-l.webp": {
-   "bytes": 3008,
+   "bytes": 3642,
    "px": [
     128,
     160
    ]
   },
   "2x/sun.webp": {
-   "bytes": 3794,
+   "bytes": 4338,
    "px": [
     128,
     160
    ]
   },
   "2x/sun-l.webp": {
-   "bytes": 3488,
+   "bytes": 4058,
    "px": [
     128,
     160
    ]
   },
   "2x/leaf.webp": {
-   "bytes": 3070,
+   "bytes": 3620,
    "px": [
     128,
     160
    ]
   },
   "2x/leaf-l.webp": {
-   "bytes": 2800,
+   "bytes": 3462,
    "px": [
     128,
     160
    ]
   },
   "2x/drop.webp": {
-   "bytes": 3038,
+   "bytes": 3578,
    "px": [
     128,
     160
    ]
   },
   "2x/drop-l.webp": {
-   "bytes": 2754,
+   "bytes": 3426,
    "px": [
     128,
     160
    ]
   },
   "2x/cairn.webp": {
-   "bytes": 3264,
+   "bytes": 3896,
    "px": [
     128,
     160
    ]
   },
   "2x/cairn-l.webp": {
-   "bytes": 3080,
+   "bytes": 3680,
    "px": [
     128,
     160
    ]
   },
   "2x/crane.webp": {
-   "bytes": 3400,
+   "bytes": 4010,
    "px": [
     128,
     160
    ]
   },
   "2x/crane-l.webp": {
-   "bytes": 3208,
+   "bytes": 3892,
    "px": [
     128,
     160
    ]
   },
   "2x/mushroom.webp": {
-   "bytes": 3536,
+   "bytes": 3976,
    "px": [
     128,
     160
    ]
   },
   "2x/mushroom-l.webp": {
-   "bytes": 3186,
+   "bytes": 3670,
    "px": [
     128,
     160
    ]
   },
   "2x/butterfly.webp": {
-   "bytes": 3814,
+   "bytes": 4480,
    "px": [
     128,
     160
    ]
   },
   "2x/butterfly-l.webp": {
-   "bytes": 3536,
+   "bytes": 4316,
    "px": [
     128,
     160
    ]
   },
   "2x/tulip.webp": {
-   "bytes": 3496,
+   "bytes": 4056,
    "px": [
     128,
     160
    ]
   },
   "2x/tulip-l.webp": {
-   "bytes": 3282,
+   "bytes": 3884,
    "px": [
     128,
     160
    ]
   },
   "2x/enso.webp": {
-   "bytes": 3484,
+   "bytes": 4096,
    "px": [
     128,
     160
    ]
   },
   "2x/enso-l.webp": {
-   "bytes": 3240,
+   "bytes": 3902,
    "px": [
     128,
     160
    ]
   },
   "2x/feather.webp": {
-   "bytes": 3192,
+   "bytes": 3624,
    "px": [
     128,
     160
    ]
   },
   "2x/feather-l.webp": {
-   "bytes": 2984,
+   "bytes": 3460,
    "px": [
     128,
     160
    ]
   },
   "2x/ginkgo.webp": {
-   "bytes": 3142,
+   "bytes": 3574,
    "px": [
     128,
     160
    ]
   },
   "2x/ginkgo-l.webp": {
-   "bytes": 2826,
+   "bytes": 3342,
    "px": [
     128,
     160
    ]
   },
   "2x/acorn.webp": {
-   "bytes": 3320,
+   "bytes": 3720,
    "px": [
     128,
     160
    ]
   },
   "2x/acorn-l.webp": {
-   "bytes": 3030,
+   "bytes": 3568,
    "px": [
     128,
     160
    ]
   },
   "2x/dragonfly.webp": {
-   "bytes": 3334,
+   "bytes": 4096,
    "px": [
     128,
     160
    ]
   },
   "2x/dragonfly-l.webp": {
-   "bytes": 3074,
+   "bytes": 3948,
    "px": [
     128,
     160
    ]
   },
   "2x/shell.webp": {
-   "bytes": 3496,
+   "bytes": 3712,
    "px": [
     128,
     160
    ]
   },
   "2x/shell-l.webp": {
-   "bytes": 3212,
+   "bytes": 3538,
    "px": [
     128,
     160
    ]
   },
   "2x/wave.webp": {
-   "bytes": 3920,
+   "bytes": 4624,
    "px": [
     128,
     160
    ]
   },
   "2x/wave-l.webp": {
-   "bytes": 3638,
+   "bytes": 4492,
    "px": [
     128,
     160
    ]
   },
   "2x/star.webp": {
-   "bytes": 3032,
+   "bytes": 3372,
    "px": [
     128,
     160
    ]
   },
   "2x/star-l.webp": {
-   "bytes": 2696,
+   "bytes": 3154,
    "px": [
     128,
     160
    ]
   },
   "2x/bonsai.webp": {
-   "bytes": 3858,
+   "bytes": 4434,
    "px": [
     128,
     160
    ]
   },
   "2x/bonsai-l.webp": {
-   "bytes": 3554,
+   "bytes": 4268,
    "px": [
     128,
     160
    ]
   },
   "2x/koi.webp": {
-   "bytes": 3514,
+   "bytes": 4160,
    "px": [
     128,
     160
    ]
   },
   "2x/koi-l.webp": {
-   "bytes": 3102,
+   "bytes": 3874,
    "px": [
     128,
     160
    ]
   },
   "2x/turtle.webp": {
-   "bytes": 3536,
+   "bytes": 4176,
    "px": [
     128,
     160
    ]
   },
   "2x/turtle-l.webp": {
-   "bytes": 3308,
+   "bytes": 3848,
    "px": [
     128,
     160
    ]
   },
   "2x/cloud.webp": {
-   "bytes": 2984,
+   "bytes": 3176,
    "px": [
     128,
     160
    ]
   },
   "2x/cloud-l.webp": {
-   "bytes": 2708,
+   "bytes": 3114,
    "px": [
     128,
     160
    ]
   },
   "2x/lantern.webp": {
-   "bytes": 3750,
+   "bytes": 3958,
    "px": [
     128,
     160
    ]
   },
   "2x/lantern-l.webp": {
-   "bytes": 3324,
+   "bytes": 3806,
    "px": [
     128,
     160
    ]
   },
   "2x/bamboo.webp": {
-   "bytes": 3824,
+   "bytes": 4346,
    "px": [
     128,
     160
    ]
   },
   "2x/bamboo-l.webp": {
-   "bytes": 3490,
+   "bytes": 4110,
    "px": [
     128,
     160
    ]
   },
   "2x/mountain.webp": {
-   "bytes": 3318,
+   "bytes": 3788,
    "px": [
     128,
     160
    ]
   },
   "2x/mountain-l.webp": {
-   "bytes": 3030,
+   "bytes": 3530,
    "px": [
     128,
     160
    ]
   },
   "2x/bell.webp": {
-   "bytes": 2846,
+   "bytes": 3616,
    "px": [
     128,
     160
    ]
   },
   "2x/bell-l.webp": {
-   "bytes": 2638,
+   "bytes": 3454,
    "px": [
     128,
     160
    ]
   },
   "2x/hummingbird.webp": {
-   "bytes": 3322,
+   "bytes": 3854,
    "px": [
     128,
     160
    ]
   },
   "2x/hummingbird-l.webp": {
-   "bytes": 3072,
+   "bytes": 3758,
    "px": [
     128,
     160
    ]
   },
   "2x/teacup.webp": {
-   "bytes": 3272,
+   "bytes": 3512,
    "px": [
     128,
     160
    ]
   },
   "2x/teacup-l.webp": {
-   "bytes": 2920,
+   "bytes": 3294,
    "px": [
     128,
     160
    ]
   },
   "2x/bowl.webp": {
-   "bytes": 3320,
+   "bytes": 3884,
    "px": [
     128,
     160
    ]
   },
   "2x/bowl-l.webp": {
-   "bytes": 3022,
+   "bytes": 3710,
    "px": [
     128,
     160
    ]
   },
   "2x/snowflake.webp": {
-   "bytes": 4072,
+   "bytes": 4506,
    "px": [
     128,
     160
    ]
   },
   "2x/snowflake-l.webp": {
-   "bytes": 3696,
+   "bytes": 4334,
    "px": [
     128,
     160
    ]
   },
   "3x/lotus.webp": {
-   "bytes": 4788,
+   "bytes": 6254,
    "px": [
     192,
     240
    ]
   },
   "3x/lotus-l.webp": {
-   "bytes": 4188,
+   "bytes": 5972,
    "px": [
     192,
     240
    ]
   },
   "3x/moon.webp": {
-   "bytes": 4588,
+   "bytes": 5976,
    "px": [
     192,
     240
    ]
   },
   "3x/moon-l.webp": {
-   "bytes": 4252,
+   "bytes": 5852,
    "px": [
     192,
     240
    ]
   },
   "3x/sun.webp": {
-   "bytes": 5300,
+   "bytes": 6384,
    "px": [
     192,
     240
    ]
   },
   "3x/sun-l.webp": {
-   "bytes": 4686,
+   "bytes": 5894,
    "px": [
     192,
     240
    ]
   },
   "3x/leaf.webp": {
-   "bytes": 4236,
+   "bytes": 5470,
    "px": [
     192,
     240
    ]
   },
   "3x/leaf-l.webp": {
-   "bytes": 3800,
+   "bytes": 5032,
    "px": [
     192,
     240
    ]
   },
   "3x/drop.webp": {
-   "bytes": 4268,
+   "bytes": 5380,
    "px": [
     192,
     240
    ]
   },
   "3x/drop-l.webp": {
-   "bytes": 3906,
+   "bytes": 5158,
    "px": [
     192,
     240
    ]
   },
   "3x/cairn.webp": {
-   "bytes": 4724,
+   "bytes": 6122,
    "px": [
     192,
     240
    ]
   },
   "3x/cairn-l.webp": {
-   "bytes": 4284,
+   "bytes": 5636,
    "px": [
     192,
     240
    ]
   },
   "3x/crane.webp": {
-   "bytes": 4938,
+   "bytes": 6204,
    "px": [
     192,
     240
    ]
   },
   "3x/crane-l.webp": {
-   "bytes": 4434,
+   "bytes": 5886,
    "px": [
     192,
     240
    ]
   },
   "3x/mushroom.webp": {
-   "bytes": 5002,
+   "bytes": 5924,
    "px": [
     192,
     240
    ]
   },
   "3x/mushroom-l.webp": {
-   "bytes": 4474,
+   "bytes": 5574,
    "px": [
     192,
     240
    ]
   },
   "3x/butterfly.webp": {
-   "bytes": 5750,
+   "bytes": 7310,
    "px": [
     192,
     240
    ]
   },
   "3x/butterfly-l.webp": {
-   "bytes": 5090,
+   "bytes": 6876,
    "px": [
     192,
     240
    ]
   },
   "3x/tulip.webp": {
-   "bytes": 5046,
+   "bytes": 6288,
    "px": [
     192,
     240
    ]
   },
   "3x/tulip-l.webp": {
-   "bytes": 4544,
+   "bytes": 5956,
    "px": [
     192,
     240
    ]
   },
   "3x/enso.webp": {
-   "bytes": 5110,
+   "bytes": 6432,
    "px": [
     192,
     240
    ]
   },
   "3x/enso-l.webp": {
-   "bytes": 4770,
+   "bytes": 5916,
    "px": [
     192,
     240
    ]
   },
   "3x/feather.webp": {
-   "bytes": 4588,
+   "bytes": 5806,
    "px": [
     192,
     240
    ]
   },
   "3x/feather-l.webp": {
-   "bytes": 4174,
+   "bytes": 5448,
    "px": [
     192,
     240
    ]
   },
   "3x/ginkgo.webp": {
-   "bytes": 4452,
+   "bytes": 5404,
    "px": [
     192,
     240
    ]
   },
   "3x/ginkgo-l.webp": {
-   "bytes": 3956,
+   "bytes": 5054,
    "px": [
     192,
     240
    ]
   },
   "3x/acorn.webp": {
-   "bytes": 4702,
+   "bytes": 5630,
    "px": [
     192,
     240
    ]
   },
   "3x/acorn-l.webp": {
-   "bytes": 4282,
+   "bytes": 5302,
    "px": [
     192,
     240
    ]
   },
   "3x/dragonfly.webp": {
-   "bytes": 4578,
+   "bytes": 6064,
    "px": [
     192,
     240
    ]
   },
   "3x/dragonfly-l.webp": {
-   "bytes": 4084,
+   "bytes": 5828,
    "px": [
     192,
     240
    ]
   },
   "3x/shell.webp": {
-   "bytes": 5182,
+   "bytes": 5842,
    "px": [
     192,
     240
    ]
   },
   "3x/shell-l.webp": {
-   "bytes": 4594,
+   "bytes": 5410,
    "px": [
     192,
     240
    ]
   },
   "3x/wave.webp": {
-   "bytes": 5732,
+   "bytes": 7476,
    "px": [
     192,
     240
    ]
   },
   "3x/wave-l.webp": {
-   "bytes": 5080,
+   "bytes": 7088,
    "px": [
     192,
     240
    ]
   },
   "3x/star.webp": {
-   "bytes": 4246,
+   "bytes": 5062,
    "px": [
     192,
     240
    ]
   },
   "3x/star-l.webp": {
-   "bytes": 3752,
+   "bytes": 4840,
    "px": [
     192,
     240
    ]
   },
   "3x/bonsai.webp": {
-   "bytes": 5530,
+   "bytes": 6584,
    "px": [
     192,
     240
    ]
   },
   "3x/bonsai-l.webp": {
-   "bytes": 5056,
+   "bytes": 6346,
    "px": [
     192,
     240
    ]
   },
   "3x/koi.webp": {
-   "bytes": 4980,
+   "bytes": 6494,
    "px": [
     192,
     240
    ]
   },
   "3x/koi-l.webp": {
-   "bytes": 4460,
+   "bytes": 6298,
    "px": [
     192,
     240
    ]
   },
   "3x/turtle.webp": {
-   "bytes": 5182,
+   "bytes": 6332,
    "px": [
     192,
     240
    ]
   },
   "3x/turtle-l.webp": {
-   "bytes": 4780,
+   "bytes": 5842,
    "px": [
     192,
     240
    ]
   },
   "3x/cloud.webp": {
-   "bytes": 4230,
+   "bytes": 4948,
    "px": [
     192,
     240
    ]
   },
   "3x/cloud-l.webp": {
-   "bytes": 3758,
+   "bytes": 4758,
    "px": [
     192,
     240
    ]
   },
   "3x/lantern.webp": {
-   "bytes": 5354,
+   "bytes": 6510,
    "px": [
     192,
     240
    ]
   },
   "3x/lantern-l.webp": {
-   "bytes": 4770,
+   "bytes": 6164,
    "px": [
     192,
     240
    ]
   },
   "3x/bamboo.webp": {
-   "bytes": 5666,
+   "bytes": 6976,
    "px": [
     192,
     240
    ]
   },
   "3x/bamboo-l.webp": {
-   "bytes": 5010,
+   "bytes": 6444,
    "px": [
     192,
     240
    ]
   },
   "3x/mountain.webp": {
-   "bytes": 4690,
+   "bytes": 5728,
    "px": [
     192,
     240
    ]
   },
   "3x/mountain-l.webp": {
-   "bytes": 4196,
+   "bytes": 5220,
    "px": [
     192,
     240
    ]
   },
   "3x/bell.webp": {
-   "bytes": 3976,
+   "bytes": 5612,
    "px": [
     192,
     240
    ]
   },
   "3x/bell-l.webp": {
-   "bytes": 3624,
+   "bytes": 5114,
    "px": [
     192,
     240
    ]
   },
   "3x/hummingbird.webp": {
-   "bytes": 4818,
+   "bytes": 6128,
    "px": [
     192,
     240
    ]
   },
   "3x/hummingbird-l.webp": {
-   "bytes": 4450,
+   "bytes": 5820,
    "px": [
     192,
     240
    ]
   },
   "3x/teacup.webp": {
-   "bytes": 4586,
+   "bytes": 5538,
    "px": [
     192,
     240
    ]
   },
   "3x/teacup-l.webp": {
-   "bytes": 4014,
+   "bytes": 5112,
    "px": [
     192,
     240
    ]
   },
   "3x/bowl.webp": {
-   "bytes": 4728,
+   "bytes": 5768,
    "px": [
     192,
     240
    ]
   },
   "3x/bowl-l.webp": {
-   "bytes": 4118,
+   "bytes": 5364,
    "px": [
     192,
     240
    ]
   },
   "3x/snowflake.webp": {
-   "bytes": 5804,
+   "bytes": 7084,
    "px": [
     192,
     240
    ]
   },
   "3x/snowflake-l.webp": {
-   "bytes": 5122,
+   "bytes": 6698,
    "px": [
     192,
     240

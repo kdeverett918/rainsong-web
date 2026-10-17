@@ -47,7 +47,7 @@
    "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
    "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 61736
+  "bytes": 58018
  },
  {
   "id": "panel-s01-first-light-02",
@@ -97,7 +97,7 @@
    "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
    "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 59914
+  "bytes": 54960
  },
  {
   "id": "panel-s01-first-light-03",
@@ -147,7 +147,7 @@
    "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
    "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 46716
+  "bytes": 42848
  },
  {
   "id": "panel-s01-first-light-04",
@@ -197,7 +197,7 @@
    "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
    "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 64136
+  "bytes": 59480
  },
  {
   "id": "panel-s01-first-light-05",
@@ -247,7 +247,7 @@
    "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
    "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 63860
+  "bytes": 58124
  },
  {
   "id": "panel-s01-first-light-06",
@@ -297,7 +297,7 @@
    "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
    "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 40758
+  "bytes": 37208
  },
  {
   "id": "panel-s01-first-light-07",
@@ -347,7 +347,7 @@
    "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
    "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 48660
+  "bytes": 45286
  },
  {
   "id": "panel-s01-first-light-08",
@@ -405,7 +405,7 @@
    "prompt source": "docs/art/puzzle/s01-first-light/r4/spec-r4.json",
    "master_file": "docs/art/puzzle/s01-first-light/master.webp"
   },
-  "bytes": 69186
+  "bytes": 65044
  },
  {
   "id": "panel-s02-bamboo-01",
@@ -458,7 +458,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 38998
+  "bytes": 37936
  },
  {
   "id": "panel-s02-bamboo-02",
@@ -511,7 +511,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 52168
+  "bytes": 49948
  },
  {
   "id": "panel-s02-bamboo-03",
@@ -564,7 +564,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 57452
+  "bytes": 54152
  },
  {
   "id": "panel-s02-bamboo-04",
@@ -622,7 +622,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 34662
+  "bytes": 33640
  },
  {
   "id": "panel-s02-bamboo-05",
@@ -675,7 +675,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 32488
+  "bytes": 31244
  },
  {
   "id": "panel-s02-bamboo-06",
@@ -728,7 +728,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 47676
+  "bytes": 45014
  },
  {
   "id": "panel-s02-bamboo-07",
@@ -781,7 +781,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 49830
+  "bytes": 47408
  },
  {
   "id": "panel-s02-bamboo-08",
@@ -834,7 +834,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 24788
+  "bytes": 23832
  },
  {
   "id": "panel-s02-bamboo-09",
@@ -887,7 +887,7 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 33420
+  "bytes": 32110
  },
  {
   "id": "panel-s02-bamboo-10",
@@ -949,6 +949,6 @@
    ],
    "prompt source": "docs/art/puzzle/s02-bamboo/refs/spec-r4.json"
   },
-  "bytes": 45496
+  "bytes": 43480
  }
 ]

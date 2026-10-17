@@ -2,181 +2,181 @@
   {
     "id": "lotus",
     "name": "Lotus",
-    "color": "#e5878e",
+    "color": "#EBBBE2",
     "file": "lotus.png"
   },
   {
     "id": "moon",
     "name": "Moon",
-    "color": "#4267bf",
+    "color": "#637ACD",
     "file": "moon.png"
   },
   {
     "id": "sun",
     "name": "Sun",
-    "color": "#e3a74a",
+    "color": "#D1A44F",
     "file": "sun.png"
   },
   {
     "id": "leaf",
     "name": "Leaf",
-    "color": "#678567",
+    "color": "#44763F",
     "file": "leaf.png"
   },
   {
     "id": "drop",
     "name": "Drop",
-    "color": "#5aa6b4",
+    "color": "#6FA9D7",
     "file": "drop.png"
   },
   {
     "id": "cairn",
     "name": "Stones",
-    "color": "#86809c",
+    "color": "#69596D",
     "file": "cairn.png"
   },
   {
     "id": "crane",
     "name": "Paper crane",
-    "color": "#821a2b",
+    "color": "#68508D",
     "file": "crane.png"
   },
   {
     "id": "mushroom",
     "name": "Mushroom",
-    "color": "#ee5742",
+    "color": "#B0849D",
     "file": "mushroom.png"
   },
   {
     "id": "butterfly",
     "name": "Butterfly",
-    "color": "#9b59d6",
+    "color": "#B5B2F6",
     "file": "butterfly.png"
   },
   {
     "id": "tulip",
     "name": "Tulip",
-    "color": "#e34081",
+    "color": "#B17EC1",
     "file": "tulip.png"
   },
   {
     "id": "enso",
     "name": "Ensō",
-    "color": "#39383c",
+    "color": "#393939",
     "file": "enso.png"
   },
   {
     "id": "feather",
     "name": "Feather",
-    "color": "#954475",
+    "color": "#A0ADBB",
     "file": "feather.png"
   },
   {
     "id": "ginkgo",
     "name": "Ginkgo leaf",
-    "color": "#bfc64c",
+    "color": "#B7BC5C",
     "file": "ginkgo.png"
   },
   {
     "id": "acorn",
     "name": "Acorn",
-    "color": "#915431",
+    "color": "#83614A",
     "file": "acorn.png"
   },
   {
     "id": "dragonfly",
     "name": "Dragonfly",
-    "color": "#5bbf9f",
+    "color": "#5ABDBD",
     "file": "dragonfly.png"
   },
   {
     "id": "shell",
     "name": "Seashell",
-    "color": "#f8aa7f",
+    "color": "#D1BAAB",
     "file": "shell.png"
   },
   {
     "id": "wave",
     "name": "Wave",
-    "color": "#0f2b7b",
+    "color": "#21598F",
     "file": "wave.png"
   },
   {
     "id": "star",
     "name": "Star",
-    "color": "#f8d835",
+    "color": "#FCE18E",
     "file": "star.png"
   },
   {
     "id": "bonsai",
     "name": "Bonsai pine",
-    "color": "#1d442d",
+    "color": "#2F5540",
     "file": "bonsai.png"
   },
   {
     "id": "koi",
     "name": "Koi",
-    "color": "#fa8930",
+    "color": "#904D72",
     "file": "koi.png"
   },
   {
     "id": "turtle",
     "name": "Turtle",
-    "color": "#8a904b",
+    "color": "#7B7A43",
     "file": "turtle.png"
   },
   {
     "id": "cloud",
     "name": "Cloud",
-    "color": "#859eea",
+    "color": "#E9E6F6",
     "file": "cloud.png"
   },
   {
     "id": "lantern",
     "name": "Paper lantern",
-    "color": "#c53448",
+    "color": "#E5DEB0",
     "file": "lantern.png"
   },
   {
     "id": "bamboo",
     "name": "Bamboo",
-    "color": "#4f9d61",
+    "color": "#89AE71",
     "file": "bamboo.png"
   },
   {
     "id": "mountain",
     "name": "Mountain",
-    "color": "#4e52c8",
+    "color": "#7E7DAA",
     "file": "mountain.png"
   },
   {
     "id": "bell",
     "name": "Temple bell",
-    "color": "#9fa8b8",
+    "color": "#5D7980",
     "file": "bell.png"
   },
   {
     "id": "hummingbird",
     "name": "Hummingbird",
-    "color": "#207985",
+    "color": "#348A76",
     "file": "hummingbird.png"
   },
   {
     "id": "teacup",
     "name": "Tea cup",
-    "color": "#c35a35",
+    "color": "#9FC1A9",
     "file": "teacup.png"
   },
   {
     "id": "bowl",
     "name": "Singing bowl",
-    "color": "#c9a46e",
+    "color": "#BE976B",
     "file": "bowl.png"
   },
   {
     "id": "snowflake",
     "name": "Snowflake",
-    "color": "#3ac3ea",
+    "color": "#9EDEF6",
     "file": "snowflake.png"
   }
 ]

@@ -140,7 +140,7 @@
    "anchor": "center",
    "bytes": 36923
   },
-  "bytes": 36923
+  "bytes": 36697
  },
  {
   "id": "wash-lily-bud",
@@ -361,7 +361,7 @@
    "anchor": "top-center",
    "lit": true,
    "pair": "lantern-wash-unlit",
-   "bytes": 11830
+   "bytes": 7580
   }
  },
  {
@@ -375,7 +375,7 @@
    "anchor": "top-center",
    "lit": false,
    "pair": "lantern-wash-lit",
-   "bytes": 10724
+   "bytes": 7808
   }
  }
 ]
